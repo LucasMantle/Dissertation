@@ -1,0 +1,199 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-04-03 22:48:00,Almost Daily Grant's 4/3: Cold Turkey        ,0,0,0,0,3,3,0.032355323,0.09527881,0.87236583,Neu,-0.06292348,grantspub
+1,2018-04-02 22:29:02,Almost Daily Grant's 4/2: Dear Mr. Fantasy     $NFLX $TSLA        ,0,0,0,0,1,2,0.051014084,0.022953957,0.926032,Neu,0.028060127,grantspub
+2,2018-04-02 18:31:00,"David Stockman, director of the Office of Management of Budget under President Reagan and mas­ter of mazy budgetary arithmetic, joins Jim and Evan for a scintillating discussion of fiscal and monetary matters.  ",0,1,0,3,16,15,0.036945272,0.04691795,0.91613674,Neu,-0.009972677,grantspub
+3,2018-03-30 02:45:03,"Don’t miss out on the Grant’s spring conference. Come to The Plaza hotel on April 10th, or if you can’t make it, signup to watch the webcast live and on-demand.  See our great line up of speakers below or go to   for more information.  ",1,1,1,0,2,6,0.05083257,0.018657817,0.93050957,Neu,0.03217475,grantspub
+4,2018-03-28 22:28:04,Almost Daily Grant's 3/28: Mind the re-store     $RH        ,0,0,0,0,3,4,0.072816655,0.031851932,0.8953314,Neu,0.040964723,grantspub
+5,2018-03-28 18:56:02,"Good seats are still available!!!   Sign up for the Grant’s Spring Conference on Tuesday, April 10th at The Plaza Hotel.   Details & speakers below:    ",1,1,0,0,2,6,0.02630798,0.03295101,0.940741,Neu,-0.006643029,grantspub
+6,2018-03-28 16:38:02,"Jim, Evan and Phil revisit Grant’s 2017 bearish analysis of Facebook, with historical analog.  ",0,1,0,0,4,8,0.027558405,0.3114931,0.6609484,Neu,-0.28393468,grantspub
+7,2018-03-27 22:42:05,Almost Daily Grant's 3/27: Hodl on loosely     BTC        ,0,0,0,0,2,1,0.03554401,0.044746764,0.9197092,Neu,-0.009202752,grantspub
+8,2018-03-26 22:11:00,Almost Daily Grant's 3/26: Leverage on offer     Uber        ,0,0,0,0,0,1,0.14594036,0.01813756,0.835922,Neu,0.1278028,grantspub
+9,2018-03-26 21:00:05,"Biff Robillard, president and co-founder of Bannerstone Capital Management LLC, joins the team to share his insights on the markets and investors’ state of mind.  ",0,1,0,0,1,3,0.09023142,0.013016196,0.8967525,Neu,0.077215225,grantspub
+10,2018-03-23 20:54:01,Almost Daily Grant's 3/23: Cool Recep-tion     $TUR $EEM $EMB        ,0,0,0,1,2,5,0.10115323,0.016778713,0.88206804,Neu,0.08437452,grantspub
+11,2018-03-22 21:27:04,Almost Daily Grant's 3/22: Triple-B Gees     $AGN $KSS $KHC        ,0,0,0,0,3,5,0.09784426,0.018026905,0.8841288,Neu,0.079817355,grantspub
+12,2018-03-21 13:40:04,Almost Daily Grant's 3/20: Facial        ,0,0,0,1,0,1,0.0380076,0.04629313,0.9156993,Neu,-0.00828553,grantspub
+13,2018-03-19 21:00:02,"Ed Yardeni, President of Yardeni Research, Inc. and author of Predicting the Markets, A Professional Autobiography, joins Jim for a lively discussion.  ",0,1,0,1,4,24,0.04465829,0.028634949,0.9267068,Neu,0.01602334,grantspub
+14,2018-03-15 21:28:00,Almost Daily Grant's for Mar. 15: Deal derby   $POST $CPB $GIS  ,0,1,0,1,1,1,0.057646118,0.016817,0.9255369,Neu,0.04082912,grantspub
+15,2018-03-13 21:14:01,Almost Daily Grant's for Mar. 13:  Poutine on the ritz   $VRX  ,0,0,0,1,3,6,0.047664847,0.017701885,0.93463326,Neu,0.029962962,grantspub
+16,2018-03-12 19:25:04,"Jim, Evan and Phil discuss the latest happenings in the Middle Kingdom and around the globe.  ",0,1,0,0,5,5,0.031656373,0.038567822,0.9297758,Neu,-0.006911449,grantspub
+17,2018-03-08 22:39:03,Almost Daily Grant's for March 8:  Middleby earth   $MIDD  ,0,1,0,0,1,1,0.04853226,0.036006216,0.9154615,Neu,0.012526043,grantspub
+18,2018-03-05 15:13:04,"Stephen Stanley, chief economist and Xavier Negroni, co-head of the finance desk at Amherst Pierpont Securities, join the Grant’s team to try and make sense of the jump in short rates, while speculating on the Fed’s next move  ",1,1,0,1,8,6,0.08553032,0.042099245,0.8723705,Neu,0.043431073,grantspub
+19,2018-02-27 22:21:04,Almost Daily Grant's for Feb. 27:  Endo times   $ENDP  ,0,1,0,1,3,2,0.041326467,0.020533266,0.9381402,Neu,0.020793201,grantspub
+21,2018-02-20 22:17:00,Almost Daily Grant's for Feb. 20:  Short interest   $FB  ,0,0,0,0,2,4,0.030332752,0.023952004,0.94571525,Neu,0.006380748,grantspub
+22,2018-02-16 21:51:01,Almost Daily Grant's for Feb. 16:  Soupy sales   $CPB  ,0,0,0,1,2,2,0.047203694,0.092955105,0.85984117,Neu,-0.04575141,grantspub
+23,2018-02-16 14:35:03,"For the inside story on $KHC Kraft Heinz,  see  ""Sell big food,"" (March 25, 2016) and ""Price war for Warren Buffett,"" (March 24, 2017) in Grant's",0,1,0,0,5,7,0.03608146,0.023355292,0.94056326,Neu,0.012726167,grantspub
+24,2018-02-08 22:37:03,Almost Daily Grant's for Feb. 8:  Torn and Frayed   $HBI  ,0,0,0,0,3,6,0.019708434,0.9208914,0.05940014,Neg,-0.90118295,grantspub
+25,2018-02-05 21:51:00,"In light of the surge in volatility, here's a free sample of the May 19, 2017 analysis in Grant's: ""Portfolio insurance of the 21st century""  ",0,1,0,2,32,103,0.049839567,0.02009036,0.9300701,Neu,0.029749207,grantspub
+26,2018-02-05 17:06:03,"Jon Boyar, president of Boyar Research, joins the team to discuss opportunities in U.S. equities that are not eligible for the major indices.  ",0,1,0,0,3,12,0.062430162,0.018327959,0.9192419,Neu,0.044102203,grantspub
+27,2018-01-31 21:50:05,"Almost Daily Grant's for Jan. 31: What's the matter Colonel Sanders, chicken?   $WING  ",0,1,0,1,1,6,0.03866226,0.041639365,0.91969836,Neu,-0.0029771067,grantspub
+28,2018-01-22 22:13:02,Almost Daily Grant's for Jan. 22:  Friend zone   $FB  ,0,0,0,0,1,1,0.06643963,0.017694935,0.91586536,Neu,0.048744693,grantspub
+29,2018-01-22 11:01:00,"Kai Stinchcombe, co-founder and CEO of True Link Financial joins the podcast to discuss his recent article questioning the utility of the supposedly-groundbreaking software for digital assets.  ",0,1,0,0,5,9,0.04664327,0.09359812,0.8597586,Neu,-0.04695485,grantspub
+30,2018-01-17 22:11:01,Almost Daily Grant's for Jan. 17:  Galloping from value   $BA  ,0,1,0,0,1,2,0.062965564,0.46721363,0.46982074,Neu,-0.40424806,grantspub
+31,2018-01-16 13:24:00,"Mark B. Spiegel, managing member at Stanphyl Capital, joins the team to discuss his favorite ideas, long and short.  ",0,1,0,0,4,6,0.037740577,0.021544326,0.94071513,Neu,0.01619625,grantspub
+32,2018-01-11 22:20:03,Brazil Cut to BB- From BB by S&P,0,0,0,0,4,4,0.7721246,0.15880074,0.06907468,Pos,0.61332387,grantspub
+33,2018-01-04 22:08:04,Almost Daily Grant's for Jan. 4:  Sprinting somewhere   $S  ,0,1,0,0,2,5,0.058807258,0.023478772,0.917714,Neu,0.035328485,grantspub
+34,2018-01-03 22:14:04,Almost Daily Grant's for Jan. 3: Sweet and sour    ,0,0,0,0,2,2,0.07386713,0.024239173,0.9018937,Neu,0.049627952,grantspub
+35,2018-01-02 22:09:00,Almost Daily Grant's for Jan. 2:  Ich bin ein bond bear    ,0,1,0,0,1,2,0.04611397,0.024080882,0.92980516,Neu,0.02203309,grantspub
+36,2018-01-01 13:00:02,"Porter Stansberry, founder and editor of Stansberry Research, joins Jim for an enlivening conversation about the business and financial world at large.  ",0,1,0,1,5,12,0.058168508,0.023981059,0.91785043,Neu,0.03418745,grantspub
+37,2017-12-31 17:05:01,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017! --  ",0,1,0,0,2,5,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+38,2017-12-30 17:05:01,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017!  --  ",0,1,0,0,0,1,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+39,2017-12-29 17:05:01,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017!  --  ",0,1,0,0,0,2,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+40,2017-12-28 21:35:03,Almost Daily Grant's for Dec. 28: Paper pushers    ,0,0,0,1,2,3,0.0832628,0.025788374,0.8909488,Neu,0.057474427,grantspub
+41,2017-12-28 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017!  --  ",0,1,0,0,2,1,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+42,2017-12-27 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017!  --  ",0,1,0,0,3,10,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+43,2017-12-26 17:05:01,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017!  --  ",0,1,0,0,1,5,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+44,2017-12-25 13:00:00,"Jim wraps up a most unusual 2017 and looks forward to the year to come.  Subscribe to Grant’s Podcast on iTunes, Stitcher, iHeart Radio and Google Play Music. Grant’s Interest Rate Observer is available at    ",1,1,0,0,4,10,0.03514259,0.024408171,0.94044924,Neu,0.010734418,grantspub
+45,2017-12-22 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017! --  ",0,1,0,0,0,0,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+46,2017-12-21 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017! --  ",0,1,0,1,2,3,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+47,2017-12-20 21:19:01,"Andy McCulloch, head of real estate analytics at Green Street Advisors, gives Grants the lay of the land.  ",0,1,0,0,15,7,0.048943844,0.01758402,0.9334721,Neu,0.03135982,grantspub
+48,2017-12-20 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017! --  ",0,1,0,0,1,1,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+49,2017-12-19 17:05:02,"FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe! Deadline: December 31, 2017! --  ",0,1,0,0,1,1,0.031430803,0.023177033,0.94539213,Neu,0.00825377,grantspub
+50,2017-12-18 22:27:05,FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe!  ,0,1,0,0,2,6,0.04371632,0.016990066,0.9392936,Neu,0.026726253,grantspub
+51,2017-12-16 20:45:01,Don't miss Jim in today's    ,0,1,0,0,2,11,0.042376816,0.041250203,0.91637295,Neu,0.0011266135,grantspub
+52,2017-12-13 18:13:05,FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe!  ,0,1,0,0,1,3,0.04371632,0.016990066,0.9392936,Neu,0.026726253,grantspub
+53,2017-12-12 15:15:00,James Grant: «Markets Trust Too Much in the Presence of Central Banks»   via ,0,0,0,2,13,23,0.04906512,0.43655908,0.51437587,Neu,-0.38749397,grantspub
+54,2017-12-11 22:10:01,Almost Daily Grant's for Dec. 11:  HELOCopter money   $LB  ,0,0,0,1,2,3,0.15407015,0.013510298,0.8324195,Neu,0.14055985,grantspub
+55,2017-12-11 18:41:02,FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe!  ,0,1,0,0,0,0,0.04371632,0.016990066,0.9392936,Neu,0.026726253,grantspub
+56,2017-12-11 15:29:02,"“Is China a Ponzi scheme?”  Grant’s welcomes Victor Shih, associate professor at The University of California, San Diego, to discuss that crucial question.  ",1,1,0,7,19,33,0.05738598,0.02077344,0.92184055,Neu,0.03661254,grantspub
+57,2017-12-09 17:01:05, Call us Monday 212-809-7994,0,0,0,0,0,0,0.021546451,0.047489237,0.93096423,Neu,-0.025942786,grantspub
+58,2017-12-09 16:37:03,FREE webcast of Grant's fall conference and a copy of Jim's latest book when you subscribe!  ,0,1,0,1,8,8,0.04371632,0.016990066,0.9392936,Neu,0.026726253,grantspub
+59,2017-12-07 18:21:00,FREE Webcast of Grant¹s Fall Conference and Jim¹s latest book when you subscribe!  ,0,1,0,0,2,4,0.04437493,0.017683892,0.93794113,Neu,0.02669104,grantspub
+60,2017-12-07 14:03:03,Central Banks Push Pension Funds into a Strange Place | Alan Fournier Vi...   via ,0,0,0,0,6,9,0.0479881,0.11549152,0.8365204,Neu,-0.067503415,grantspub
+61,2017-12-06 22:04:04,Almost Daily Grant's for Dec. 6:  Engine rev   $TLT  ,0,1,0,0,1,4,0.053458136,0.016552625,0.9299892,Neu,0.036905512,grantspub
+62,2017-12-06 18:06:02,FREE Webcast of Grant’s Fall Conference and Jim’s latest book when you subscribe!  ,1,1,0,0,3,1,0.04961263,0.01616581,0.93422157,Neu,0.03344682,grantspub
+63,2017-12-06 16:12:01,JHL Capital Group chief investment officer James Litinsky joins Grant’s to share his views on opportunities and risks around the world.   ,0,1,0,0,1,6,0.077645406,0.013465997,0.9088886,Neu,0.064179406,grantspub
+64,2017-12-05 22:36:00,Almost Daily Grant's for Dec. 5:  Bond fun    ,0,0,0,0,2,5,0.04248299,0.017766697,0.9397503,Neu,0.024716293,grantspub
+65,2017-12-01 21:48:00,Almost Daily Grant's for Dec. 1:  Energy saver   $RIG OOTT  ,0,0,0,0,3,4,0.1338544,0.011811673,0.8543339,Neu,0.12204273,grantspub
+66,2017-11-28 22:43:04,Almost Daily Grant's for Nov. 28:  Price is might   $BTC   ,0,1,1,0,3,8,0.033407502,0.020425677,0.9461668,Neu,0.012981825,grantspub
+67,2017-11-27 22:06:00,Almost Daily Grant's for Nov. 27:  Tractor pull|   $DE   ,0,0,0,1,2,5,0.063443705,0.023098044,0.9134583,Neu,0.04034566,grantspub
+68,2017-11-27 21:33:02,Special guest Bill Fleckenstein joins the Grant’s team to take inventory of current conditions.  ,1,1,0,0,26,68,0.04320536,0.025354283,0.9314404,Neu,0.017851079,grantspub
+69,2017-11-22 14:54:04,A lively discussion of the sometimes-lengthy wait for investment ideas to come to fruition.  ,0,0,0,0,2,6,0.060696412,0.02059083,0.91871274,Neu,0.04010558,grantspub
+70,2017-11-21 22:16:01,Almost Daily Grant's for Nov. 21:  Almost Daily Variety Pack   $CPB $ATC $SIG,0,0,0,0,2,4,0.03517416,0.020738501,0.9440874,Neu,0.01443566,grantspub
+71,2017-11-20 22:11:00,Almost Daily Grant's for Nov. 20:  Cereal acquirer   $POST  ,0,0,0,0,2,4,0.094895236,0.0104070315,0.8946977,Neu,0.084488206,grantspub
+72,2017-11-17 21:43:03,Almost Daily Grant's for Nov. 17: World's smallest Veolin     $VIE  ,0,0,0,0,1,2,0.076324806,0.028561266,0.8951139,Neu,0.04776354,grantspub
+73,2017-11-16 22:05:00,Almost Daily Grant's for Nov. 16:  Paging Hyman Minsky   $FXI,0,1,0,0,2,6,0.053783763,0.020161828,0.92605436,Neu,0.033621937,grantspub
+74,2017-11-15 21:55:01,"The newest issue (Vol. 35, No. 22) is now available for subscribers:  ",0,1,0,1,1,6,0.03424317,0.016024819,0.94973207,Neu,0.018218352,grantspub
+75,2017-11-14 22:08:05,Almost Daily Grant's for Nov. 14:  Rate rout  ,0,0,0,0,2,5,0.03558407,0.30685487,0.65756106,Neu,-0.2712708,grantspub
+76,2017-11-13 22:17:04,Almost Daily Grant's for Nov. 13:  It's easy to grin  ,0,1,0,0,2,4,0.03181826,0.043751933,0.92442983,Neu,-0.011933673,grantspub
+77,2017-11-10 22:14:05,Almost Daily Grant's for Nov. 10:  Dispatches from the upside down  ,0,0,0,0,2,6,0.035773028,0.032784987,0.93144196,Neu,0.0029880404,grantspub
+78,2017-11-10 18:08:05,"Jim and Evan with guest Paul Isaac, CEO and Founder of Arbiter Partners, to discuss current opportunities and risks.  ",0,0,0,0,6,38,0.06723637,0.013987291,0.91877633,Neu,0.05324908,grantspub
+79,2017-11-09 22:04:02,Almost Daily Grant's for Nov. 9:  Better than gold   ,0,0,0,0,5,7,0.90140945,0.0144261755,0.08416443,Pos,0.8869833,grantspub
+80,2017-11-08 22:08:01,Almost Daily Grant's for Nov. 8:  Cycle repair   $LC $ONDK $QD,0,1,0,0,2,2,0.06846203,0.016316932,0.9152211,Neu,0.052145097,grantspub
+81,2017-11-06 21:53:03,"Almost Daily Grant's for November 6:  Iced 'tice   $ATC.NA, $WHR",0,0,0,0,1,5,0.039873652,0.020024767,0.94010156,Neu,0.019848885,grantspub
+82,2017-11-03 20:52:02,Almost Daily Grant's for November 3:  Bjork Bucks   $EWA,0,0,0,0,2,4,0.6162508,0.018177869,0.36557132,Pos,0.59807295,grantspub
+83,2017-10-31 21:18:00,Almost Daily Grant's for October 31:  Keep on growing   $MAN,0,1,0,0,2,4,0.29103264,0.0130824605,0.6958849,Neu,0.27795017,grantspub
+85,2017-10-30 15:43:00,"Jim, Evan & Phil hold forth on noteworthy sightings in credit, while Jim challenges core premise of central banking.  ",0,1,0,0,19,15,0.34891418,0.0329446,0.6181412,Neu,0.3159696,grantspub
+86,2017-10-26 21:59:05,"Almost Daily Grant's for October 26:  Look ma, no hands   $TWTR $EWJ",0,0,0,0,1,4,0.046291117,0.03423385,0.919475,Neu,0.012057267,grantspub
+88,2017-10-24 22:11:01,Almost Daily Grant's for October 24:  Marvelous Margin Hagler   $WHR,0,0,0,0,5,6,0.07216112,0.021826161,0.9060127,Neu,0.05033496,grantspub
+89,2017-10-20 21:57:05,"Almost Daily Grant's for October 20:  Don't spam me, bro   $AAXN $HCC",0,1,0,0,2,8,0.043135993,0.020797558,0.93606645,Neu,0.022338435,grantspub
+90,2017-10-19 22:01:02,Almost Daily Grant's for October 19: Gone are the days  ,0,1,0,0,2,4,0.020026911,0.17045227,0.80952084,Neu,-0.15042536,grantspub
+91,2017-10-18 21:49:00,"Jim, Evan and Phil take inventory of notable topics and unusual occurrences around the world.  ",0,1,0,0,14,7,0.028463384,0.037670154,0.9338665,Neu,-0.00920677,grantspub
+92,2017-10-17 22:06:05,Almost Daily Grant's for October 17: Consignment rack   $JWN,0,0,0,1,1,3,0.041125964,0.019725187,0.93914884,Neu,0.021400778,grantspub
+93,2017-10-11 01:48:00,Jim and Evan discuss opportunities and  risks in the restaurant industry with John Hamburger.  ,0,0,0,2,9,29,0.050483625,0.021639418,0.92787695,Neu,0.028844208,grantspub
+94,2017-10-09 22:04:05,Almost Daily Grant's for October 9: Carving station   $TUR,0,0,0,0,4,4,0.04339182,0.02031329,0.9362949,Neu,0.02307853,grantspub
+95,2017-10-05 14:28:00,Jim will be appearing on   with Rick Santelli this morning around 10:40 AM ET,0,1,1,1,1,12,0.024838813,0.037929423,0.9372318,Neu,-0.0130906105,grantspub
+96,2017-10-03 22:26:04,"Almost Daily Grant's for October 3:  Credit cremation, cause and effect  ",0,0,0,0,4,5,0.017823381,0.059821416,0.9223552,Neu,-0.041998036,grantspub
+97,2017-10-02 21:53:01,"Almost Daily Grant's for October 2: Mr. Market giveth, 7. Minute. Abs.   $VRX $GBTC",0,1,0,1,2,2,0.06494935,0.011934043,0.9231166,Neu,0.053015307,grantspub
+98,2017-10-02 16:15:01,Jim and Evan discuss the outlook for crude oil and other commodities with fund manager Adam Rozencwajg  ,0,1,0,1,6,12,0.0489709,0.026245248,0.9247838,Neu,0.022725653,grantspub
+99,2017-09-28 22:02:03,"Almost Daily Grant's for September 28: States of play, Permanently high flight plan  ",0,0,0,0,2,5,0.067738146,0.018418003,0.91384387,Neu,0.049320143,grantspub
+100,2017-09-27 22:27:04,"Almost Daily Grant's for September 27:  Siphoned cistern, Whither fake news   …  OOTT $FB",0,1,0,0,4,9,0.040532447,0.0518085,0.9076591,Neu,-0.011276051,grantspub
+101,2017-09-27 16:03:03,"Jim, Evan and Phil take inventory of notable financial developments, big and small, around the globe  ",0,1,0,0,15,12,0.05943196,0.016484044,0.924084,Neu,0.042947914,grantspub
+102,2017-09-26 22:20:01,Almost Daily Grant's for September 26:  Reflux redux    $VNQ,0,0,0,1,0,4,0.13654105,0.015337436,0.8481215,Neu,0.121203616,grantspub
+103,2017-09-25 21:49:02,Almost Daily Grant's for September 25:  To the Max   $KMX,0,0,0,0,0,5,0.13839506,0.013184763,0.8484202,Neu,0.1252103,grantspub
+104,2017-09-19 22:11:00,Almost Daily Grants for September 19: Tastes like chicken   $POST,0,1,0,0,2,4,0.04553952,0.02337616,0.93108433,Neu,0.022163361,grantspub
+105,2017-09-18 22:07:01,Almost Daily Grant's for September 18:  Liquid courage   Ukraine external financing not weak!,0,0,0,0,1,4,0.6481013,0.17368394,0.17821482,Pos,0.47441733,grantspub
+106,2017-09-18 15:29:02,"A common theme connecting some of today’s most popular investments:  a very, very long time horizon  ",0,1,0,0,6,19,0.09156694,0.01594827,0.8924848,Neu,0.07561867,grantspub
+107,2017-09-15 22:07:01,Almost Daily Grant's for September 15:  Pension predicament   $BA $KR,0,0,0,0,0,4,0.042461265,0.036943294,0.9205954,Neu,0.005517971,grantspub
+109,2017-09-14 15:44:03,China still driving bitcoin  ,0,1,0,1,18,24,0.1957527,0.050877303,0.75337005,Neu,0.14487539,grantspub
+110,2017-09-14 14:24:05,BN: Bitcoin Tumbles as Chinese Exchange Says It Will Halt Trading.  Down 30% from its Sept-2 high,0,1,0,0,6,6,0.008747324,0.9721772,0.019075468,Neg,-0.96342987,grantspub
+111,2017-09-11 16:31:00,"Jim and Evan discuss candidates to replace Janet Yellen, as well as some strange doings at The Social Network.  ",0,1,0,2,11,22,0.0248405,0.4253485,0.54981107,Neu,-0.400508,grantspub
+112,2017-08-31 22:23:02,Almost Daily Grant's for August 31:  Packaging peanuts   $CPB $KHC,0,0,0,0,3,8,0.055315007,0.015961694,0.92872334,Neu,0.03935331,grantspub
+113,2017-08-29 22:11:05,Almost Daily Grant's for August 29: Electric slide   $CONN $BBY,0,0,0,2,2,5,0.042175055,0.027485885,0.9303391,Neu,0.01468917,grantspub
+114,2017-08-25 21:54:02,"Almost Daily Grant's for August 25: No fall zone, Private Pile   $ATUS",0,0,0,1,2,7,0.03361213,0.031945843,0.9344421,Neu,0.0016662851,grantspub
+115,2017-08-21 19:11:03,Jim talks about the Fall 2017 Grant's Conference.  ,0,0,0,0,4,8,0.023939382,0.063662946,0.9123977,Neu,-0.039723564,grantspub
+116,2017-08-15 15:00:02,Grant's Podcast is up! Listen to Jim Grant &  discuss the latest topics.  ,0,1,0,1,6,14,0.04608877,0.0186315,0.9352797,Neu,0.02745727,grantspub
+117,2017-08-08 15:09:01,Grant's Podcast is up! Listen to Jim Grant &  chat with “Shad” Rowe;  talking $FB and more  ,0,1,0,2,20,10,0.063846126,0.016064,0.92008984,Neu,0.047782127,grantspub
+118,2017-08-07 21:58:03,ADG 8/7:  Whipping Post   $POST,0,1,0,0,1,6,0.16405788,0.163913,0.67202914,Neu,0.00014488399,grantspub
+119,2017-08-03 22:00:02,ADG 8/3:  Tape delay   $HCG  ,0,1,0,1,6,9,0.021191202,0.12992007,0.8488887,Neu,-0.10872886,grantspub
+120,2017-08-01 21:59:03,"Almost Daily Grant's for August 1:  In reverse, Paging the Festrunk brothers  ",0,1,0,0,3,4,0.059186608,0.8274264,0.11338707,Neg,-0.76823974,grantspub
+121,2017-07-31 20:55:01,"Grant's Podcast is up! Listen to Jim Grant &  talk macro, micro, crypto & one of most popular ETFs.  ",0,1,0,0,18,13,0.053648118,0.015365207,0.9309867,Neu,0.038282912,grantspub
+122,2017-07-28 22:02:00,"ADG 7/28: Runs runs Rudolph & Garlic, mirrors and sunlight   $PG",0,1,0,0,1,4,0.04490001,0.018771483,0.9363285,Neu,0.026128529,grantspub
+123,2017-07-27 14:08:01,Whirlpool Slides After Lowering Full-Year Profit Forecasts - BBG,0,1,0,0,1,4,0.01507435,0.9577227,0.027202945,Neg,-0.94264835,grantspub
+124,2017-07-24 15:38:05,Grant's Podcast is up! Listen to Jim Grant &  An interview with Trey Reik on Cryptocurrencies and more  ,0,1,0,1,21,16,0.050971046,0.017387362,0.9316416,Neu,0.033583686,grantspub
+125,2017-07-20 22:01:04,Almost Daily Grant's for July 20th:  IPO blues:   $SNAP $APRN,0,0,0,0,0,2,0.037562188,0.021473179,0.9409646,Neu,0.01608901,grantspub
+126,2017-07-19 22:26:05,"Almost Daily Grant's for July 19:  What a Wonderful Whirl   $WHR, $GWW",0,0,0,1,1,5,0.0882852,0.02227022,0.8894446,Neu,0.06601498,grantspub
+127,2017-07-19 15:01:04,Jim will be on   with Rick Santelli around 10:40 AM ET,0,0,1,4,2,15,0.022072775,0.037364468,0.9405627,Neu,-0.015291693,grantspub
+128,2017-07-17 16:10:05,"Grant's Podcast is up! Listen to Jim Grant &  discuss some good calls, and some-not-so-good ones.  ",0,1,0,0,11,20,0.07495287,0.019832715,0.90521437,Neu,0.055120155,grantspub
+129,2017-07-17 14:10:01,Jim's op-ed in today's  Candour from central bankers is overdue  ,0,1,0,0,42,26,0.054569535,0.28274107,0.66268945,Neu,-0.22817153,grantspub
+131,2017-07-14 16:35:02,Jim will be a guest on  Wall Street Week with  tonight at 8pm ET.  Don't miss it!,0,1,1,5,5,24,0.045376595,0.038849857,0.9157735,Neu,0.0065267384,grantspub
+132,2017-07-11 21:45:05,Almost Daily Grant's for July 11:  Kindness of strangers   $DBA,0,0,0,0,3,4,0.076038174,0.015199613,0.9087623,Neu,0.06083856,grantspub
+133,2017-07-10 22:25:03,Almost Daily Grant's for July 10th: Tales from the crypto   $BTC,0,0,0,0,1,13,0.047990967,0.024364695,0.9276443,Neu,0.023626272,grantspub
+134,2017-07-03 17:15:05,"Hear, hear Jim Bianco  ",0,1,0,2,2,9,0.044802662,0.026929136,0.92826813,Neu,0.017873526,grantspub
+135,2017-07-03 17:08:05,"Grant's Podcast is up!  Big, dumb Japanese banks  ",0,1,0,1,3,16,0.034614153,0.051636618,0.9137492,Neu,-0.017022464,grantspub
+136,2017-06-30 21:37:02,"Almost Daily Grant's for June 30th:  Defensive driving, Keep calm and carry on:    $PKY",0,0,0,0,2,3,0.05770388,0.021029843,0.9212663,Neu,0.036674038,grantspub
+137,2017-06-30 20:36:03,"Sign up for the Grant’s Fall Conf! Tues, Oct 10 at the Plaza. New speakers have recently been added. See it live or view our online webcast  ",1,1,0,0,3,5,0.05908115,0.013051587,0.9278673,Neu,0.04602956,grantspub
+138,2017-06-27 22:31:02,"Almost Daily Grant's for June 27: Well, you have cooties, Sheepskin shuffle, The other guys:  ",0,1,0,0,0,6,0.029085167,0.08347986,0.887435,Neu,-0.054394692,grantspub
+139,2017-06-26 22:13:03,Almost Daily Grant's for June 26:  We must protect this house! Honor System:    $UA,0,0,1,0,0,6,0.18276003,0.012666002,0.80457395,Neu,0.17009403,grantspub
+140,2017-06-26 18:13:01,"Grant's Podcast is up!  Hear, hear Jim Bianco  ",0,1,0,1,19,29,0.07199204,0.019807255,0.9082006,Neu,0.052184783,grantspub
+141,2017-06-21 21:54:02,"Almost Daily Grant's for June 21.  Stairs up,  Cheer up Charlie:  ",0,0,0,0,3,5,0.07275494,0.024256226,0.9029888,Neu,0.048498716,grantspub
+142,2017-06-19 22:04:05,Almost Daily Grant's for June 19:  'Tine marches on  ,0,0,0,0,1,5,0.13823414,0.025381127,0.8363848,Neu,0.11285301,grantspub
+143,2017-06-19 16:02:02,"Grant's Podcast episode 16 is up!  Rate hikes past, present and future  ",0,1,0,0,6,14,0.06932328,0.031912956,0.8987638,Neu,0.037410323,grantspub
+144,2017-06-17 21:01:01,Don't miss Jim in the weekend Wall Street Journal book review:  ,0,1,0,0,9,23,0.03474314,0.07856968,0.8866872,Neu,-0.04382654,grantspub
+145,2017-06-15 21:46:02,Who insures the insurers?  Almost Daily Grant's for June 15th:  ,0,1,0,1,2,4,0.019296315,0.047909833,0.9327939,Neu,-0.028613519,grantspub
+147,2017-06-14 00:03:04,Almost Daily Grant's for June 13.  Imagination at work:   $GE $SEMG,0,0,0,0,2,4,0.027897907,0.03477104,0.9373311,Neu,-0.0068731327,grantspub
+148,2017-06-12 22:17:05,Fed ahead:  Grant's previews this week's FOMC meeting:  ,0,0,0,0,1,7,0.023039307,0.07030131,0.9066593,Neu,-0.047262,grantspub
+149,2017-06-09 21:07:01,"ADG for June 9.  Chicago dog, Choose your own adventure:   $ENDP",0,0,0,0,1,1,0.04243171,0.017431026,0.94013727,Neu,0.025000682,grantspub
+150,2017-06-08 21:57:02,"Almost Daily Grant's for June 8. Three wishes, Forage for porridge:  ",0,0,0,0,1,5,0.043431833,0.02020778,0.93636036,Neu,0.023224054,grantspub
+151,2017-06-07 22:15:02,"Almost Daily Grant's for June 7. CoCo-nut, Why indeed, Paging Mortimer Duke:  ",0,1,0,0,1,5,0.08032331,0.019910803,0.89976585,Neu,0.060412504,grantspub
+152,2017-06-05 22:18:05,"Almost Daily Grant's for June 5: With a side of clams, Good news, bad news, My baby 'grande:  ",0,0,0,1,1,6,0.03280043,0.050970174,0.9162294,Neu,-0.018169746,grantspub
+153,2017-06-05 14:12:05,Grant's Podcast episode 15 is up!  Uber comes under the Grant's lens.  ,0,1,0,2,8,14,0.042593706,0.020657018,0.93674934,Neu,0.021936689,grantspub
+154,2017-06-02 21:49:02,ADG for June 2.  Disco(unt) inferno:  ,0,0,0,0,2,3,0.019710472,0.043906234,0.93638337,Neu,-0.024195762,grantspub
+155,2017-06-01 22:04:00,ADG for June 1.  March of the mansion-dwellers:  ,0,0,0,0,2,4,0.014685588,0.05517978,0.93013465,Neu,-0.04049419,grantspub
+156,2017-05-30 10:14:03,Grant's Podcast episode 14 is up!  The biggest pyramid scheme the world has yet seen.  ,1,1,0,1,16,49,0.040600426,0.091927126,0.86747247,Neu,-0.0513267,grantspub
+157,2017-05-30 10:14:03,Grant's Podcast episode 14 is up!  The biggest pyramid scheme the world has yet seen.  ,1,1,0,0,5,14,0.040600426,0.091927126,0.86747247,Neu,-0.0513267,grantspub
+158,2017-05-26 22:27:01,"ADG for May 26:  Here, take two of these:  ",0,1,0,0,2,7,0.02511077,0.036910176,0.937979,Neu,-0.011799406,grantspub
+159,2017-05-25 22:09:00,Almost Daily Grant’s for May 25.  Recency bias:      ,0,0,0,0,8,12,0.02662854,0.043920476,0.9294509,Neu,-0.017291935,grantspub
+160,2017-05-24 21:28:04,ADG for May 24:  Now is a great time to...  ,0,1,0,0,2,5,0.19612348,0.013156109,0.79072046,Neu,0.18296736,grantspub
+162,2017-05-22 21:43:05,"ADG for May 22.  Leap of faith, Inflation conflation:   ",0,0,0,0,3,7,0.02959505,0.031708598,0.9386963,Neu,-0.002113549,grantspub
+163,2017-05-19 21:41:01,"ADG for May 19:  Pack 'em in,  Leaning tower of money:   ",0,1,0,0,1,3,0.07509688,0.01564786,0.90925527,Neu,0.059449024,grantspub
+164,2017-05-18 21:33:00,"ADG for May 18:  Foresea-able;  Brazil, ETF's and you:  ",0,0,0,0,0,2,0.08692878,0.011002948,0.90206826,Neu,0.07592583,grantspub
+165,2017-05-18 15:02:00,Grant's podcast episode 13 is up!  Risk mgnt as taught by-among others-Sir Winston Churchill  ,1,1,0,0,1,7,0.10800503,0.020263959,0.871731,Neu,0.08774108,grantspub
+166,2017-05-16 21:49:00,ADG for May 16.  Shhh—the market is sleeping:  ,0,1,0,0,2,4,0.06270843,0.03944804,0.89784354,Neu,0.023260389,grantspub
+168,2017-05-15 15:45:00,"Grant's podcast episode 12 is up!  Vol' is the only asset class, with special guest Christopher Cole:  ",0,1,0,0,2,16,0.029914107,0.024518,0.94556785,Neu,0.005396107,grantspub
+169,2017-05-12 21:55:03,"ADG for May 11. Retail reflux, Noble-less oblige, Inmates run the asylum:  ",0,1,0,0,3,5,0.020651093,0.034278937,0.9450699,Neu,-0.013627844,grantspub
+170,2017-05-12 16:21:00,"Grant's podcast 11 is up!  The costs of tranquility. With Dean Curnutt, founder and CEO of Macro Risk Advisors:  ",0,1,0,0,1,4,0.050733984,0.024295965,0.92497003,Neu,0.026438018,grantspub
+171,2017-05-11 21:52:03,ADG for May 11th:  The peasants are revolting!  ,0,1,0,0,3,6,0.019465968,0.87101173,0.10952227,Neg,-0.85154575,grantspub
+172,2017-05-10 21:43:01,"Grains, fraud and the social media-savvy VIX,. It's the ADG for May 10th:  ",0,1,0,0,1,3,0.023112636,0.08229367,0.8945937,Neu,-0.05918103,grantspub
+173,2017-05-09 21:59:05,ADG for May 9th: Anchors aweigh;  Wet Blankets;  On the other hand...  ,0,1,0,0,0,4,0.067289,0.039205063,0.89350593,Neu,0.02808394,grantspub
+174,2017-05-08 22:02:00,"ADG for May 8th;  Global energy supply: push and pull,  Volatility Au revoir, Sohn cold:  ",0,0,0,0,0,3,0.09172511,0.019274434,0.8890004,Neu,0.072450675,grantspub
+175,2017-05-05 21:26:04,"ADG for May 5th:  And the 2017 ""King of carry"" is...  ",0,1,0,0,3,3,0.07878941,0.012549286,0.90866125,Neu,0.066240124,grantspub
+176,2017-05-04 21:55:01,ADG for May 4th.  A little trouble in little China:   Make sure to sign up for email delivery.  It's free!,0,1,0,0,0,5,0.07752949,0.018352786,0.90411776,Neu,0.059176706,grantspub
+177,2017-05-04 15:13:03,"Grant's podcast episode 10,  now available on iTunes and the home page:   ",0,0,0,1,1,7,0.034169775,0.023045743,0.9427845,Neu,0.011124032,grantspub
+178,2017-05-03 21:57:03,ADG for May 3rd.  In/de-flation in-decision:  ,0,0,0,0,1,3,0.023121487,0.06381453,0.91306394,Neu,-0.04069304,grantspub
+179,2017-05-03 20:53:04,Jim will be appearing on  with Kelly Evans and  at 4:40pm ET. Don't miss it!,0,1,1,2,2,4,0.037649874,0.04522622,0.9171239,Neu,-0.0075763464,grantspub
+180,2017-05-03 18:00:02,Puerto Rico to file BK-type proceeding.  Our preview from 2014:  ,0,0,0,1,2,5,0.020626254,0.056859907,0.9225138,Neu,-0.036233652,grantspub
+181,2017-05-02 22:01:00,"ADG for May 2.  Buckle up, auto bulls!  ",0,0,0,0,1,6,0.04509229,0.039068017,0.9158397,Neu,0.0060242712,grantspub
+182,2017-05-01 22:04:04,"ADG for May 1.  Now what, Chair Yellen?  Take a load off Fannie:  ",0,0,0,0,0,6,0.034454245,0.037236158,0.92830956,Neu,-0.0027819127,grantspub
+183,2017-04-27 21:33:02,Almost Daily Grant's for April 27. But it rhymes:  ,0,1,0,0,2,7,0.02530922,0.062420677,0.91227007,Neu,-0.037111457,grantspub
+184,2017-04-26 22:09:05,Almost Daily Grant's for April 26 is up.  Tech goes to heaven:  ,0,1,0,0,1,2,0.22796693,0.024503788,0.7475293,Neu,0.20346315,grantspub
+185,2017-04-25 22:12:01,"Almost Daily Grant's for April 25th.  A short story in six lines,  Trump Tweets Trudeau tweaks.  Click here to read:  ",0,0,0,1,1,3,0.026515605,0.043631572,0.92985284,Neu,-0.017115967,grantspub
+186,2017-04-24 21:26:01,"Almost Daily Grant's for April 24th.  Apres Macron, le deluge?  ",0,1,0,0,2,2,0.07382181,0.042884592,0.8832936,Neu,0.03093722,grantspub
+187,2017-04-24 14:11:00,Grant's podcast episode 9 is up!  Jim discusses the outlook for currencies and rates with Russell Napier:  ,0,1,0,0,7,16,0.047594767,0.024288973,0.92811626,Neu,0.023305794,grantspub
+189,2017-04-20 14:12:05,Grant's Podcast episode 8 is now available for download!  Available here:  ,0,1,0,0,2,6,0.030483002,0.025870113,0.94364697,Neu,0.004612889,grantspub
+190,2017-04-19 21:27:05,"Sturdy indicators from the freight realm, and hand-pressed juice puts a strain on vc. Almost Daily Grant's April 19:  ",0,1,0,0,1,5,0.31648755,0.36893287,0.31457964,Neg,-0.052445322,grantspub
+191,2017-04-18 22:43:05,"While you wait for the issue, enjoy a round of Almost Daily Grant's. $GWW miss & trip back to post-deval Mexico:  ",0,1,0,0,1,9,0.056504432,0.03405044,0.9094451,Neu,0.022453994,grantspub
+192,2017-04-17 22:08:05,"Almost Daily Grant's,  April 17th edition:  ",0,0,0,1,1,19,0.025172342,0.051282607,0.92354506,Neu,-0.026110265,grantspub
+193,2017-04-13 22:38:00,The latest round of Almost Daily Grant's can be found here:  ,1,0,1,1,3,21,0.046428755,0.01820346,0.93536776,Neu,0.028225295,grantspub
+194,2017-04-13 15:52:00,Federal outlays up 17% year-on-year in March.  Making America Great Again isn’t cheap!  ,0,1,0,1,11,7,0.45700547,0.048293237,0.49470127,Neu,0.40871224,grantspub
+195,2017-04-12 22:16:04,"What happened. What may happen. “Almost Daily” is the new, end-of-day delectation from Grant’s.  Click here to read:  ",1,1,1,0,4,22,0.020857286,0.068271786,0.91087097,Neu,-0.0474145,grantspub
+197,2017-03-31 14:49:02,Mission accomplished: The Fed’s favored inflation metric – the PCE Index – has crossed their self-selected inflation target of 2%.,1,1,0,4,18,35,0.95269847,0.0148533825,0.032448124,Pos,0.9378451,grantspub
+198,2017-03-22 13:40:01,Jim will be appearing today with Vonnie Quinn and Mark Barton on  at 12pm ET,0,1,1,2,2,14,0.028253479,0.027046861,0.94469965,Neu,0.0012066178,grantspub
+199,2017-03-14 13:46:01,Jim's appearance on  from this morning can be viewed here:  ,1,0,1,2,15,39,0.025164923,0.034077458,0.94075763,Neu,-0.008912535,grantspub
+200,2017-03-14 11:15:02,Jim will be appearing on  at 7:30AM ET to discuss the Fed meeting and more. Don't miss it!,0,1,1,1,3,6,0.03271263,0.064032435,0.9032549,Neu,-0.031319804,grantspub
+201,2017-03-11 15:40:01,"Jim's interview with Arthur Levitt will run at 11AM and 7PM;  94.5FM-Boston,103.7FM-San Fran AM1130-NY, 95.1-DC, SiriusXM119",0,0,1,1,3,11,0.023763573,0.024030315,0.9522061,Neu,-0.00026674196,grantspub
+202,2017-03-09 15:03:03,"Grant's Podcast episode 4 is now available;  talking oil, rates, inflation and more.  Click here and enjoy!  ",0,1,0,0,7,19,0.04476898,0.020963669,0.93426734,Neu,0.023805313,grantspub
+203,2017-03-09 14:38:02,"$SIG Q4 revenue, gross margins both below consensus,  sees negative comps for FY.  Shutting up to 170 mall-based locations ",0,1,0,0,6,9,0.010485855,0.9734255,0.016088657,Neg,-0.9629397,grantspub
+204,2017-02-28 16:08:03,Some background on old friends of Grant’s. $VRX $SIG    ,0,0,0,0,5,18,0.037420094,0.023110578,0.93946934,Neu,0.014309516,grantspub
+205,2017-02-28 14:30:01,"$SIG making fresh four year lows this morning;  here's the  on the ""tone at the top""    ",0,1,0,3,10,10,0.06677275,0.48719013,0.4460372,Neg,-0.42041737,grantspub
+206,2017-02-27 19:56:00,"Jim will be appearing on  around 4PM ET to discuss Fed policy, Trump and more.  Don't miss it!  ",0,1,1,0,6,18,0.042348284,0.05048139,0.90717036,Neu,-0.008133106,grantspub
+207,2017-02-21 15:28:05,Grant's Interest Rate Observer - Grant's Podcast -   iTunes,0,0,0,2,22,59,0.037492618,0.030906206,0.9316011,Neu,0.006586412,grantspub

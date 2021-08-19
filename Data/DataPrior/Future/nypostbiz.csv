@@ -1,0 +1,390 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+11,2018-04-03 13:48:03,Tax moves you can still make to save on your 2017 return    ,0,0,1,0,0,0,0.15391405,0.026063895,0.8200221,Neu,0.12785016,nypostbiz
+29,2018-04-02 06:51:04,Wrongful termination case against Morgan Stanley can proceed: judge    ,0,0,1,0,0,0,0.025052015,0.16752087,0.8074271,Neu,-0.14246885,nypostbiz
+44,2018-03-31 03:04:04,Ex-Merill Lynch CEO will join Deutsche Bank board: report    ,0,0,1,0,0,0,0.021160178,0.03841475,0.9404251,Neu,-0.017254572,nypostbiz
+54,2018-03-30 02:53:04,Seaworld may turn to Trump campaign guru to save image    ,0,0,1,0,1,1,0.06891098,0.019274311,0.91181475,Neu,0.04963667,nypostbiz
+74,2018-03-29 04:19:05,Bitter readers can’t see the ‘bitcon’    ,0,0,1,0,0,0,0.06582215,0.40520123,0.5289767,Neu,-0.33937907,nypostbiz
+91,2018-03-27 19:58:01,Twitter’s data problems could be even worse than Facebook’s    ,1,0,1,0,2,3,0.008575078,0.96443194,0.026992913,Neg,-0.95585686,nypostbiz
+99,2018-03-27 15:46:04,H&M warns discounts will continue to slam profits    ,0,1,1,0,0,0,0.01972678,0.96905553,0.01121768,Neg,-0.9493288,nypostbiz
+102,2018-03-27 15:02:01,China tariffs could make your shoes a lot more expensive   via  via ,0,0,1,0,0,0,0.049782112,0.27043995,0.6797779,Neu,-0.22065784,nypostbiz
+109,2018-03-27 04:11:02,Judge rules key DOJ witness can testify against AT&T-Time Warner merger    ,0,0,1,0,0,1,0.042580828,0.047811534,0.90960765,Neu,-0.005230706,nypostbiz
+110,2018-03-27 03:57:04,China tariffs could make your shoes a lot more expensive    ,0,0,1,0,0,0,0.060657572,0.09979756,0.83954483,Neu,-0.03913999,nypostbiz
+126,2018-03-25 03:17:04,Delta should pay up after cancellation snafu    ,0,0,1,0,0,0,0.62236947,0.019769035,0.35786152,Pos,0.60260046,nypostbiz
+127,2018-03-25 02:20:04,Wall Street wonders how long Kudlow will last in Trump’s White House    ,1,0,1,0,2,1,0.026591118,0.09006366,0.8833452,Neu,-0.06347254,nypostbiz
+164,2018-03-22 06:19:04,Labor Department count will mess up Fed’s job expectations    ,1,0,1,1,0,0,0.009179289,0.95496225,0.035858475,Neg,-0.94578296,nypostbiz
+166,2018-03-22 04:17:02,The Fed’s optimistim could be killed by a debt scare    ,1,0,1,0,0,0,0.025975756,0.7960924,0.17793186,Neg,-0.7701166,nypostbiz
+188,2018-03-20 21:44:02,Former Newell director may bid for the company’s brands    ,0,0,1,0,1,0,0.06883102,0.012206006,0.91896296,Neu,0.056625012,nypostbiz
+195,2018-03-20 03:59:03,"This adviser could be to blame for Broadcom, iHeart’s failures    ",0,0,1,0,1,1,0.02653798,0.18061404,0.79284805,Neu,-0.15407605,nypostbiz
+206,2018-03-19 17:31:03,Newell Brands will let Carl Icahn name four board members    ,0,0,1,0,0,0,0.031296548,0.016056119,0.95264727,Neu,0.015240429,nypostbiz
+250,2018-03-14 20:55:02,"New WH economic chief Larry ""King Dollar""  Kudlow: ""I would buy the dollar and sell gold."" via ",0,0,1,0,1,3,0.056961212,0.019742884,0.9232959,Neu,0.03721833,nypostbiz
+253,2018-03-14 19:26:05,Walmart may be building drone army of robot bees to pollinate crops    ,0,1,1,0,1,1,0.027398162,0.08373953,0.8888623,Neu,-0.056341365,nypostbiz
+262,2018-03-14 13:54:04,Google says it will ban all ads tied to cryptocurrencies    ,1,1,1,1,8,7,0.016026668,0.67561996,0.30835336,Neg,-0.6595933,nypostbiz
+272,2018-03-13 23:05:02,Google co-founder’s flying taxi would get from Midtown to JFK in 10 minutes    ,0,1,1,0,0,0,0.041177325,0.024761962,0.93406075,Neu,0.016415363,nypostbiz
+273,2018-03-13 21:02:02,Trump hints Larry Kudlow could replace Gary Cohn    ,0,0,1,0,2,1,0.03567948,0.10930948,0.85501105,Neu,-0.073630005,nypostbiz
+279,2018-03-13 03:05:05,The Fed could have a surprise in store for Wall Street    ,0,0,1,0,0,0,0.15737447,0.10780994,0.7348156,Neu,0.049564533,nypostbiz
+291,2018-03-12 03:03:05,Dolan’s MSG-ownership dreams just might come true    ,1,0,1,0,3,0,0.14322247,0.012675556,0.844102,Neu,0.13054691,nypostbiz
+316,2018-03-09 03:38:04,The Volkswagen Beetle will soon be exterminated    ,1,0,1,0,1,0,0.019154599,0.08865947,0.8921859,Neu,-0.06950487,nypostbiz
+329,2018-03-08 02:42:04,The way driverless cars crash can be a marketing opportunity    ,0,0,1,0,0,0,0.033956956,0.071454376,0.89458865,Neu,-0.03749742,nypostbiz
+332,2018-03-08 00:24:01,Medicaid recipients will get Amazon Prime discount    ,0,0,1,0,2,2,0.1269394,0.008982166,0.8640784,Neu,0.117957234,nypostbiz
+348,2018-03-07 04:13:02,Ex-biz partner can go ahead with $3M suit against Wilbur Ross    ,0,0,1,0,0,0,0.06662448,0.02217017,0.9112053,Neu,0.044454306,nypostbiz
+366,2018-03-06 05:13:02,Metal tariffs could spur China to bust bonds    ,0,0,1,1,1,1,0.093904614,0.8508774,0.055217996,Neg,-0.7569728,nypostbiz
+368,2018-03-06 03:56:05,Regulators may start cracking down on ‘Flash Boy’ traders    ,0,1,1,0,1,0,0.042876966,0.6520363,0.30508673,Neg,-0.60915935,nypostbiz
+375,2018-03-05 20:10:00,Apple may release a cheaper MacBook Air    ,0,0,1,0,0,0,0.23779634,0.022882566,0.7393211,Neu,0.21491377,nypostbiz
+383,2018-03-04 06:48:01,Labor department could change how tips are handed out    ,1,1,1,0,3,1,0.023047242,0.29897067,0.67798203,Neu,-0.27592343,nypostbiz
+385,2018-03-04 04:45:05,Goldman will add 30 percent more financial advisers    ,0,0,1,0,2,0,0.12631576,0.008901608,0.86478263,Neu,0.11741415,nypostbiz
+394,2018-03-03 04:03:00,Uber and Lyft drivers may make way less money than you think    ,0,1,1,0,0,1,0.040066015,0.3043689,0.6555651,Neu,-0.2643029,nypostbiz
+396,2018-03-03 03:28:04,Snap will launch new models of Spectacles after $40M flop    ,0,0,1,0,0,0,0.24707462,0.007527991,0.7453974,Neu,0.23954663,nypostbiz
+400,2018-03-02 18:39:00,Stock market could see a ‘melt down’ over trade war fears    ,1,0,1,0,0,0,0.057545837,0.88105106,0.061403025,Neg,-0.8235052,nypostbiz
+402,2018-03-02 04:56:04,Toyota says tariffs would raise prices on cars and trucks    ,0,1,1,0,2,0,0.7745312,0.012873808,0.212595,Pos,0.76165736,nypostbiz
+404,2018-03-02 04:17:00,Weinstein Co. sale will include fund for Harvey’s alleged victims    ,1,0,1,0,1,0,0.066285424,0.013533438,0.92018116,Neu,0.05275199,nypostbiz
+414,2018-03-01 19:32:00,Trump says he will impose steel and aluminum tariffs    ,0,1,1,0,0,0,0.054785922,0.09421035,0.85100377,Neu,-0.039424427,nypostbiz
+415,2018-03-01 19:04:02,Kroger says it will stop selling guns to buyers under 21    ,0,1,1,0,0,0,0.026506642,0.21954408,0.7539493,Neu,-0.19303744,nypostbiz
+429,2018-03-01 00:27:05,"Walmart will no longer sell ‘assault’ weapons, raises gun-buying age to 21    ",0,1,1,0,0,0,0.09495681,0.013718538,0.8913247,Neu,0.08123827,nypostbiz
+442,2018-02-28 12:45:01,Dick’s Sporting Goods will stop selling assault-style weapons    ,1,1,1,0,0,0,0.024606355,0.32310802,0.6522856,Neu,-0.29850167,nypostbiz
+461,2018-02-26 18:34:01,NFL players will try working retail at the NYC NBA store on Tuesday   via  via ,0,1,1,0,0,3,0.037237436,0.027122911,0.9356396,Neu,0.0101145245,nypostbiz
+466,2018-02-25 05:46:02,NFL players will try working retail at the NBA store    ,0,1,1,0,0,0,0.06600416,0.016708916,0.91728693,Neu,0.04929524,nypostbiz
+467,2018-02-25 04:43:02,Could incompetence at the White House rile the market?    ,0,1,1,0,0,0,0.017463945,0.8991379,0.08339811,Neg,-0.881674,nypostbiz
+475,2018-02-24 03:43:02,China may be eager to sell Waldorf Astoria after seizing control    ,0,1,1,0,0,0,0.45331386,0.012607345,0.5340788,Neu,0.44070652,nypostbiz
+477,2018-02-23 23:19:00,Citi will refund $335M to cardholders it overcharged    ,1,0,1,0,2,1,0.73705655,0.012809912,0.25013348,Pos,0.7242466,nypostbiz
+492,2018-02-22 16:56:01,Warren Buffett’s optimism may get tested this year    ,1,0,1,0,1,0,0.81754535,0.05483611,0.12761854,Pos,0.76270926,nypostbiz
+500,2018-02-22 03:49:02,Tim Cook would end quarterly earnings reports if he were ‘king’    ,1,0,1,0,1,1,0.02342486,0.27120146,0.7053737,Neu,-0.2477766,nypostbiz
+512,2018-02-21 14:47:00,  founder may be eyeing the exit at Walmart   via  via ,0,1,1,0,0,0,0.024785968,0.20627448,0.7689396,Neu,-0.18148851,nypostbiz
+517,2018-02-21 02:15:05,  founder may be eyeing the exit at Walmart    ,0,1,1,0,0,0,0.0218319,0.2921437,0.68602437,Neu,-0.2703118,nypostbiz
+522,2018-02-20 22:38:02,Volkswagen can’t delay trials because of Netflix documentary    ,0,0,1,0,1,0,0.030957785,0.26203105,0.70701116,Neu,-0.23107326,nypostbiz
+532,2018-02-20 03:41:00,Trump’s tax-cut growth gamble could backfire    ,1,0,1,0,0,0,0.7497319,0.087604046,0.16266407,Pos,0.66212785,nypostbiz
+541,2018-02-18 04:13:04,Private online art exhibit will offer valuable works for sale    ,0,0,1,0,1,1,0.18579593,0.007783523,0.8064206,Neu,0.17801242,nypostbiz
+544,2018-02-18 02:36:00,Could there be an ‘opposition’ influence on the market?    ,0,0,1,0,0,0,0.050727412,0.095272906,0.8539997,Neu,-0.044545494,nypostbiz
+569,2018-02-15 03:39:04,Blankfein: Trump’s economy is better than Hillary’s would’ve been    ,1,1,1,1,9,17,0.9383361,0.0167858,0.0448781,Pos,0.9215503,nypostbiz
+592,2018-02-13 20:52:02,Contreras-Sweet bid for Weinstein Co. could be revived    ,1,0,1,0,2,1,0.42413324,0.12820603,0.44766068,Neu,0.29592723,nypostbiz
+603,2018-02-13 04:25:03,"FBI, Hillary scandals could have a ripple effect on Wall Street    ",0,0,1,0,1,0,0.016438633,0.7752438,0.20831758,Neg,-0.75880516,nypostbiz
+605,2018-02-13 03:43:02,Could Chinese-style market-rigging could be happening in US?    ,0,1,1,0,1,0,0.025304986,0.41904086,0.55565417,Neu,-0.3937359,nypostbiz
+622,2018-02-11 05:38:04,Alibaba’s high-tech mirrors will let you try on virtual makeup    ,1,0,1,0,0,0,0.10271248,0.009691493,0.887596,Neu,0.09302099,nypostbiz
+656,2018-02-08 05:05:04,Domestic spying scandals could wreak havoc on the markets    ,0,0,1,0,0,0,0.012063234,0.9321625,0.055774245,Neg,-0.9200993,nypostbiz
+658,2018-02-08 04:32:00,Washington may have had a hand in keeping Dow meltdown from being a complete disaster    ,1,1,1,0,21,1,0.16978784,0.079223245,0.75098896,Neu,0.09056459,nypostbiz
+661,2018-02-07 23:27:05,Dunkin’ Donuts will stop using foam cups by 2020    ,0,1,1,0,1,1,0.03460825,0.030350944,0.9350408,Neu,0.0042573046,nypostbiz
+671,2018-02-07 15:30:05,"Facebook, Google employees can ask each other out — but only once    ",0,0,1,1,0,0,0.027850704,0.037123162,0.93502617,Neu,-0.009272458,nypostbiz
+678,2018-02-07 02:45:04,Jacked up prices can’t keep Americans away from Disney parks    ,1,0,1,0,0,1,0.06042024,0.5615719,0.37800783,Neg,-0.5011517,nypostbiz
+691,2018-02-06 04:33:05,DC ‘Plunge’ team may have halted unprecedented Dow Jones spiral    ,1,0,1,0,0,0,0.085708536,0.68185854,0.23243295,Neg,-0.59615,nypostbiz
+692,2018-02-06 03:33:04,Stocks take a historic hit — and it may only get worse    ,0,1,1,0,0,1,0.48692656,0.23469439,0.27837905,Pos,0.25223216,nypostbiz
+711,2018-02-05 03:57:03,Apple Music could dethrone Spotify by summer    ,0,0,1,1,0,0,0.017053176,0.08232901,0.9006178,Neu,-0.06527583,nypostbiz
+713,2018-02-04 06:58:01,The Fed could trigger a personal debt crisis    ,0,0,1,0,1,0,0.012820139,0.8969351,0.09024476,Neg,-0.884115,nypostbiz
+717,2018-02-04 04:05:00,Why can’t I find a job?    ,0,1,1,0,0,0,0.033042222,0.4259613,0.54099655,Neu,-0.39291906,nypostbiz
+743,2018-02-02 05:17:01,Ford is selling more Lincoln Navigators than it can make    ,0,1,1,1,1,1,0.14133629,0.019138774,0.8395249,Neu,0.122197516,nypostbiz
+763,2018-02-01 04:31:01,Why investors should pay attention to bombshell memo    ,0,0,1,0,1,1,0.032682292,0.051414147,0.91590357,Neu,-0.018731855,nypostbiz
+784,2018-01-29 22:51:01,This is what Rosie the Riveter would earn today    ,0,1,1,6,4,4,0.090942994,0.023452232,0.8856048,Neu,0.067490764,nypostbiz
+787,2018-01-29 19:44:02,It's amazing that the only crimes US market regulators can find are those perpetrated by foreign banks and bankers.   via ,1,1,1,0,1,1,0.042851705,0.13539933,0.82174903,Neu,-0.092547625,nypostbiz
+791,2018-01-29 08:28:01,This app will change the way you think about dentistry    ,0,1,1,0,1,1,0.06872898,0.0177529,0.9135182,Neu,0.050976083,nypostbiz
+802,2018-01-28 02:46:02,Americans will need $1.5M to retire comfortably    ,0,0,1,1,1,0,0.04660885,0.037982993,0.91540813,Neu,0.0086258575,nypostbiz
+842,2018-01-24 04:27:00,Lax oversight allowed ex-regulators to jump to firms they oversaw    ,0,1,1,0,2,0,0.035628293,0.37222233,0.5921494,Neu,-0.33659405,nypostbiz
+848,2018-01-23 22:07:01,Hedge funds’ wild equities ride could hit a wall: report    ,0,1,1,0,1,0,0.051878396,0.4993782,0.4487434,Neg,-0.4474998,nypostbiz
+857,2018-01-23 05:51:05,The strategy Trump must take to ween our country off gasoline    ,0,0,1,0,0,0,0.13886738,0.034280647,0.8268519,Neu,0.104586735,nypostbiz
+866,2018-01-22 19:35:02,"Feds charge ex-KPMG, oversight board accountants with scheme    ",0,1,1,0,0,0,0.010292372,0.92900246,0.060705118,Neg,-0.9187101,nypostbiz
+870,2018-01-22 16:24:03,Facebook: We can’t promise we won’t destroy democracy    ,1,0,1,1,2,0,0.074719034,0.029286843,0.8959941,Neu,0.04543219,nypostbiz
+898,2018-01-18 16:06:03,You won't be seeing 'Nestle' candies in the US soon   via  via ,0,1,1,0,1,0,0.06351759,0.016360804,0.9201216,Neu,0.04715679,nypostbiz
+905,2018-01-18 02:10:02,Why Dow’s frantic rise should be met with caution    ,1,0,1,0,1,1,0.09900513,0.033662517,0.8673324,Neu,0.06534262,nypostbiz
+911,2018-01-17 15:59:01,Smart vending machines could change e-commerce as we know it    ,0,1,1,0,1,0,0.041924793,0.04767768,0.91039747,Neu,-0.0057528876,nypostbiz
+912,2018-01-17 15:12:04,Smart vending machines could change e-commerce as we know it   via  via ,0,1,1,1,0,0,0.038472887,0.03233861,0.9291885,Neu,0.0061342753,nypostbiz
+916,2018-01-17 03:51:04,Nelson Peltz hopes he can turn things around for GE    ,0,1,1,0,1,1,0.75942934,0.009450916,0.23111977,Pos,0.7499784,nypostbiz
+932,2018-01-16 02:49:05,Miracle finish not enough to save NFL playoff ratings    ,0,0,1,0,1,1,0.28216782,0.21539651,0.5024356,Neu,0.06677131,nypostbiz
+938,2018-01-14 13:07:05,This Kodak moment can't last. Why its cryptocurrency move is a terrible idea   via  via ,0,1,1,0,1,2,0.016978022,0.6984376,0.2845844,Neg,-0.68145955,nypostbiz
+979,2018-01-11 15:35:03,China denies report it may stop buying US Treasury debt    ,0,1,1,0,1,0,0.02374918,0.6325491,0.34370172,Neg,-0.60879993,nypostbiz
+982,2018-01-11 04:59:01,China’s latest decision could fuel economic struggles for the US    ,0,0,1,0,0,0,0.15882269,0.7424091,0.09876819,Neg,-0.58358645,nypostbiz
+984,2018-01-11 03:43:04,Trump should have listened to me about his VP pick    ,1,0,1,0,0,0,0.07551511,0.033928458,0.89055645,Neu,0.04158665,nypostbiz
+993,2018-01-10 17:13:03,Stocks slide on fears China will slow US debt purchases    ,0,1,1,0,0,0,0.025919624,0.9124322,0.061648067,Neg,-0.8865126,nypostbiz
+995,2018-01-10 15:53:03,Uber will pay up to $3M to settle with NY drivers    ,0,0,1,0,1,0,0.18397109,0.01555183,0.800477,Neu,0.16841926,nypostbiz
+1015,2018-01-09 12:15:02,Red Robin will offset minimum wage hikes by canning busboys   via  via ,0,1,1,0,0,0,0.8368918,0.029556124,0.13355204,Pos,0.8073357,nypostbiz
+1021,2018-01-09 03:07:02,Red Robin will offset minimum wage hikes by canning busboys    ,0,1,1,9,14,8,0.8124617,0.039291516,0.14824687,Pos,0.7731702,nypostbiz
+1031,2018-01-08 04:17:01,Women could be taking over Weinstein Company    ,0,1,1,0,0,0,0.02164045,0.04668025,0.93167937,Neu,-0.0250398,nypostbiz
+1034,2018-01-07 06:33:00,How can I sell the shares from my investment?    ,0,0,1,0,0,0,0.034103516,0.02196237,0.9439341,Neu,0.012141146,nypostbiz
+1035,2018-01-07 05:32:01,THL Partners’ risky bet may cost them decent MoneyGram bid    ,0,0,1,0,0,0,0.10105202,0.8420934,0.05685459,Neg,-0.74104136,nypostbiz
+1052,2018-01-05 08:43:02,Victoria’s Secret may be losing its mojo    ,1,1,1,0,0,0,0.027146883,0.87624574,0.0966073,Neg,-0.84909886,nypostbiz
+1075,2018-01-04 06:22:02,Which of these asset bubbles will pop first?    ,0,0,1,0,0,0,0.035141636,0.034362532,0.93049586,Neu,0.0007791035,nypostbiz
+1076,2018-01-04 05:29:03,Hedge fund exec accused of tricking charity so associate could repay loan    ,1,1,1,0,3,0,0.03997885,0.711009,0.24901223,Neg,-0.67103016,nypostbiz
+1083,2018-01-03 19:15:03,Airlines may take away one of the only good things about flying    ,0,1,1,6,13,4,0.076439075,0.0872058,0.8363551,Neu,-0.010766722,nypostbiz
+1087,2018-01-03 07:12:02,Here’s how long it will take Americans to pay off their Christmas debt    ,0,0,1,0,0,0,0.031352904,0.10568905,0.862958,Neu,-0.07433614,nypostbiz
+1091,2018-01-03 03:30:03,Steve Cohen could make his return to Wall Street soon    ,0,0,1,1,1,2,0.09238571,0.011575702,0.89603865,Neu,0.08081001,nypostbiz
+1103,2018-01-02 05:06:00,Wall Street’s strong run could get even stronger in 2018    ,0,1,1,0,0,0,0.8495424,0.01380806,0.13664965,Pos,0.8357343,nypostbiz
+1116,2017-12-31 04:00:02,The Mooch will spend New Year’s Eve at steakhouse    ,1,0,1,0,0,1,0.039121408,0.05921482,0.9016638,Neu,-0.020093411,nypostbiz
+1119,2017-12-31 03:22:04,Former Reagan adviser says tax cut will jump-start the economy    ,0,1,1,0,0,1,0.7369823,0.059499167,0.20351848,Pos,0.67748314,nypostbiz
+1121,2017-12-30 04:58:05,Holiday returns might take a lot longer than you thought    ,1,0,1,0,0,0,0.046003588,0.0664452,0.88755125,Neu,-0.020441614,nypostbiz
+1123,2017-12-30 03:52:03,Workers could lose commuter benefits under new tax plan    ,0,0,1,0,0,0,0.008170695,0.9675524,0.024276894,Neg,-0.9593817,nypostbiz
+1129,2017-12-29 18:41:01,Jack in the Box will serve 'Munchie Meals' to potheads   via  via ,0,0,1,0,0,0,0.05598613,0.01678292,0.9272309,Neu,0.039203208,nypostbiz
+1130,2017-12-29 18:26:05,Jack in the Box will serve ‘Munchie Meals’ to potheads    ,0,0,1,0,0,0,0.073959656,0.022533694,0.9035067,Neu,0.051425964,nypostbiz
+1132,2017-12-29 18:03:01,Jack in the Box will serve 'Munchie Meals' to potheads   via  via ,0,0,1,0,0,0,0.05598613,0.01678292,0.9272309,Neu,0.039203208,nypostbiz
+1150,2017-12-27 16:08:02,Tesla may still be stuck in Model 3 ‘manufacturing hell’    ,1,0,1,0,0,1,0.00897147,0.94372624,0.047302216,Neg,-0.9347548,nypostbiz
+1151,2017-12-27 15:47:01,Exclu: DOJ might target Comcast-NBCUniversal merger next   via  via ,0,0,1,1,0,1,0.02985435,0.030391458,0.93975425,Neu,-0.00053710863,nypostbiz
+1152,2017-12-27 03:41:01,DOJ might target Comcast-NBCUniversal merger next    ,0,0,1,0,1,0,0.030498682,0.0379147,0.9315866,Neu,-0.007416019,nypostbiz
+1162,2017-12-26 16:48:03,Delivery-only restaurants could start popping up near you   via  via ,0,1,1,0,0,0,0.0632515,0.026819069,0.9099294,Neu,0.036432434,nypostbiz
+1165,2017-12-26 07:28:05,Post-Christmas sales may rival Black Friday this year    ,0,0,1,0,0,2,0.9029829,0.02525075,0.07176637,Pos,0.87773216,nypostbiz
+1168,2017-12-26 02:54:04,Delivery-only restaurants could start popping up near you    ,0,1,1,0,0,0,0.0899434,0.022978742,0.8870778,Neu,0.066964656,nypostbiz
+1170,2017-12-25 03:41:05,Psychics may hold the answer to Wall Street’s future    ,0,1,1,0,2,0,0.0763006,0.025564836,0.8981345,Neu,0.050735764,nypostbiz
+1178,2017-12-24 06:40:00,Why can’t utility companies be reasonable?    ,0,0,1,0,0,0,0.032172747,0.12525322,0.842574,Neu,-0.09308047,nypostbiz
+1181,2017-12-24 05:34:04,Christmas Eve shoppers should be careful with their credit cards    ,0,0,1,0,0,0,0.05949457,0.12899412,0.81151134,Neu,-0.06949955,nypostbiz
+1182,2017-12-24 05:16:01,Warehouse workers may be replaced by tech-savvy counterparts    ,1,0,1,0,0,0,0.026818374,0.6516775,0.3215041,Neg,-0.6248591,nypostbiz
+1198,2017-12-21 17:14:05,Family will get $846K inheritance lost by UPS    ,1,0,1,0,0,0,0.045274157,0.35588136,0.5988444,Neu,-0.3106072,nypostbiz
+1199,2017-12-21 15:33:00,Tax curbs on debt deductions may sting some buyout firms    ,0,0,1,0,0,0,0.048224192,0.92305547,0.028720424,Neg,-0.87483126,nypostbiz
+1205,2017-12-21 06:36:00,Crashing stock market could be good for Washington    ,0,1,1,0,0,0,0.64048856,0.048790947,0.3107205,Pos,0.59169763,nypostbiz
+1207,2017-12-21 05:50:01,Further Trump investigations may be good for Wall Street    ,0,0,1,0,1,1,0.16211449,0.44775417,0.39013132,Neg,-0.2856397,nypostbiz
+1208,2017-12-21 05:03:04,Students would rather get a loan payment than a Christmas gift    ,0,0,1,0,0,0,0.03939625,0.1080011,0.8526027,Neu,-0.06860485,nypostbiz
+1213,2017-12-21 03:02:01,NFL’s biggest audience of season can’t save sagging ratings    ,1,1,1,0,2,2,0.02395463,0.9030989,0.07294654,Neg,-0.87914425,nypostbiz
+1218,2017-12-20 14:26:02,Coinbase says it will probe claims of insider trading    ,0,1,1,0,2,2,0.03061941,0.6123208,0.35705978,Neg,-0.5817014,nypostbiz
+1229,2017-12-19 04:14:03,GOP tax plan should also target corporate profits held overseas    ,1,0,1,0,0,0,0.116630495,0.011818029,0.87155145,Neu,0.104812466,nypostbiz
+1258,2017-12-16 05:18:03,US Postal Service might be your best bet for quick shipping    ,0,0,1,0,0,0,0.07831955,0.0110872295,0.9105932,Neu,0.06723232,nypostbiz
+1260,2017-12-16 03:42:05,Thousands of Disney workers could be laid off upon merger    ,1,0,1,0,0,0,0.0072777686,0.9621284,0.030593907,Neg,-0.9548506,nypostbiz
+1272,2017-12-15 03:09:05,Why Disney’s Fox purchase should be a huge boost to ESPN    ,0,0,1,0,0,1,0.39783338,0.00945491,0.59271175,Neu,0.38837847,nypostbiz
+1287,2017-12-14 00:58:05,Walmart workers can request to get paid earlier on special app    ,1,0,1,0,0,0,0.028996471,0.33277866,0.63822484,Neu,-0.3037822,nypostbiz
+1295,2017-12-13 17:09:04,Two companies will hoover up half of tech’s profits in 2018    ,0,0,1,0,0,0,0.28290042,0.0122204535,0.7048792,Neu,0.27067998,nypostbiz
+1310,2017-12-12 03:53:00,Mattel warns holiday sales will be lower than projected    ,1,1,1,0,0,0,0.013265759,0.97048867,0.016245566,Neg,-0.95722294,nypostbiz
+1330,2017-12-10 14:37:05,Traders and bankers will get some of their bonuses in bitcoin   via  bitcoin btc via ,0,0,1,0,0,1,0.19252336,0.010666324,0.7968103,Neu,0.18185703,nypostbiz
+1332,2017-12-10 08:18:03,How businesses could better use repatriated overseas profits    ,0,0,1,0,0,0,0.33934957,0.009266561,0.65138394,Neu,0.330083,nypostbiz
+1333,2017-12-10 07:17:04,Is there a chance the economy might be back on track?    ,0,1,1,0,0,0,0.44968608,0.22385617,0.32645777,Pos,0.22582991,nypostbiz
+1337,2017-12-10 06:19:03,Hedge funds may be diving into the bitcoin scene to boost profits    ,0,1,1,0,0,0,0.44587606,0.017677983,0.5364459,Neu,0.42819807,nypostbiz
+1341,2017-12-10 03:18:05,Traders and bankers will get some of their bonuses in bitcoin    ,0,0,1,0,0,0,0.23401643,0.017054562,0.748929,Neu,0.21696188,nypostbiz
+1342,2017-12-09 05:01:04,Apple may acquire music identification app Shazam    ,0,0,1,1,1,0,0.07853251,0.010131131,0.91133636,Neu,0.06840138,nypostbiz
+1344,2017-12-09 00:46:04,"Bitcoin futures are about to launch, and it could be a wild ride    ",0,1,1,0,0,0,0.1031377,0.03689437,0.85996795,Neu,0.066243336,nypostbiz
+1351,2017-12-08 15:24:03,Jamie Dimon says JPMorgan will offer Amazon-style discounts    ,0,1,1,0,0,0,0.12246715,0.012365612,0.86516726,Neu,0.11010154,nypostbiz
+1354,2017-12-08 13:55:03,Brazen thieves could steal Christmas one shipping container at a time    via  via ,0,0,1,0,1,0,0.033790786,0.48999405,0.47621515,Neg,-0.45620325,nypostbiz
+1355,2017-12-08 04:17:00,Brazen thieves could steal Christmas one shipping container at a time    ,0,0,1,0,0,0,0.024819154,0.53163403,0.44354683,Neg,-0.5068149,nypostbiz
+1375,2017-12-07 03:31:05,Trump’s DOJ could pose roadblock for CVS-Aetna deal    ,0,0,1,0,0,0,0.021394193,0.9020255,0.07658025,Neg,-0.8806313,nypostbiz
+1381,2017-12-06 21:36:05,Walt Disney CEO Bob Iger will likely extend his tenure again    ,0,0,1,0,0,0,0.027283244,0.11404798,0.85866874,Neu,-0.08676474,nypostbiz
+1388,2017-12-06 15:41:02,Toys R Us execs could win up to $21 million in holiday bonuses    ,0,0,1,0,1,0,0.7307273,0.008937472,0.26033524,Pos,0.72178984,nypostbiz
+1414,2017-12-03 08:29:03,Dismissal of radio suit could bring more money to songwriters    ,0,0,1,0,0,0,0.12214583,0.6438491,0.2340051,Neg,-0.52170324,nypostbiz
+1418,2017-12-03 06:26:00,Why you should always read the fine print    ,0,0,1,0,0,0,0.051600542,0.03658865,0.91181076,Neu,0.015011892,nypostbiz
+1476,2017-11-29 00:52:02,You can now buy shares of Eminem’s royalty catalog    ,1,0,1,0,0,0,0.050114594,0.010782639,0.93910277,Neu,0.039331958,nypostbiz
+1482,2017-11-28 18:04:02,Sodastream says it can turn water into wine    ,0,1,1,0,1,1,0.09625388,0.010315335,0.89343077,Neu,0.08593854,nypostbiz
+1483,2017-11-28 16:44:01,"Bitcoin will suffer ‘wild crashes,’ big investor warns    ",0,0,1,0,0,0,0.017657725,0.9421932,0.040149014,Neg,-0.9245355,nypostbiz
+1496,2017-11-27 23:31:05,Clueless Pokémon Go players may have caused $7.3B in damages last year    ,1,0,1,0,1,0,0.011224872,0.9555137,0.033261385,Neg,-0.94428885,nypostbiz
+1509,2017-11-26 08:23:04,Will the bank stop stiffing me on my savings account rate?    ,0,1,1,0,0,0,0.051463943,0.32775733,0.6207787,Neu,-0.2762934,nypostbiz
+1516,2017-11-26 05:04:05,College dropouts should watch out for student debt    ,0,0,1,0,0,0,0.09788585,0.39455077,0.50756335,Neu,-0.29666492,nypostbiz
+1523,2017-11-25 04:11:02,Wall Street may suffer with win in suit over whistleblower rules    ,0,0,1,0,0,0,0.022691172,0.94659376,0.030715013,Neg,-0.9239026,nypostbiz
+1538,2017-11-22 23:36:00,Peter Thiel may be looking to buy Gawker    ,0,1,1,0,0,1,0.039479375,0.02074189,0.93977875,Neu,0.018737486,nypostbiz
+1545,2017-11-22 14:47:03,Black Friday Mania advice: The No. 1 thing you can save big on   via  via ,0,0,1,0,0,1,0.07843743,0.020089451,0.90147316,Neu,0.05834798,nypostbiz
+1556,2017-11-21 21:08:02,The No. 1 thing you can save big on this Black Friday    ,0,0,1,0,0,0,0.09002259,0.019328548,0.89064884,Neu,0.07069404,nypostbiz
+1557,2017-11-21 18:56:01,FCC will vote to repeal net neutrality rules next month    ,0,0,1,0,0,0,0.053268608,0.29112285,0.65560853,Neu,-0.23785424,nypostbiz
+1562,2017-11-21 15:47:01,"Senate bill would raise taxes for half of Americans by 2027, study finds    ",0,0,1,0,0,0,0.15580057,0.011955005,0.83224446,Neu,0.14384556,nypostbiz
+1568,2017-11-21 03:17:00,Why Wall Street’s record run may soon come to an end    ,0,0,1,0,0,0,0.103215136,0.3238492,0.5729357,Neu,-0.22063407,nypostbiz
+1569,2017-11-20 23:04:03,Amazon is selling sketchy health products and it may be illegal    ,0,1,1,0,1,0,0.014336171,0.8659874,0.11967637,Neg,-0.85165125,nypostbiz
+1582,2017-11-19 10:05:05,"Your Trader Joe’s salad may contain shards of glass, plastic    ",1,0,1,2,0,1,0.027801262,0.18063393,0.7915648,Neu,-0.15283267,nypostbiz
+1584,2017-11-19 08:33:03,What will happen to US debt if interest rates return to historic levels?    ,0,1,1,0,0,0,0.030487116,0.52561134,0.44390157,Neg,-0.49512422,nypostbiz
+1616,2017-11-16 04:55:03,This is the tax reform plan that would truly pay off    ,0,1,1,0,0,0,0.47318357,0.012408208,0.51440823,Neu,0.46077538,nypostbiz
+1626,2017-11-15 16:25:01,Analyst says DOJ suit vs. AT&T-Time Warner deal may come soon    ,0,1,1,0,1,0,0.18960056,0.06183583,0.74856365,Neu,0.12776473,nypostbiz
+1635,2017-11-15 03:58:00,App would let workers report sexual harassment anonymously    ,0,0,1,0,0,0,0.025817284,0.07297509,0.9012076,Neu,-0.04715781,nypostbiz
+1649,2017-11-14 05:31:02,Rebound may not be so easy for slumping Anheuser-Busch    ,0,1,1,0,0,0,0.13149719,0.78430676,0.084196106,Neg,-0.65280956,nypostbiz
+1660,2017-11-13 15:45:02,"Wall Street bonuses may jump this year, thanks to Trump    ",0,0,1,0,0,1,0.8543535,0.017132577,0.12851398,Pos,0.8372209,nypostbiz
+1670,2017-11-12 05:13:01,Can I get a break on my student loans?    ,0,0,1,0,0,0,0.105923,0.22378723,0.67028975,Neu,-0.117864236,nypostbiz
+1729,2017-11-07 18:27:02,Apple is charging $999 for the iPhone X because it can   via  via ,0,1,1,0,0,0,0.086139195,0.013668643,0.90019214,Neu,0.07247055,nypostbiz
+1734,2017-11-07 15:59:01,Apple is charging $999 for the iPhone X because it can    ,0,1,1,0,0,1,0.04592991,0.056533217,0.89753693,Neu,-0.010603309,nypostbiz
+1742,2017-11-06 21:20:00,Flying across the US to buy an iPhone X may be your cheapest option    ,0,1,1,0,0,0,0.123440154,0.011969682,0.8645901,Neu,0.111470476,nypostbiz
+1792,2017-11-02 04:56:00,Why the next chair of the Fed will be facing a big problem    ,0,1,1,0,0,0,0.030920085,0.21103019,0.7580497,Neu,-0.1801101,nypostbiz
+1804,2017-11-01 15:19:01,Weinstein Company could be forced into bankruptcy: source   via  via ,1,0,1,0,0,0,0.017578006,0.3579618,0.62446016,Neu,-0.3403838,nypostbiz
+1813,2017-11-01 02:37:01,Weinstein Company could be forced into bankruptcy: source    ,1,0,1,1,2,1,0.014664065,0.715394,0.2699419,Neg,-0.70072997,nypostbiz
+1814,2017-11-01 02:24:02,Tech execs admit they can’t stop Russian social media meddling    ,0,1,1,0,0,0,0.029771358,0.8201851,0.15004347,Neg,-0.79041374,nypostbiz
+1846,2017-10-26 22:13:00,Tiffany bets NYC pop-up stores will renew sparkle   via  via ,0,0,1,0,0,0,0.80218774,0.010386952,0.1874253,Pos,0.7918008,nypostbiz
+1861,2017-10-18 15:08:03,Mnuchin warns stocks will crash if tax reform doesn't pass   via  via ,0,1,1,2,0,1,0.012726375,0.95864624,0.028627414,Neg,-0.9459199,nypostbiz
+1862,2017-10-17 21:19:01,Lena Dunham won't be the next editor of Glamour   via  via ,0,0,1,0,0,0,0.020562299,0.069256105,0.91018164,Neu,-0.048693806,nypostbiz
+1881,2017-10-12 19:06:00,Equifax may have been hacked again $efx   via  via ,1,0,1,1,1,1,0.022576844,0.75082386,0.22659925,Neg,-0.728247,nypostbiz
+1899,2017-10-04 14:48:05,The wealthy will push holiday spending up 6 percent this year    via  via ,0,1,1,0,0,0,0.8932787,0.03014133,0.07657998,Pos,0.86313736,nypostbiz
+1901,2017-10-03 21:22:03,Elizabeth Warren tells Wells Fargo CEO he 'should be fired' $wfc   via  via ,1,1,1,0,0,1,0.013182854,0.88359267,0.10322442,Neg,-0.8704098,nypostbiz
+1933,2017-09-27 22:37:05,Vince Camuto could have to fork out $60 million over a coat dispute   via  via ,0,0,1,0,0,0,0.014489603,0.8758193,0.10969103,Neg,-0.86132973,nypostbiz
+1936,2017-09-27 20:44:02,Amazon's Alexa will soon power Big Mouth Billy Bass   via  via ,0,0,1,0,1,1,0.11176504,0.009263727,0.8789712,Neu,0.10250132,nypostbiz
+1953,2017-09-26 18:05:03,CFTC will use South Bronx tactics in white-collar probes   via  via ,0,0,1,0,0,0,0.022713587,0.5069359,0.47035056,Neg,-0.4842223,nypostbiz
+1959,2017-09-26 14:23:02,Bitcoin market may be financing North Korea after sanctions   via  via ,0,1,1,0,0,0,0.70303816,0.020109588,0.27685228,Pos,0.68292856,nypostbiz
+1978,2017-09-20 15:07:02,"Walmart to give workers extra holiday hours, won't hire temps   via  via ",0,0,1,0,0,0,0.03965305,0.5385812,0.42176577,Neg,-0.49892813,nypostbiz
+1981,2017-09-20 14:49:05,Warren Buffett predicts Dow will hit 1 million in 100 years   via  via ,0,1,1,0,1,0,0.5587849,0.018520964,0.42269415,Pos,0.54026395,nypostbiz
+1984,2017-09-19 18:24:01,DeVos' family seeks deregulation of Amway so it can beat Herbalife $hlf   via  via ,0,1,1,0,0,0,0.62281543,0.009849687,0.3673349,Pos,0.61296576,nypostbiz
+1987,2017-09-18 14:20:01,Top bank analyst says Goldman turnaround plan won't work $gs   via  via ,0,1,1,0,0,1,0.01635733,0.9281498,0.055492856,Neg,-0.9117925,nypostbiz
+1990,2017-09-18 13:54:02,The iPhone X is the holiday gift that will break the bank   via  via ,0,1,1,0,2,2,0.2811874,0.02289668,0.695916,Neu,0.2582907,nypostbiz
+2000,2017-09-14 14:51:01,Ugg maker's board may get the boot   via  via ,0,0,1,0,1,1,0.11932277,0.018424774,0.8622524,Neu,0.100898,nypostbiz
+2006,2017-09-12 20:00:02,Apple stock sells off as iPhone X will not ship this quarter. via ,0,1,1,0,0,0,0.019594325,0.85360867,0.12679699,Neg,-0.83401436,nypostbiz
+2011,2017-09-12 18:15:02,iPhone X will be unveiled after this announcement from one of our sponsors. via ,1,0,1,0,0,0,0.070732266,0.011356343,0.9179114,Neu,0.059375923,nypostbiz
+2013,2017-09-12 16:41:05,Ray Dalio: It would be 'terrible' if Gary Cohn leaves White House   via  via ,0,1,1,0,1,0,0.0131372195,0.8373732,0.14948954,Neg,-0.824236,nypostbiz
+2024,2017-09-11 12:21:04,Gary Cohn can be easily replaced if he leaves Washington    via ,1,1,1,0,1,1,0.017525276,0.58145934,0.4010154,Neg,-0.5639341,nypostbiz
+2030,2017-09-07 15:03:02,Coffee could carry cancer warnings on packaging   via  via ,0,0,1,0,0,1,0.033213813,0.59264743,0.37413874,Neg,-0.55943364,nypostbiz
+2047,2017-09-01 15:36:01,New GOP-friendly fund will list under the ticker 'MAGA'   via  via ,0,0,1,0,1,1,0.049156208,0.010630056,0.9402138,Neu,0.03852615,nypostbiz
+2055,2017-08-31 15:21:05,This must be the other roaches Buffett spoke about Wed. Wells Fargo's fake-accounts scandal got worse   via ,1,0,1,0,2,1,0.018849129,0.8059376,0.1752133,Neg,-0.78708845,nypostbiz
+2057,2017-08-30 15:59:01,Analyst warns Whole Foods discounts may not be what they seem   via  via ,0,1,1,0,0,0,0.018407473,0.9187038,0.062888786,Neg,-0.90029633,nypostbiz
+2068,2017-08-20 17:00:00,"If Twitter's stock can't soar now with Trump, then when will it?   via  via ",0,0,1,0,2,2,0.049771328,0.018473499,0.9317552,Neu,0.03129783,nypostbiz
+2088,2017-08-14 15:13:02,Crocs may lose its patent on ugly shoe designs   via  via ,0,0,1,0,0,0,0.013213008,0.89485234,0.091934614,Neg,-0.88163936,nypostbiz
+2089,2017-08-14 15:07:03,Crocs may lose its patent on ugly shoe designs   via  via ,0,0,1,0,0,2,0.013213008,0.89485234,0.091934614,Neg,-0.88163936,nypostbiz
+2097,2017-08-11 21:16:04,Marlins will be sold to Derek Jeter's group   via ,1,0,1,0,1,0,0.03947573,0.014678617,0.94584566,Neu,0.024797115,nypostbiz
+2099,2017-08-11 17:33:04,"iHeart creditor may blink on bankruptcy threat,  reports $ihrt    via  via ",0,1,1,0,0,0,0.019946357,0.776924,0.2031296,Neg,-0.7569777,nypostbiz
+2107,2017-08-10 14:46:04,You'll never have to get up for food at the game again   via  via ,0,0,1,0,0,0,0.06963141,0.03530798,0.8950606,Neu,0.03432343,nypostbiz
+2120,2017-08-07 14:49:04,"“I don’t know what will be the end result,” Masa says.      via  via ",0,1,1,0,0,0,0.01977778,0.092160024,0.8880622,Neu,-0.07238224,nypostbiz
+2147,2017-07-31 14:32:02,Staples may spin off its retail chain to Office Depot $spls $odp   via  via ,0,0,1,0,0,0,0.018776624,0.24130227,0.7399211,Neu,-0.22252564,nypostbiz
+2158,2017-07-27 19:35:01,This might be Bill Ackman's next big idea   via  via ,0,0,1,0,0,0,0.090208694,0.016844193,0.89294714,Neu,0.0733645,nypostbiz
+2162,2017-07-27 14:47:01,'Star Wars' toy fatigue may finally be setting in   via  via ,0,1,1,0,0,0,0.6908555,0.054059412,0.25508514,Pos,0.6367961,nypostbiz
+2175,2017-07-24 15:08:02,"Can yoga, spinning & food save the mall?   via  via ",0,1,1,0,2,1,0.10861291,0.014585047,0.876802,Neu,0.09402786,nypostbiz
+2177,2017-07-24 11:31:04,Hmmm. Fed says opioid crisis could lead to stubborn unemployment & low workforce participation rate   via ,0,1,1,1,1,1,0.009528098,0.96680516,0.02366664,Neg,-0.95727706,nypostbiz
+2178,2017-07-23 20:46:01,Fed chair Yellen says opioid crisis could lead to stubborn unemployment $ low workforce participation   via ,0,1,1,2,0,0,0.01202567,0.9645161,0.02345824,Neg,-0.95249045,nypostbiz
+2182,2017-07-21 15:05:03,McDonald's will now deliver you a Big Mac to wear   via  via ,0,0,1,0,0,0,0.14051987,0.008880663,0.8505994,Neu,0.13163921,nypostbiz
+2184,2017-07-20 20:50:01,Juice will be on the loose by 4th NFL weekend this season   via  via ,0,0,1,0,1,2,0.06201262,0.025028018,0.91295934,Neu,0.0369846,nypostbiz
+2197,2017-07-19 16:29:04,Your next realtor could be a robot   via  via ,0,0,1,1,0,0,0.029797038,0.024396913,0.945806,Neu,0.005400125,nypostbiz
+2231,2017-07-13 13:35:01,Even millionaire bank execs get busted for shoplifting at Whole Paycheck    via ,1,1,1,0,1,1,0.019319197,0.84856206,0.13211879,Neg,-0.8292429,nypostbiz
+2266,2017-06-19 18:32:01,Amazon may replace a whole lot of Whole Foods cashiers with robots   via  via ,0,0,1,0,0,1,0.04899591,0.028355582,0.92264855,Neu,0.020640327,nypostbiz
+2279,2017-06-16 14:14:05,BREAKING:   Inc said it would buy Whole Foods Market Inc in a $13.7 billion deal  ,1,0,1,5,39,23,0.06924362,0.012328311,0.91842806,Neu,0.056915306,nypostbiz
+2284,2017-06-14 16:29:03,Big TV networks won't sell as many commercials this year   via  via ,0,0,1,0,0,1,0.033523597,0.052471545,0.91400486,Neu,-0.018947948,nypostbiz
+2286,2017-06-14 16:01:05,Which one of these music labels will land 'Song of the Summer'?   via  via ,0,0,1,0,0,0,0.03872708,0.015145232,0.94612765,Neu,0.023581848,nypostbiz
+2311,2017-06-08 20:48:05,Trump's exit of climate agreement may threaten his resorts   via  via ,0,0,1,0,1,0,0.01243363,0.9533196,0.034246758,Neg,-0.94088596,nypostbiz
+2321,2017-06-07 21:54:03,MetLife building will get a pricey new sign to save energy   via  via ,0,0,1,0,0,0,0.62644786,0.012937805,0.36061427,Pos,0.6135101,nypostbiz
+2324,2017-06-07 15:46:05,Elon Musk says Model 3 assembly will 'definitely' start next month   via  via ,0,1,1,0,1,0,0.19138394,0.012644156,0.79597193,Neu,0.17873979,nypostbiz
+2338,2017-06-04 12:41:01,"Stock market will rise 50 percent, esteemed economist says   via  via ",1,1,1,2,7,14,0.92165846,0.014085761,0.06425579,Pos,0.9075727,nypostbiz
+2341,2017-06-02 15:04:02,'Wonder Woman' may save Warner Bros. from box office turmoil   via  via ,0,0,1,0,0,0,0.88466644,0.013680006,0.10165357,Pos,0.87098646,nypostbiz
+2345,2017-06-01 15:33:05,Rent hikes could force Sparks Steak House to new location    via  via ,0,0,1,0,1,0,0.01791409,0.9460923,0.03599356,Neg,-0.9281782,nypostbiz
+2351,2017-05-31 14:56:03,Green funds rebound as 'Trump can't bring back coal'   via  via ,0,0,1,0,0,0,0.10182003,0.8737726,0.02440732,Neg,-0.77195257,nypostbiz
+2360,2017-05-25 15:46:02,Miami Marlins owner will have to cut price to sell team   via  via ,0,0,1,0,0,1,0.029821087,0.28681123,0.6833677,Neu,-0.25699013,nypostbiz
+2367,2017-05-22 14:20:01,Politicians who scream Impeachment in the House should be held accountable for cratering market.   via ,1,1,1,1,2,1,0.03649073,0.42710677,0.53640246,Neu,-0.39061603,nypostbiz
+2373,2017-05-18 16:00:01,Ralph Lauren duds will get pricier as the designer nixes discounts   via  via ,0,0,1,0,1,0,0.21390462,0.023478583,0.7626168,Neu,0.19042604,nypostbiz
+2384,2017-05-10 20:33:02,Whole Foods will shuffle more than half of its board   via  via ,0,0,1,0,1,0,0.022076556,0.14892985,0.8289936,Neu,-0.12685329,nypostbiz
+2385,2017-05-10 20:24:02,"Bill Ackman loves his new stock pick, but won't say what it is   via  via ",0,1,1,0,1,0,0.057807576,0.016329534,0.92586285,Neu,0.04147804,nypostbiz
+2395,2017-05-08 16:24:01,Kids will soon get their allowance on a debit card   via  via ,0,0,1,0,2,1,0.11148412,0.014760812,0.8737551,Neu,0.0967233,nypostbiz
+2396,2017-05-08 16:23:03,Trump's second 100 days will be better than his first   via  via ,0,0,1,0,2,3,0.8356349,0.012756141,0.15160887,Pos,0.8228787,nypostbiz
+2413,2017-05-01 14:48:03,A flood of kids movies this year may backfire on toy sellers   via  via ,0,0,1,0,0,0,0.013234039,0.9549158,0.031850193,Neg,-0.9416818,nypostbiz
+2434,2017-04-25 15:09:03,Marissa Mayer will get $186M golden parachute from Yahoo   via  via ,0,0,1,0,1,1,0.3862831,0.008621003,0.6050958,Neu,0.3776621,nypostbiz
+2451,2017-04-04 22:05:03,The key to getting your finances together might already be in your phone    ,0,1,1,0,0,0,0.057134386,0.050609376,0.89225626,Neu,0.00652501,nypostbiz
+2461,2017-04-03 14:48:04,Lord & Taylor may build a skyscraper on top of its Fifth Avenue store   via  via ,0,0,1,0,0,0,0.17963658,0.009336685,0.81102675,Neu,0.1702999,nypostbiz
+2463,2017-04-01 23:35:00,"""Live it up while you can and pay back later,"" the English major said  ",1,0,1,4,16,24,0.45193174,0.03633633,0.511732,Neu,0.4155954,nypostbiz
+2469,2017-03-30 19:20:05,"How rich is Jeff Bezos? Well, he could buy every NFL team — and still be set for life    ",1,1,1,4,13,15,0.072925575,0.014118988,0.91295546,Neu,0.058806587,nypostbiz
+2482,2017-03-28 14:38:05,Uber may be forced to fire a top lieutenant in the wake of another sexual harassment claim    ,1,0,1,0,1,0,0.008800153,0.95532864,0.035871252,Neg,-0.9465285,nypostbiz
+2491,2017-03-24 09:43:04,Federal banks can't agree on how the economy is doing    ,0,1,1,0,0,0,0.021553475,0.6835729,0.2948737,Neg,-0.66201943,nypostbiz
+2493,2017-03-24 00:39:02,"""We believe robots and humans should work together""  ",0,1,1,0,0,0,0.38514683,0.011938255,0.6029149,Neu,0.37320858,nypostbiz
+2494,2017-03-23 23:01:01,CEO Bob Iger will be with Walt Disney for the foreseeable future    ,0,0,1,0,0,0,0.027344082,0.020462884,0.952193,Neu,0.006881198,nypostbiz
+2506,2017-03-23 13:32:04,Kim Jong Un may be behind biggest bank heist in history   via  via ,0,0,1,0,0,0,0.18018869,0.17829102,0.6415203,Neu,0.0018976629,nypostbiz
+2511,2017-03-21 21:07:05,"""Reporters wondered openly whether the next Edward Snowden would feel safe leaking to The Guardian...""  ",1,0,1,0,2,0,0.051153608,0.05066392,0.8981825,Neu,0.0004896894,nypostbiz
+2530,2017-03-16 16:04:04,"Hey McDonald's, might want to change your password!  ",0,0,1,0,0,0,0.029900946,0.122454755,0.84764427,Neu,-0.09255381,nypostbiz
+2533,2017-03-16 14:20:04,Starbucks is hoping these new cups will brighten your spring (and won't offend anyone)    ,0,1,1,0,1,0,0.7676098,0.011524379,0.22086583,Pos,0.7560854,nypostbiz
+2539,2017-03-15 12:17:02,Lobbying group says it will train bankers to become politicians   via  via ,0,1,1,0,0,0,0.19717419,0.010230953,0.7925949,Neu,0.18694323,nypostbiz
+2549,2017-03-13 15:30:05,Scaramucci could get slammed with taxes if he doesn't land WH gig   via  via ,1,1,1,0,0,1,0.017855003,0.8842105,0.09793452,Neg,-0.86635554,nypostbiz
+2557,2017-03-09 18:07:01,Icahn's push to ditch EPA rule could crush speculator market $mur $cvi    via  via ,0,0,1,0,0,0,0.014785862,0.9606519,0.024562273,Neg,-0.945866,nypostbiz
+2558,2017-03-09 16:03:04,"Samsung's heir denies wrongdoing as South Korea gears up for what could be the ""trial of the century""    ",0,1,1,0,1,0,0.19225165,0.13224217,0.6755061,Neu,0.06000948,nypostbiz
+2562,2017-03-09 12:40:04,Icahn's push to ditch EPA rule could crush speculator market   via  via ,0,0,1,0,0,0,0.014590818,0.95864666,0.02676244,Neg,-0.94405586,nypostbiz
+2564,2017-03-08 20:58:02,"""I want to make sure that I can be me, and that means speaking truth to power, holding people accountable""  ",0,1,1,0,0,0,0.09536298,0.0216214,0.88301563,Neu,0.073741585,nypostbiz
+2573,2017-03-08 15:31:02,This little girl won't take any Wall Street bull    ,0,0,1,0,2,1,0.076542385,0.017359179,0.9060985,Neu,0.059183206,nypostbiz
+2586,2017-03-07 13:23:05,Apple won't always be the world's most valuable company    ,0,0,1,2,3,3,0.10016835,0.017636977,0.88219464,Neu,0.08253137,nypostbiz
+2600,2017-03-02 21:38:04,"Cyber warfare experts warn Congress that troops may soon be going up against ""Terminator"" robots    ",0,1,1,1,1,1,0.17147458,0.29489332,0.53363216,Neu,-0.12341875,nypostbiz
+2606,2017-03-02 00:08:02,"So, who will replace Chris Berman at ESPN?    ",0,0,1,0,0,0,0.0324245,0.085551366,0.88202417,Neu,-0.053126868,nypostbiz
+2625,2017-03-01 11:03:05,"Jamie Dimon is pushing for corporate tax reform, but doesn't think it will happen any time soon    ",0,1,1,0,2,0,0.054633565,0.032814004,0.9125524,Neu,0.021819562,nypostbiz
+2632,2017-02-28 14:55:05,"South Korean prosecutors say they will indict Samsung exec on bribery, embezzlement and other charges    ",0,1,1,0,1,0,0.018257177,0.8650728,0.11667005,Neg,-0.8468156,nypostbiz
+2633,2017-02-27 23:09:01,Your Trader Joe's apple sauce might have broken glass in it    ,1,0,1,0,0,0,0.052761827,0.4443268,0.5029114,Neu,-0.39156497,nypostbiz
+2637,2017-02-27 19:28:04,Jarring news! Your Trader Joe's apple sauce might have broken glass inside it   via  via ,1,1,1,0,1,0,0.03412851,0.7958834,0.16998807,Neg,-0.76175493,nypostbiz
+2640,2017-02-26 18:17:00,Will immigration reform stifle recruitment of foreign talent?   via  via ,0,0,1,0,0,1,0.052996006,0.03700157,0.9100024,Neu,0.015994437,nypostbiz
+2649,2017-02-24 17:26:05,Susan Panuccio will replace Bedi Singh as News Corp's CFO    ,0,0,1,0,0,0,0.024873432,0.05373982,0.9213867,Neu,-0.028866388,nypostbiz
+2651,2017-02-24 16:04:03,JCPenney announces it will close more than 100 stores    ,0,1,1,0,0,0,0.009651144,0.9115156,0.07883317,Neg,-0.90186447,nypostbiz
+2661,2017-02-23 00:32:04,How Snapchat could win up to $200 million in guaranteed future ad commitments    ,0,0,1,0,0,0,0.34933496,0.0073675234,0.64329755,Neu,0.34196743,nypostbiz
+2665,2017-02-22 20:24:00,Tiffany will get help from two investors in its search for a new chief executive    ,0,0,1,0,0,0,0.21083458,0.01088554,0.7782799,Neu,0.19994904,nypostbiz
+2667,2017-02-22 19:21:01,"""At some point, everyone will have a new car and there will be dollars that are freed up for other spending""  ",1,1,1,0,0,0,0.60668296,0.017024476,0.37629253,Pos,0.5896585,nypostbiz
+2668,2017-02-22 18:19:00,Time Inc. won't be breaking up anytime soon    ,0,1,1,0,0,0,0.02240352,0.04395394,0.9336425,Neu,-0.02155042,nypostbiz
+2670,2017-02-22 17:03:00,Why flight attendants would much rather work in economy over first class    ,0,0,1,0,0,0,0.034708086,0.054531828,0.9107601,Neu,-0.019823741,nypostbiz
+2685,2017-02-17 20:28:01,A man is accused of plotting to bomb Target stores so he could buy lower stock    ,1,1,1,0,0,0,0.029581279,0.82897246,0.14144628,Neg,-0.79939115,nypostbiz
+2690,2017-02-16 20:28:01,The Walgreens-Rite Aid deal may finally be a go    ,0,0,1,0,0,1,0.20763505,0.02278447,0.7695805,Neu,0.18485057,nypostbiz
+2693,2017-02-16 14:51:05,Immigration protests may leave NYC restaurants short-handed    via  via ,0,0,1,0,0,0,0.0095117735,0.96040595,0.030082345,Neg,-0.9508942,nypostbiz
+2711,2017-02-14 22:14:03,'Free commercial' for Ivanka could end up costing Kellyanne    via  via ,0,1,1,0,0,0,0.019108323,0.83076704,0.15012458,Neg,-0.81165874,nypostbiz
+2718,2017-02-14 02:11:01,ICYMI: Playboy will feature naked women once again    ,0,0,1,0,0,2,0.080262475,0.0129143745,0.9068231,Neu,0.0673481,nypostbiz
+2721,2017-02-14 00:25:02,DuPont will pay $671 million to settle lawsuits related to a toxic leak that allegedly poisoned water    ,1,0,1,0,0,0,0.06350118,0.7729793,0.16351956,Neg,-0.70947814,nypostbiz
+2722,2017-02-14 00:03:00,Verizon introduces its first unlimited data plan — but it'll cost you    ,0,1,1,0,1,0,0.19983834,0.012877336,0.7872843,Neu,0.18696101,nypostbiz
+2726,2017-02-12 17:16:02,Tax returns could be delayed as Left delays Mnuchin confirmation   via   via ,1,1,1,0,3,1,0.017472053,0.7298674,0.2526606,Neg,-0.71239537,nypostbiz
+2749,2017-02-08 21:30:03,Here's what the Manhattan DA's battle with Facebook could mean for your privacy    ,0,1,1,0,1,2,0.031165123,0.06833206,0.9005028,Neu,-0.03716694,nypostbiz
+2750,2017-02-08 21:03:05,Stephen Colbert may have finally found his mojo    ,1,0,1,0,0,2,0.14592133,0.037583113,0.81649554,Neu,0.10833822,nypostbiz
+2754,2017-02-08 19:17:02,Buffalo Wild Wings and Matt Ryan have more in common than you'd think 🍗🏈  ,0,1,1,0,1,2,0.06772408,0.03601065,0.89626527,Neu,0.03171343,nypostbiz
+2764,2017-02-08 15:45:03,Here's what the Manhattan DA's battle with Facebook could mean for your privacy    ,0,1,1,0,0,3,0.031165123,0.06833206,0.9005028,Neu,-0.03716694,nypostbiz
+2772,2017-02-08 02:09:00,This revolutionary gene therapy could be a miracle cure for deafness    ,0,0,1,0,1,1,0.5729383,0.009621089,0.4174406,Pos,0.56331724,nypostbiz
+2773,2017-02-08 01:17:02,This activist short-seller says Motorola's sweet government contracts may be coming to an end    ,0,1,1,0,1,1,0.01838174,0.9229996,0.058618683,Neg,-0.9046179,nypostbiz
+2803,2017-02-05 14:13:03,Shouldn't Silicon Valley tech firms take responsibility from hacker$   via   via ,0,1,1,0,0,0,0.05787647,0.041944038,0.9001795,Neu,0.015932433,nypostbiz
+2819,2017-02-03 10:03:02,Sony says it won't sell its struggling movie and TV business    ,0,1,1,0,0,0,0.03439324,0.24316148,0.72244525,Neu,-0.20876825,nypostbiz
+2829,2017-02-02 14:53:03,Macy's may be put up for sale as its longtime CEO steps down    ,1,0,1,0,0,1,0.017870702,0.4860992,0.49603003,Neu,-0.46822852,nypostbiz
+2843,2017-02-01 17:46:01,How Tom Brady could easily decide the fate of the stock market for the rest of the year    ,0,0,1,1,9,13,0.044522878,0.04912272,0.90635437,Neu,-0.004599843,nypostbiz
+2856,2017-01-31 18:05:04,This robot will keep a heart pumping even after it has failed  ,1,1,1,0,0,0,0.14070797,0.009898141,0.8493939,Neu,0.13080983,nypostbiz
+2862,2017-01-31 13:15:04,It looks like another rate hike could be on the way    ,0,1,1,4,7,5,0.54335654,0.17234547,0.28429794,Pos,0.37101108,nypostbiz
+2892,2017-01-28 12:03:05,"Looks like it could be a few days before Dow jumps its next hurdle: 21,000    ",0,1,1,0,0,0,0.072474696,0.019736478,0.9077889,Neu,0.05273822,nypostbiz
+2894,2017-01-27 19:25:04,Private equity firm could be a white knight for Walgreen-Rite Aid merger $wag $rad    via  via ,0,0,1,1,12,3,0.16025403,0.009044899,0.83070105,Neu,0.15120913,nypostbiz
+2900,2017-01-27 11:04:02,A wine brand will advertise during this year's SuperBowl for the first time in decades  ,0,0,1,0,0,1,0.26847145,0.009006763,0.7225218,Neu,0.25946468,nypostbiz
+2904,2017-01-26 21:31:01,Reminder: Avocados from Mexico will be the first advertiser in this year's Super Bowl commercial line-up  via ,0,0,1,0,2,3,0.08216499,0.009407235,0.9084277,Neu,0.07275775,nypostbiz
+2906,2017-01-26 17:44:03,The Dow Chemical and DuPont merger may signal how the EU will come down on Bayer's $66B acquisition of Monsanto    ,0,0,1,0,0,1,0.0231897,0.92110944,0.05570085,Neg,-0.8979197,nypostbiz
+2912,2017-01-26 10:22:05,Tribune Media's CEO will step down    ,0,0,1,0,1,0,0.016675863,0.25809774,0.7252264,Neu,-0.24142188,nypostbiz
+2917,2017-01-25 19:03:01,"Walgreens and Rite Aid will continue with their merger, even if they don't receive regulatory approval this week    ",0,1,1,0,0,0,0.21182568,0.012824315,0.77535003,Neu,0.19900137,nypostbiz
+2918,2017-01-25 18:14:05,Mark Zuckerberg won't be running for president in 2020    ,0,1,1,0,0,0,0.024986938,0.05313755,0.9218755,Neu,-0.02815061,nypostbiz
+2919,2017-01-25 17:41:00,"Enjoy Dow 20,000, but be warned: It could easily explode    ",1,0,1,5,18,19,0.031156007,0.423162,0.54568195,Neu,-0.392006,nypostbiz
+2927,2017-01-25 11:09:03,"BlackRock's Larry Fink will be closely monitoring Apple CEO's ""tax holiday""    ",0,1,1,0,0,0,0.023656636,0.113208525,0.8631348,Neu,-0.08955189,nypostbiz
+2928,2017-01-25 10:49:01,"""Male employees would sneak under the desks of female employees in order to look up their skirts""  ",0,0,1,0,0,0,0.03819375,0.53463364,0.42717257,Neg,-0.49643987,nypostbiz
+2934,2017-01-24 20:26:00,"""Male employees would sneak under the desks of female employees in order to look up their skirts""  ",0,0,1,0,0,0,0.03819375,0.53463364,0.42717257,Neg,-0.49643987,nypostbiz
+2935,2017-01-24 20:01:04,Here's a preview of one commercial you'll see during this year's SuperBowl  ,0,1,1,0,0,0,0.0467247,0.019104298,0.934171,Neu,0.027620401,nypostbiz
+2939,2017-01-24 16:15:01,It would appear the underworld of knockoffs isn't just limited to handbags in Chinatown    ,1,1,1,0,0,0,0.034700394,0.026980942,0.9383186,Neu,0.0077194516,nypostbiz
+2940,2017-01-24 15:53:03,"Wall Street is already salivating over billions Apple could bring home from its ""tax holiday""    ",0,1,1,0,0,0,0.025491135,0.7612451,0.21326375,Neg,-0.73575395,nypostbiz
+2945,2017-01-24 11:24:02,The ugly legal fight between Hulk Hogan and Gawker may soon be coming to Netflix    ,0,1,1,0,0,0,0.028272513,0.60993516,0.3617923,Neg,-0.58166265,nypostbiz
+2953,2017-01-23 22:31:01,ESPN will cancel one of its oldest shows in May    ,0,0,1,0,0,0,0.011415906,0.831487,0.1570971,Neg,-0.8200711,nypostbiz
+2954,2017-01-23 22:10:04,It would seem the Egg McMuffin can only take McDonald's so far    ,0,0,1,0,0,0,0.03493871,0.14795615,0.8171051,Neu,-0.11301744,nypostbiz
+2955,2017-01-23 21:48:05,"Sprint announces it will buy a third of Jay Z's music-streaming service, Tidal    ",0,0,1,2,12,4,0.08400986,0.011686707,0.90430343,Neu,0.07232316,nypostbiz
+2961,2017-01-23 11:02:03,Ralph Lauren should be thanking Melania Trump    ,0,1,1,4,6,26,0.09415345,0.04043284,0.86541367,Neu,0.05372061,nypostbiz
+2962,2017-01-23 02:45:02,MSG will trade private jets with its executive chairman    ,0,0,1,0,0,0,0.03539856,0.0154511295,0.9491504,Neu,0.019947432,nypostbiz
+2964,2017-01-23 01:58:03,Verizon's $4.83 billion acquisition of Yahoo could be done this week    ,1,0,1,0,1,0,0.058111146,0.01265644,0.92923236,Neu,0.045454707,nypostbiz
+2973,2017-01-22 19:03:00,How the middle class will benefit most from Trump's proposed tax plan    ,0,0,1,0,1,1,0.13745947,0.014354094,0.84818643,Neu,0.12310538,nypostbiz
+2976,2017-01-21 02:02:00,The day when computers enslave humanity may be just around the corner  ,0,1,1,0,0,1,0.036072515,0.05724898,0.90667856,Neu,-0.021176465,nypostbiz
+2977,2017-01-21 01:32:01,"""If you absolutely require a specific size this...might not be for you""  ",0,1,1,0,0,0,0.027119799,0.04988017,0.923,Neu,-0.02276037,nypostbiz
+2978,2017-01-21 01:06:02,Body armor of the future could actually be made of human hair    ,1,0,1,2,12,14,0.035925146,0.028744714,0.9353302,Neu,0.007180432,nypostbiz
+2983,2017-01-20 20:19:04,People are dropping thousands of dollars for sneakers that might not even fit. Here's why:    ,0,1,1,0,0,0,0.023298109,0.57716936,0.3995326,Neg,-0.5538713,nypostbiz
+2992,2017-01-20 11:01:03,Here's how Trump may plan to drastically reduce the federal government's size over the next decade    ,0,0,1,0,0,0,0.12736382,0.044890076,0.82774615,Neu,0.08247374,nypostbiz
+3003,2017-01-19 23:13:01,Trump's administration may cut $10.5 trillion in federal spending over the next decade    ,0,0,1,0,0,0,0.010459436,0.9586912,0.030849364,Neg,-0.94823176,nypostbiz
+3004,2017-01-19 22:44:04,EXCLUSIVE: Peter Thiel may be tapped as ambassador to Germany    ,1,0,1,0,2,0,0.024545075,0.15928961,0.8161654,Neu,-0.13474454,nypostbiz
+3017,2017-01-19 15:16:00,Why Donald Trump will be good for real estate developers    ,0,0,1,0,0,0,0.090711825,0.014404118,0.89488405,Neu,0.07630771,nypostbiz
+3020,2017-01-19 13:01:02,"Trump has been great for jobs, but now he must get a handle on trade    ",1,1,1,0,0,1,0.06486146,0.038138814,0.8969998,Neu,0.026722647,nypostbiz
+3031,2017-01-18 20:13:02,$MNK trading halted as complaint from Martin Shkreli may lead to FTC drug price suit    via ,1,0,1,0,0,0,0.009961163,0.9635452,0.026493594,Neg,-0.953584,nypostbiz
+3034,2017-01-18 18:39:05,How much would you pay for Judy Garland's childhood home?    ,0,0,1,0,4,3,0.031967085,0.03648698,0.9315459,Neu,-0.0045198947,nypostbiz
+3036,2017-01-18 17:26:05,This monopoly may have forced you to pay more than you should have for your cell phone    ,1,0,1,0,9,5,0.015427408,0.92848647,0.056086153,Neg,-0.91305906,nypostbiz
+3037,2017-01-18 16:57:00,"The New York Times announces it will cut its budget and staff to meet demands of the digital age,  reports    ",0,1,1,0,1,1,0.007207101,0.96769756,0.02509537,Neg,-0.96049047,nypostbiz
+3044,2017-01-18 11:58:04,"Nike's new LeBron sneakers will run you more than $2,000 — but there's a reason why    ",0,1,1,0,0,0,0.07142663,0.032095738,0.8964776,Neu,0.039330892,nypostbiz
+3049,2017-01-18 02:27:04,The New York Times announces it will cut its budget and staff to meet demands of the digital age    ,0,1,1,1,1,1,0.0069668405,0.96821725,0.024815824,Neg,-0.9612504,nypostbiz
+3050,2017-01-18 02:01:03,Nike's marketing gimmick packaged with these new LeBron sneakers might actually make the gigantic price tag worth it    ,1,0,1,0,0,0,0.76557714,0.009346258,0.22507656,Pos,0.7562309,nypostbiz
+3055,2017-01-17 22:07:01,"Fox and News Corp. will keep and expand their Midtown headquarters,  reports    ",0,0,1,0,0,0,0.6840524,0.00991481,0.30603278,Pos,0.6741376,nypostbiz
+3059,2017-01-17 20:29:00,Flying cars could be here sooner than you think    ,0,1,1,1,2,3,0.063885525,0.02244773,0.9136667,Neu,0.041437797,nypostbiz
+3060,2017-01-17 19:57:01,"""Whether you like it or not, the global economy is the big ocean you cannot escape from""  ",0,1,1,0,0,1,0.048235804,0.15096301,0.8008012,Neu,-0.102727205,nypostbiz
+3067,2017-01-17 15:49:01,"EXCLUSIVE: Verizon may acquire a big cable company to answer rival AT&T's recent moves,  reports    ",0,0,1,1,9,3,0.67967105,0.022224514,0.2981045,Pos,0.65744656,nypostbiz
+3069,2017-01-17 14:54:05,iHeartMedia's CEO will pocket nearly $9 million in bonuses this year    ,0,0,1,1,0,1,0.122875825,0.106070645,0.7710535,Neu,0.01680518,nypostbiz
+3071,2017-01-17 13:28:05,"The much-anticipated media venture  will launch this week with a star-studded DC party,  reports    ",0,0,1,0,3,4,0.4979302,0.012549454,0.48952037,Pos,0.48538074,nypostbiz
+3073,2017-01-17 12:46:04,"General Motors will invest $1 billion in its factories, creating or securing hundreds of jobs    ",0,1,1,0,0,0,0.61082035,0.011754264,0.3774254,Pos,0.5990661,nypostbiz
+3075,2017-01-16 23:49:05,This eco-friendly lifestyle magazine announces it won't be killing trees anymore    ,0,1,1,0,0,0,0.07266437,0.015854774,0.91148084,Neu,0.056809597,nypostbiz
+3077,2017-01-16 22:32:04,Why  says he won't use the  Twitter handle    ,0,1,1,0,0,0,0.022447381,0.06134739,0.91620517,Neu,-0.03890001,nypostbiz
+3080,2017-01-16 20:16:00,"How Trump can get the Dow to 20,000    ",0,0,1,0,1,1,0.10988992,0.011740539,0.8783695,Neu,0.098149374,nypostbiz
+3085,2017-01-16 11:32:04,This is when you'll be able to get your hands on a NintendoSwitch    ,0,1,1,0,0,0,0.1163221,0.011179492,0.8724984,Neu,0.10514261,nypostbiz
+3090,2017-01-16 03:21:00,Israel's Benjamin Netanyahu and Canada's Justin Trudeau will skip this week's World Economic Forum    ,0,0,1,0,0,0,0.023303168,0.09101047,0.88568634,Neu,-0.06770731,nypostbiz
+3098,2017-01-15 01:29:04,". explains how Trump can push the Dow past the 20,000 mark    ",0,1,1,5,22,33,0.21009791,0.010070585,0.7798315,Neu,0.20002732,nypostbiz
+3099,2017-01-14 21:35:05,"In another victory for Trump, Lockheed Martin's CEO said costs would be cut for the F-35 fighter jet    ",1,0,1,0,0,1,0.42519826,0.43308944,0.14171226,Neg,-0.007891178,nypostbiz
+3105,2017-01-14 00:54:01,Hedge fund founder Anthony Scaramucci says he'll serve as an advisor to Trump    ,0,1,1,0,0,0,0.05056618,0.013359822,0.93607396,Neu,0.03720636,nypostbiz
+3112,2017-01-13 16:13:03,"Citigroup will be fined $1 million for overcharging clients, reports      ",1,1,1,0,0,0,0.012347447,0.94588363,0.04176884,Neg,-0.9335362,nypostbiz
+3117,2017-01-13 13:16:04,"""Everyone should realize by now that media firestorms are Trump's thing,"" writes   ",0,1,1,2,15,18,0.06873328,0.049445838,0.8818209,Neu,0.019287445,nypostbiz
+3134,2017-01-12 14:25:00,"""Your organization is terrible"": Trump's CNN tirade may impact the Time Warner-AT&T merger,  reports    ",0,1,1,2,3,3,0.009179844,0.9323539,0.058466278,Neg,-0.9231741,nypostbiz
+3139,2017-01-12 02:49:03,"""Amazon must tender unconditional apology""  ",0,0,1,0,0,0,0.37343118,0.020912534,0.60565627,Neu,0.35251865,nypostbiz
+3142,2017-01-12 00:48:03,Snap Inc. will settle its international headquarters in...    ,0,0,1,0,0,0,0.046687823,0.016920961,0.9363912,Neu,0.029766861,nypostbiz
+3143,2017-01-11 23:43:03,"""The President-elect will have no role in deciding whether the Trump Organization engages in a new deal""  ",0,1,1,0,1,1,0.02284839,0.043193426,0.9339582,Neu,-0.020345036,nypostbiz
+3152,2017-01-11 17:01:05,"""I think their heads will explode""  ",0,1,1,0,1,0,0.08797358,0.578865,0.33316147,Neg,-0.4908914,nypostbiz
+3174,2017-01-10 16:58:01,"You can blame Obama's ""gig economy"" for Trump's victory    ",0,0,1,0,0,0,0.09663279,0.23678364,0.6665836,Neu,-0.14015085,nypostbiz
+3184,2017-01-10 12:31:00,"You can blame Obama's ""gig economy"" for Trump's victory    ",0,0,1,0,0,1,0.09663279,0.23678364,0.6665836,Neu,-0.14015085,nypostbiz
+3187,2017-01-10 02:29:04,. is expected to release new iPad models this year — but will anyone care?    ,1,1,1,1,7,8,0.058337003,0.019376148,0.9222868,Neu,0.038960855,nypostbiz
+3188,2017-01-10 00:47:01,"You can blame Obama's ""gig economy"" for Trump's victory    ",0,0,1,1,0,1,0.09663279,0.23678364,0.6665836,Neu,-0.14015085,nypostbiz
+3190,2017-01-09 23:58:03,. will sell the bulk of its China and Hong Kong business to a state-backed conglomerate    ,0,0,1,0,0,2,0.036656413,0.014118639,0.9492249,Neu,0.022537775,nypostbiz
+3192,2017-01-09 23:09:00,. announces it will release cyber-security patches to protect pacemakers from getting hacked    ,1,1,1,2,11,7,0.10191467,0.3349188,0.56316656,Neu,-0.23300412,nypostbiz
+3193,2017-01-09 22:54:03,Marissa Mayer will resign from Yahoo's board when and if Verizon deal is closed.  via ,1,1,1,0,2,1,0.018895412,0.524569,0.4565356,Neg,-0.5056736,nypostbiz
+3195,2017-01-09 16:15:03,"Apple will release new iPad models, but will anyone care?    via  via ",0,0,1,0,0,0,0.057619393,0.012040494,0.9303401,Neu,0.045578897,nypostbiz
+3197,2017-01-09 15:11:05,How  can negotiate his way to success as president    ,0,0,1,0,0,0,0.25926748,0.00985228,0.73088026,Neu,0.2494152,nypostbiz
+3201,2017-01-09 12:35:04,Trump should look at health insurance companies as the key to fixing ObamaCare   via   via ,0,1,1,0,1,1,0.28201407,0.012328267,0.70565766,Neu,0.2696858,nypostbiz
+3203,2017-01-09 11:41:04,". has announced it will invest $1 billion in Midwestern plants, creating more than 2,000 jobs     ",1,1,1,0,0,0,0.840795,0.009023201,0.15018187,Pos,0.8317718,nypostbiz
+3204,2017-01-09 11:02:04,The app that will save you from shoveling snow this winter    ,0,1,1,0,0,0,0.114584856,0.012844055,0.8725711,Neu,0.1017408,nypostbiz
+3215,2017-01-08 08:02:03,How Trump can negotiate his way to success as president  ,0,0,1,0,0,2,0.18647847,0.01331936,0.80020225,Neu,0.17315911,nypostbiz
+3217,2017-01-07 23:48:05,"These Wall Street types hope break dancing will make them ""cool""    ",0,1,1,1,13,13,0.22692636,0.011364124,0.7617095,Neu,0.21556224,nypostbiz
+3227,2017-01-06 21:50:05,"""I can't sit here today and say with confidence one way or another, because we still don't know""  ",0,1,1,0,0,0,0.057680618,0.222913,0.71940637,Neu,-0.16523238,nypostbiz
+3237,2017-01-06 10:51:01,. will open its first retail store in New York this spring    ,0,0,1,0,3,1,0.1544216,0.009883667,0.8356948,Neu,0.14453793,nypostbiz
+3244,2017-01-06 01:35:01,December's unemployment rate will be announced tomorrow — but it doesn’t really matter    ,1,1,1,0,0,0,0.027153138,0.31238568,0.66046125,Neu,-0.28523254,nypostbiz
+3249,2017-01-05 18:56:03,"Retail stocks plummet as  announces it will ax 10,000 jobs    ",1,0,1,0,0,0,0.009105285,0.9584562,0.032438565,Neg,-0.94935095,nypostbiz
+3252,2017-01-05 15:55:02,JUST IN:  will replace  on Fox    ,0,0,1,12,22,58,0.021878807,0.12059501,0.85752624,Neu,-0.0987162,nypostbiz
+3260,2017-01-05 10:28:00,". announces it will close its New York and Washington offices, and lay off 50 employees    ",1,0,1,0,1,0,0.0067081065,0.9651681,0.02812385,Neg,-0.95846003,nypostbiz
+3263,2017-01-04 23:57:03,Paying with cash? You might want to wash your hands    ,0,1,1,0,0,0,0.046813786,0.040129162,0.9130571,Neu,0.0066846237,nypostbiz
+3267,2017-01-04 20:57:02,Would you quit cash if it was making you sick?    ,1,1,1,0,0,0,0.024857566,0.6568606,0.3182819,Neg,-0.632003,nypostbiz
+3281,2017-01-04 12:17:01,Trump's pick for Treasury secretary could be in hot water  ,0,0,1,1,0,0,0.03756264,0.47559723,0.48684,Neu,-0.4380346,nypostbiz
+3285,2017-01-04 06:40:02,"""Maybe Facebook would prefer the statue to be dressed again""  ",1,0,1,0,2,2,0.124419264,0.018734133,0.85684663,Neu,0.10568513,nypostbiz
+3289,2017-01-04 00:11:01,Trump will name an official who served under Ronald Reagan to be the US trade representative    ,1,0,1,0,0,0,0.034268446,0.017592369,0.94813913,Neu,0.016676078,nypostbiz
+3298,2017-01-03 16:58:00,JUST IN:  cancels plans to build $1.7B plant in Mexico; will create 700 jobs in Michigan    ,0,0,1,5,33,56,0.04747024,0.8612969,0.091232896,Neg,-0.8138267,nypostbiz
+3303,2017-01-03 13:15:04,How Trump could finally exact revenge against the NFL    ,0,0,1,3,8,12,0.08210149,0.06664685,0.8512517,Neu,0.015454635,nypostbiz
+3304,2017-01-03 02:55:00,The amount of traffic that can be reduced with carpool apps (like  and  is staggering    ,1,1,1,0,1,2,0.06475711,0.1902126,0.74503034,Neu,-0.1254555,nypostbiz
+3314,2017-01-02 16:42:05,How NBC averted a blackout that would've affected millions of households    ,1,1,1,0,0,0,0.046862207,0.08982407,0.86331373,Neu,-0.042961866,nypostbiz
+3318,2017-01-02 01:19:03,Billionaires will be forced to decide whether to stay at the World Economic Forum or attend Trump's inauguration    ,1,1,1,0,2,1,0.015106149,0.57886946,0.40602437,Neg,-0.5637633,nypostbiz
+3320,2017-01-01 23:04:04,The Federal Reserve keeps talking about hiking interest rates. Here's why that would backfire:    ,0,1,1,0,0,0,0.03934519,0.24520282,0.715452,Neu,-0.20585763,nypostbiz
+3325,2017-01-01 19:15:02,"""He would make a fist and start smashing [it] on the table until it almost broke""  ",1,1,1,0,0,0,0.026206596,0.6620851,0.31170824,Neg,-0.6358785,nypostbiz
+3326,2017-01-01 07:21:00,Disney took out an insurance policy in case Carrie Fisher couldn't finish movies — and now may collect $50 million    ,1,0,1,0,0,0,0.052954264,0.13820773,0.808838,Neu,-0.08525347,nypostbiz

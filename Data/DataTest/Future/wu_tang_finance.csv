@@ -1,0 +1,7 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+3,2021-01-21 17:55:03,I know the meme about if Amazon were in charge of this vaccine distribution things would be better. But it’s no doubt true given their access to capital and distribution infrastructure yo,1,1,1,7,12,175,0.3625474,0.011197551,0.62625504,Neu,0.35134986,wu_tang_finance
+4,2021-01-05 15:40:00,Personal finance and the god damn simple basics of principal and interest should be mandatory for all high school students. This shouldnt be confusing. It’s not if you try and just google how debt works...,1,1,1,29,62,604,0.029695852,0.08829275,0.8820115,Neu,-0.058596894,wu_tang_finance
+14,2020-04-22 03:06:05,"Bezos gonna be a trillionaire somebday even tho after I purchase a movie on Amazon I still can’t watch it cause of some unidentified error. Bald, got completely played by his mistress, mfer",1,1,1,5,22,350,0.030456426,0.38627422,0.5832693,Neu,-0.3558178,wu_tang_finance
+22,2019-10-10 15:50:04,  Y tho. Why would any highly skilled engineer want to work for Apple at below market wages.,1,0,1,2,1,45,0.03859183,0.24877007,0.7126381,Neu,-0.21017824,wu_tang_finance
+29,2019-03-28 14:33:03,     It’s a simple formula. I’m sure ramp will agree.,0,1,1,1,0,4,0.19455552,0.010220762,0.7952237,Neu,0.18433475,wu_tang_finance
+34,2019-01-20 15:43:04, You can google,0,0,1,0,1,1,0.08047609,0.02055541,0.8989685,Neu,0.05992068,wu_tang_finance

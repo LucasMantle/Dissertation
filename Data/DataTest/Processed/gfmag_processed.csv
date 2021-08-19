@@ -1,0 +1,15 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-02-03 20:02:03,"CEO of Amazon Web Services business Andrew Jassy will take over as Amazon CEO from founder Jeff Bezos, dimming the prospects of a spinoff.    ",0,1,1,0,1,0,0.016043196,0.85973096,0.1242259,Neg,-0.8436878,gfmag
+1,2020-10-20 19:05:00,"By drone or by cable, Google, Facebook and other tech giants are vying to unlock Africa’s trove of potential subscribers who still lack internet access.    ",1,1,0,0,0,0,0.19924526,0.022464247,0.7782905,Neu,0.17678101,gfmag
+2,2020-09-15 20:29:00,S&P Global is forecasting bank loan losses of $366 billion for the US and Canada over the next two years.    ,0,1,0,0,0,1,0.008745354,0.9729073,0.018347334,Neg,-0.96416193,gfmag
+3,2020-04-29 19:05:00,"Humbled, Facebook opts to play second fiddle in India.    ",1,1,0,0,0,0,0.19854885,0.03221593,0.76923525,Neu,0.16633293,gfmag
+4,2020-01-24 19:05:00,Google executives engage in a game of musical chairs as the company faces new regulatory scrutiny.    ,0,1,0,0,0,0,0.025950575,0.44362828,0.53042114,Neu,-0.4176777,gfmag
+5,2020-01-03 19:30:02,Google founders turn to Pichai—again.    ,0,1,0,0,0,0,0.023652155,0.21813531,0.75821257,Neu,-0.19448316,gfmag
+6,2019-07-24 19:00:01,"Facing regulatory hurdles in the U.S. and China, the best bet for Facebook's Libra may be in Latin America.    ",0,1,1,1,0,0,0.49567798,0.009448057,0.49487394,Pos,0.48622993,gfmag
+7,2019-01-04 18:42:03," Hi Flavio, you can message us directly via our Facebook page and we can start a non-public dialogue there.",0,0,1,0,0,0,0.07152042,0.013388953,0.9150906,Neu,0.058131464,gfmag
+8,2018-09-06 20:37:02,"Berkshire Hathaway, Amazon and JPMorgan Chase have picked a doctor to lead their new health care venture.    ",1,1,0,0,1,1,0.13660786,0.0102894595,0.8531027,Neu,0.1263184,gfmag
+9,2018-07-24 13:38:05,Amazon wants to deliver your medicine.    ,0,1,0,0,0,0,0.09632439,0.011728831,0.8919468,Neu,0.08459556,gfmag
+10,2018-07-21 18:34:02,Amazon moves into the medicine delivery business.    ,0,1,0,0,0,0,0.06493333,0.01653488,0.9185318,Neu,0.04839845,gfmag
+11,2018-06-09 19:15:01,Apple cancels Irish data center construction citing the government's cumbersome legal and planning processes.    ,0,1,0,0,0,0,0.0073380084,0.9670117,0.025650214,Neg,-0.9596737,gfmag
+12,2018-04-15 19:00:04,Facebook crisis calls for new rules as Mark Zuckerberg's damage control effort falls flat.  ,0,1,0,1,0,0,0.02153161,0.91944987,0.059018493,Neg,-0.8979183,gfmag
+13,2018-04-06 13:35:00,Bring on the Komodos! Indonesia's corporate bond issues--in dollars and local currency--are getting a boost from an S&P upgrade of the nation's sovereign debt.    ,0,1,0,0,0,0,0.9334501,0.014514121,0.052035764,Pos,0.91893595,gfmag

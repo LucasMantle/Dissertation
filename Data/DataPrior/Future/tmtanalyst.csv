@@ -1,0 +1,27 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+5,2018-03-16 12:11:00,"note from a sell side tech desk this am “growth down, tech up, that’s the way we like to...” I would have gone with a “jump around” reference for st Patty’s tomorrow but that’s just me",1,1,1,0,0,2,0.070811145,0.5316304,0.39755848,Neg,-0.46081924,tmtanalyst
+8,2018-03-05 14:57:03,Congrats to  on the purchase of zagats.   have built an amazing restaurant review site/app. Can’t wait to see what they do next.,1,1,1,1,1,9,0.2556617,0.010402402,0.73393583,Neu,0.2452593,tmtanalyst
+13,2018-02-25 23:04:01, I worry that people will never make that leap because that would mean they were conned. No one wants to admit they were someone else’s sucker.,1,1,1,1,0,1,0.035867207,0.30390334,0.6602295,Neu,-0.26803613,tmtanalyst
+15,2018-02-24 17:14:04, If I was a parent at that school I would be disappointed if my child didn’t walk out in protest.,1,0,1,0,0,2,0.036660094,0.80037355,0.16296636,Neg,-0.7637135,tmtanalyst
+25,2018-01-01 17:12:05,I think the cardboard pizza box would taste better than this pizza shady,0,1,1,0,0,0,0.2526228,0.010145595,0.7372316,Neu,0.24247722,tmtanalyst
+37,2017-12-27 02:23:01,Garbage can is the everything bagel of ice cream. Chilling at  with the fam,0,1,1,0,0,2,0.05570022,0.019852484,0.92444736,Neu,0.03584774,tmtanalyst
+42,2017-12-21 02:29:02, I will brine them in 12 diet cokes and 2 scoops so they won’t be sad!,1,0,1,0,0,0,0.07001547,0.021412278,0.90857226,Neu,0.048603192,tmtanalyst
+54,2017-12-10 23:42:02,"Even if you think it’s going higher, risk mgmt would say take some profits, wait and see and reinvest in the future.",0,1,1,2,1,3,0.06531301,0.02387331,0.9108137,Neu,0.0414397,tmtanalyst
+76,2017-11-23 02:48:02," Or if frying, spatchcock, grilling, smoking or turducken - can’t stuff",0,0,1,0,0,0,0.0245606,0.07117862,0.90426075,Neu,-0.046618022,tmtanalyst
+87,2017-11-16 22:46:03," It would acquire film studios, Hulu, intl assets not domestic cable and broadcast assets. But it’s definitely ballsy",0,1,1,1,1,0,0.12096697,0.01233092,0.86670214,Neu,0.10863605,tmtanalyst
+88,2017-11-10 11:47:04,  A must read,0,0,1,0,0,3,0.13008025,0.032186583,0.8377332,Neu,0.09789367,tmtanalyst
+124,2017-08-19 20:05:01, Thanks. We are going on a trip so want something he can physically read. Maybe I'll try rotowire,0,1,1,0,0,1,0.063459,0.028514331,0.90802664,Neu,0.03494467,tmtanalyst
+126,2017-08-18 18:05:01, Well to be fair how effective could he communicate his strategy if his mouth was full,1,0,1,0,0,0,0.07501192,0.018121045,0.906867,Neu,0.05689087,tmtanalyst
+131,2017-08-17 03:36:00,Was trump even invited/wanted at the memorial service?  If I was the family I would say no!  ,1,0,1,0,0,1,0.04063868,0.10710205,0.8522593,Neu,-0.066463366,tmtanalyst
+140,2017-08-08 13:45:02,"Why Would You Go to a Phish Concert, Let Alone 13? I Found Out via      ",1,0,1,0,0,1,0.041202884,0.05186949,0.90692765,Neu,-0.010666605,tmtanalyst
+174,2017-05-31 19:26:02, Were you following around this woman to see where her camel dress would take her?,0,1,1,0,0,0,0.032699145,0.100449346,0.8668515,Neu,-0.0677502,tmtanalyst
+181,2017-05-25 13:09:02," Nothing against znga but it doesn't have the same secular tailwinds. But margins should keep improving, cash and real estate optionality",0,1,1,0,0,0,0.95181596,0.016228452,0.03195552,Pos,0.9355875,tmtanalyst
+184,2017-05-25 12:50:04,"Motley Fool article on ""3 gaming stocks to buy"". Can you guess which 3?  Hmmm, assuming a US reader/investor base there really are only 3!!!",0,1,1,2,0,3,0.03857533,0.03972549,0.92169917,Neu,-0.001150161,tmtanalyst
+188,2017-05-19 21:25:03," I don't see people shorting stocks and putting out reports so ""friends"" can get long lower",0,1,1,0,0,0,0.038047705,0.12841111,0.83354115,Neu,-0.09036341,tmtanalyst
+195,2017-05-10 21:40:05,Will we snap the ipo price? thankyouillbehereallweek,0,0,1,1,0,4,0.09422615,0.022190707,0.8835832,Neu,0.07203545,tmtanalyst
+199,2017-05-09 21:30:03,"""How far I'll go"" is a good song but Iger should have led with ""you're welcome"". On second thought maybe not with the stock down.",1,1,1,1,0,1,0.127409,0.18249144,0.69009954,Neu,-0.05508244,tmtanalyst
+207,2017-04-12 14:15:00, You must be very popular in brownstone Brooklyn.,0,0,1,0,0,0,0.10663256,0.017726682,0.87564075,Neu,0.08890588,tmtanalyst
+215,2017-03-08 03:53:00,That portrait will be taken down by the morning.  ,1,0,1,0,0,0,0.020682648,0.06324086,0.91607654,Neu,-0.042558216,tmtanalyst
+234,2017-02-03 20:49:02, you have to walk before you can run,0,1,1,2,0,1,0.037918787,0.12660612,0.83547515,Neu,-0.08868733,tmtanalyst
+235,2017-02-02 14:30:03, I also dig you won't even dignify him by spelling his name. Like a curse in a moderated chat room.,0,1,1,0,0,0,0.029619433,0.26538718,0.7049934,Neu,-0.23576775,tmtanalyst
+242,2017-01-16 03:00:04,Highly recommend mama guidaras at the nomad but bring a big appetite. I can barely move. Chicken parm was ridiculous.,1,1,1,0,0,2,0.061172746,0.15989953,0.7789277,Neu,-0.09872679,tmtanalyst

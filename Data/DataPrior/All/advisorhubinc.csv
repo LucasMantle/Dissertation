@@ -1,0 +1,829 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-04-06 19:46:00,"Securities America, PNC, Geneos to Pay $15 Million for Mutual Fund Violations  ",0,0,0,0,0,0,0.0517023,0.015732594,0.93256515,Neu,0.035969704,advisorhubinc
+1,2018-04-06 17:07:03,Morgan Stanley Sued for $9 Million by Blind Man Claiming Inaccessible Websites  ,0,0,0,0,0,1,0.023057887,0.91496396,0.061978173,Neg,-0.8919061,advisorhubinc
+2,2018-04-04 21:36:02,"Raymond James Withholds Series 7 Support, Gets Hit With Class-Action Suit  ",0,0,0,0,0,0,0.011378414,0.9599453,0.028676251,Neg,-0.9485669,advisorhubinc
+3,2018-04-04 18:19:02,Lifetime UBS Broker Sues Firm Over Nickel-and-Diming  ,0,0,0,0,0,1,0.010796217,0.95182383,0.03738001,Neg,-0.94102764,advisorhubinc
+4,2018-04-03 21:09:05,Edward Jones Sued for Shuttling Customers to Fee Accounts  ,0,1,0,0,0,0,0.034418505,0.8630655,0.10251605,Neg,-0.82864696,advisorhubinc
+5,2018-04-03 18:02:05,Merrill Retreats from Battle to Fight Former Executives in Court  ,0,0,0,0,0,0,0.018496327,0.9159442,0.06555947,Neg,-0.8974479,advisorhubinc
+6,2018-04-02 21:03:03,Wells Fargo Duo Goes Indie with RayJay in Upstate New York  ,0,0,0,0,0,0,0.15045764,0.028009448,0.82153296,Neu,0.12244819,advisorhubinc
+7,2018-04-02 19:08:01,Bank-Affiliated Brokers Go 2-for-2 in Expungement Wins  ,0,0,0,0,0,1,0.036766008,0.9367668,0.026467234,Neg,-0.9000008,advisorhubinc
+8,2018-03-29 18:56:04,EXCLUSIVE: Morgan Stanley to Squeeze Mutual Fund Sales Compensation  ,0,0,0,0,0,0,0.07739161,0.036206093,0.88640225,Neu,0.041185517,advisorhubinc
+9,2018-03-29 16:46:00,LPL CEO’s Compensation Jumps 156% in His First Year at the Top  ,0,0,0,0,0,0,0.8573676,0.08439867,0.05823367,Pos,0.7729689,advisorhubinc
+11,2018-03-28 17:49:01,Texas Advisor Ed Butowsky’s Politics Deplete His Client Assets  ,0,0,0,0,1,0,0.0116422875,0.9388312,0.049526516,Neg,-0.92718893,advisorhubinc
+12,2018-03-27 21:51:05,SEC Charges Wedbush as “Recidivist” B/D in New Supervisory Action  ,0,0,0,0,0,0,0.0398635,0.88051975,0.079616696,Neg,-0.8406562,advisorhubinc
+13,2018-03-27 17:06:01,Former UBS Broker with Celebrity Client Ordered to Repay His “Loan”  ,0,0,0,0,0,0,0.065097384,0.73261505,0.20228758,Neg,-0.66751766,advisorhubinc
+14,2018-03-26 21:21:04,Steward Partners Hires RBC Team in Houston  ,0,0,0,0,0,0,0.051238805,0.02345951,0.9253017,Neu,0.027779294,advisorhubinc
+15,2018-03-26 17:11:02,Raymond James Revamps Alex. Brown Manager Ranks  ,0,0,0,0,0,0,0.026767764,0.043829184,0.92940307,Neu,-0.01706142,advisorhubinc
+16,2018-03-26 16:30:03,Attention AdvisorHub readers! We need YOUR input! Help us improve our site by answering this quick question:  ,0,1,0,0,0,0,0.19953996,0.010122166,0.79033786,Neu,0.1894178,advisorhubinc
+17,2018-03-23 18:24:03,Wealthfront Valuation Off About a Third in New Funding—Sources  ,0,0,0,0,1,0,0.10614637,0.59398437,0.29986927,Neg,-0.487838,advisorhubinc
+18,2018-03-23 17:24:00,J.P. Morgan Said to Nab Veteran Goldman Sachs Broker in Miami  ,0,0,0,0,0,0,0.10981504,0.0176176,0.87256736,Neu,0.09219744,advisorhubinc
+19,2018-03-22 21:01:01,Beverly Hills Brouhaha: More Morgan Stanley Advisors Change Seats  ,0,0,0,0,0,0,0.03179757,0.16276282,0.8054396,Neu,-0.13096525,advisorhubinc
+20,2018-03-22 15:19:05,Raymond James’ RIA Chief Bill Van Law Leaves  ,0,1,0,0,0,0,0.049546022,0.070704855,0.87974906,Neu,-0.021158833,advisorhubinc
+21,2018-03-21 16:13:01,"If you're a Marketing professional trying to figure out how to reach the elusive Financial Advisor audience, you won't want to miss today's webinar. Starts at 2 P.M. EST. marketing webinar HNW financialadvisors   ",0,1,1,0,0,0,0.029633095,0.034655765,0.9357111,Neu,-0.005022669,advisorhubinc
+22,2018-03-21 16:06:03,Edward Jones Locks In Lead as Biggest U.S. Brokerage Force  ,0,0,0,0,0,0,0.5681381,0.036845125,0.3950168,Pos,0.531293,advisorhubinc
+23,2018-03-20 18:27:00,Former Morgan Stanley Manager in New York Flogs Independence  ,0,0,0,0,0,0,0.031482764,0.75873536,0.2097818,Neg,-0.7272526,advisorhubinc
+24,2018-03-20 15:55:05,Finra Shifts Firm Examination Criteria  ,0,0,0,0,0,0,0.28110203,0.010995133,0.7079028,Neu,0.2701069,advisorhubinc
+25,2018-03-19 20:35:05,"UBS Manager in San Diego Flits to Wells, Returns a Week Later  ",0,0,0,0,0,0,0.028652053,0.2126431,0.75870484,Neu,-0.18399104,advisorhubinc
+26,2018-03-19 15:50:04,"OPINION: We’re Heading to a Salaried Broker Model, and We’re Broken-Hearted  ",0,1,0,0,0,0,0.03169903,0.6625186,0.30578238,Neg,-0.63081956,advisorhubinc
+27,2018-03-16 21:11:05,Merrill Sticks with IRA Constraints Amid DOL Rule Turbulence  ,0,0,0,0,0,0,0.24976812,0.32908055,0.4211513,Neu,-0.07931243,advisorhubinc
+28,2018-03-16 20:46:01,Former Brokers Sue Edward Jones Over Clawback Policy  ,0,0,0,0,0,0,0.018012937,0.9264518,0.05553523,Neg,-0.90843886,advisorhubinc
+29,2018-03-16 16:46:04,DOL Fiduciary Rule Appears Headed for the Supreme Court  ,0,0,0,0,1,0,0.06613727,0.17475845,0.7591043,Neu,-0.10862118,advisorhubinc
+30,2018-03-15 20:06:03,Schwab Terminates Custody Agreement with Great Lakes & Atlantic  ,0,1,0,0,0,0,0.020311406,0.7833572,0.19633143,Neg,-0.7630458,advisorhubinc
+31,2018-03-15 15:38:05,"Oppenheimer Plans Indie Channel, Shifts California Managers  ",0,1,0,0,0,0,0.029684024,0.025830101,0.94448584,Neu,0.0038539227,advisorhubinc
+32,2018-03-14 16:35:02,Stifel Hires Longtime UBS Manager in the Southwest  ,0,0,0,0,0,1,0.09244706,0.019974802,0.88757807,Neu,0.07247226,advisorhubinc
+33,2018-03-13 20:29:02,Ami Forte Resurfaces at New Firm as Morgan Stanley Battle Wages  ,0,0,0,0,0,0,0.21065377,0.07108999,0.71825624,Neu,0.13956377,advisorhubinc
+34,2018-03-13 16:32:02,"Merrill Shuffles Managers in Ultra-Rich Business, Adds Centralized Support Unit  ",0,0,0,0,1,1,0.2343158,0.03332529,0.732359,Neu,0.20099051,advisorhubinc
+36,2018-03-09 21:47:00,Ex-Morgan Stanley Brokers in Florida Emerge from TRO Battles  ,0,0,0,0,0,0,0.041988757,0.6316638,0.32634747,Neg,-0.58967507,advisorhubinc
+37,2018-03-09 18:25:01,UBS Removes Number of Recruited Brokers from Annual Report  ,0,0,0,0,0,0,0.019367851,0.14541934,0.83521277,Neu,-0.12605149,advisorhubinc
+38,2018-03-08 21:10:01,Ex-Wells Broker Seeks $2.4 Mln “Sunset” Payment After Losing His Book  ,0,1,0,0,0,0,0.08372185,0.6570291,0.25924906,Neg,-0.5733073,advisorhubinc
+39,2018-03-07 17:24:02,Morgan Stanley Fires Two 50-plus Year Brokers in Boston  ,0,0,0,0,0,0,0.014635194,0.8866373,0.0987275,Neg,-0.87200207,advisorhubinc
+40,2018-03-05 17:04:00,Greg Fleming Hires More Morgan Stanley Pros for Rockefeller Venture  ,0,1,0,0,0,0,0.17328928,0.024501348,0.8022094,Neu,0.14878793,advisorhubinc
+41,2018-03-02 21:36:00,Wells to Industry: Hands Off Our Private Bankers and Neophyte Brokers  ,0,1,0,0,0,0,0.02971361,0.39783964,0.5724467,Neu,-0.36812603,advisorhubinc
+42,2018-03-02 20:11:03,Morgan Stanley Team in Ohio Jumps to Wells Fargo  ,0,0,0,0,1,0,0.047608286,0.039745815,0.9126458,Neu,0.007862471,advisorhubinc
+43,2018-02-27 20:37:03,Life-long JPMorgan Private Banker in L.A. Shifts to Merrill  ,0,0,0,0,1,0,0.036936995,0.049688872,0.9133741,Neu,-0.012751877,advisorhubinc
+44,2018-02-27 18:01:03,Morgan Stanley Withdraws TRO Claim Against Big Michigan Team  ,0,0,0,0,0,0,0.016843146,0.84965295,0.1335039,Neg,-0.8328098,advisorhubinc
+45,2018-02-23 19:45:00,RayJay Hires Wells Fargo Manager to Lead Miami-area Office  ,0,0,0,0,0,0,0.088259995,0.012745518,0.89899457,Neu,0.07551448,advisorhubinc
+46,2018-02-23 18:33:00,"Ameriprise Seeks to Vacate $879,000 Award to Fired Broker  ",0,0,0,0,0,0,0.06299105,0.035446897,0.901562,Neu,0.027544156,advisorhubinc
+47,2018-02-23 15:08:04,Guns and More Guns: Will Wall Street Ever Let Go of Firearms?  ,0,0,0,0,0,0,0.03295391,0.09930178,0.8677444,Neu,-0.06634787,advisorhubinc
+48,2018-02-22 16:51:05,UBS’s Naratil and Hull Apologize for Non-Solicit Document Snafu  ,0,0,0,0,0,0,0.029429622,0.37456724,0.5960032,Neu,-0.34513763,advisorhubinc
+50,2018-02-21 17:24:02,"Wells Gains Million-Dollar Producer from RBC, Loses Broker to RayJay  ",0,1,0,0,0,0,0.21739699,0.11731634,0.6652867,Neu,0.10008065,advisorhubinc
+51,2018-02-20 17:04:03,EXCLUSIVE: UBS Slips Non-solicit Language Into Bonus Documents  ,0,0,0,0,1,0,0.021927128,0.23976515,0.7383077,Neu,-0.21783802,advisorhubinc
+52,2018-02-20 16:20:00,Bitcoin Rises as South Korea Talks ‘Active’ Support for Trading  ,0,0,0,0,1,0,0.63392097,0.1186354,0.24744354,Pos,0.51528555,advisorhubinc
+53,2018-02-20 16:05:00,Morgan Stanley Says Stock Slide Was Just Appetizer for Real Deal  ,0,0,0,0,0,0,0.043570325,0.18659036,0.7698393,Neu,-0.14302003,advisorhubinc
+54,2018-02-20 15:45:04,A Diversified Portfolio May Not Help Investors Much This Year  ,0,0,0,0,0,0,0.19854563,0.14272857,0.6587258,Neu,0.055817068,advisorhubinc
+55,2018-02-16 21:09:01,"“We Wuz Impersonated,” Says Finra CEO Cook  ",0,0,0,0,0,0,0.04372849,0.23436554,0.72190595,Neu,-0.19063705,advisorhubinc
+56,2018-02-16 17:34:01,Wells Fargo Veteran Joins Former Colleagues at Raymond James  ,0,0,0,0,0,0,0.05903039,0.03804018,0.9029294,Neu,0.020990212,advisorhubinc
+57,2018-02-15 17:15:00,Hedge-Fund Mediocrity Is the Best Magic Trick: Barry Ritholtz  ,0,1,0,0,1,0,0.062085886,0.030207872,0.90770626,Neu,0.031878013,advisorhubinc
+58,2018-02-15 16:58:02,Massachusetts Charges Scottrade over Retirement Account Sales Contests  ,0,0,0,0,0,0,0.01718076,0.8979725,0.08484671,Neg,-0.8807918,advisorhubinc
+59,2018-02-14 21:36:01,Goldman Projects 30% Growth in Wealth Management Advisor Force  ,0,1,0,0,0,0,0.85384196,0.006928887,0.13922916,Pos,0.8469131,advisorhubinc
+60,2018-02-14 21:15:04,Cetera Reorganizes as Former Schorsch Associate Consents to SEC Judgment  ,0,0,0,0,0,0,0.06909891,0.011806601,0.91909444,Neu,0.057292312,advisorhubinc
+61,2018-02-14 15:54:00,UBS Extracts $4 Million from Breakaway Broker  ,0,0,0,0,0,0,0.14063843,0.020144299,0.8392173,Neu,0.12049413,advisorhubinc
+62,2018-02-13 20:06:01,Broker Suing UBS in Whistleblower Case Wins Some Expungements  ,0,1,0,0,0,0,0.14662725,0.75845355,0.09491919,Neg,-0.6118263,advisorhubinc
+63,2018-02-12 20:43:03,SEC Asks Congress for $ to Examine RIAs and Supervise Finra ,0,0,0,0,0,0,0.059472896,0.018312557,0.9222145,Neu,0.041160338,advisorhubinc
+64,2018-02-12 19:38:03,SPONSORED: Guide Clients Through Emotional Ups and Downs To Prevent Costly Decisions  ,0,0,0,0,0,1,0.060143966,0.018947912,0.9209081,Neu,0.041196056,advisorhubinc
+65,2018-02-12 14:28:04,UBS Is Said to Hire Ex-Morgan Stanley Banker for Richest Saudis  ,0,0,0,0,0,0,0.08747944,0.018288469,0.8942321,Neu,0.06919097,advisorhubinc
+67,2018-02-08 20:21:02,"Ex-Banker Wants Wealthy Friends to Share Racecars, Vineyards  ",0,0,0,0,0,0,0.03947183,0.022888457,0.9376397,Neu,0.016583374,advisorhubinc
+68,2018-02-08 17:45:02,Former Merrill Exec Wins Skirmish Over Losses in His Stock Plan  ,0,1,0,0,0,0,0.057225004,0.83544135,0.107333675,Neg,-0.77821636,advisorhubinc
+69,2018-02-07 20:08:00,Does Early-Life Bad Behavior Foreshadow Rogue Broker Activity?  ,0,1,0,0,1,0,0.029550917,0.4260738,0.5443753,Neu,-0.39652288,advisorhubinc
+70,2018-02-07 18:20:05,Massachusetts Proposes Detailed Fee-Disclosure for Advisors  ,0,0,0,1,0,1,0.04701756,0.01549194,0.9374905,Neu,0.03152562,advisorhubinc
+72,2018-02-06 17:56:02,"Judge Hands Morgan Stanley Another TRO Win, Hands Off to Finra  ",0,1,0,0,0,0,0.3320417,0.02737929,0.6405789,Neu,0.3046624,advisorhubinc
+73,2018-02-06 17:24:03,"Robo-Advisor Websites Crash, Cutting Off Access to Accounts  ",0,0,0,0,0,0,0.00794909,0.952628,0.039422832,Neg,-0.9446789,advisorhubinc
+74,2018-02-05 21:35:01,Wells Fargo Advisors Assures Brokers They Can Keep Growing  ,0,1,1,0,1,0,0.7024865,0.010421971,0.28709152,Pos,0.6920645,advisorhubinc
+75,2018-02-05 20:40:02,Wedbush to Pay $2.5 Million Fine (in Installments) for Capital Deficiencies  ,0,0,0,0,0,0,0.026672464,0.9150565,0.058270935,Neg,-0.88838404,advisorhubinc
+77,2018-02-05 17:17:04,UBS Wins It All in $611K Claim Against Long Island Broker  ,0,1,0,0,0,0,0.26570442,0.09877234,0.63552326,Neu,0.16693208,advisorhubinc
+78,2018-02-02 21:03:05,Morgan Stanley Hires Senior Schwab Exec to Democratize Stock Plan Unit  ,0,0,0,0,0,0,0.08747502,0.022167113,0.89035785,Neu,0.0653079,advisorhubinc
+79,2018-02-02 17:52:02,"Ex-MS Broker Seeks to Vacate $2 Mln Arb Award, Citing Evidence Destruction  ",0,0,0,0,0,0,0.022879321,0.85666585,0.12045485,Neg,-0.83378655,advisorhubinc
+80,2018-02-02 15:37:02, ,0,0,0,0,0,0,0.35916328,0.21665184,0.4241849,Neu,0.14251144,advisorhubinc
+81,2018-02-01 21:00:05,Ex-Morgan Stanley Manager Claims Race Discrimination  ,0,0,0,0,0,0,0.01712926,0.759619,0.22325176,Neg,-0.74248976,advisorhubinc
+82,2018-02-01 17:28:04,Oppenheimer Swings to Profit on Tax and Hedge Fund Benefits  ,0,0,0,0,0,0,0.21353042,0.72975284,0.056716792,Neg,-0.5162224,advisorhubinc
+83,2018-01-31 22:17:04,"Whose Client Is It? Morgan Stanley Argues Both Sides, Former Broker Claims  ",0,1,0,0,1,0,0.031906866,0.06997614,0.898117,Neu,-0.038069278,advisorhubinc
+84,2018-01-31 19:10:00,"Join us tomorrow! Webinar: Branch Manager's Ultimate Playbook for Recruiting Financial Advisors! Thursday, February 1st - 2:00 PM EST. Special Guest: Tony Sirianni, CEO & Publisher of AdvisorHub - Register Now -  ",0,1,0,0,1,1,0.053407215,0.01433457,0.93225825,Neu,0.039072644,advisorhubinc
+85,2018-01-31 16:24:01,Two Ex-Morgan Stanley Brokers in Boston to Plead Guilty to Fraud  ,0,0,0,0,0,0,0.02929667,0.80451834,0.16618496,Neg,-0.77522165,advisorhubinc
+86,2018-01-30 20:18:01,Opco Managing Director to Open L.A. Outpost for Wunderlich  ,0,0,0,0,0,1,0.09874612,0.010056982,0.89119685,Neu,0.08868914,advisorhubinc
+87,2018-01-30 17:02:00,Stifel Advisor Count Dips But Wealth Profit Soars  ,0,0,0,0,0,0,0.13285129,0.8401354,0.027013345,Neg,-0.7072841,advisorhubinc
+88,2018-01-29 21:34:02,Morgan Stanley Culls More Funds from Platform  ,0,0,0,0,0,0,0.362158,0.13215171,0.5056903,Neu,0.23000629,advisorhubinc
+89,2018-01-29 21:07:01,"RayJay Recruits from J.P. Morgan in Atlanta, RBC from Wells in Conn.  ",0,0,0,0,0,0,0.078210846,0.01752783,0.9042613,Neu,0.060683016,advisorhubinc
+90,2018-01-29 19:13:02,"Goldman Revamps U.S. Stock-Picking Unit, Spurring Manager Exits  ",0,0,0,0,0,0,0.19495107,0.4828843,0.32216462,Neg,-0.28793323,advisorhubinc
+91,2018-01-29 17:04:02,Morgan Stanley Managing Director in Connecticut Jumps to JPMorgan  ,0,0,0,0,0,0,0.025559524,0.06359368,0.9108468,Neu,-0.038034156,advisorhubinc
+92,2018-01-29 16:27:01,Massive Cryptocurrency Heist Spurs Calls for More Regulation  ,0,0,0,0,0,0,0.030916717,0.8730347,0.09604856,Neg,-0.842118,advisorhubinc
+93,2018-01-26 18:42:01,Finra Raps Another Ex-Morgan Stanley Broker over UIT Sales Practices  ,0,0,0,0,0,0,0.012488468,0.94212186,0.045389585,Neg,-0.9296334,advisorhubinc
+94,2018-01-25 21:14:00,"EXCLUSIVE: Morgan Stanley Brokers Jump to Ameriprise, Win in Court  ",0,0,0,0,0,0,0.39360875,0.02120918,0.5851821,Neu,0.37239957,advisorhubinc
+95,2018-01-25 16:50:04,Raymond James Holds the Line on Pay Packages  ,0,0,0,0,0,0,0.06500663,0.047418665,0.88757473,Neu,0.017587963,advisorhubinc
+96,2018-01-24 20:49:01,Ex-Ed Jones Broker Suspended for Sex Spoofing to Embarrass Rival  ,0,0,0,0,0,0,0.015365662,0.9185535,0.06608082,Neg,-0.9031878,advisorhubinc
+97,2018-01-24 17:06:05,Morgan Stanley Wins Another Restraining Order Against Former Broker  ,0,1,0,0,0,0,0.09048398,0.83806974,0.071446225,Neg,-0.7475858,advisorhubinc
+98,2018-01-23 21:35:00,"Amid Broker Protocol Fireworks, Industry Shifts Administrators  ",0,0,0,0,1,1,0.031005276,0.622121,0.34687367,Neg,-0.5911157,advisorhubinc
+100,2018-01-22 20:55:01,Morgan Stanley “Clarifies” Reason for Firing Harold Ford  ,0,0,0,0,0,0,0.025319936,0.40769774,0.5669823,Neu,-0.3823778,advisorhubinc
+101,2018-01-22 17:30:05,UBS Wealth Americas Loses Some Autonomy—and More Brokers  ,0,1,0,0,0,0,0.015698507,0.93429095,0.050010595,Neg,-0.91859245,advisorhubinc
+102,2018-01-22 15:51:02,Kestra Hires Former Wells Banker as Chief Operating Officer  ,0,1,0,0,1,2,0.07599006,0.016987696,0.90702224,Neu,0.059002362,advisorhubinc
+103,2018-01-19 20:32:01,Ex-Schwab Advisor Prevails in Fierce Non-Solicit Battle  ,0,0,0,0,0,0,0.2821012,0.030772658,0.6871261,Neu,0.25132856,advisorhubinc
+104,2018-01-19 18:34:00,Arb Panel: FAs ‘Properly’ Possess Former Customer Names  ,0,0,0,0,0,0,0.07602501,0.035516124,0.88845885,Neu,0.040508885,advisorhubinc
+105,2018-01-19 17:06:00,"A Year After Leaving LPL, Ron Carson Twists the Knife  ",0,1,0,0,0,0,0.049126375,0.08368721,0.8671864,Neu,-0.034560833,advisorhubinc
+106,2018-01-18 20:28:02,Finra to Keep Member Fees and Executive Bonuses Flat in 2018  ,0,0,0,0,0,0,0.057929017,0.0941129,0.84795815,Neu,-0.036183886,advisorhubinc
+107,2018-01-18 15:57:05,Morgan Stanley Wealth Unit Scores Big in Fourth Quarter  ,0,0,0,0,0,1,0.9192351,0.0395249,0.041239988,Pos,0.8797102,advisorhubinc
+108,2018-01-17 21:37:05,"Morgan Stanley Sues Another Fleeing Broker, This Time in Indiana  ",0,0,0,0,0,0,0.013075082,0.9436891,0.043235775,Neg,-0.93061405,advisorhubinc
+109,2018-01-17 20:13:03,First Republic Sings a Song of Seasoned Brokers  ,0,0,0,0,0,0,0.08607533,0.021084268,0.8928404,Neu,0.06499106,advisorhubinc
+110,2018-01-17 17:09:02,Merrill Grows Revenue But New Client Assets Languish  ,0,1,0,0,1,0,0.18773197,0.5828926,0.22937548,Neg,-0.39516062,advisorhubinc
+111,2018-01-17 16:37:00,SPONSORED: Struggling Small Broker-Dealers Finding New Life as Super Branches  ,0,1,0,0,0,0,0.093289584,0.090727806,0.8159826,Neu,0.0025617778,advisorhubinc
+112,2018-01-16 20:48:02,"After Strikeouts at Merrill and Morgan, Broker Accepts Finra Bar  ",0,0,0,0,0,0,0.105989136,0.019215664,0.8747952,Neu,0.08677347,advisorhubinc
+114,2018-01-12 20:58:00,New Tax Law Could Make Advisors Rethink Client Entertainment  ,0,0,0,0,0,0,0.18130876,0.24753504,0.5711562,Neu,-0.066226274,advisorhubinc
+115,2018-01-12 17:22:01,Wells Advisors Headcount Holds Steady and Bank Referrals Rebound  ,0,0,0,0,0,0,0.7050442,0.24806008,0.04689571,Pos,0.45698413,advisorhubinc
+116,2018-01-11 21:42:05,"RayJay, Morgan Stanley and Stifel to Take Q4 Tax-Overhaul Hits  ",0,0,0,0,0,0,0.07360013,0.012421606,0.9139783,Neu,0.06117852,advisorhubinc
+117,2018-01-11 16:56:04,Another Former Morgan Stanley Broker Loses New Job After TRO  ,0,1,0,0,0,0,0.014653178,0.8875477,0.097799145,Neg,-0.87289447,advisorhubinc
+118,2018-01-10 18:47:03,SEC Seen on Verge of Proposing a Fiduciary Rule  ,0,1,0,0,1,0,0.046096534,0.099855594,0.8540479,Neu,-0.05375906,advisorhubinc
+119,2018-01-10 16:50:03,Compliance Officer at Florida Indie Wins Defamation Claim and Money  ,0,0,0,0,0,0,0.019576514,0.8799312,0.100492276,Neg,-0.8603547,advisorhubinc
+120,2018-01-09 17:43:04,"Morgan Stanley Client Claims $929K of Apple Option Losses, Gets $80K  ",0,0,0,0,0,0,0.019014208,0.900884,0.080101825,Neg,-0.8818698,advisorhubinc
+121,2018-01-08 22:14:05,"L.A. Broker Leaves UBS, Post-Protocol, for Alex. Brown  ",0,1,0,0,0,0,0.024405815,0.03126895,0.9443252,Neu,-0.006863136,advisorhubinc
+122,2018-01-08 17:34:04,Finra Bearing Down on Securities-Backed Loans and Rollovers  ,0,0,0,0,0,0,0.009504087,0.95888656,0.0316094,Neg,-0.9493825,advisorhubinc
+123,2018-01-05 18:27:03,Raymond James Recruits Million-Dollar Merrill Producer in Boston  ,0,0,0,0,0,0,0.089836545,0.022745738,0.88741773,Neu,0.06709081,advisorhubinc
+124,2018-01-05 14:47:02,Morgan Stanley Complex Manager in Dallas Jumps to RayJay Firm  ,0,0,0,0,0,0,0.046459768,0.13394563,0.81959456,Neu,-0.087485865,advisorhubinc
+125,2018-01-04 21:08:03,"UBS Broker Wins $400,000 from Ex-Partner in Slander Case  ",0,0,0,0,0,0,0.26340115,0.407187,0.32941183,Neg,-0.14378586,advisorhubinc
+126,2018-01-04 17:04:05,Great Lakes Founder Misappropriated Company Funds—Filing  ,0,0,0,0,0,0,0.018258804,0.86148196,0.120259196,Neg,-0.84322315,advisorhubinc
+127,2018-01-03 17:13:02,Arbitrators Order Morgan Stanley Breakaway to Pay $545K  ,0,0,0,0,0,0,0.029741718,0.8003757,0.16988266,Neg,-0.770634,advisorhubinc
+128,2018-01-02 21:46:03,The 10 Biggest Advisor Move Stories From 2017  ,0,0,0,0,1,0,0.05552646,0.1209059,0.8235676,Neu,-0.06537944,advisorhubinc
+129,2018-01-02 14:50:05,Year in Review: Top Stories of 2017  ,0,0,0,0,1,0,0.049814086,0.04765792,0.902528,Neu,0.0021561682,advisorhubinc
+130,2017-12-29 16:20:01,EXCLUSIVE: Citi Puts Another Nail in Coffin of Broker Protocol  ,0,0,0,0,0,0,0.14492905,0.03375471,0.82131624,Neu,0.111174345,advisorhubinc
+131,2017-12-27 18:35:00,Finra Fines J.P. Morgan $2.8 Mln for Customer Protection Violations  ,0,0,0,0,1,0,0.015885284,0.96066207,0.02345258,Neg,-0.9447768,advisorhubinc
+132,2017-12-26 18:23:02,Stifel Gives Staffers Special Tax-Gift Bonus  ,0,1,0,0,0,1,0.08415626,0.018687023,0.8971567,Neu,0.065469235,advisorhubinc
+133,2017-12-22 20:42:03,"New York Broker-Dealer’s Appeal of Finra Fine Costs It $150,000  ",0,1,0,0,1,0,0.01222027,0.95482385,0.032955922,Neg,-0.9426036,advisorhubinc
+134,2017-12-22 17:05:00,Fiduciary Standard Governs More Than 40% of Retail Assets: Cerulli  ,0,0,0,0,0,0,0.030193882,0.018965635,0.95084053,Neu,0.011228247,advisorhubinc
+135,2017-12-21 20:38:02,"UBS Team in AZ Joins Kestra, Merrill Trio in NY Go to Stifel  ",0,0,0,0,0,0,0.031372745,0.04171225,0.92691505,Neu,-0.010339506,advisorhubinc
+136,2017-12-21 19:35:04,Former Morgan Stanley Broker in Illinois Agrees to TRO  ,0,0,0,0,0,0,0.09313029,0.014449455,0.8924203,Neu,0.078680836,advisorhubinc
+137,2017-12-21 16:44:03,Finra Fines Raymond James $2 Million for ‘Significant’ Email Issues  ,0,0,0,0,0,0,0.020653918,0.94098234,0.03836381,Neg,-0.92032844,advisorhubinc
+138,2017-12-20 20:23:04,"Racquel Oden, Head of a Merrill ‘Flagship’ Office in NYC, Exits  ",0,0,0,0,0,0,0.10263115,0.04335899,0.8540098,Neu,0.059272163,advisorhubinc
+139,2017-12-20 16:47:05,Ex-Broker Cops to Syndicate Kickback Scheme  ,0,0,0,0,0,0,0.026552947,0.20929602,0.764151,Neu,-0.18274307,advisorhubinc
+140,2017-12-19 21:39:04,Morgan Stanley Sues to Muffle Another Departing Broker  ,0,0,0,0,0,0,0.01879978,0.9220438,0.059156466,Neg,-0.903244,advisorhubinc
+141,2017-12-19 20:21:03,Former Wirehouse Broker Gets 42 Months for Fraud at His RIA  ,0,1,0,0,0,0,0.027144793,0.85509026,0.11776497,Neg,-0.8279455,advisorhubinc
+142,2017-12-19 16:55:04,[WEBINAR RE-PLAY] Learn How Advisors Can Leverage Today's Technology for Success. Watch this recorded webinar on demand here:    ,0,0,0,0,0,0,0.079837404,0.01125746,0.9089051,Neu,0.06857994,advisorhubinc
+144,2017-12-18 21:19:05,Morgan Stanley Sues Broker for Holding Out $1.9 Mln Arb Award  ,0,1,0,0,0,0,0.012455832,0.95603603,0.031508133,Neg,-0.9435802,advisorhubinc
+145,2017-12-18 17:08:02,Longtime Pros from Smith Barney/J.P. Morgan Join Private Bank Fieldpoint  ,0,0,0,0,0,1,0.15168911,0.015284027,0.8330269,Neu,0.13640508,advisorhubinc
+146,2017-12-15 20:21:01,Ex-LPL Broker Barred for Silence on Private Investments  ,0,0,0,0,0,1,0.06441363,0.30840316,0.6271832,Neu,-0.24398953,advisorhubinc
+147,2017-12-15 16:57:05,Merrill Hires Million-Dollar Producer in Beverly Hills  ,0,0,0,0,0,0,0.14615802,0.027910825,0.8259312,Neu,0.118247196,advisorhubinc
+148,2017-12-14 21:21:04,Stop wasting your time taking cold calls from wholesalers AssetLink  ,0,1,0,0,0,0,0.036298763,0.070178434,0.8935228,Neu,-0.03387967,advisorhubinc
+150,2017-12-14 17:53:02,Credit Suisse ‘Raid’ Case Against UBS Americas Marches On  ,0,0,0,0,0,0,0.15961093,0.40750298,0.4328861,Neu,-0.24789205,advisorhubinc
+151,2017-12-13 23:50:01,Holiday drinks at PJ Clarke's with the AdvisorHub NYC team!  ,0,0,0,0,0,0,0.08582778,0.019940723,0.8942315,Neu,0.065887064,advisorhubinc
+152,2017-12-13 21:10:02,Private Bank Shuffle: Big Advisor Jumps to Fieldpoint from First Republic  ,0,0,0,0,1,1,0.5622014,0.02261316,0.41518548,Pos,0.5395882,advisorhubinc
+153,2017-12-13 20:47:04,Morgan Stanley Prevails in Skirmish with Breakaway Broker  ,0,0,0,0,0,0,0.16915916,0.68557763,0.14526321,Neg,-0.51641846,advisorhubinc
+155,2017-12-12 21:34:04,UBS Loses Oil Industry Stock Plan Broker to RayJay’s HNW Unit  ,1,1,0,0,0,0,0.059295706,0.06446895,0.87623537,Neu,-0.0051732436,advisorhubinc
+156,2017-12-12 16:27:03,WEBINAR TODAY! with   Register to join us live at 2PM or receive the recorded presentation here:    ,0,1,0,0,1,1,0.029482197,0.025050182,0.94546765,Neu,0.004432015,advisorhubinc
+158,2017-12-12 15:27:01,LPL Chalks Up Retention Win After Some National Planning Losses  ,0,0,0,0,0,0,0.90813386,0.025118513,0.066747524,Pos,0.88301533,advisorhubinc
+159,2017-12-11 20:15:04,Morgan Stanley Rushes to Hamstring Another Fleeing Broker  ,0,0,0,0,1,1,0.100637384,0.800148,0.0992146,Neg,-0.69951063,advisorhubinc
+160,2017-12-11 16:41:00,EXCLUSIVE: Merrill Tweaks Pay Policy So Brokers Can Collect on Family IRAs  ,0,0,0,0,0,0,0.056116935,0.02751565,0.9163674,Neu,0.028601285,advisorhubinc
+162,2017-12-08 17:11:03,Finra Tightens Noose on Broker Expungement Process  ,0,0,0,0,0,0,0.037539355,0.5973764,0.3650843,Neg,-0.55983704,advisorhubinc
+163,2017-12-07 19:51:02,Morgan Stanley Fires Former Rep. Harold Ford after Harassment Claims  ,0,0,0,0,0,0,0.010527674,0.9470851,0.04238723,Neg,-0.9365574,advisorhubinc
+164,2017-12-07 16:28:01,"Finra Red-Flags Cybersecurity, Product and Extracurricular Activities  ",0,0,0,0,0,0,0.07304912,0.01732338,0.90962744,Neu,0.05572574,advisorhubinc
+165,2017-12-06 21:25:00,Ex-Morgan Stanley Broker Burned by UITs Now Spurns Commissions  ,1,1,0,0,0,0,0.033324346,0.7019363,0.26473933,Neg,-0.66861194,advisorhubinc
+166,2017-12-06 17:15:04,LPL Puts Teeth Into Penalties for Sales Practice Violations  ,0,0,0,0,0,0,0.027911648,0.6816658,0.29042256,Neg,-0.6537541,advisorhubinc
+167,2017-12-05 21:34:01,Steward Partners Eyes Texas Office in Channel-Challenging Move–Source  ,0,0,0,0,0,0,0.28108907,0.1865661,0.5323448,Neu,0.09452297,advisorhubinc
+168,2017-12-05 19:37:04,Need investment ideas or product advice? Post your project TODAY    ,0,0,0,0,0,0,0.03567441,0.02357792,0.94074774,Neu,0.012096493,advisorhubinc
+169,2017-12-05 16:46:05,UBS Loses Team in Pa. to RBC and a Veteran Manager in Long Island  ,0,0,0,0,0,0,0.055654295,0.32930058,0.61504513,Neu,-0.2736463,advisorhubinc
+170,2017-12-05 16:21:03,[WEBINAR] Do you take advantage of all of the tools at your fingertips? Learn how to position for success with today's technology! Register here:    ,0,0,0,0,0,0,0.11812155,0.010194978,0.87168354,Neu,0.10792657,advisorhubinc
+171,2017-12-04 21:09:04,HighTower Founder Argues That He Is Illiquid  ,0,1,0,0,1,1,0.019444708,0.7701023,0.21045305,Neg,-0.7506576,advisorhubinc
+172,2017-12-04 21:04:00,"Merrill Takes Stand, Says It Won’t Leave Protocol for Broker Recruiting  ",0,1,0,0,1,0,0.04843781,0.021005692,0.93055654,Neu,0.02743212,advisorhubinc
+173,2017-12-04 19:35:01,"Goldman Sachs Fined $700,000 for Failing to Deliver ETF Prospectuses  ",1,1,0,0,0,0,0.013200644,0.95729864,0.029500745,Neg,-0.944098,advisorhubinc
+174,2017-12-01 21:23:02,UBS Rivals Tally Up Recruiting Victories  ,0,0,0,0,0,0,0.12603933,0.027104877,0.8468558,Neu,0.09893445,advisorhubinc
+175,2017-12-01 16:38:02,Wells Advisors Executive Hints at Protocol Decision  ,0,0,0,0,0,0,0.0778618,0.044754807,0.87738335,Neu,0.033106994,advisorhubinc
+176,2017-11-30 21:29:01,"J.P. Morgan Moves Again, Hires from UBS in Atlanta, Dallas and Elsewhere  ",0,1,0,0,0,0,0.41169816,0.13798752,0.4503143,Neu,0.27371064,advisorhubinc
+177,2017-11-30 20:20:05,[WEBINAR] Do you take advantage of all of the tools at your fingertips? Learn how to position for success with today's technology! Register here:    ,0,0,0,0,0,1,0.11812155,0.010194978,0.87168354,Neu,0.10792657,advisorhubinc
+178,2017-11-30 17:47:01,EXCLUSIVE: Wells to Raise Payout to 50% on Top Brokers’ First Dollar of Revenue  ,0,0,0,0,0,0,0.9126987,0.010337033,0.07696431,Pos,0.90236163,advisorhubinc
+179,2017-11-29 21:58:03,Employees receive memo from colleagues that calls the firm’s carrot-and-stick push for account growth “right on target” and “truly Merrill Lynch.”   2018Comp,1,1,0,0,2,0,0.1735468,0.040414922,0.7860382,Neu,0.13313189,advisorhubinc
+180,2017-11-29 18:37:04,A court filing from a Morgan Stanley lawyer says Bank Leumi fired broker who agreed to refrain from contacting former clients for a year.  ,1,1,0,0,0,0,0.016043626,0.9503236,0.03363277,Neg,-0.93428,advisorhubinc
+181,2017-11-29 16:38:02,"While recalling the pre-Protocol days, lawyer says that the best solution for who-owns-the-customer disputes is mediation, not the courts.    Prexit",0,1,0,0,0,0,0.042491075,0.039065138,0.91844374,Neu,0.0034259371,advisorhubinc
+182,2017-11-28 17:17:00,Steve Bender leaves North Carolina to oversee Pennsylvania advisors at  while   hires Timothy Woods from    AdvisorMoves,0,1,0,0,0,0,0.024938565,0.24652614,0.7285353,Neu,-0.22158757,advisorhubinc
+183,2017-11-27 21:26:03,"CEO of AdvisorHub  weighs in on the broker protocol exit, or as he likes to call it, PREXIT  ",0,1,0,0,1,3,0.024171457,0.29315573,0.6826728,Neu,-0.26898426,advisorhubinc
+184,2017-11-27 20:39:00,"Before Abandoning Protocol, UBS Welcomed Sizable Merrill Producers  ",0,0,0,0,0,0,0.677948,0.012671135,0.3093808,Pos,0.6652769,advisorhubinc
+185,2017-11-27 16:54:02,BREAKING: UBS Pulling Out of Broker Protocol  ,0,1,0,0,0,0,0.012137403,0.9368376,0.05102505,Neg,-0.9247002,advisorhubinc
+186,2017-11-22 19:51:02,Wells Fargo Advisors Sues Mystery Hacker(s) of Independent Broker  ,0,0,0,0,0,1,0.017142497,0.82103616,0.16182123,Neg,-0.8038937,advisorhubinc
+187,2017-11-22 17:14:04,Sirianni: A Modest Prexit (Protocol Exit) Proposal  ,0,0,0,0,0,0,0.12538871,0.017768625,0.8568427,Neu,0.10762009,advisorhubinc
+189,2017-11-21 18:34:01,[WEBINAR] Do you take advantage of all of the tools at your fingertips? Learn how to position for success with today's technology! Register here:    ,0,0,0,0,1,0,0.11812155,0.010194978,0.87168354,Neu,0.10792657,advisorhubinc
+190,2017-11-21 16:47:03,J.P. Morgan Stung by Finra for Fingerprint Failure  ,0,0,0,0,0,0,0.017782293,0.92873013,0.053487558,Neg,-0.91094786,advisorhubinc
+191,2017-11-20 21:10:03,Navy Reservist Brings Discrimination Claim Against Morgan Stanley  ,0,0,0,0,0,0,0.02711028,0.8908294,0.082060374,Neg,-0.8637191,advisorhubinc
+192,2017-11-20 16:17:05,Margin Alert: Morgan Stanley Gets Finra Disclosure Lesson  ,0,0,0,0,0,0,0.10913035,0.08969013,0.8011796,Neu,0.019440226,advisorhubinc
+193,2017-11-17 21:31:02,Mega-Goldman Sachs Team in Los Angeles Leaves for First Republic  ,0,0,0,0,0,1,0.028467504,0.2874687,0.6840638,Neu,-0.2590012,advisorhubinc
+194,2017-11-17 18:36:05,Check out this video recap of our October event in NYC! AdvisorHubLive    ,0,0,0,0,0,0,0.056664187,0.020005025,0.9233308,Neu,0.036659162,advisorhubinc
+195,2017-11-17 17:09:00,Ex-Morgan Stanley Broker to Pay $1.4 Million After Epic 7-Year Arbitration War  ,0,0,0,0,0,0,0.11914454,0.32066646,0.560189,Neu,-0.20152193,advisorhubinc
+196,2017-11-16 21:39:03,SPONSORED: Learn How to Leverage Today's Technology for Success with this Upcoming Webinar!    ,0,1,0,0,0,0,0.4155997,0.009670129,0.5747301,Neu,0.40592957,advisorhubinc
+197,2017-11-16 20:36:02,Headhunter Offers to Pay Morgan Stanley Brokers’ Legal Fees  ,0,0,0,0,0,0,0.043964993,0.15069099,0.805344,Neu,-0.10672599,advisorhubinc
+198,2017-11-16 16:44:03,EXCLUSIVE: UBS Wealth to Raise Customer Account Fees in 2018  ,0,0,0,0,1,0,0.81533265,0.012130852,0.1725365,Pos,0.8032018,advisorhubinc
+199,2017-11-15 21:41:03,Merrill Golden Ager (Almost!) Goes Indie with LPL  ,0,1,0,0,0,0,0.55379426,0.018829443,0.42737633,Pos,0.5349648,advisorhubinc
+200,2017-11-15 19:22:05,Check out Stifel's Tax Reform Update!  ,0,0,0,0,0,0,0.08488113,0.019065607,0.89605325,Neu,0.06581552,advisorhubinc
+201,2017-11-15 17:09:03,"Great Lakes, an RIA Roll-Up, Replaces Founde  ",0,0,0,0,0,1,0.024737049,0.058409818,0.9168531,Neu,-0.03367277,advisorhubinc
+202,2017-11-14 19:20:04,Ex-Merrill Broker in Expense Fray Signs Up Quickly with UBS Ex-Pats  ,0,0,0,0,0,0,0.29912245,0.013928115,0.68694943,Neu,0.28519434,advisorhubinc
+203,2017-11-14 17:27:00,Don't miss out on this free webinar!    ,0,1,0,0,0,0,0.056393925,0.03593912,0.9076669,Neu,0.020454805,advisorhubinc
+204,2017-11-14 16:42:01,"Fired Morgan Stanley Broker/Self-Help Author Sues, Claims Discrimination  ",0,0,0,0,0,0,0.010638875,0.910972,0.078389145,Neg,-0.9003331,advisorhubinc
+205,2017-11-13 20:32:02,"Wells Taps Former RBC Veteran, Two Insiders to Fill Regional Vacancies  ",0,0,0,0,0,0,0.14735745,0.026014732,0.8266278,Neu,0.12134272,advisorhubinc
+206,2017-11-13 19:54:01,SEC Fines Wells Advisors $3.5 Million Over Money-Launder Procedures  ,0,0,0,0,0,0,0.013994148,0.94588107,0.040124755,Neg,-0.9318869,advisorhubinc
+207,2017-11-13 16:37:02,Protocol Footnote: Morgan Stanley Broker Suspended for Taking Customer Data  ,0,1,0,0,0,0,0.015646746,0.8951003,0.08925285,Neg,-0.87945354,advisorhubinc
+208,2017-11-10 20:30:04,Edward Jones Noses Ahead of Morgan Stanley to Boast Biggest Brokerage Force  ,0,0,0,0,0,0,0.7074774,0.015756272,0.2767664,Pos,0.69172114,advisorhubinc
+209,2017-11-10 16:42:04,“Disaster” Looms in Dearth of Small-Advisor Exams: Former SEC Chair  ,0,0,0,0,1,0,0.040051375,0.29387495,0.6660737,Neu,-0.25382358,advisorhubinc
+210,2017-11-09 20:41:01,Morgan Stanley Parts Ways with High-Profile Head of Sports Unit  ,0,1,0,0,1,0,0.03693486,0.38570458,0.5773605,Neu,-0.34876972,advisorhubinc
+211,2017-11-09 16:39:03,Finra Suspends Ex-Merrill Star in Boston for False Expense Reports  ,0,0,0,0,0,1,0.010331598,0.9456806,0.043987796,Neg,-0.93534905,advisorhubinc
+212,2017-11-08 21:32:02,2018 Comp: Merrill Lynch Adds Penalties/Awards to Spur Asset Growth  ,0,0,0,1,0,1,0.48851997,0.18568058,0.32579947,Pos,0.3028394,advisorhubinc
+215,2017-11-07 17:49:03,DECEMBER 12th How Financial Advisors Can Leverage Today's Technology For Success: Remote Receptionists Register:    ,0,0,1,0,3,1,0.07979496,0.011630852,0.90857416,Neu,0.06816411,advisorhubinc
+216,2017-11-07 17:02:02,Two Jones Brokers in Ohio Defect for Indie Firms  ,0,0,0,0,0,0,0.14530364,0.04650079,0.8081956,Neu,0.09880285,advisorhubinc
+217,2017-11-06 21:39:05,Analysis: Smaller Rivals Quake After Morgan Stanley’s Protocol Decision  ,1,1,0,0,1,0,0.017998533,0.9288524,0.053149033,Neg,-0.91085386,advisorhubinc
+218,2017-11-06 15:32:04,JP Morgan Ends Big Recruiting Week with Beantown Loss  ,0,0,0,0,0,0,0.14242463,0.26636067,0.59121466,Neu,-0.12393604,advisorhubinc
+219,2017-11-03 20:32:04,"Thank You, Morgan Stanley…Wells, RayJay, Opco Get Their Allocations  ",0,0,0,0,0,0,0.61980563,0.009727389,0.37046704,Pos,0.6100782,advisorhubinc
+220,2017-11-03 15:37:04,Another Longtime Merrill Executive Hangs Up His Spurs  ,0,0,0,0,0,0,0.026820682,0.5852575,0.38792184,Neg,-0.5584368,advisorhubinc
+221,2017-11-02 21:03:02,Morgan Stanley Brokers Jump to Regionals Under Protocol Pressure  ,0,0,0,0,1,0,0.6428516,0.24587582,0.11127259,Pos,0.39697576,advisorhubinc
+222,2017-11-02 18:55:05,Morgan Stanley Lowers Broker Payout on International Accounts  ,0,0,0,0,0,0,0.036776096,0.6753666,0.28785735,Neg,-0.63859046,advisorhubinc
+224,2017-11-01 20:40:03,Threat of Prison in Tom Buck Churning Case Alarms Brokers  ,0,0,0,0,0,0,0.13744885,0.7123236,0.15022753,Neg,-0.57487476,advisorhubinc
+225,2017-11-01 19:47:03,RBC Snags California Team Managing $610 Million at Merrill  ,0,0,0,0,1,0,0.044762317,0.017006628,0.9382311,Neu,0.027755689,advisorhubinc
+226,2017-11-01 19:45:01,Big UBS Broker in Indiana Jumps to Independent Under Alleged Pressure  ,0,0,0,0,0,0,0.28459132,0.41885284,0.29655582,Neg,-0.13426152,advisorhubinc
+227,2017-10-31 20:14:04,"Renegade Merrill Broker Tom Buck Admits to Fraud, Faces 25-Year Sentence  ",0,0,0,1,0,0,0.029896691,0.64266646,0.32743686,Neg,-0.6127698,advisorhubinc
+229,2017-10-30 20:30:02,Wells Fargo Preps “Make-Whole” Loans for CS Alumni —Sources  ,0,0,0,0,0,0,0.051997565,0.018566387,0.929436,Neu,0.03343118,advisorhubinc
+230,2017-10-30 14:46:04,BREAKING: Morgan Stanley to Pull Out of Recruiting Pact with Rival Firms  ,0,0,0,0,0,0,0.011885576,0.94915146,0.038962923,Neg,-0.9372659,advisorhubinc
+231,2017-10-27 20:44:01,Merrill Bats on Behalf of Advisors at World Series  ,0,0,0,0,1,0,0.058606457,0.017985646,0.9234079,Neu,0.04062081,advisorhubinc
+232,2017-10-27 19:56:02,UBS Loses U.S. Brokers and New Assets for Second Straight Quarter  ,0,0,0,0,0,0,0.009791721,0.9651551,0.025053192,Neg,-0.9553634,advisorhubinc
+233,2017-10-27 17:13:02,UBS Ordered to Pay Florida Broker $3 Million for Defamation  ,0,0,0,0,0,0,0.053913895,0.48346856,0.4626175,Neg,-0.42955467,advisorhubinc
+234,2017-10-26 21:18:05,EXCLUSIVE: Morgan Stanley to Change Payout Calculation  ,0,0,0,0,0,0,0.026976071,0.24876086,0.72426313,Neu,-0.2217848,advisorhubinc
+235,2017-10-26 20:29:01,"JPMorgan Bounces Back, Recruits $1.6 Bln Morgan Stanley Team in New York City  ",0,0,0,0,0,0,0.8284953,0.08113959,0.090365164,Pos,0.74735576,advisorhubinc
+236,2017-10-26 17:09:02,Raymond James Grows Fastest in Lower-Margin Independent Channel  ,0,0,0,0,0,0,0.760445,0.010285812,0.22926915,Pos,0.7501592,advisorhubinc
+237,2017-10-25 21:59:00,HighTower Finds a Savior  ,0,1,0,0,0,0,0.34610868,0.04312831,0.610763,Neu,0.30298036,advisorhubinc
+238,2017-10-25 20:29:02,"Stifel Knocks on Morgan Stanley’s Doors, Hiring Three Million-Dollar Brokers  ",0,0,0,0,0,0,0.1619506,0.08404383,0.75400555,Neu,0.07790677,advisorhubinc
+239,2017-10-25 18:23:01,"Ameriprise Crows About Retail Brokerage, Waddell Restructures  ",0,0,0,0,0,0,0.08385116,0.016046546,0.9001023,Neu,0.06780461,advisorhubinc
+240,2017-10-24 18:12:03,Merrill Ousts Million-Dollar Broker in Manhattan over Expenses  ,0,1,0,0,0,0,0.024639409,0.89686805,0.07849248,Neg,-0.8722286,advisorhubinc
+242,2017-10-23 21:23:04,"California Cruisin’: UBS Private Wealth Broker Jumps to Morgan Stanley, Partner Declines  ",0,0,0,0,0,0,0.060697235,0.04764225,0.89166045,Neu,0.013054986,advisorhubinc
+243,2017-10-23 16:33:00,"Snubbing Nose at Wirehouses, Schwab Flaunts Flow of Breakaway Brokers  ",0,1,0,0,0,0,0.04230952,0.35750714,0.60018337,Neu,-0.31519762,advisorhubinc
+244,2017-10-20 20:56:02,"Farmer, 94, Sues Cetera for Ignoring Alleged $640,000 Annuity Theft  ",0,1,0,0,0,1,0.017341102,0.8803289,0.10233007,Neg,-0.8629878,advisorhubinc
+246,2017-10-19 21:09:04,Merrill Broker in Michigan Files Age Discrimination Suit  ,0,0,0,0,0,0,0.018379023,0.85823256,0.12338837,Neg,-0.8398535,advisorhubinc
+247,2017-10-19 18:09:01,"Stifel CEO Attacks Rivals, ETFs and Regulators  ",0,0,0,0,0,1,0.013314158,0.845606,0.14107975,Neg,-0.83229184,advisorhubinc
+248,2017-10-18 22:48:03,This fireside chat is 🔥 AdvisorHubLive  ,0,1,0,0,0,1,0.036114965,0.038706418,0.9251786,Neu,-0.0025914535,advisorhubinc
+249,2017-10-18 22:42:04,Nothing is more dangerous right now than not taking a risk -   AdvisorHubLive,0,1,0,0,1,0,0.036639836,0.12253891,0.84082127,Neu,-0.08589907,advisorhubinc
+250,2017-10-18 22:26:03,CEO of AdvisorHub gets interviewed by  fireside chat style AdvisorHubLive  ,1,1,0,0,0,0,0.030254342,0.027698588,0.94204706,Neu,0.002555754,advisorhubinc
+251,2017-10-18 21:49:04,The last panel of the day is talking about growth through acquisition and succession planning AdvisorHubLive  ,0,1,0,0,0,1,0.04273968,0.016380312,0.94088006,Neu,0.026359366,advisorhubinc
+252,2017-10-18 21:27:05,Thank you Amit for sharing your insight on the panel Facing Industry Challenges AdvisorHubLive  ,0,1,0,0,0,1,0.45907098,0.010181726,0.5307473,Neu,0.44888926,advisorhubinc
+253,2017-10-18 21:07:00,Second panel of the day: Growing Your Business In Uncertain Times AdvisorHubLive  ,0,1,0,0,0,0,0.116486944,0.0136797065,0.8698333,Neu,0.10280724,advisorhubinc
+254,2017-10-18 20:56:00,Sieg to Merrill Brokers: Your Goal Is Five New Accounts  ,0,0,0,0,0,0,0.09494047,0.011188972,0.8938706,Neu,0.0837515,advisorhubinc
+255,2017-10-18 20:46:01,Paul Blease from  takes the stage AdvisorHubLive  ,0,1,0,0,0,0,0.12021749,0.06553584,0.8142467,Neu,0.054681644,advisorhubinc
+256,2017-10-18 19:28:05,Panel on facing industry challenges AdvisorHubLive  ,0,1,0,0,0,1,0.09760957,0.038034316,0.8643561,Neu,0.059575256,advisorhubinc
+257,2017-10-18 18:52:04,What is going to happen at the intersection of Advice and Technology? - Ron Kruszewski AdvisorHubLive,0,1,0,0,0,1,0.031017065,0.044666447,0.92431647,Neu,-0.013649382,advisorhubinc
+258,2017-10-18 18:30:04,“I want to be the last active investor in a passive world” - Ron Kruszewski from  AdvisorHubLive,0,1,0,0,0,0,0.04065474,0.039805077,0.91954017,Neu,0.0008496642,advisorhubinc
+259,2017-10-18 18:22:00,CEO of  Ron Kruszewski takes the stage AdvisorHubLive  ,0,1,0,0,1,0,0.037322287,0.04204716,0.9206306,Neu,-0.004724875,advisorhubinc
+260,2017-10-18 18:11:00,CEO of AdvisorHub  asks what’s happening to our names in the industry AdvisorHubLive  ,1,1,0,0,1,0,0.018773582,0.1079497,0.8732767,Neu,-0.08917612,advisorhubinc
+261,2017-10-18 18:05:02,Welcome to the first AdvisorHub event! AdvisorHubLive  ,0,0,0,0,0,0,0.06454405,0.018100183,0.91735584,Neu,0.04644387,advisorhubinc
+262,2017-10-18 17:00:01,2018 Comp: UBS Incents Brokers to Offload ‘Small’ Accounts to Call Center  ,0,0,0,0,0,1,0.026088964,0.3340279,0.6398831,Neu,-0.30793893,advisorhubinc
+263,2017-10-18 16:20:00,Welcome  AdvisorHubLive  ,0,0,0,0,0,0,0.0823604,0.022356259,0.89528334,Neu,0.060004145,advisorhubinc
+264,2017-10-18 16:02:00,Doors open in 1 hour! AdvisorHubLive  ,0,1,0,0,0,0,0.049903587,0.028958531,0.92113787,Neu,0.020945055,advisorhubinc
+265,2017-10-17 20:34:02,ANALYSIS: Wirehouses Paying Up in Race for Deposits  ,0,1,0,0,0,0,0.0640972,0.028506296,0.90739644,Neu,0.03559091,advisorhubinc
+266,2017-10-17 16:27:03,Morgan Stanley Wealth Profit Zooms on Advisory Fees  ,0,0,0,0,0,0,0.07011538,0.026726214,0.9031585,Neu,0.043389164,advisorhubinc
+267,2017-10-16 16:45:03,Wells to Pay $3.4 Mln for Failing to Supervise ‘Volatility Product’ Sales  ,0,1,0,0,0,0,0.013987336,0.95328516,0.032727495,Neg,-0.9392978,advisorhubinc
+268,2017-10-12 16:45:00,Morgan Stanley Returns to Court as Another NJ Broker Jumps to Merrill  ,0,0,0,0,0,0,0.07326139,0.468258,0.45848057,Neg,-0.3949966,advisorhubinc
+269,2017-10-11 21:33:02,"After 44 Years, a Top Washington State Broker Takes Team Independent  ",0,0,0,0,0,0,0.18297654,0.013118605,0.80390483,Neu,0.16985793,advisorhubinc
+270,2017-10-11 16:54:02,Five MORE Reasons Not to Miss the AdvisorHub Industry in Transition Summit    ,0,0,0,0,1,1,0.06179822,0.03640095,0.9018008,Neu,0.025397267,advisorhubinc
+271,2017-10-10 20:43:05,Morgan Stanley Broker’s Firing Raises Industry Eyebrows  ,0,1,0,0,1,0,0.033906695,0.8850982,0.08099512,Neg,-0.8511915,advisorhubinc
+273,2017-10-09 20:45:01,Senior Morgan Stanley Broker in Virginia Leaves Amid Branch Manager Shuffle  ,0,0,0,0,0,1,0.016857352,0.77546173,0.2076808,Neg,-0.7586044,advisorhubinc
+274,2017-10-09 16:25:02,Wealth Managers Who Pinch Pennies May Be Own Worst Enemies  ,0,1,0,0,0,0,0.015038631,0.8706208,0.114340596,Neg,-0.8555822,advisorhubinc
+275,2017-10-06 20:27:01,"Ameriprise Broker Wins Expungement, Arbitrator Grimaces  ",0,0,0,0,0,0,0.10975719,0.13182776,0.7584151,Neu,-0.022070564,advisorhubinc
+276,2017-10-05 21:05:02,Brand Messaging Your Practice: Three Imperatives    ,0,0,0,0,0,0,0.035887424,0.031707365,0.9324052,Neu,0.004180059,advisorhubinc
+277,2017-10-05 20:59:01,Former UBS Private Wealth Regional Manager Joins Independent Firm  ,0,0,0,0,0,0,0.03858499,0.04099613,0.9204189,Neu,-0.002411142,advisorhubinc
+278,2017-10-05 16:49:01,2018 Compensation: UBS Promises U.S. Brokers No Payout Change  ,0,0,0,0,0,0,0.043455865,0.85068345,0.10586076,Neg,-0.8072276,advisorhubinc
+280,2017-10-04 18:46:03,October 18th is just around the corner!    ,0,1,0,0,1,1,0.036186423,0.09376889,0.8700447,Neu,-0.057582464,advisorhubinc
+281,2017-10-04 16:49:00,Greg Fleming Takes Reins of Expanded Rockefeller Family Office  ,0,0,0,0,0,0,0.024583006,0.050639197,0.92477787,Neu,-0.026056191,advisorhubinc
+282,2017-10-03 20:50:04,Another HighTower Executive Leaves Amid Sale Rumors  ,0,0,0,0,0,1,0.0137196565,0.83065426,0.15562612,Neg,-0.8169346,advisorhubinc
+283,2017-10-03 18:53:02,"Don't miss out, register today:    ",0,1,0,0,0,0,0.031510316,0.047148287,0.9213414,Neu,-0.015637971,advisorhubinc
+284,2017-10-03 17:08:01,Merrill Hires Stock-Plan Team in San Francisco from J.P. Morgan Securities  ,0,0,0,0,0,0,0.06816824,0.022304872,0.9095268,Neu,0.045863368,advisorhubinc
+286,2017-10-02 21:35:05,Oppenheimer Replaces Long-Time Advisory Account Head  ,0,0,0,0,0,0,0.025823576,0.2571089,0.71706754,Neu,-0.23128532,advisorhubinc
+287,2017-10-02 17:56:02,Another Morgan Stanley Broker Tries His Hand at Independence  ,0,1,0,0,0,0,0.12114171,0.024104618,0.8547537,Neu,0.09703709,advisorhubinc
+289,2017-09-29 17:29:02,BREAKING: Keith Banks Out as President of U.S. Trust  ,0,1,0,0,1,0,0.07931768,0.053957578,0.8667248,Neu,0.025360104,advisorhubinc
+292,2017-09-28 20:05:01,Finra Suspends Indy Firm Executive for Unsuitable ETF Recommendations  ,0,0,0,0,0,1,0.011317929,0.9191659,0.06951614,Neg,-0.907848,advisorhubinc
+293,2017-09-28 18:45:02,An Industry in Transition: Expert Solutions to Advisor Challenges REGISTER HERE:    ,0,0,0,0,0,0,0.07688216,0.021866616,0.9012512,Neu,0.055015545,advisorhubinc
+294,2017-09-28 17:04:04,Broker Can’t Escape Promissory Note Debt Through Bankruptcy  ,0,0,1,0,0,0,0.09930339,0.090717055,0.8099795,Neu,0.008586332,advisorhubinc
+295,2017-09-27 21:42:03,"Finra Fines, Enforcement Actions Plummet as Markets Thrive  ",0,0,0,0,0,0,0.011487053,0.9606982,0.027814878,Neg,-0.9492111,advisorhubinc
+296,2017-09-27 20:49:04,Oppenheimer Brokers Leave Seattle-Area Branch  ,0,0,0,0,0,0,0.015654843,0.8113343,0.17301084,Neg,-0.79567945,advisorhubinc
+297,2017-09-27 16:48:01,Gorman Defends Morgan Stanley’s Wealth Business as Unassailable  ,0,1,0,0,0,0,0.020027114,0.8780306,0.10194223,Neg,-0.8580035,advisorhubinc
+298,2017-09-26 21:16:02,RBC Reflies Flag in Miami with Billion-Dollar AUM Morgan Stanley Team  ,0,0,0,0,0,0,0.19880353,0.29980698,0.50138956,Neu,-0.10100345,advisorhubinc
+299,2017-09-26 18:28:03,Join us October 18th for our first live event in NYC! Register here:    ,0,0,0,0,0,0,0.043648615,0.018685598,0.9376658,Neu,0.024963018,advisorhubinc
+300,2017-09-26 16:38:00,Expense Report Costs Morgan Stanley Veteran Her Career  ,0,0,0,0,0,0,0.05516955,0.09124899,0.8535815,Neu,-0.03607944,advisorhubinc
+301,2017-09-25 21:27:05,SunTrust Brokerage Shakeup Creates Waves of Management Changes  ,0,0,0,0,0,0,0.010769882,0.93801373,0.051216483,Neg,-0.9272438,advisorhubinc
+302,2017-09-25 16:58:03,Morgan Stanley to Pay $13 Million for UIT Sales Violations  ,0,0,0,0,0,0,0.120123565,0.021535594,0.85834086,Neu,0.098587975,advisorhubinc
+303,2017-09-22 19:21:04,Millennials Still Gravitate Toward Human Advisors over Robos: Survey  ,0,0,0,0,3,0,0.060806938,0.032887094,0.9063059,Neu,0.027919844,advisorhubinc
+304,2017-09-22 16:29:02,"RayJay Lands Brokers from RBC, Morgan Stanley  ",0,1,0,0,0,0,0.042719763,0.01563906,0.9416412,Neu,0.027080704,advisorhubinc
+305,2017-09-21 20:14:01,Finra Brings Hammer Down on Two Maryland Brokers  ,0,0,0,0,0,0,0.015918247,0.9483797,0.035702106,Neg,-0.93246144,advisorhubinc
+306,2017-09-21 17:37:02,Merrill Brand Takes a Hit with New BofA Credit Cards  ,0,0,0,0,0,0,0.6438064,0.02109047,0.33510312,Pos,0.62271595,advisorhubinc
+307,2017-09-20 20:23:02,Less than a month away until AdvisorHub goes LIVE in NYC! Register here:    ,0,1,0,0,1,1,0.025913702,0.03321151,0.94087476,Neu,-0.0072978083,advisorhubinc
+308,2017-09-20 19:48:03,EXCLUSIVE: Merrill Lynch to Accelerate Release of 2018 Comp Plan  ,0,0,0,0,0,0,0.10540573,0.01701633,0.87757796,Neu,0.088389404,advisorhubinc
+309,2017-09-20 19:28:03,Ex-LPL Broker Barred over Expense Fraud  ,0,0,0,0,0,0,0.017197892,0.8869891,0.09581307,Neg,-0.8697912,advisorhubinc
+310,2017-09-20 17:23:02,Massachusetts Charges SII with Non-Traded REIT Violations  ,0,0,0,0,0,0,0.012743525,0.84132344,0.14593302,Neg,-0.8285799,advisorhubinc
+311,2017-09-19 21:46:03,Merrill Plays Musical Chairs in Midwest  ,0,0,0,0,0,0,0.06094109,0.041883837,0.89717513,Neu,0.019057252,advisorhubinc
+312,2017-09-19 18:58:00,"Regionals Pick Off Wirehouse Teams in Las Vegas, Chicago and Nashville  ",0,0,0,0,0,1,0.25922933,0.10434557,0.6364251,Neu,0.15488377,advisorhubinc
+313,2017-09-18 16:24:05,AdvisorHub to Host Inaugural Summit for Advisors in New York City on Oct. 18  ,0,0,0,0,0,0,0.082926564,0.011517361,0.9055561,Neu,0.0714092,advisorhubinc
+315,2017-09-14 21:06:05,"Broker Wins $495,000 from Ex-Partner at UBS, a Sliver of $4 Million-Plus Claim  ",0,0,0,0,0,1,0.72724414,0.01599889,0.25675693,Pos,0.71124524,advisorhubinc
+316,2017-09-14 18:55:01,"Wells Soldiers On in Northwest, Nabbing Brokers from UBS, Jones and Waddell  ",0,1,0,0,0,0,0.7230516,0.14546742,0.13148107,Pos,0.5775842,advisorhubinc
+317,2017-09-13 21:45:01,"Ex-JP Morgan Broker Wins $60,000 and Expungement in Defamation Claim  ",0,0,0,0,0,0,0.093695484,0.34217516,0.5641293,Neu,-0.24847966,advisorhubinc
+318,2017-09-13 19:22:01,Merrill Official Hammers Nail into Coffins of Stock-Picking Brokers  ,0,0,0,0,0,1,0.017885685,0.791179,0.19093534,Neg,-0.7732933,advisorhubinc
+319,2017-09-13 17:11:05,"Jerry Murphy, Top Advisor Group Executive, Steps Down  ",0,0,0,0,0,0,0.019829502,0.4756363,0.5045342,Neu,-0.4558068,advisorhubinc
+320,2017-09-12 21:05:00,Game of Firms  ,0,0,0,0,1,1,0.03449543,0.04901203,0.91649246,Neu,-0.014516603,advisorhubinc
+322,2017-09-11 21:44:03,Behind First Republic’s Allure: 300% Signing Package and Referrals  ,0,0,0,0,0,0,0.20247607,0.0098071145,0.78771687,Neu,0.19266896,advisorhubinc
+323,2017-09-11 16:48:05,Morgan Stanley Virginia Complex Lures Pair of Merrill Lifers  ,0,0,0,0,0,0,0.14722958,0.027909327,0.8248611,Neu,0.11932026,advisorhubinc
+324,2017-09-11 14:50:04,Join us for our first live event! Register here:  ,0,0,0,0,0,1,0.050668586,0.016363204,0.9329682,Neu,0.034305383,advisorhubinc
+325,2017-09-08 19:49:01,"LPL, Broker Beat Doctors’ $5.8 Mln Claim, But His Record Stays Scarred  ",0,0,0,0,0,0,0.83542913,0.05047314,0.11409776,Pos,0.784956,advisorhubinc
+326,2017-09-07 21:45:03,Recruiting Update: All Quiet on the Wirehouse Front  ,0,1,0,0,0,0,0.03892805,0.053999145,0.9070728,Neu,-0.015071094,advisorhubinc
+327,2017-09-07 18:34:00,Edward Jones Revives Dormant Effort to Recruit Women  ,0,0,0,0,0,0,0.32979092,0.01607657,0.6541325,Neu,0.31371436,advisorhubinc
+328,2017-09-06 21:27:04,Ex-Merrill Broker Who Zealously ‘Rode the Calendar’ Pays Again  ,0,0,0,0,0,0,0.27361,0.11049705,0.61589295,Neu,0.16311294,advisorhubinc
+329,2017-09-06 17:44:03,EXCLUSIVE: Morgan Stanley Trims Recruiting Bonuses for High-end Brokers  ,0,0,0,1,0,1,0.019931803,0.92742515,0.052643023,Neg,-0.90749335,advisorhubinc
+330,2017-09-05 21:30:00,Wells Rivals Announce Spurt of Recruiting from Scandal-Tarred Firm  ,0,1,0,0,0,0,0.69692385,0.100978196,0.202098,Pos,0.59594566,advisorhubinc
+331,2017-09-05 20:58:00,Ex-Merrill Executive Escapes Fine in Case that Cost Firm $415 Million  ,0,0,0,0,1,0,0.029279271,0.8988553,0.07186542,Neg,-0.86957604,advisorhubinc
+332,2017-09-01 16:18:00,Finra Raps Ex-Morgan Stanley Broker for Unorthodox “Discounting”  ,0,0,0,0,1,0,0.025382599,0.91836804,0.05624939,Neg,-0.89298546,advisorhubinc
+333,2017-08-31 21:23:03,SEC Charges Navellier and Owner with Fraud  ,0,0,0,0,0,0,0.019578427,0.74747854,0.23294298,Neg,-0.72790015,advisorhubinc
+334,2017-08-31 16:11:01,Regulators Working with Firms in Storm-Ravaged Regions  ,0,1,0,0,1,0,0.048633944,0.663138,0.28822803,Neg,-0.61450404,advisorhubinc
+335,2017-08-30 21:15:00,"Regional Recruiting Scramble: RBC, RayJay Add Veteran Brokers  ",0,0,0,0,1,0,0.24226715,0.017425567,0.74030733,Neu,0.22484158,advisorhubinc
+337,2017-08-30 18:16:03,HighTower Advisor to Trump: Pardon Michael Milken  ,0,0,0,0,1,1,0.06974743,0.021321358,0.9089312,Neu,0.048426077,advisorhubinc
+338,2017-08-29 21:27:04,"Morgan Stanley, Merrill Teams Jump to Indie Firms in NY and AZ  ",0,0,0,0,0,0,0.63651973,0.04604667,0.3174336,Pos,0.59047306,advisorhubinc
+340,2017-08-29 16:42:04,Fired Wells Private Banker Prevails in Unusual Defamation Case  ,0,0,0,0,0,0,0.3180806,0.21688046,0.46503896,Neu,0.10120015,advisorhubinc
+341,2017-08-28 21:36:03,SEC Adds $20 Million Ponzi Scheme to List of Dawn Bennett Allegations  ,0,0,0,0,0,0,0.027327586,0.20504542,0.767627,Neu,-0.17771783,advisorhubinc
+342,2017-08-28 17:34:04,Merrill PBIG Team Splits to Open Dallas Office for RIA Founded by Ex-Colleagues  ,0,0,0,0,0,0,0.24707176,0.009331999,0.74359626,Neu,0.23773976,advisorhubinc
+343,2017-08-25 19:56:02,Merrill Broker Sues Firm for Allegedly Stealing Accounts During Medical Leaves  ,0,1,0,0,0,0,0.01562716,0.9387316,0.04564122,Neg,-0.92310447,advisorhubinc
+344,2017-08-25 18:25:05,Morgan Stanley Readies Hiring Program for Mid-Career “Dropouts”  ,0,0,0,0,1,1,0.04010323,0.17680988,0.7830869,Neu,-0.13670665,advisorhubinc
+345,2017-08-23 20:36:00,Finra Slams Morgan Stanley for Bad Executions on Preferred Trades  ,0,0,0,0,0,0,0.02140868,0.94815063,0.030440632,Neg,-0.92674196,advisorhubinc
+347,2017-08-22 22:02:03,SEC Charges Los Angeles Advisor with Bilking “High-Profile” Athlete  ,0,0,0,0,1,0,0.026653454,0.8072997,0.16604686,Neg,-0.7806462,advisorhubinc
+349,2017-08-21 20:45:00,Ameriprise Hit with Age Discrimination Suit in Michigan  ,0,0,0,0,0,0,0.023714734,0.945501,0.030784268,Neg,-0.9217863,advisorhubinc
+350,2017-08-18 19:23:02,"Investor Sues Prudential, Morningstar over Bad-Choice Retirement ‘Robo’  ",0,0,0,0,0,1,0.0194374,0.8536168,0.12694588,Neg,-0.8341794,advisorhubinc
+351,2017-08-18 16:44:03,UBS Lawyers Battle “Bad Actor” Evidence in Puerto Rico Claims  ,0,0,0,0,1,0,0.066484876,0.8187062,0.11480884,Neg,-0.75222135,advisorhubinc
+352,2017-08-17 19:01:00,Feds Charge Morgan Stanley Broker as Member of Insider Trading Ring  ,0,0,0,0,0,1,0.018986888,0.70106626,0.2799469,Neg,-0.6820794,advisorhubinc
+353,2017-08-17 17:26:03,SAVE THE DATE! An Industry in Transition – Expert Solutions to Advisor Challenges  ,0,0,0,0,1,1,0.19499016,0.013869864,0.79113996,Neu,0.18112029,advisorhubinc
+356,2017-08-14 20:23:02,Oppenheimer Wins Skirmish in “Blackmail” Lawsuit Against Data Vendor  ,0,0,0,0,0,0,0.23113842,0.43664053,0.33222103,Neg,-0.20550211,advisorhubinc
+357,2017-08-14 16:36:03,"After ‘Mutual’ Separation, Morgan Stanley Manager Alights at Merrill Lynch  ",0,0,0,0,0,1,0.026944447,0.04519968,0.9278559,Neu,-0.018255234,advisorhubinc
+358,2017-08-11 17:41:02,"Wells Fargo Advisors Shuffles Field Leaders, Creates New Region  ",0,1,0,0,0,0,0.06111663,0.039169084,0.89971435,Neu,0.021947544,advisorhubinc
+359,2017-08-11 15:01:05,Annapolis Grad Ordered to Pay Morgan Stanley $300K in Note-Case Loss  ,0,0,0,0,0,0,0.024633253,0.880194,0.09517275,Neg,-0.8555608,advisorhubinc
+360,2017-08-10 19:15:00,Ex-Advisor to Pay $2 Million for Stealing “Movie Money” from Athletes  ,0,0,0,0,0,0,0.06956399,0.59834063,0.33209535,Neg,-0.52877665,advisorhubinc
+361,2017-08-10 18:29:05,Oppenheimer Loses $28 Million Claim Against Jefferies Wealth Executive  ,0,0,0,0,0,0,0.039247278,0.66558534,0.29516748,Neg,-0.62633806,advisorhubinc
+362,2017-08-09 21:00:04,DOL Seeks 18-Month Delay in Fiduciary Rule Transition  ,0,0,0,0,0,1,0.018764403,0.7775378,0.2036978,Neg,-0.75877345,advisorhubinc
+363,2017-08-09 19:26:03,FBI Investigates Boston Broker Fired by Morgan Stanley  ,0,0,0,0,0,0,0.01812475,0.8881344,0.09374087,Neg,-0.87000966,advisorhubinc
+364,2017-08-09 16:27:00,"Despite DOL Travails, Ladenburg’s Profit Rises  ",0,0,0,0,0,0,0.9532054,0.022357559,0.024437048,Pos,0.9308478,advisorhubinc
+365,2017-08-08 20:35:05,"Flexing New England Muscle, RBC Nabs $3.7-Million Morgan Stanley Team  ",0,1,0,0,1,1,0.7243517,0.012150905,0.26349735,Pos,0.7122008,advisorhubinc
+366,2017-08-07 18:38:04,Phil Shaffer of Morgan Stanley Graystone Fame Opens His Own Shop  ,0,0,0,0,0,0,0.052400738,0.021160357,0.9264389,Neu,0.031240381,advisorhubinc
+367,2017-08-07 16:35:03,"RayJay Lands Baird Vet in Chicago, Wells/Pru Lifers in Rochester  ",0,0,0,0,0,0,0.03506916,0.01764024,0.9472906,Neu,0.01742892,advisorhubinc
+369,2017-08-04 16:53:02,Merrill to Brokers: Start Your Growth Engines  ,0,0,0,0,0,0,0.09724062,0.014788877,0.88797057,Neu,0.082451746,advisorhubinc
+370,2017-08-03 21:19:04,Finra Benches Former Merrill PBIG Stars over Outside Businesses  ,0,0,0,0,0,0,0.20871437,0.037473086,0.7538125,Neu,0.17124128,advisorhubinc
+371,2017-08-03 20:08:03,"Arb Panel Shoots Down Broker’s Defamation Bid for $3 Mln from Wells, JPMorgan  ",0,0,0,0,0,0,0.010533016,0.9433081,0.04615881,Neg,-0.9327751,advisorhubinc
+372,2017-08-02 21:46:01,Texas Advisor in Fox News Glare Says Clients Don’t Care  ,0,1,0,0,0,0,0.044118766,0.3655237,0.5903575,Neu,-0.32140493,advisorhubinc
+373,2017-08-02 16:47:03,Ex-LPL Brokers Draw More Fraud Charges Over Annuity Sales  ,0,0,0,0,0,0,0.010564123,0.9540432,0.0353927,Neg,-0.94347906,advisorhubinc
+374,2017-08-01 21:23:03,Morgan Stanley Fires Two Boston Brokers for Alleged Theft  ,0,0,0,0,0,0,0.012976051,0.95084465,0.036179338,Neg,-0.9378686,advisorhubinc
+375,2017-08-01 21:05:04,Pennsylvania Team with Merrill Pedigree Goes Independent  ,0,0,0,0,0,0,0.20426011,0.046676625,0.74906325,Neu,0.15758349,advisorhubinc
+376,2017-08-01 16:52:05,"Another HighTower Exec, Its President, Departs  ",0,0,0,0,0,0,0.021308102,0.61915755,0.35953432,Neg,-0.5978494,advisorhubinc
+377,2017-08-01 15:09:00,Some insights from George Peller III the Director of Research at Hanlon Investment Management  ,0,0,0,0,0,0,0.07086943,0.015365716,0.91376483,Neu,0.055503715,advisorhubinc
+379,2017-07-31 20:47:04,Ex-LPL Annuities Scammer Roger Zullo Barred from Industry  ,0,0,0,0,0,0,0.021044921,0.5137823,0.46517274,Neg,-0.4927374,advisorhubinc
+380,2017-07-31 17:33:01,Breakaway Morgan Stanley Broker’s Expungement Attempt Fizzles  ,0,0,0,0,0,0,0.01834816,0.87955165,0.10210017,Neg,-0.8612035,advisorhubinc
+381,2017-07-28 20:46:01,Ex-Wells Fargo Broker Claims Age Discrimination Led to Her Firing  ,0,0,0,0,0,0,0.013974234,0.9200146,0.06601108,Neg,-0.9060404,advisorhubinc
+383,2017-07-27 21:16:05,Merrill to Pause Account Transfers for a Week  ,0,0,0,0,0,0,0.01316877,0.77573776,0.2110935,Neg,-0.762569,advisorhubinc
+384,2017-07-27 17:43:03,Raymond James CEO on Defensive About Payout Grid Cut  ,0,0,0,0,0,0,0.025813855,0.8774685,0.09671755,Neg,-0.85165465,advisorhubinc
+385,2017-07-26 21:10:03,BREAKING: Judge Orders Ex-Wells Broker to Return Breached Customer Data  ,0,0,0,0,0,0,0.010801698,0.94934374,0.039854616,Neg,-0.93854207,advisorhubinc
+386,2017-07-26 20:26:05,Finra Bars Ex-Morgan Stanley Broker Who Deceived Spy Novelist  ,0,0,0,0,0,0,0.060781956,0.5587326,0.38048542,Neg,-0.49795067,advisorhubinc
+387,2017-07-26 19:37:00,"Ameriprise FA Headcount Falls, CEO Lauds Productivity Improvement  ",0,0,0,0,0,0,0.08009515,0.8114878,0.108417064,Neg,-0.7313926,advisorhubinc
+388,2017-07-25 20:15:00,Janney Picks Up $2-Million Wells Fargo Team in Connecticut  ,0,1,0,0,0,0,0.11487191,0.011459626,0.87366843,Neu,0.103412285,advisorhubinc
+391,2017-07-24 19:27:05,AdvisorHub Launches the Industry’s First On-Demand Exchange Platform for Advisors and Wholesalers  ,1,1,0,0,1,1,0.2206633,0.007385629,0.771951,Neu,0.21327767,advisorhubinc
+392,2017-07-24 18:58:05,Merrill Fills In Some Details of Short-Term “Organic Growth” Award  ,0,0,0,0,0,0,0.04376086,0.016805917,0.9394332,Neu,0.026954941,advisorhubinc
+393,2017-07-21 16:18:01,Fired Morgan Stanley Broker Sues for Sexual Harassment  ,0,0,0,0,0,0,0.020310225,0.88224417,0.09744558,Neg,-0.86193395,advisorhubinc
+394,2017-07-20 18:17:01,Merrill Readies New Unit to Serve Clients (and Brokers) in Small Markets  ,0,0,0,0,0,0,0.3060601,0.0069047497,0.6870351,Neu,0.29915535,advisorhubinc
+395,2017-07-20 16:30:02,AssetLink allows asset management firms and wholesalers to more efficiently connect with advisors  ,0,1,0,0,0,0,0.2800785,0.0076342532,0.71228725,Neu,0.27244425,advisorhubinc
+396,2017-07-20 16:30:01,Browse a directory of advisor specific solutions to find products and services that meet the needs of your practice.  ,0,1,0,0,0,0,0.060362183,0.01327122,0.92636657,Neu,0.047090963,advisorhubinc
+397,2017-07-20 14:48:02,SEC Endorses Record $61 Million Award to Two JPMorgan Whistleblowers  ,0,1,0,0,0,0,0.7516036,0.07096793,0.17742847,Pos,0.6806357,advisorhubinc
+398,2017-07-19 20:30:03,Ka-Ching! Recruiting Slowdown Fattens Brokerage Bottom Lines  ,0,1,0,0,0,0,0.024805587,0.8878274,0.08736701,Neg,-0.8630218,advisorhubinc
+399,2017-07-19 18:28:02,Morgan Stanley Brokers Excite CEO with $1 Billion-Quarter  ,0,0,0,0,0,0,0.16303957,0.015623515,0.8213369,Neu,0.14741606,advisorhubinc
+400,2017-07-18 20:16:02,Bank of America CEO Blesses Wealth Management (In His Way)  ,0,0,0,0,0,0,0.07575073,0.018754933,0.90549433,Neu,0.056995798,advisorhubinc
+401,2017-07-17 17:07:02,EXCLUSIVE: Merrill to Unveil Mid-Year Award for New Account Growth  ,0,0,0,0,0,0,0.6119147,0.010830978,0.37725425,Pos,0.6010837,advisorhubinc
+402,2017-07-14 20:29:04,Wedbush Slammed in Elder Abuse Case  ,0,0,0,0,0,0,0.056719385,0.8011482,0.14213233,Neg,-0.7444288,advisorhubinc
+403,2017-07-14 17:24:00,"Wells Fargo Wealth Headcount Slips Again, Fee-Based Assets Rise  ",0,0,0,0,0,0,0.01256597,0.9619919,0.025442105,Neg,-0.94942594,advisorhubinc
+405,2017-07-12 20:34:03,UBS Lands $3-Million Merrill Lynch Lifer in New Jersey  ,0,0,0,0,0,0,0.12667888,0.011791325,0.8615298,Neu,0.11488756,advisorhubinc
+406,2017-07-12 19:02:03,How Much Should You Reveal to Clients About Your Own Finances?  ,0,1,0,0,0,0,0.023175607,0.06428549,0.91253895,Neu,-0.041109882,advisorhubinc
+407,2017-07-11 18:56:03,RayJay Lowers Payouts for Brokers in Employee Channel  ,0,0,0,0,0,0,0.0155873345,0.9399474,0.044465207,Neg,-0.9243601,advisorhubinc
+408,2017-07-11 18:12:04,"Former Brokerage CEO Had Enough with Finra Probes, Accepts Bar  ",0,0,0,0,0,0,0.04309101,0.15626161,0.80064744,Neu,-0.113170594,advisorhubinc
+410,2017-07-07 20:00:02,UBS Puts New Caps on Managed Account Fees  ,0,0,0,0,0,0,0.06765513,0.56399256,0.36835235,Neg,-0.4963374,advisorhubinc
+411,2017-07-07 16:50:01,B. Riley Closes Purchase of Wunderlich for About $72 Million  ,0,0,0,0,0,0,0.042455222,0.019936798,0.937608,Neu,0.022518424,advisorhubinc
+412,2017-07-06 19:46:03,RayJay to Implement “Product Neutral” Grid for Indie Brokers  ,0,0,0,0,0,0,0.27065927,0.0072069005,0.7221339,Neu,0.26345238,advisorhubinc
+413,2017-07-06 15:06:03,Ex-NFL Running Back Clinton Portis Says He Nearly Killed His Advisor  ,1,1,0,0,0,0,0.046781283,0.54418916,0.4090295,Neg,-0.49740788,advisorhubinc
+414,2017-07-05 22:08:02,HighTower Loses Billion-Dollar Asset Teams in Maryland and Ohio  ,0,1,0,0,0,0,0.0110184485,0.961158,0.027823528,Neg,-0.9501395,advisorhubinc
+415,2017-07-05 19:34:00,Finra Freezes Executive Pay as Revenue Declines  ,0,0,0,0,0,0,0.0070533515,0.96662027,0.026326366,Neg,-0.9595669,advisorhubinc
+416,2017-07-05 16:25:04,Jones Ordered to Pay Ex-Broker in Dispute over Account Openings  ,0,0,0,0,0,0,0.01302071,0.94102085,0.04595854,Neg,-0.92800015,advisorhubinc
+417,2017-06-30 21:26:03,First Republic Sweeps Another Merrill Broker Team  ,0,0,0,0,0,0,0.06790598,0.048370864,0.8837232,Neu,0.019535113,advisorhubinc
+419,2017-06-29 17:18:03,Breakaway UBS Broker Hires Big Legal Gun to Fend Off Wirehouse Lawsuit  ,0,0,0,0,0,0,0.13826485,0.36707827,0.49465695,Neu,-0.22881342,advisorhubinc
+420,2017-06-29 15:19:05,Press Release: AdvisorHub Expands Online Presence with Launch of New Content Areas  ,0,0,0,0,0,0,0.9385395,0.011427705,0.05003278,Pos,0.9271118,advisorhubinc
+421,2017-06-28 19:47:01,Raymond James Recruiting Binge Extends to Small Markets  ,0,0,0,0,0,0,0.08511392,0.023069995,0.89181614,Neu,0.062043928,advisorhubinc
+422,2017-06-28 16:39:00,June Busts UBS Wealth Balloon as Another Multi-Million-Dollar Team Jumps  ,0,0,0,0,0,0,0.27487606,0.4277401,0.29738376,Neg,-0.15286404,advisorhubinc
+423,2017-06-27 17:28:03,SEC’s Clayton Vows to Do More Exams with Less Funding  ,1,1,0,0,0,0,0.09214374,0.023167152,0.8846891,Neu,0.06897658,advisorhubinc
+424,2017-06-26 19:15:00,Quick Takes on Timely U.S. Stocks in the Week Ahead  ,0,0,0,0,0,0,0.21855386,0.033069026,0.7483771,Neu,0.18548483,advisorhubinc
+425,2017-06-26 18:06:00,"William Blair Builds Wealth, Grabs $3 Million Boston Team from UBS  ",0,0,0,0,0,0,0.109604366,0.01576559,0.87463003,Neu,0.09383877,advisorhubinc
+426,2017-06-23 20:42:03,UBS Loses $3 Million-Duo in San Francisco to First Republic  ,0,0,0,0,0,0,0.029104516,0.87623775,0.09465775,Neg,-0.8471332,advisorhubinc
+427,2017-06-23 17:57:00,Morgan Stanley “Institutional” Bigwig Shaffer Takes a Walk  ,0,1,0,0,0,0,0.11679385,0.07334692,0.8098593,Neu,0.04344693,advisorhubinc
+428,2017-06-22 21:14:02,Finra Punishes Ex-Merrill Advisor Who Fed IPOs to Her Dad  ,0,0,0,0,0,0,0.012515229,0.93599945,0.05148526,Neg,-0.9234842,advisorhubinc
+429,2017-06-22 16:36:05,SEC Chair Endorses Enhanced Disclosure on Advisors  ,0,0,0,0,0,0,0.07125474,0.013002511,0.9157427,Neu,0.058252227,advisorhubinc
+431,2017-06-21 16:29:03,"Oppenheimer Gets Another “Critical” Report Card, Makes No Remedial Promises  ",0,1,0,0,0,0,0.10258345,0.097945325,0.79947126,Neu,0.004638128,advisorhubinc
+432,2017-06-20 20:26:03,Emigres Ramp Up Rhetoric Against Wirehouses  ,0,0,0,0,0,0,0.10366512,0.5542282,0.3421067,Neg,-0.45056307,advisorhubinc
+433,2017-06-20 17:16:02,"One Seasoned Manager Returns to Merrill, Another Old Pro Leaves Wells  ",0,1,0,0,0,0,0.028943103,0.48300338,0.48805356,Neu,-0.4540603,advisorhubinc
+434,2017-06-19 21:21:03,Former UBS Private Wealth Leader Straus Nabs First Client as IBD  ,0,0,0,0,0,0,0.03710835,0.033998784,0.9288929,Neu,0.0031095669,advisorhubinc
+437,2017-06-16 21:25:02,"As Wirehouses Narrow Recruiting Doors, Manager Finds New Pasture  ",0,0,0,0,0,0,0.160321,0.032833043,0.80684596,Neu,0.12748796,advisorhubinc
+438,2017-06-16 17:34:02,"Jefferies’ Retail Unit Loses Senior Manager, Top Broker  ",0,1,0,0,0,0,0.07491914,0.42544878,0.49963215,Neu,-0.35052964,advisorhubinc
+439,2017-06-16 15:56:05,Adaptability is Key to Surviving the Rise of the Machines  ,0,1,0,0,0,0,0.5847428,0.010987123,0.40427002,Pos,0.5737557,advisorhubinc
+440,2017-06-15 20:52:04,Merrill Nabs Midtown Manhattan Team from Morgan Stanley  ,0,0,0,0,0,0,0.02894334,0.03377977,0.93727696,Neu,-0.004836431,advisorhubinc
+441,2017-06-15 17:38:00,Morgan Stanley and Broker Handcuffed in Elder Abuse Case  ,0,0,0,0,1,0,0.02674012,0.8649088,0.10835108,Neg,-0.8381687,advisorhubinc
+442,2017-06-14 20:56:03,Morgan Stanley CEO Sees Gold in Expiring Retention Bonuses  ,0,0,0,0,0,0,0.050060693,0.09162726,0.858312,Neu,-0.04156657,advisorhubinc
+443,2017-06-14 17:56:01,"AdvisorHub Partners with BrokerHunter, Expanding Reach to Financial Advisors  ",0,1,0,0,0,0,0.85534555,0.006729886,0.13792461,Pos,0.84861565,advisorhubinc
+444,2017-06-14 16:38:03,Technology Changes Core Functions of FAs at Wealth Firms  ,0,0,0,0,0,0,0.043671895,0.08270296,0.87362516,Neu,-0.039031062,advisorhubinc
+445,2017-06-13 21:06:05,Morgan Stanley Revs Up Proprietary CD Sales on Eve of Fed Rate Meeting  ,0,0,0,0,0,0,0.33264443,0.19307983,0.47427574,Neu,0.1395646,advisorhubinc
+446,2017-06-12 20:37:00,"After RBC Broker Resigns, Firm Settles with His Customer for $3.5 Million  ",0,0,0,0,0,0,0.020878123,0.7898913,0.18923053,Neg,-0.76901317,advisorhubinc
+447,2017-06-12 18:00:02,Finra Proposes BrokerCheck Alert on ‘High-Risk’ Firms  ,0,0,0,0,0,0,0.055879142,0.059599027,0.88452184,Neu,-0.003719885,advisorhubinc
+448,2017-06-12 17:18:03,Weekly Market Outlook (June 12th) from    ,0,0,0,0,1,0,0.03341385,0.024335166,0.94225097,Neu,0.009078683,advisorhubinc
+449,2017-06-09 21:28:04,Broker Accused of Churning Annuities Ordered to Cough Up His Commissions  ,1,1,0,0,0,0,0.018958045,0.8399835,0.14105846,Neg,-0.8210255,advisorhubinc
+450,2017-06-09 17:05:03,Another Morgan Stanley Team Joins Merrill as Recruiting Window Shuts  ,0,0,0,0,0,1,0.035318978,0.30451444,0.66016656,Neu,-0.26919547,advisorhubinc
+451,2017-06-08 21:38:03,"After Finra Opens Probe, Ex-Merrill Broker Leaves New Post  ",0,1,0,0,0,0,0.029447382,0.5317581,0.43879452,Neg,-0.50231075,advisorhubinc
+452,2017-06-08 17:41:03,"Stifel Shakes Up Board, Insiders Step Down  ",0,0,0,0,0,0,0.01459962,0.84813774,0.13726269,Neg,-0.8335381,advisorhubinc
+453,2017-06-07 16:49:04,Morgan Stanley Consolidates More Branches  ,0,0,0,0,0,0,0.037073392,0.4716761,0.49125054,Neu,-0.4346027,advisorhubinc
+456,2017-06-06 13:57:04,Goldman Sachs Restricts Chicago Brokers from Calling Former Clients  ,0,1,0,0,0,0,0.018047577,0.41426352,0.56768894,Neu,-0.39621595,advisorhubinc
+457,2017-06-05 17:18:00,Dissenting Arbitrator to Colleagues in UBS Pay Case: Have a Heart  ,0,1,0,0,0,0,0.11066372,0.04473919,0.84459704,Neu,0.065924525,advisorhubinc
+458,2017-06-02 21:25:00,Sirianni to Wires: Time to Pay the Band  ,0,0,0,0,1,0,0.13714151,0.04993454,0.81292397,Neu,0.087206975,advisorhubinc
+459,2017-06-02 19:57:04," son, they shook",0,1,0,0,0,2,0.077131376,0.06210864,0.86076,Neu,0.015022736,advisorhubinc
+460,2017-06-02 19:55:05,"With Clock Ticking on New Hires, Merrill Lands Jumbo UBS Teams   ",0,1,0,0,0,0,0.048897434,0.035928607,0.91517395,Neu,0.012968827,advisorhubinc
+461,2017-06-02 16:57:04,"BREAKING: Morgan Stanley Eliminates Divisions, Names New Field Boss  ",0,0,0,0,0,0,0.03417064,0.391101,0.57472837,Neu,-0.35693038,advisorhubinc
+462,2017-06-02 14:33:01,UBS Rushes Out Comp Changes Ahead of DOL Implementation Deadline  ,0,0,0,0,0,0,0.057280783,0.027115846,0.9156034,Neu,0.030164937,advisorhubinc
+463,2017-06-01 19:56:04,Today's Market Insights Look out for more market content from AdvisorHub!  ,0,0,0,0,0,0,0.07028133,0.015353467,0.91436523,Neu,0.05492786,advisorhubinc
+464,2017-06-01 17:13:04,Ex-Morgan Stanley Broker Barred for Hiding $190 Million in Venezuelan Bond Trades  ,0,0,0,0,0,0,0.028183414,0.36352992,0.6082866,Neu,-0.33534652,advisorhubinc
+465,2017-05-31 21:39:00,"DOL Fiduciary Rule a “Positive” for Morgan Stanley, Says Wealth Boss  ",0,0,0,0,0,0,0.88313824,0.017308429,0.09955339,Pos,0.8658298,advisorhubinc
+466,2017-05-31 17:40:00,Branch Managers Face Uncertainty Following Wirehouse Recruiting Pullback  ,0,0,0,0,0,1,0.011372818,0.9595935,0.02903369,Neg,-0.9482207,advisorhubinc
+467,2017-05-31 15:11:01,Stories form around the web for this AM  ,0,1,0,0,0,0,0.035581153,0.020819891,0.943599,Neu,0.014761262,advisorhubinc
+468,2017-05-30 20:19:02,Merrill Nabs $1 Billion-Asset Int’l Broker from JPMorgan  ,0,0,0,0,0,1,0.08621194,0.012650725,0.9011373,Neu,0.073561214,advisorhubinc
+470,2017-05-26 20:00:02,Adviser Charged with Stealing $4.5 Million from NFL Defensive End  ,0,0,0,0,0,0,0.03442449,0.6831818,0.2823937,Neg,-0.64875734,advisorhubinc
+471,2017-05-26 18:33:02,Finra Deals Compliance Officer a Lesson in Disclosure Obligations  ,0,0,0,0,1,1,0.12264088,0.017408676,0.8599505,Neu,0.1052322,advisorhubinc
+472,2017-05-25 21:02:05,Wells Fargo Lards Recruiting Deals as Rivals Turn Spartan  ,0,0,0,0,0,0,0.14860153,0.1805655,0.670833,Neu,-0.031963974,advisorhubinc
+473,2017-05-25 17:00:00,Morgan Stanley Merges Dallas Complexes as Cost-Saving Push Continues  ,0,0,0,0,0,0,0.8354395,0.039083418,0.12547708,Pos,0.7963561,advisorhubinc
+474,2017-05-24 21:21:01,"Wells Fargo Eliminates A-Shares, C-Shares from Retirement Accounts  ",0,0,0,0,1,0,0.01914237,0.3696716,0.611186,Neu,-0.35052925,advisorhubinc
+475,2017-05-24 16:42:03,"RBC Hires Another Wirehouse Broker, This Time in Houston  ",0,1,0,0,0,0,0.09156858,0.033558685,0.87487274,Neu,0.058009896,advisorhubinc
+476,2017-05-23 20:37:04,Another Domino Falls as Morgan Stanley Curtails Recruiting  ,0,0,0,0,0,0,0.016383583,0.90395606,0.07966038,Neg,-0.88757247,advisorhubinc
+477,2017-05-23 18:07:02,"With DOL Rule Date Ensured, Class-action Lawsuits Take Spotlight  ",0,0,0,0,0,0,0.019177802,0.6998701,0.28095216,Neg,-0.6806923,advisorhubinc
+479,2017-05-23 14:20:01,"UPDATE: With Days to Go, DOL Rule Still Confounds Brokers  ",0,1,0,0,0,0,0.013470453,0.94483906,0.0416905,Neg,-0.9313686,advisorhubinc
+480,2017-05-19 20:30:01,Morgan Stanley Poaches Two of Jefferies Top Four Brokers  ,0,0,0,0,0,0,0.023037734,0.6552787,0.3216836,Neg,-0.63224095,advisorhubinc
+481,2017-05-19 19:42:04,U.S. Securities Firms Appear to Have Escaped Global Cyberattack  ,0,1,0,0,0,0,0.7353713,0.11391869,0.15071005,Pos,0.62145257,advisorhubinc
+482,2017-05-18 18:25:01,Morgan Stanley Sues Connecticut Vets on Heels of Their Jump to Janney  ,0,0,0,0,0,0,0.012964678,0.9491903,0.037845034,Neg,-0.93622565,advisorhubinc
+483,2017-05-18 14:47:03,"With Days to Go, DOL Rule Still Confounds Brokers  ",0,1,0,0,0,0,0.01396768,0.9469112,0.039120995,Neg,-0.9329435,advisorhubinc
+485,2017-05-17 18:48:04,Finra Proposes New Crackdown on Rogue Brokers  ,0,1,0,0,0,0,0.025343027,0.6975638,0.27709317,Neg,-0.6722208,advisorhubinc
+486,2017-05-16 19:55:00,Ex-Vanguard CEO Endorses Fund Firms Paying for Shelf Space  ,0,1,0,0,0,0,0.03755138,0.10725712,0.8551915,Neu,-0.06970574,advisorhubinc
+487,2017-05-16 18:40:01,Cowboys Running Back Darren McFadden Sues Ameriprise for $15 Million  ,0,0,0,0,0,0,0.023350853,0.7852791,0.1913701,Neg,-0.76192826,advisorhubinc
+488,2017-05-15 19:08:03,RBC Keeps Up Pressure on Wirehouses with Recruiting Binge  ,0,0,0,0,0,0,0.09173817,0.4113223,0.49693942,Neu,-0.31958413,advisorhubinc
+489,2017-05-15 18:21:03,Multi-billion Merrill Team in San Francisco Sets Up as Independent  ,0,0,0,0,1,1,0.066637136,0.012668455,0.9206944,Neu,0.053968683,advisorhubinc
+490,2017-05-12 20:24:02,Former Edward Jones Broker Barred for ‘Borrowing’ $60K from Client  ,0,0,0,0,0,0,0.13565747,0.5067688,0.35757372,Neg,-0.37111133,advisorhubinc
+491,2017-05-12 14:13:01,"EXCLUSIVE: Merrill to Halt Conventional Recruiting, Test Salary Plan  ",0,0,0,0,0,0,0.019838994,0.7692078,0.21095327,Neg,-0.7493688,advisorhubinc
+492,2017-05-11 19:19:04,"BREAKING: Merrill, in Reversal, to Allow Limited Commission-Based Retirement Accounts  ",0,0,0,1,1,0,0.16666706,0.031250577,0.80208236,Neu,0.13541648,advisorhubinc
+493,2017-05-11 18:00:02,Finra Suspends Wells Broker for Taking Client Data from Former Employer  ,0,1,0,0,0,0,0.010889479,0.94047743,0.04863311,Neg,-0.92958796,advisorhubinc
+494,2017-05-10 18:43:02,Barclays to Pay $97 Million for Overcharging Clients: SEC  ,0,1,0,0,0,0,0.064059645,0.033755053,0.90218526,Neu,0.030304592,advisorhubinc
+495,2017-05-10 16:09:03,Another Morgan Stanley Manager Walks  ,0,0,0,0,0,0,0.027216291,0.06134269,0.911441,Neu,-0.0341264,advisorhubinc
+497,2017-05-09 19:50:04,"Morgan Stanley Branch Managers Leave, Willingly and Not, in NYC Region  ",0,0,0,0,0,0,0.014172841,0.7853287,0.20049852,Neg,-0.77115583,advisorhubinc
+498,2017-05-09 18:21:02,Merrill to Unveil Tweaked DOL Plan This Week  ,0,0,0,0,0,0,0.14261435,0.010190674,0.84719497,Neu,0.13242367,advisorhubinc
+499,2017-05-08 20:52:02,"Jefferies Takes Another Stab at Wealth Expansion, Hiring $7.3-Mln South American Team  ",0,1,0,0,0,0,0.6638973,0.01570453,0.3203982,Pos,0.64819276,advisorhubinc
+500,2017-05-08 14:07:03,NYC Investment Adviser Fined for Faking Her CFP Credential  ,0,1,0,0,0,0,0.05104338,0.7777399,0.17121677,Neg,-0.7266965,advisorhubinc
+502,2017-05-05 16:10:01,"Mutual Fund Industry Steps Up DOL Rule Attack, Invoking Brokers  ",0,1,0,0,0,0,0.04249326,0.64960986,0.3078969,Neg,-0.6071166,advisorhubinc
+503,2017-05-04 21:27:05,"Even When Brokers Win Non-solicitation Battles, They Can Feel Like Losers  ",0,1,1,0,0,0,0.03679625,0.19324286,0.76996094,Neu,-0.1564466,advisorhubinc
+504,2017-05-04 17:33:04,"LPL Pays More to States, Doubles Down on Rollover Compliance  ",0,1,0,0,0,0,0.044176407,0.8630415,0.092782125,Neg,-0.8188651,advisorhubinc
+505,2017-05-03 20:59:02,EXCLUSIVE: Morgan Stanley Purges Vanguard Mutual Funds  ,0,0,0,0,1,0,0.0144699905,0.7826371,0.20289294,Neg,-0.76816714,advisorhubinc
+506,2017-05-03 16:53:02,Dynasty Tweaks Model with Offer to Buy Stakes in Partner Firms  ,0,0,0,0,1,0,0.14822437,0.0126339365,0.83914167,Neu,0.13559043,advisorhubinc
+507,2017-05-02 17:15:05,Morgan Stanley Takes a UBS Sales Assistant to Court  ,0,0,0,0,1,0,0.032204673,0.08925052,0.87854487,Neu,-0.057045847,advisorhubinc
+508,2017-05-01 20:30:05,AdvisorHub EXCLUSIVE: Morgan Stanley Caps Stock and ETF Commissions  ,0,0,0,0,0,0,0.027927013,0.3933913,0.5786816,Neu,-0.3654643,advisorhubinc
+509,2017-05-01 17:35:05,Oppenheimer Orchestrates Management Shift in Los Angeles  ,0,0,0,0,0,0,0.03295116,0.35145324,0.6155956,Neu,-0.31850207,advisorhubinc
+511,2017-04-28 17:00:02,UBS Wealth Americas Flaunts Benefits of Recruiting Pullback  ,0,0,0,0,0,0,0.671062,0.02854558,0.30039242,Pos,0.64251643,advisorhubinc
+512,2017-04-28 12:46:04,Morning Brief: White House Reverses Itself on 401(k) Benefits  ,0,1,0,0,0,0,0.021354819,0.75727534,0.22136983,Neg,-0.73592055,advisorhubinc
+513,2017-04-27 20:46:04,Stifel Cuts CEO Compensation 6.9% to $5.4 Million - Stifel Financial Corp.’s chairman and chief executive offic...  ,0,0,0,0,0,0,0.016588882,0.9510943,0.03231684,Neg,-0.93450546,advisorhubinc
+514,2017-04-27 19:05:00,"""They're not Nantucket Reds if they're not from Murray's Toggery"" - Tony Sirianni (AdvisorHub Commander-in-Chief)  ",0,1,0,0,0,1,0.04899298,0.021293325,0.9297137,Neu,0.027699655,advisorhubinc
+515,2017-04-27 16:45:05,Raymond James Broker Count Rises in Litigation-Damaged Quarter  ,0,0,0,0,0,0,0.07927565,0.90544516,0.015279247,Neg,-0.8261695,advisorhubinc
+517,2017-04-26 13:55:00,Morgan Stanley Nabs Merrill’s Jeff Tucker for National Sales Post  ,0,0,0,0,0,0,0.08766604,0.019414136,0.89291984,Neu,0.06825191,advisorhubinc
+518,2017-04-25 18:00:01,Ameriprise CEO Revs Up Wealth Engine  ,0,0,0,0,0,0,0.4735057,0.017973313,0.5085209,Neu,0.4555324,advisorhubinc
+519,2017-04-24 21:15:00,RayJay to Name Wirehouse Vet Bert White to Run Expanded Florida Complex  ,0,0,0,0,0,0,0.04208899,0.015969,0.94194204,Neu,0.026119988,advisorhubinc
+520,2017-04-23 20:00:05,"Thundering Herd lost net 89 advisors in first quarter but its force of 14,548 is up by 70 compared March 2016  ",1,1,0,0,1,0,0.48237234,0.48652983,0.031097822,Neg,-0.0041574836,advisorhubinc
+521,2017-04-22 20:01:00,"Thundering Herd lost net 89 advisors in first quarter but its force of 14,548 is up by 70 compared March 2016  ",1,1,0,0,0,0,0.48237234,0.48652983,0.031097822,Neg,-0.0041574836,advisorhubinc
+523,2017-04-22 14:55:00,Ed Jones Sweetens the Pot for Experienced Brokers  ,0,0,0,0,0,0,0.25999415,0.042458463,0.6975473,Neu,0.21753569,advisorhubinc
+524,2017-04-22 14:01:02,"Merrill Lynch Headcount Falls, But Revenue Rises on Advisory Growth  ",0,0,0,0,0,0,0.38937834,0.58398265,0.026639054,Neg,-0.1946043,advisorhubinc
+525,2017-04-22 13:01:00,"After Strange Dismissal, Morgan Stanley Star Alights at Merrill Lynch  ",0,0,0,0,0,0,0.03512362,0.075201884,0.8896745,Neu,-0.040078264,advisorhubinc
+526,2017-04-21 20:01:03,"Thundering Herd lost net 89 advisors in first quarter but its force of 14,548 is up by 70 compared March 2016  ",1,1,0,0,0,0,0.48237234,0.48652983,0.031097822,Neg,-0.0041574836,advisorhubinc
+528,2017-04-21 14:55:01,Ed Jones Sweetens the Pot for Experienced Brokers  ,0,0,0,0,0,0,0.25999415,0.042458463,0.6975473,Neu,0.21753569,advisorhubinc
+529,2017-04-21 14:01:02,"Merrill Lynch Headcount Falls, But Revenue Rises on Advisory Growth  ",0,0,0,0,0,0,0.38937834,0.58398265,0.026639054,Neg,-0.1946043,advisorhubinc
+530,2017-04-21 13:01:00,"After Strange Dismissal, Morgan Stanley Star Alights at Merrill Lynch  ",0,0,0,0,0,0,0.03512362,0.075201884,0.8896745,Neu,-0.040078264,advisorhubinc
+531,2017-04-20 20:01:01,"Thundering Herd lost net 89 advisors in first quarter but its force of 14,548 is up by 70 compared with March 31, 2016",1,1,0,0,0,1,0.61288005,0.36196765,0.02515227,Pos,0.2509124,advisorhubinc
+533,2017-04-20 14:55:01,Ed Jones Sweetens the Pot for Experienced Brokers  ,0,0,0,0,0,0,0.25999415,0.042458463,0.6975473,Neu,0.21753569,advisorhubinc
+534,2017-04-20 14:01:01,"Merrill Lynch Headcount Falls, But Revenue Rises on Advisory Growth  ",0,0,0,0,0,1,0.38937834,0.58398265,0.026639054,Neg,-0.1946043,advisorhubinc
+535,2017-04-20 13:01:00,"After Strange Dismissal, Morgan Stanley Star Alights at Merrill Lynch  ",0,0,0,0,0,0,0.03512362,0.075201884,0.8896745,Neu,-0.040078264,advisorhubinc
+536,2017-04-19 19:30:02,"After Strange Dismissal, Morgan Stanley Star Alights at Merrill Lynch  ",0,0,0,0,0,0,0.03512362,0.075201884,0.8896745,Neu,-0.040078264,advisorhubinc
+538,2017-04-19 18:00:05,"Merrill Lynch Headcount Falls, But Revenue Rises on Advisory Growth  ",0,0,0,0,0,0,0.38937834,0.58398265,0.026639054,Neg,-0.1946043,advisorhubinc
+539,2017-04-19 14:55:00,Ed Jones Sweetens the Pot for Experienced Brokers  ,0,0,0,0,1,0,0.25999415,0.042458463,0.6975473,Neu,0.21753569,advisorhubinc
+540,2017-04-13 19:30:01,Merrill Picks Off $3 Million “International” Broker from Morgan Stanley  ,0,0,0,0,0,0,0.42652184,0.06679723,0.5066809,Neu,0.3597246,advisorhubinc
+541,2017-04-13 18:25:00,Wells Fargo Advisor Headcount Down 3% in Aftermath of Bank Scandal  ,0,0,0,0,0,0,0.007647523,0.97283137,0.019521045,Neg,-0.96518385,advisorhubinc
+542,2017-04-13 15:15:00,Webinar RePlay Industry Disruptors: How to Embrace & Adapt Teambuilding / Fintech / Marketing  ,0,0,0,0,0,0,0.07585582,0.017522812,0.9066214,Neu,0.05833301,advisorhubinc
+543,2017-04-12 19:25:00,Morgan Stanley Settles Massachusetts Sales Contest Allegations  ,0,0,0,0,0,0,0.084363565,0.48220602,0.43343046,Neg,-0.39784247,advisorhubinc
+544,2017-04-12 18:00:02,LPL Tells Brokers to Remove ‘Conflict-Free’ From Websites  ,0,0,0,0,0,0,0.014794014,0.7834789,0.201727,Neg,-0.7686849,advisorhubinc
+545,2017-04-12 16:40:00,Wells Fargo Private Banking Duo Jumps to Merrill  ,0,0,0,0,0,0,0.20323382,0.06601174,0.73075444,Neu,0.13722208,advisorhubinc
+546,2017-04-11 21:20:00,Sign of the Times: Merrill Follows Ed Jones on Recruiting  ,0,1,0,0,1,0,0.033164423,0.029949898,0.93688565,Neu,0.003214525,advisorhubinc
+548,2017-04-11 14:40:00,“There’s a feeling that a lack of loyalty is being rewarded”   ,1,1,0,0,0,0,0.27549556,0.48108065,0.24342385,Neg,-0.20558509,advisorhubinc
+549,2017-04-10 19:50:00,Did You Hear the One About the Merrill Broker Who Became a Lead Generator?  ,0,1,0,0,0,0,0.036388006,0.030239396,0.9333726,Neu,0.0061486103,advisorhubinc
+550,2017-04-10 17:50:00,EXCLUSIVE: Goldman Sachs Team’s Split (from Firm and Internally) Creates Waves  ,0,1,0,0,0,0,0.086359404,0.02407904,0.88956153,Neu,0.062280364,advisorhubinc
+552,2017-04-07 18:35:00,HighTower Could Grow AUM 20% with WealthTrust Deal  ,0,0,0,0,1,2,0.73750454,0.0075930543,0.25490242,Pos,0.7299115,advisorhubinc
+556,2017-04-05 17:05:00,SunTrust Recruits Pair of Brokers from RayJay’s Alex. Brown  ,0,0,0,0,0,0,0.23273906,0.017200327,0.7500606,Neu,0.21553874,advisorhubinc
+557,2017-04-04 21:55:00,Credit Suisse and Star Broker Katz to Pay $7.9 Million for Fund Violations  ,0,0,0,0,1,0,0.071535505,0.01803358,0.91043085,Neu,0.053501926,advisorhubinc
+558,2017-04-04 18:00:03,5 Tools for Hiring the Best Advisor Candidates  ,0,1,0,0,0,0,0.06297507,0.017447973,0.91957694,Neu,0.0455271,advisorhubinc
+559,2017-04-04 16:35:00,Schwab Sues its Own RIA Client in Non-Solicitation Spat  ,0,0,0,0,0,0,0.015399278,0.84473723,0.1398635,Neg,-0.82933795,advisorhubinc
+560,2017-04-03 21:50:00,Raymond James Riles Some Recruiters with Pay Policy  ,0,0,0,0,0,0,0.012316162,0.94487053,0.042813186,Neg,-0.93255436,advisorhubinc
+561,2017-04-03 17:20:00,Another Merrill Lifer Leaves Venerable “SD” Branch in New York City  ,0,1,0,0,1,0,0.027564107,0.4216305,0.5508054,Neu,-0.3940664,advisorhubinc
+562,2017-04-02 16:20:02,"Merrill’s Sieg Centralizes, Cutting Sales Regions to Six from Ten  ",1,1,0,0,0,0,0.018105704,0.9504021,0.031492148,Neg,-0.9322964,advisorhubinc
+567,2017-03-31 19:01:02,Product maven Paul Hatch swaps post with Northeast sales division head Jason Chandler.  ,0,1,0,0,0,0,0.025842072,0.38105723,0.5931007,Neu,-0.35521516,advisorhubinc
+568,2017-03-31 18:01:03,"Piwowar: ""Consequences of investor confusion over the meaning of terms are worth further study but not rule-makings""  ",0,1,0,0,0,0,0.0379885,0.04919142,0.91282004,Neu,-0.01120292,advisorhubinc
+569,2017-03-31 14:01:02,Who Needs Fiduciary? Acting SEC Chief Says Suitability Just Fine  ,0,1,0,0,0,1,0.10290896,0.0147999,0.88229114,Neu,0.08810906,advisorhubinc
+570,2017-03-31 13:01:01,UBS Wealth Americas Shifts Management Roles  ,0,0,0,0,0,0,0.036855858,0.07498786,0.8881563,Neu,-0.038132,advisorhubinc
+571,2017-03-31 12:01:00,"Merrill Bleeds More Brokers at HQ Office, to Morgan Stanley’s Benefit  ",0,0,0,0,0,0,0.1259968,0.503452,0.37055126,Neg,-0.3774552,advisorhubinc
+572,2017-03-30 20:01:04,Departure comes as firm unveils new national “bullish” ad campaign.  ,0,1,0,0,0,0,0.12590133,0.3225041,0.5515946,Neu,-0.19660278,advisorhubinc
+573,2017-03-30 19:55:00,"Missed yesterday's Industry Disruptors webinar? Don't worry, you can watch the replay right here!    ",1,1,1,0,0,0,0.033436015,0.062059656,0.9045043,Neu,-0.02862364,advisorhubinc
+574,2017-03-30 14:30:00,"Merrill’s Sieg Centralizes, Cutting Sales Regions to Six from Ten  ",1,1,0,0,0,0,0.018105704,0.9504021,0.031492148,Neg,-0.9322964,advisorhubinc
+575,2017-03-30 14:01:03,Who Needs Fiduciary? Acting SEC Chief Says Suitability Just Fine  ,0,1,0,0,0,1,0.10290896,0.0147999,0.88229114,Neu,0.08810906,advisorhubinc
+576,2017-03-30 13:01:01,UBS Wealth Americas Shifts Management Roles  ,0,0,0,0,0,0,0.036855858,0.07498786,0.8881563,Neu,-0.038132,advisorhubinc
+577,2017-03-30 12:01:00,"Merrill Bleeds More Brokers at HQ Office, to Morgan Stanley’s Benefit  ",0,0,0,0,0,1,0.1259968,0.503452,0.37055126,Neg,-0.3774552,advisorhubinc
+578,2017-03-30 00:15:00,"Testing the Protocol, Merrill Sues Team Members Who Left with Client Data  ",1,1,0,0,0,0,0.011029533,0.94623756,0.042732917,Neg,-0.935208,advisorhubinc
+579,2017-03-29 20:10:00,"Testing the Protocol, Merrill Sues Team Members Who Left with Client Data  ",1,1,0,0,0,1,0.011029533,0.94623756,0.042732917,Neg,-0.935208,advisorhubinc
+580,2017-03-29 20:01:04,Departure comes as firm unveils new national “bullish” ad campaign.  ,0,1,0,0,0,0,0.12590133,0.3225041,0.5515946,Neu,-0.19660278,advisorhubinc
+581,2017-03-29 19:01:03,Product maven Paul Hatch swaps post with Northeast sales division head Jason Chandler.  ,0,1,0,0,0,0,0.025842072,0.38105723,0.5931007,Neu,-0.35521516,advisorhubinc
+582,2017-03-29 18:25:00,Oft-Sanctioned Ex-Broker Kathleen Tarr Loses Expungement Request  ,0,0,0,0,0,0,0.019838912,0.8435915,0.13656954,Neg,-0.8237526,advisorhubinc
+583,2017-03-29 18:01:02,"Piwowar: ""Consequences of investor confusion over the meaning of terms are worth further study but not rule-makings""  ",0,1,0,0,0,0,0.0379885,0.04919142,0.91282004,Neu,-0.01120292,advisorhubinc
+584,2017-03-29 14:01:02,Who Needs Fiduciary? Acting SEC Chief Says Suitability Just Fine  ,0,1,0,0,0,1,0.10290896,0.0147999,0.88229114,Neu,0.08810906,advisorhubinc
+585,2017-03-29 13:01:01,UBS Wealth Americas Shifts Management Roles  ,0,0,0,0,0,0,0.036855858,0.07498786,0.8881563,Neu,-0.038132,advisorhubinc
+586,2017-03-29 12:01:00,"Merrill Bleeds More Brokers at HQ Office, to Morgan Stanley’s Benefit  ",0,0,0,0,0,0,0.1259968,0.503452,0.37055126,Neg,-0.3774552,advisorhubinc
+587,2017-03-28 21:15:00,Finra Mulls Best-Interest Standard for Brokers: CEO  ,0,0,0,0,0,0,0.05599979,0.017779635,0.92622054,Neu,0.038220152,advisorhubinc
+588,2017-03-28 20:01:01,Departure comes as firm unveils new national “bullish” ad campaign.  ,0,1,0,0,1,0,0.12590133,0.3225041,0.5515946,Neu,-0.19660278,advisorhubinc
+590,2017-03-28 19:01:01,Product maven Paul Hatch swaps post with Northeast sales division head Jason Chandler.  ,0,1,0,0,0,0,0.025842072,0.38105723,0.5931007,Neu,-0.35521516,advisorhubinc
+591,2017-03-28 18:50:00,Ex-Wachovia Broker Beats Wells on Promissory Note Claim  ,0,0,0,0,0,1,0.09191752,0.42122114,0.48686126,Neu,-0.32930362,advisorhubinc
+592,2017-03-28 18:01:04,"Piwowar: ""Consequences of investor confusion over the meaning of terms are worth further study but not rule-makings""  ",0,1,0,0,0,0,0.0379885,0.04919142,0.91282004,Neu,-0.01120292,advisorhubinc
+593,2017-03-28 14:00:05,Who Needs Fiduciary? Acting SEC Chief Says Suitability Just Fine  ,0,1,0,0,0,0,0.10290896,0.0147999,0.88229114,Neu,0.08810906,advisorhubinc
+594,2017-03-28 13:00:05,UBS Wealth Americas Shifts Management Roles  ,0,0,0,0,0,0,0.036855858,0.07498786,0.8881563,Neu,-0.038132,advisorhubinc
+595,2017-03-28 12:00:05,"Merrill Bleeds More Brokers at HQ Office, to Morgan Stanley’s Benefit  ",0,0,0,0,0,0,0.1259968,0.503452,0.37055126,Neg,-0.3774552,advisorhubinc
+596,2017-03-27 21:55:00,Product maven Paul Hatch swaps post with Northeast sales division head Jason Chandler.  ,0,1,0,0,0,1,0.025842072,0.38105723,0.5931007,Neu,-0.35521516,advisorhubinc
+597,2017-03-27 18:30:00,"Merrill Bleeds More Brokers at HQ Office, to Morgan Stanley’s Benefit  ",0,0,0,0,0,0,0.1259968,0.503452,0.37055126,Neg,-0.3774552,advisorhubinc
+599,2017-03-24 18:25:00,Who Needs Fiduciary? Acting SEC Chief Says Suitability Just Fine  ,0,1,0,0,0,0,0.10290896,0.0147999,0.88229114,Neu,0.08810906,advisorhubinc
+600,2017-03-24 13:15:00,Merrill lures $343 million AUM team away from Morgan Stanley  ,0,1,0,0,0,0,0.039417192,0.75965494,0.20092796,Neg,-0.72023773,advisorhubinc
+601,2017-03-23 16:05:00,Dawn Bennett Ordered to Pay Investor $1 Million over Gold Recommendation  ,0,0,0,0,0,0,0.03539811,0.625722,0.33887994,Neg,-0.59032387,advisorhubinc
+602,2017-03-22 22:05:00,Broker files suit against UBS claiming he was fired for cooperating in investigations of elder abuse   ,1,1,0,0,0,0,0.019367047,0.94374174,0.036891263,Neg,-0.9243747,advisorhubinc
+603,2017-03-22 17:50:00,Raymond James Sidelines Florida Manager Tied to Major Fraud Case   ,0,0,0,0,0,0,0.03285436,0.47537652,0.49176916,Neu,-0.44252217,advisorhubinc
+604,2017-03-22 11:30:02,Only one week from today! Industry Disruptors: How To Embrace And Adapt    ,0,0,0,0,0,0,0.049256235,0.023217846,0.927526,Neu,0.02603839,advisorhubinc
+606,2017-03-21 17:50:00,The move to independents is real   ,0,1,0,0,0,0,0.12964182,0.02446141,0.8458968,Neu,0.105180405,advisorhubinc
+608,2017-03-20 16:10:00,A 1% lift in rates by the Federal Reserve this year should improve LPL’s earnings by 32%  ,0,0,1,0,0,0,0.95544225,0.018895695,0.025662022,Pos,0.93654656,advisorhubinc
+609,2017-03-17 18:20:02,The discount brokerage giant says Wisconsin man took list of “HNW” clients with him to Fidelity Investments  ,1,1,0,0,1,1,0.03570277,0.026487505,0.93780977,Neu,0.009215264,advisorhubinc
+610,2017-03-17 16:20:00,Chalk one up for a pair of Morgan Stanley brokers fighting to keep their regulatory records clean   ,0,1,0,0,0,0,0.065709926,0.5383925,0.39589763,Neg,-0.47268257,advisorhubinc
+612,2017-03-16 20:05:00,The collateral effects of JP Morgan's new client stratification strategy  ,0,0,0,0,0,0,0.12978363,0.011825399,0.858391,Neu,0.11795823,advisorhubinc
+613,2017-03-16 18:20:02,The discount brokerage giant says Wisconsin man took list of “HNW” clients with him to Fidelity Investments  ,1,1,0,0,0,0,0.03570277,0.026487505,0.93780977,Neu,0.009215264,advisorhubinc
+614,2017-03-16 18:01:01,Top ten Florida broker goes to work for a local RIA and registers as Uber driver  ,0,1,0,0,0,1,0.036904104,0.030535202,0.9325607,Neu,0.0063689016,advisorhubinc
+615,2017-03-16 16:20:00,It all catches up with you in the end  ,0,1,0,0,0,0,0.064475685,0.040889457,0.89463484,Neu,0.023586228,advisorhubinc
+616,2017-03-16 13:01:04,Honored Ameriprise Manager Abruptly Joins LPL Firm  ,0,0,0,0,0,0,0.03161883,0.43042642,0.53795475,Neu,-0.3988076,advisorhubinc
+618,2017-03-15 18:20:02,The discount brokerage giant says Wisconsin man took list of “HNW” clients with him to Fidelity Investments  ,1,1,0,0,0,0,0.03570277,0.026487505,0.93780977,Neu,0.009215264,advisorhubinc
+619,2017-03-15 18:01:01,Top ten Florida broker goes to work for a local RIA and registers as Uber driver  ,0,1,0,0,0,0,0.036904104,0.030535202,0.9325607,Neu,0.0063689016,advisorhubinc
+620,2017-03-15 16:20:00,Oppenheimer has been trimming its retail brokerage expenses  ,1,1,0,0,0,0,0.0074732783,0.963194,0.029332647,Neg,-0.9557207,advisorhubinc
+622,2017-03-15 13:01:01,Honored Ameriprise Manager Abruptly Joins LPL Firm  ,0,0,0,0,0,0,0.03161883,0.43042642,0.53795475,Neu,-0.3988076,advisorhubinc
+624,2017-03-14 18:20:01,The discount brokerage giant says Wisconsin man took list of “HNW” clients with him to Fidelity Investments  ,1,1,0,0,0,0,0.03570277,0.026487505,0.93780977,Neu,0.009215264,advisorhubinc
+625,2017-03-14 17:35:00,"In Rare Hiring Move, Merrill Recruits a Brazil-focused “International” Broker  ",0,1,0,0,0,0,0.52677035,0.035966426,0.4372632,Pos,0.49080393,advisorhubinc
+626,2017-03-14 13:00:04,Honored Ameriprise Manager Abruptly Joins LPL Firm  ,0,0,0,0,0,0,0.03161883,0.43042642,0.53795475,Neu,-0.3988076,advisorhubinc
+628,2017-03-14 12:00:04,Top ten Florida broker goes to work for a local RIA and registers as Uber driver  ,0,1,0,0,0,0,0.036904104,0.030535202,0.9325607,Neu,0.0063689016,advisorhubinc
+629,2017-03-13 20:25:00,Honored Ameriprise Manager Abruptly Joins LPL Firm  ,0,0,0,0,0,0,0.03161883,0.43042642,0.53795475,Neu,-0.3988076,advisorhubinc
+633,2017-03-09 20:47:03,Throwback tbt   ,0,0,0,0,0,0,0.033133797,0.053493854,0.91337234,Neu,-0.020360056,advisorhubinc
+634,2017-03-09 20:01:03,SEC Fines Voya Financial $3.1 Million for Failing to Disclose Payments  ,0,1,0,0,0,0,0.012842575,0.95507437,0.032083075,Neg,-0.9422318,advisorhubinc
+635,2017-03-09 18:35:00,Morgan Stanley to Advisory Clients: Here’s What You’re Paying in Fees  ,0,1,0,0,1,1,0.03746978,0.023342583,0.93918765,Neu,0.014127195,advisorhubinc
+636,2017-03-09 14:01:04,Former Wirehouse Broker Pleads Guilty to Investment Advisor Fraud  ,0,0,0,0,0,0,0.04795064,0.4855342,0.46651515,Neg,-0.43758357,advisorhubinc
+638,2017-03-08 20:01:03,Merrill Nabs Morgan Stanley Michigan Star with $8-Mln Production  ,0,0,0,0,0,0,0.11843251,0.015706867,0.8658606,Neu,0.10272564,advisorhubinc
+639,2017-03-08 19:01:02,Faces up to five years in prison for stealing more than $1.5M  ,0,1,0,0,0,0,0.027691493,0.78149474,0.19081378,Neg,-0.75380325,advisorhubinc
+640,2017-03-08 17:05:00,Brokerage Industry Rallies Employees to Push for DOL Rule Delay  ,0,1,0,0,0,0,0.107722886,0.6140004,0.27827668,Neg,-0.5062775,advisorhubinc
+641,2017-03-08 14:01:04,Former Wirehouse Broker Pleads Guilty to Investment Advisor Fraud  ,0,0,0,0,0,0,0.04795064,0.4855342,0.46651515,Neg,-0.43758357,advisorhubinc
+643,2017-03-07 20:01:01,Merrill Nabs Morgan Stanley Michigan Star with $8-Mln Production  ,0,0,0,0,0,0,0.11843251,0.015706867,0.8658606,Neu,0.10272564,advisorhubinc
+644,2017-03-07 19:01:01,Faces up to five years in prison for stealing more than $1.5M  ,0,1,0,0,0,0,0.027691493,0.78149474,0.19081378,Neg,-0.75380325,advisorhubinc
+645,2017-03-07 16:05:00,Only a few more weeks before the AdvisorHub x Janney webinar! Industry Disruptors: How To Embrace And Adapt  ,0,0,0,0,0,0,0.06238794,0.018464956,0.91914713,Neu,0.043922983,advisorhubinc
+646,2017-03-07 14:01:02,Former Wirehouse Broker Pleads Guilty to Investment Advisor Fraud  ,0,0,0,0,0,0,0.04795064,0.4855342,0.46651515,Neg,-0.43758357,advisorhubinc
+648,2017-03-06 20:01:00,Merrill Nabs Morgan Stanley Michigan Star with $8-Mln Production  ,0,0,0,0,0,0,0.11843251,0.015706867,0.8658606,Neu,0.10272564,advisorhubinc
+649,2017-03-06 19:00:05,Faces up to five years in prison for stealing more than $1.5M  ,0,1,0,0,0,0,0.027691493,0.78149474,0.19081378,Neg,-0.75380325,advisorhubinc
+650,2017-03-06 18:15:00,Tightening recruitment packages are helping regional firms such as Janney narrow the gap with their larger national rivals.,0,1,0,0,0,0,0.9463647,0.029358193,0.02427711,Pos,0.9170065,advisorhubinc
+651,2017-03-06 14:00:05,Former Wirehouse Broker Pleads Guilty to Investment Advisor Fraud  ,0,0,0,0,0,0,0.04795064,0.4855342,0.46651515,Neg,-0.43758357,advisorhubinc
+653,2017-03-05 20:01:00,Former Merrill Manager Sues for Billions Over Illegal Use of Customer Funds  ,0,0,0,0,0,0,0.015160575,0.9297014,0.055138063,Neg,-0.9145408,advisorhubinc
+654,2017-03-05 19:00:05,Two solo practitioners with 40 years of Merrill experience between them hop to Morgan Stanley  ,0,1,0,0,0,0,0.058893435,0.015279227,0.9258274,Neu,0.04361421,advisorhubinc
+655,2017-03-05 14:01:00,Another Pair of Merrill ‘Lifers’ in NYC Leave Over Retirement Account Changes  ,0,0,0,0,0,0,0.025147403,0.30054438,0.6743083,Neu,-0.27539697,advisorhubinc
+656,2017-03-05 13:01:00,DOL Asks for Two-Month Delay of Fiduciary Rule Applicability  ,0,0,0,0,0,0,0.022721794,0.5599071,0.41737112,Neg,-0.5371853,advisorhubinc
+657,2017-03-04 20:00:05,Former Merrill Manager Sues for Billions Over Illegal Use of Customer Funds  ,0,0,0,0,0,0,0.015160575,0.9297014,0.055138063,Neg,-0.9145408,advisorhubinc
+658,2017-03-04 19:00:05,Two solo practitioners with 40 years of Merrill experience between them hop to Morgan Stanley  ,0,1,0,0,0,0,0.058893435,0.015279227,0.9258274,Neu,0.04361421,advisorhubinc
+659,2017-03-04 14:01:00,Another Pair of Merrill ‘Lifers’ in NYC Leave Over Retirement Account Changes  ,0,0,0,0,0,1,0.025147403,0.30054438,0.6743083,Neu,-0.27539697,advisorhubinc
+660,2017-03-04 13:00:05,DOL Asks for Two-Month Delay of Fiduciary Rule Applicability  ,0,0,0,0,0,0,0.022721794,0.5599071,0.41737112,Neg,-0.5371853,advisorhubinc
+661,2017-03-03 20:01:02,Former Merrill Manager Sues for Billions Over Illegal Use of Customer Funds  ,0,0,0,0,0,0,0.015160575,0.9297014,0.055138063,Neg,-0.9145408,advisorhubinc
+662,2017-03-03 17:20:00,Merrill Nabs Morgan Stanley Michigan Star with $8-Mln Production  ,0,0,0,0,1,0,0.11843251,0.015706867,0.8658606,Neu,0.10272564,advisorhubinc
+663,2017-03-03 14:01:02,Another Pair of Merrill ‘Lifers’ in NYC Leave Over Retirement Account Changes  ,0,0,0,0,1,0,0.025147403,0.30054438,0.6743083,Neu,-0.27539697,advisorhubinc
+664,2017-03-03 13:01:01,DOL Asks for Two-Month Delay of Fiduciary Rule Applicability  ,0,0,0,0,0,0,0.022721794,0.5599071,0.41737112,Neg,-0.5371853,advisorhubinc
+665,2017-03-02 20:01:01,Former Merrill Manager Sues for Billions Over Illegal Use of Customer Funds  ,0,0,0,0,0,0,0.015160575,0.9297014,0.055138063,Neg,-0.9145408,advisorhubinc
+666,2017-03-02 19:00:05,Two solo practitioners with 40 years of Merrill experience between them hop to Morgan Stanley  ,0,1,0,0,0,0,0.058893435,0.015279227,0.9258274,Neu,0.04361421,advisorhubinc
+667,2017-03-02 16:05:00,March 29th save the date! Industry Disruptors: How To Embrace And Adapt Join us for a free webinar with    ,0,1,0,0,0,0,0.09692849,0.013775691,0.8892958,Neu,0.0831528,advisorhubinc
+668,2017-03-02 14:01:00,Another Pair of Merrill ‘Lifers’ in NYC Leave Over Retirement Account Changes  ,0,0,0,0,0,0,0.025147403,0.30054438,0.6743083,Neu,-0.27539697,advisorhubinc
+669,2017-03-01 23:34:04,DOL Asks for Two-Month Delay of Fiduciary Rule Applicability  ,0,0,0,0,0,0,0.022721794,0.5599071,0.41737112,Neg,-0.5371853,advisorhubinc
+670,2017-03-01 20:40:00,Another Pair of Merrill ‘Lifers’ in NYC Leave Over Retirement Account Changes  ,0,0,0,0,0,0,0.025147403,0.30054438,0.6743083,Neu,-0.27539697,advisorhubinc
+671,2017-03-01 16:55:00,Former Merrill Manager Sues for Billions Over Illegal Use of Customer Funds  ,0,0,0,0,0,0,0.015160575,0.9297014,0.055138063,Neg,-0.9145408,advisorhubinc
+672,2017-02-28 21:25:00,Whoops!  ,0,0,0,0,0,0,0.07281908,0.10506419,0.82211673,Neu,-0.032245114,advisorhubinc
+673,2017-02-27 20:51:02,$2.4 Million Broker Jumps to RayJay after 24 Years at Wells Fargo  ,0,0,0,0,0,0,0.17948788,0.03329087,0.7872212,Neu,0.14619702,advisorhubinc
+674,2017-02-27 17:30:00, ,0,0,0,0,1,0,0.35916328,0.21665184,0.4241849,Neu,0.14251144,advisorhubinc
+675,2017-02-23 20:01:05,Ex-Wells Broker Files Rare Suit to Vacate $1.6 Mln Arb Award  ,0,0,0,0,0,0,0.11759968,0.45488134,0.42751896,Neg,-0.33728164,advisorhubinc
+676,2017-02-23 14:01:03,Top Morgan Stanley Broker in Nevada Breaks Away after Almost 30 Years  ,0,0,0,0,0,0,0.06496469,0.47167575,0.46335953,Neg,-0.40671107,advisorhubinc
+677,2017-02-23 13:01:05,Arbitrators violated Finra evidence rules in ordering NJ broker to return $1.6M for forgivable loan balance  ,1,1,0,0,0,0,0.013945945,0.9399842,0.046069924,Neg,-0.92603827,advisorhubinc
+678,2017-02-22 20:01:02,Ex-Wells Broker Files Rare Suit to Vacate $1.6 Mln Arb Award  ,0,0,0,0,0,0,0.11759968,0.45488134,0.42751896,Neg,-0.33728164,advisorhubinc
+679,2017-02-22 14:01:04,Top Morgan Stanley Broker in Nevada Breaks Away after Almost 30 Years  ,0,0,0,0,0,0,0.06496469,0.47167575,0.46335953,Neg,-0.40671107,advisorhubinc
+680,2017-02-22 13:01:02,Arbitrators violated Finra evidence rules in ordering NJ broker to return $1.6M for forgivable loan balance  ,1,1,0,0,0,0,0.013945945,0.9399842,0.046069924,Neg,-0.92603827,advisorhubinc
+681,2017-02-21 20:01:02,Ex-Wells Broker Files Rare Suit to Vacate $1.6 Mln Arb Award  ,0,0,0,0,0,0,0.11759968,0.45488134,0.42751896,Neg,-0.33728164,advisorhubinc
+682,2017-02-21 14:01:01,Top Morgan Stanley Broker in Nevada Breaks Away after Almost 30 Years  ,0,0,0,0,1,0,0.06496469,0.47167575,0.46335953,Neg,-0.40671107,advisorhubinc
+683,2017-02-21 13:01:00,Arbitrators violated Finra evidence rules in ordering NJ broker to return $1.6M for forgivable loan balance  ,1,1,0,0,1,0,0.013945945,0.9399842,0.046069924,Neg,-0.92603827,advisorhubinc
+684,2017-02-20 20:01:00,Ex-Wells Broker Files Rare Suit to Vacate $1.6 Mln Arb Award  ,0,0,0,0,0,0,0.11759968,0.45488134,0.42751896,Neg,-0.33728164,advisorhubinc
+686,2017-02-20 14:00:04,Top Morgan Stanley Broker in Nevada Breaks Away after Almost 30 Years  ,0,0,0,0,0,0,0.06496469,0.47167575,0.46335953,Neg,-0.40671107,advisorhubinc
+687,2017-02-20 13:00:03,Arbitrators violated Finra evidence rules in ordering NJ broker to return $1.6M for forgivable loan balance  ,1,1,0,0,0,0,0.013945945,0.9399842,0.046069924,Neg,-0.92603827,advisorhubinc
+688,2017-02-17 19:20:01,Former  and  advisor raised more than $5M without reporting activities to their farm  ,1,1,0,0,0,0,0.038297072,0.021571105,0.9401318,Neu,0.016725967,advisorhubinc
+689,2017-02-17 18:01:02,"After marauding through Merrill, San Francisco bank hires UBS broker in SoCal who reportedly produces $3.8M  ",0,1,0,0,0,0,0.16774052,0.034248352,0.79801106,Neu,0.13349217,advisorhubinc
+691,2017-02-17 13:01:02,Morgan Stanley Broker Rushes Back from Thailand after Partner Bolts  ,0,0,0,0,1,0,0.12138721,0.2301278,0.64848506,Neu,-0.10874058,advisorhubinc
+692,2017-02-17 12:01:00,"First Republic Picks Off Hollywood Star, This Time from UBS  ",0,0,0,0,0,0,0.15166011,0.04277582,0.8055641,Neu,0.10888429,advisorhubinc
+693,2017-02-16 20:01:02,Firm files lawsuit to restrain Seattle broker from contacting team clients from his new post at RBC  ,0,1,0,0,0,0,0.014754259,0.86559767,0.11964814,Neg,-0.8508434,advisorhubinc
+694,2017-02-16 19:20:01,Former  and  advisor raised more than $5M without reporting activities to their farm  ,1,1,0,0,0,0,0.038297072,0.021571105,0.9401318,Neu,0.016725967,advisorhubinc
+696,2017-02-16 18:01:02,"After marauding through Merrill, San Francisco bank hires UBS broker in SoCal who reportedly produces $3.8M  ",0,1,0,0,0,0,0.16774052,0.034248352,0.79801106,Neu,0.13349217,advisorhubinc
+699,2017-02-16 13:01:01,Morgan Stanley Broker Rushes Back from Thailand after Partner Bolts  ,0,0,0,0,0,0,0.12138721,0.2301278,0.64848506,Neu,-0.10874058,advisorhubinc
+700,2017-02-16 12:01:01,"First Republic Picks Off Hollywood Star, This Time from UBS  ",0,0,0,0,0,0,0.15166011,0.04277582,0.8055641,Neu,0.10888429,advisorhubinc
+701,2017-02-15 20:01:01,Firm files lawsuit to restrain Seattle broker from contacting team clients from his new post at RBC  ,0,1,0,0,0,0,0.014754259,0.86559767,0.11964814,Neg,-0.8508434,advisorhubinc
+702,2017-02-15 19:20:01,Former  and  advisor raised more than $5M without reporting activities to their farm  ,1,1,0,0,1,0,0.038297072,0.021571105,0.9401318,Neu,0.016725967,advisorhubinc
+704,2017-02-15 18:01:01,"After marauding through Merrill, San Francisco bank hires UBS broker in SoCal who reportedly produces $3.8M  ",0,1,0,0,0,0,0.16774052,0.034248352,0.79801106,Neu,0.13349217,advisorhubinc
+707,2017-02-15 13:01:00,Morgan Stanley Broker Rushes Back from Thailand after Partner Bolts  ,0,0,0,0,1,0,0.12138721,0.2301278,0.64848506,Neu,-0.10874058,advisorhubinc
+708,2017-02-15 12:00:05,"First Republic Picks Off Hollywood Star, This Time from UBS  ",0,0,0,0,0,0,0.15166011,0.04277582,0.8055641,Neu,0.10888429,advisorhubinc
+709,2017-02-14 20:01:00,Firm files lawsuit to restrain Seattle broker from contacting team clients from his new post at RBC  ,0,1,0,0,0,0,0.014754259,0.86559767,0.11964814,Neg,-0.8508434,advisorhubinc
+710,2017-02-14 19:20:01,Former  and  advisor raised more than $5M without reporting activities to their farm  ,1,1,0,0,0,0,0.038297072,0.021571105,0.9401318,Neu,0.016725967,advisorhubinc
+712,2017-02-14 18:01:01,"After marauding through Merrill, San Francisco bank hires UBS broker in SoCal who reportedly produces $3.8M  ",0,1,0,0,0,0,0.16774052,0.034248352,0.79801106,Neu,0.13349217,advisorhubinc
+715,2017-02-14 13:01:00,Morgan Stanley Broker Rushes Back from Thailand after Partner Bolts  ,0,0,0,0,0,0,0.12138721,0.2301278,0.64848506,Neu,-0.10874058,advisorhubinc
+716,2017-02-14 12:00:04,"First Republic Picks Off Hollywood Star, This Time from UBS  ",0,0,0,0,0,0,0.15166011,0.04277582,0.8055641,Neu,0.10888429,advisorhubinc
+718,2017-02-09 20:01:02,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,1,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+719,2017-02-09 19:01:03,"Ann Wagner represents a congressional district in St. Louis, headquarters of Wells Fargo, Stifel, Edward Jones  ",0,1,0,0,0,1,0.034133613,0.02493428,0.9409321,Neu,0.009199332,advisorhubinc
+720,2017-02-09 18:05:02,"Discount brokerage giant sets off pricing war, led by $2 cut in stock and ETF trading commission  ",1,1,0,0,0,0,0.06356525,0.9015536,0.034881182,Neg,-0.8379883,advisorhubinc
+721,2017-02-09 14:30:03,"AdvisorHub Live Webinar with  : The State of Our Industry March 1st, 2:00 - 3:00 EST   wealthmanagement",0,0,0,0,0,0,0.02946703,0.026684241,0.94384867,Neu,0.0027827881,advisorhubinc
+722,2017-02-09 14:01:04,"Schwab Slashes Online Stock Commissions, Lowers Fund Costs  ",0,0,0,0,0,0,0.020162059,0.92793155,0.05190645,Neg,-0.9077695,advisorhubinc
+723,2017-02-09 13:01:03,Trump Credits Missouri Congresswoman with Fiduciary Rule Review  ,0,0,0,0,0,0,0.07053033,0.034636397,0.89483327,Neu,0.035893936,advisorhubinc
+724,2017-02-09 12:01:01,Update: Trump Move on Fiduciary Rule Sows Relief…and Confusion  ,0,0,0,0,0,0,0.08971607,0.7901549,0.12012904,Neg,-0.7004388,advisorhubinc
+725,2017-02-08 20:52:02,"AdvisorHub Live Webinar: The State of Our Industry March 1st, 2:00 - 3:00 EST   wealthmanagement financialadvisor",0,0,0,0,0,0,0.03232109,0.030549759,0.9371292,Neu,0.0017713327,advisorhubinc
+726,2017-02-08 20:01:04,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,2,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+727,2017-02-08 19:01:03,"Ann Wagner represents a congressional district in St. Louis, headquarters of Wells Fargo, Stifel, Edward Jones  ",0,1,0,0,0,0,0.034133613,0.02493428,0.9409321,Neu,0.009199332,advisorhubinc
+728,2017-02-08 14:01:05,"Schwab Slashes Online Stock Commissions, Lowers Fund Costs  ",0,0,0,0,0,0,0.020162059,0.92793155,0.05190645,Neg,-0.9077695,advisorhubinc
+729,2017-02-08 13:01:03,Trump Credits Missouri Congresswoman with Fiduciary Rule Review  ,0,0,0,0,0,1,0.07053033,0.034636397,0.89483327,Neu,0.035893936,advisorhubinc
+730,2017-02-08 12:01:01,Update: Trump Move on Fiduciary Rule Sows Relief…and Confusion  ,0,0,0,0,0,0,0.08971607,0.7901549,0.12012904,Neg,-0.7004388,advisorhubinc
+731,2017-02-07 20:01:02,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,0,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+732,2017-02-07 19:01:02,"Ann Wagner represents a congressional district in St. Louis, headquarters of Wells Fargo, Stifel, Edward Jones  ",0,1,0,0,1,1,0.034133613,0.02493428,0.9409321,Neu,0.009199332,advisorhubinc
+733,2017-02-07 18:05:02,"Discount brokerage giant sets off pricing war, led by $2 cut in stock and ETF trading commission  ",1,1,0,0,0,0,0.06356525,0.9015536,0.034881182,Neg,-0.8379883,advisorhubinc
+734,2017-02-07 14:01:03,"Schwab Slashes Online Stock Commissions, Lowers Fund Costs  ",0,0,0,0,0,0,0.020162059,0.92793155,0.05190645,Neg,-0.9077695,advisorhubinc
+735,2017-02-07 13:01:02,Trump Credits Missouri Congresswoman with Fiduciary Rule Review  ,0,0,0,0,0,1,0.07053033,0.034636397,0.89483327,Neu,0.035893936,advisorhubinc
+736,2017-02-07 12:01:01,Update: Trump Move on Fiduciary Rule Sows Relief…and Confusion  ,0,0,0,0,1,0,0.08971607,0.7901549,0.12012904,Neg,-0.7004388,advisorhubinc
+737,2017-02-06 20:01:00,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,1,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+738,2017-02-06 19:01:01,"Ann Wagner represents a congressional district in St. Louis, headquarters of Wells Fargo, Stifel, Edward Jones  ",0,1,0,0,0,1,0.034133613,0.02493428,0.9409321,Neu,0.009199332,advisorhubinc
+739,2017-02-06 18:05:01,"Discount brokerage giant sets off pricing war, led by $2 cut in stock and ETF trading commission  ",1,1,0,0,0,0,0.06356525,0.9015536,0.034881182,Neg,-0.8379883,advisorhubinc
+740,2017-02-06 14:01:00,"Schwab Slashes Online Stock Commissions, Lowers Fund Costs  ",0,0,0,0,0,0,0.020162059,0.92793155,0.05190645,Neg,-0.9077695,advisorhubinc
+741,2017-02-06 13:00:05,Trump Credits Missouri Congresswoman with Fiduciary Rule Review  ,0,0,0,0,0,0,0.07053033,0.034636397,0.89483327,Neu,0.035893936,advisorhubinc
+742,2017-02-06 12:00:04,Update: Trump Move on Fiduciary Rule Sows Relief…and Confusion  ,0,0,0,0,0,0,0.08971607,0.7901549,0.12012904,Neg,-0.7004388,advisorhubinc
+743,2017-02-01 20:01:04,UBS Terminates Longtime Virginia Broker for Trading Abuses  ,0,0,0,0,1,0,0.057685867,0.035119284,0.9071949,Neu,0.022566583,advisorhubinc
+744,2017-02-01 19:20:03,New employer says Florida broker who left Morgan Stanley and was suspended by Finra had good intentions  ,1,1,0,0,0,0,0.46732026,0.107880436,0.42479932,Pos,0.35943982,advisorhubinc
+745,2017-02-01 19:01:03,Swiss banking giant says its U.S. brokerage unit’s costs are falling as it backs away from hiring wars.  ,0,1,0,0,0,0,0.0238243,0.9654844,0.010691422,Neg,-0.9416601,advisorhubinc
+748,2017-02-01 18:01:04,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,0,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+749,2017-02-01 14:01:04,DOL Fiduciary Rule Helps UBS Rein In Recruiting Costs  ,0,0,0,0,0,0,0.3945579,0.01967506,0.5857671,Neu,0.37488285,advisorhubinc
+751,2017-02-01 13:20:02,At least 60K advisory account customers paid $18M in unauthorized fees due to billing and recordkeeping errors  ,1,1,0,0,0,0,0.008733461,0.95713437,0.03413209,Neg,-0.9484009,advisorhubinc
+752,2017-02-01 13:01:03,"After 39 years at UBS & predecessor firms, a $2M producer leaves after allegations of unsuitable client trading  ",0,0,0,0,0,0,0.009393862,0.95825714,0.032349013,Neg,-0.94886327,advisorhubinc
+754,2017-01-31 20:01:02,UBS Terminates Longtime Virginia Broker for Trading Abuses  ,0,0,0,0,0,0,0.057685867,0.035119284,0.9071949,Neu,0.022566583,advisorhubinc
+755,2017-01-31 19:20:02,New employer says Florida broker who left Morgan Stanley and was suspended by Finra had good intentions  ,1,1,0,0,0,0,0.46732026,0.107880436,0.42479932,Pos,0.35943982,advisorhubinc
+756,2017-01-31 19:01:02,Swiss banking giant says its U.S. brokerage unit’s costs are falling as it backs away from hiring wars.  ,0,1,0,0,0,0,0.0238243,0.9654844,0.010691422,Neg,-0.9416601,advisorhubinc
+759,2017-01-31 18:01:02,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,0,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+760,2017-01-31 14:01:04,DOL Fiduciary Rule Helps UBS Rein In Recruiting Costs  ,0,0,0,0,0,0,0.3945579,0.01967506,0.5857671,Neu,0.37488285,advisorhubinc
+762,2017-01-31 13:20:01,At least 60K advisory account customers paid $18M in unauthorized fees due to billing and recordkeeping errors  ,1,1,0,0,0,0,0.008733461,0.95713437,0.03413209,Neg,-0.9484009,advisorhubinc
+763,2017-01-31 13:01:03,"After 39 years at UBS & predecessor firms, a $2M producer leaves after allegations of unsuitable client trading  ",0,0,0,0,0,0,0.009393862,0.95825714,0.032349013,Neg,-0.94886327,advisorhubinc
+765,2017-01-30 20:01:03,UBS Terminates Longtime Virginia Broker for Trading Abuses  ,0,0,0,0,0,0,0.057685867,0.035119284,0.9071949,Neu,0.022566583,advisorhubinc
+766,2017-01-30 19:20:02,New employer says Florida broker who left Morgan Stanley and was suspended by Finra had good intentions  ,1,1,0,0,0,0,0.46732026,0.107880436,0.42479932,Pos,0.35943982,advisorhubinc
+767,2017-01-30 19:01:01,Swiss banking giant says its U.S. brokerage unit’s costs are falling as it backs away from hiring wars.  ,0,1,0,0,0,0,0.0238243,0.9654844,0.010691422,Neg,-0.9416601,advisorhubinc
+770,2017-01-30 18:01:02,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,1,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+771,2017-01-30 14:01:02,DOL Fiduciary Rule Helps UBS Rein In Recruiting Costs  ,0,0,0,0,0,0,0.3945579,0.01967506,0.5857671,Neu,0.37488285,advisorhubinc
+773,2017-01-30 13:20:01,At least 60K advisory account customers paid $18M in unauthorized fees due to billing and recordkeeping errors  ,1,1,0,0,0,0,0.008733461,0.95713437,0.03413209,Neg,-0.9484009,advisorhubinc
+774,2017-01-30 13:01:00,"After 39 years at UBS & predecessor firms, a $2M producer leaves after allegations of unsuitable client trading  ",0,0,0,0,0,0,0.009393862,0.95825714,0.032349013,Neg,-0.94886327,advisorhubinc
+776,2017-01-29 20:00:03,UBS Terminates Longtime Virginia Broker for Trading Abuses  ,0,0,0,0,0,1,0.057685867,0.035119284,0.9071949,Neu,0.022566583,advisorhubinc
+777,2017-01-29 19:20:01,New employer says Florida broker who left Morgan Stanley and was suspended by Finra had good intentions  ,1,1,0,0,0,0,0.46732026,0.107880436,0.42479932,Pos,0.35943982,advisorhubinc
+778,2017-01-29 19:00:03,Swiss banking giant says its U.S. brokerage unit’s costs are falling as it backs away from hiring wars.  ,0,1,0,0,1,0,0.0238243,0.9654844,0.010691422,Neg,-0.9416601,advisorhubinc
+781,2017-01-29 18:00:03,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,1,1,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+782,2017-01-29 14:00:03,DOL Fiduciary Rule Helps UBS Rein In Recruiting Costs  ,0,0,0,0,0,0,0.3945579,0.01967506,0.5857671,Neu,0.37488285,advisorhubinc
+784,2017-01-29 13:20:01,At least 60K advisory account customers paid $18M in unauthorized fees due to billing and recordkeeping errors  ,1,1,0,0,0,0,0.008733461,0.95713437,0.03413209,Neg,-0.9484009,advisorhubinc
+785,2017-01-29 13:00:03,"After 39 years at UBS & predecessor firms, a $2M producer leaves after allegations of unsuitable client trading  ",0,0,0,0,0,0,0.009393862,0.95825714,0.032349013,Neg,-0.94886327,advisorhubinc
+787,2017-01-23 14:02:00,Former Merrill “International” Brokers Drop Class-Action Claim  ,0,0,0,0,1,0,0.01878862,0.8704411,0.11077018,Neg,-0.85165244,advisorhubinc
+788,2017-01-22 20:20:02,"After wooing clients at Bear Stearns for 20+ years, David Pollock & Alan Solursh hang their hat with another Morgan  ",1,1,0,0,0,0,0.09562262,0.017829949,0.8865474,Neu,0.077792674,advisorhubinc
+789,2017-01-22 20:01:01,"Record asset management fees soared 5%, offsetting a 10% decline in commissions due to an unspecified tax issue  ",1,1,0,0,0,2,0.9464226,0.03426828,0.0193091,Pos,0.9121543,advisorhubinc
+791,2017-01-22 18:40:01,Arbitration panel upholds claim that regional firm’s hiring of six brokers violated regulator’s rules of conduct  ,1,1,0,0,0,0,0.026626356,0.9208613,0.052512355,Neg,-0.89423496,advisorhubinc
+792,2017-01-22 14:20:01,Morgan Stanley Wealth Profit Jumps 16% in Fourth Quarter  ,0,0,0,0,0,0,0.92118895,0.046826903,0.031984173,Pos,0.87436205,advisorhubinc
+793,2017-01-22 13:40:01,Robert Baird to Pay Wells Fargo $25 Million over “Wichita Raid”  ,0,0,0,0,0,0,0.28542748,0.39990473,0.31466776,Neg,-0.11447725,advisorhubinc
+794,2017-01-22 12:01:00,Morgan Stanley Lifts Big Team from JP Morgan in Beverly Hills  ,0,0,0,0,0,0,0.2564075,0.038223337,0.7053692,Neu,0.21818416,advisorhubinc
+795,2017-01-21 20:20:01,"After wooing clients at Bear Stearns for 20+ years, David Pollock & Alan Solursh hang their hat with another Morgan  ",1,1,0,0,1,0,0.09562262,0.017829949,0.8865474,Neu,0.077792674,advisorhubinc
+796,2017-01-21 20:01:00,"Record asset management fees soared 5%, offsetting a 10% decline in commissions due to an unspecified tax issue  ",1,1,0,0,0,2,0.9464226,0.03426828,0.0193091,Pos,0.9121543,advisorhubinc
+798,2017-01-21 18:40:02,Arbitration panel upholds claim that regional firm’s hiring of six brokers violated regulator’s rules of conduct  ,1,1,0,0,0,0,0.026626356,0.9208613,0.052512355,Neg,-0.89423496,advisorhubinc
+799,2017-01-21 14:20:01,Morgan Stanley Wealth Profit Jumps 16% in Fourth Quarter  ,0,0,0,0,0,0,0.92118895,0.046826903,0.031984173,Pos,0.87436205,advisorhubinc
+800,2017-01-21 14:01:01,First Republic Launches 2017 with Another Big Merrill Hire  ,0,0,0,0,0,0,0.3664456,0.014362824,0.6191916,Neu,0.3520828,advisorhubinc
+801,2017-01-21 13:40:01,Robert Baird to Pay Wells Fargo $25 Million over “Wichita Raid”  ,0,0,0,0,0,0,0.28542748,0.39990473,0.31466776,Neg,-0.11447725,advisorhubinc
+802,2017-01-21 12:01:01,Morgan Stanley Lifts Big Team from JP Morgan in Beverly Hills  ,0,0,0,0,0,0,0.2564075,0.038223337,0.7053692,Neu,0.21818416,advisorhubinc
+803,2017-01-20 20:20:02,"After wooing clients at Bear Stearns for 20+ years, David Pollock & Alan Solursh hang their hat with another Morgan  ",1,1,0,0,0,0,0.09562262,0.017829949,0.8865474,Neu,0.077792674,advisorhubinc
+804,2017-01-20 20:01:04,"Record asset management fees soared 5%, offsetting a 10% decline in commissions due to an unspecified tax issue  ",1,1,0,0,0,0,0.9464226,0.03426828,0.0193091,Pos,0.9121543,advisorhubinc
+806,2017-01-20 18:40:02,Arbitration panel upholds claim that regional firm’s hiring of six brokers violated regulator’s rules of conduct  ,1,1,0,0,0,0,0.026626356,0.9208613,0.052512355,Neg,-0.89423496,advisorhubinc
+807,2017-01-20 14:20:02,Morgan Stanley Wealth Profit Jumps 16% in Fourth Quarter  ,0,0,0,0,1,0,0.92118895,0.046826903,0.031984173,Pos,0.87436205,advisorhubinc
+808,2017-01-20 14:01:03,First Republic Launches 2017 with Another Big Merrill Hire  ,0,0,0,0,0,0,0.3664456,0.014362824,0.6191916,Neu,0.3520828,advisorhubinc
+809,2017-01-20 13:40:01,Robert Baird to Pay Wells Fargo $25 Million over “Wichita Raid”  ,0,0,0,0,0,0,0.28542748,0.39990473,0.31466776,Neg,-0.11447725,advisorhubinc
+810,2017-01-20 12:01:01,Morgan Stanley Lifts Big Team from JP Morgan in Beverly Hills  ,0,0,0,0,0,0,0.2564075,0.038223337,0.7053692,Neu,0.21818416,advisorhubinc
+811,2017-01-19 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,2,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+812,2017-01-19 20:20:02,"After wooing clients at Bear Stearns for 20+ years, David Pollock & Alan Solursh hang their hat with another Morgan  ",1,1,0,0,0,0,0.09562262,0.017829949,0.8865474,Neu,0.077792674,advisorhubinc
+813,2017-01-19 20:01:02,"Record asset management fees soared 5%, offsetting a 10% decline in commissions due to an unspecified tax issue  ",1,1,0,0,0,0,0.9464226,0.03426828,0.0193091,Pos,0.9121543,advisorhubinc
+816,2017-01-19 19:01:04,Recruiters and managers at the firm say hiring dropped off as banking scandal unfolded  ,1,1,0,0,0,0,0.012319241,0.9592464,0.02843436,Neg,-0.94692713,advisorhubinc
+817,2017-01-19 18:40:01,Arbitration panel upholds claim that regional firm’s hiring of six brokers violated regulator’s rules of conduct  ,1,1,0,0,0,0,0.026626356,0.9208613,0.052512355,Neg,-0.89423496,advisorhubinc
+819,2017-01-19 18:01:04,"Kathryn Hayden, 65, is “amicably” splitting the $300 million book she and her former teammate had run  ",1,1,0,0,0,0,0.055404454,0.65634173,0.2882538,Neg,-0.60093725,advisorhubinc
+820,2017-01-19 14:20:02,Morgan Stanley Wealth Profit Jumps 16% in Fourth Quarter  ,0,0,0,1,1,0,0.92118895,0.046826903,0.031984173,Pos,0.87436205,advisorhubinc
+821,2017-01-19 14:01:03,First Republic Launches 2017 with Another Big Merrill Hire  ,0,0,0,0,0,0,0.3664456,0.014362824,0.6191916,Neu,0.3520828,advisorhubinc
+822,2017-01-19 13:40:02,Robert Baird to Pay Wells Fargo $25 Million over “Wichita Raid”  ,0,0,0,0,0,0,0.28542748,0.39990473,0.31466776,Neg,-0.11447725,advisorhubinc
+823,2017-01-19 13:20:02,"SEC Fines Morgan Stanley $13 Million for Billing, Compliance Errors  ",0,0,0,0,0,0,0.011809661,0.9564217,0.031768706,Neg,-0.944612,advisorhubinc
+824,2017-01-19 13:02:01,Wells Fargo Lost Over 200 Brokers in Fourth Quarter  ,0,0,0,0,0,0,0.008607425,0.9718088,0.019583795,Neg,-0.96320134,advisorhubinc
+825,2017-01-19 12:40:02,Merrill FAs Marched Steadily to Bank’s Drumbeat Last Quarter  ,0,1,0,0,0,0,0.8880128,0.025932388,0.08605473,Pos,0.86208045,advisorhubinc
+826,2017-01-19 12:20:02,"UBS Broker in Texas Jumps to RayJay, Splitting from Longtime Partner  ",0,1,0,0,0,0,0.27776757,0.057254106,0.66497827,Neu,0.22051346,advisorhubinc
+827,2017-01-19 12:01:01,Morgan Stanley Lifts Big Team from JP Morgan in Beverly Hills  ,0,0,0,0,0,0,0.2564075,0.038223337,0.7053692,Neu,0.21818416,advisorhubinc
+828,2017-01-18 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,0,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+830,2017-01-18 19:02:00,Recruiters and managers at the firm say hiring dropped off as banking scandal unfolded  ,1,1,0,0,1,0,0.012319241,0.9592464,0.02843436,Neg,-0.94692713,advisorhubinc
+832,2017-01-18 18:02:05,"Kathryn Hayden, 65, is “amicably” splitting the $300 million book she and her former teammate had run  ",1,1,0,0,0,0,0.055404454,0.65634173,0.2882538,Neg,-0.60093725,advisorhubinc
+833,2017-01-18 17:50:00,First Republic Launches 2017 with Another Big Merrill Hire  ,0,0,0,0,0,0,0.3664456,0.014362824,0.6191916,Neu,0.3520828,advisorhubinc
+834,2017-01-18 15:02:01,Citi Pays $23.5 Million Tied to Overcharges on Smith Barney Fund Programs  ,0,0,0,0,0,0,0.036108308,0.14630544,0.81758624,Neu,-0.110197134,advisorhubinc
+835,2017-01-18 13:20:02,"SEC Fines Morgan Stanley $13 Million for Billing, Compliance Errors  ",0,0,0,0,0,0,0.011809661,0.9564217,0.031768706,Neg,-0.944612,advisorhubinc
+836,2017-01-18 13:01:05,Wells Fargo Lost Over 200 Brokers in Fourth Quarter  ,0,0,0,0,1,0,0.008607425,0.9718088,0.019583795,Neg,-0.96320134,advisorhubinc
+837,2017-01-18 12:40:02,Merrill FAs Marched Steadily to Bank’s Drumbeat Last Quarter  ,0,1,0,0,0,0,0.8880128,0.025932388,0.08605473,Pos,0.86208045,advisorhubinc
+838,2017-01-18 12:20:02,"UBS Broker in Texas Jumps to RayJay, Splitting from Longtime Partner  ",0,1,0,0,0,0,0.27776757,0.057254106,0.66497827,Neu,0.22051346,advisorhubinc
+839,2017-01-17 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,0,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+840,2017-01-17 20:02:01,"JP Morgan owes advisor Johnny Burris back-pay, punitive damages and expungement of his regulatory record  ",0,1,0,0,0,0,0.01125192,0.9502862,0.038461853,Neg,-0.9390343,advisorhubinc
+842,2017-01-17 19:01:05,Recruiters and managers at the firm say hiring dropped off as banking scandal unfolded  ,1,1,0,0,0,0,0.012319241,0.9592464,0.02843436,Neg,-0.94692713,advisorhubinc
+844,2017-01-17 18:01:05,"Kathryn Hayden, 65, is “amicably” splitting the $300 million book she and her former teammate had run  ",1,1,0,0,0,0,0.055404454,0.65634173,0.2882538,Neg,-0.60093725,advisorhubinc
+845,2017-01-17 15:01:04,Citi Pays $23.5 Million Tied to Overcharges on Smith Barney Fund Programs  ,0,0,0,0,0,0,0.036108308,0.14630544,0.81758624,Neu,-0.110197134,advisorhubinc
+846,2017-01-17 14:01:05,Fired JP Morgan Whistleblower Wins Wrongful Dismissal Claim  ,0,0,0,0,0,0,0.022360211,0.90510255,0.07253727,Neg,-0.88274235,advisorhubinc
+847,2017-01-17 13:20:02,"SEC Fines Morgan Stanley $13 Million for Billing, Compliance Errors  ",0,0,0,0,0,0,0.011809661,0.9564217,0.031768706,Neg,-0.944612,advisorhubinc
+848,2017-01-17 13:01:02,Wells Fargo Lost Over 200 Brokers in Fourth Quarter  ,0,0,0,0,0,0,0.008607425,0.9718088,0.019583795,Neg,-0.96320134,advisorhubinc
+849,2017-01-17 12:40:01,Morgan Stanley Reorganizes Wealth Management Sales Structure  ,0,0,0,0,0,1,0.059529986,0.020059489,0.9204106,Neu,0.039470498,advisorhubinc
+850,2017-01-17 12:40:01,Merrill FAs Marched Steadily to Bank’s Drumbeat Last Quarter  ,0,1,0,0,0,0,0.8880128,0.025932388,0.08605473,Pos,0.86208045,advisorhubinc
+851,2017-01-17 12:20:01,"UBS Broker in Texas Jumps to RayJay, Splitting from Longtime Partner  ",0,1,0,0,0,0,0.27776757,0.057254106,0.66497827,Neu,0.22051346,advisorhubinc
+852,2017-01-16 20:40:01,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,1,1,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+854,2017-01-16 20:01:04,"JP Morgan owes advisor Johnny Burris back-pay, punitive damages and expungement of his regulatory record  ",0,1,0,0,0,0,0.01125192,0.9502862,0.038461853,Neg,-0.9390343,advisorhubinc
+855,2017-01-16 19:40:02,President Kowach names E. region president Getzoff & strategy head Alexander to run divisions  ,0,1,0,0,0,0,0.043471977,0.01703465,0.9394934,Neu,0.026437327,advisorhubinc
+857,2017-01-16 19:01:00,Recruiters and managers at the firm say hiring dropped off as banking scandal unfolded  ,1,1,0,0,0,0,0.012319241,0.9592464,0.02843436,Neg,-0.94692713,advisorhubinc
+858,2017-01-16 18:40:02,Finra panel orders UBS Wealth Americas to pay another group of investors for Puerto Rico fund losses  ,0,0,0,0,0,0,0.016095357,0.91528946,0.068615064,Neg,-0.8991941,advisorhubinc
+860,2017-01-16 18:01:01,"Kathryn Hayden, 65, is “amicably” splitting the $300 million book she and her former teammate had run  ",1,1,0,0,0,1,0.055404454,0.65634173,0.2882538,Neg,-0.60093725,advisorhubinc
+861,2017-01-16 15:01:00,Citi Pays $23.5 Million Tied to Overcharges on Smith Barney Fund Programs  ,0,0,0,0,0,0,0.036108308,0.14630544,0.81758624,Neu,-0.110197134,advisorhubinc
+862,2017-01-16 14:40:01,"Another Week, Another $18 Mln Arb Loss for UBS  ",0,0,0,0,0,0,0.020323161,0.9529653,0.026711512,Neg,-0.93264216,advisorhubinc
+863,2017-01-16 14:20:02,"Edward Jones Boosts Broker Count, But Commissions Plummet  ",0,0,0,0,0,0,0.045449488,0.9389275,0.015623054,Neg,-0.893478,advisorhubinc
+864,2017-01-16 14:01:04,Fired JP Morgan Whistleblower Wins Wrongful Dismissal Claim  ,0,0,0,0,0,0,0.022360211,0.90510255,0.07253727,Neg,-0.88274235,advisorhubinc
+865,2017-01-16 13:40:01,Wells Fargo Advisors Revamps Sales Management  ,0,0,0,0,0,0,0.02859563,0.11189389,0.8595105,Neu,-0.083298266,advisorhubinc
+866,2017-01-16 13:20:01,"SEC Fines Morgan Stanley $13 Million for Billing, Compliance Errors  ",0,0,0,0,0,0,0.011809661,0.9564217,0.031768706,Neg,-0.944612,advisorhubinc
+867,2017-01-16 13:00:05,Wells Fargo Lost Over 200 Brokers in Fourth Quarter  ,0,0,0,1,0,0,0.008607425,0.9718088,0.019583795,Neg,-0.96320134,advisorhubinc
+868,2017-01-16 12:40:01,Merrill FAs Marched Steadily to Bank’s Drumbeat Last Quarter  ,0,1,0,0,0,0,0.8880128,0.025932388,0.08605473,Pos,0.86208045,advisorhubinc
+869,2017-01-16 12:20:01,"UBS Broker in Texas Jumps to RayJay, Splitting from Longtime Partner  ",0,1,0,0,0,0,0.27776757,0.057254106,0.66497827,Neu,0.22051346,advisorhubinc
+870,2017-01-16 12:01:01,Morgan Stanley Reorganizes Wealth Management Sales Structure  ,0,0,0,0,0,0,0.059529986,0.020059489,0.9204106,Neu,0.039470498,advisorhubinc
+872,2017-01-15 20:01:00,"JP Morgan owes advisor Johnny Burris back-pay, punitive damages and expungement of his regulatory record  ",0,1,0,0,0,0,0.01125192,0.9502862,0.038461853,Neg,-0.9390343,advisorhubinc
+873,2017-01-15 19:40:01,President Kowach names E. region president Getzoff & strategy head Alexander to run divisions  ,0,1,0,0,0,0,0.043471977,0.01703465,0.9394934,Neu,0.026437327,advisorhubinc
+874,2017-01-15 18:40:01,Finra panel orders UBS Wealth Americas to pay another group of investors for Puerto Rico fund losses  ,0,0,0,0,0,0,0.016095357,0.91528946,0.068615064,Neg,-0.8991941,advisorhubinc
+875,2017-01-15 14:40:01,"Another Week, Another $18 Mln Arb Loss for UBS  ",0,0,0,0,0,0,0.020323161,0.9529653,0.026711512,Neg,-0.93264216,advisorhubinc
+876,2017-01-15 14:20:01,"Edward Jones Boosts Broker Count, But Commissions Plummet  ",0,0,0,0,0,0,0.045449488,0.9389275,0.015623054,Neg,-0.893478,advisorhubinc
+877,2017-01-15 14:01:00,Fired JP Morgan Whistleblower Wins Wrongful Dismissal Claim  ,0,0,0,0,0,0,0.022360211,0.90510255,0.07253727,Neg,-0.88274235,advisorhubinc
+878,2017-01-15 13:40:01,Wells Fargo Advisors Revamps Sales Management  ,0,0,0,0,0,1,0.02859563,0.11189389,0.8595105,Neu,-0.083298266,advisorhubinc
+879,2017-01-15 12:40:01,Morgan Stanley Reorganizes Wealth Management Sales Structure  ,0,0,0,1,2,5,0.059529986,0.020059489,0.9204106,Neu,0.039470498,advisorhubinc
+881,2017-01-14 20:01:00,"JP Morgan owes advisor Johnny Burris back-pay, punitive damages and expungement of his regulatory record  ",0,1,0,0,0,0,0.01125192,0.9502862,0.038461853,Neg,-0.9390343,advisorhubinc
+882,2017-01-14 19:40:01,President Kowach names E. region president Getzoff & strategy head Alexander to run divisions  ,0,1,0,0,0,0,0.043471977,0.01703465,0.9394934,Neu,0.026437327,advisorhubinc
+883,2017-01-14 18:40:02,Finra panel orders UBS Wealth Americas to pay another group of investors for Puerto Rico fund losses  ,0,0,0,0,0,1,0.016095357,0.91528946,0.068615064,Neg,-0.8991941,advisorhubinc
+884,2017-01-14 14:40:01,"Another Week, Another $18 Mln Arb Loss for UBS  ",0,0,0,0,0,0,0.020323161,0.9529653,0.026711512,Neg,-0.93264216,advisorhubinc
+885,2017-01-14 14:20:01,"Edward Jones Boosts Broker Count, But Commissions Plummet  ",0,0,0,0,0,0,0.045449488,0.9389275,0.015623054,Neg,-0.893478,advisorhubinc
+886,2017-01-14 14:01:02,Fired JP Morgan Whistleblower Wins Wrongful Dismissal Claim  ,0,0,0,0,0,0,0.022360211,0.90510255,0.07253727,Neg,-0.88274235,advisorhubinc
+887,2017-01-14 13:40:01,Wells Fargo Advisors Revamps Sales Management  ,0,0,0,0,0,0,0.02859563,0.11189389,0.8595105,Neu,-0.083298266,advisorhubinc
+888,2017-01-14 12:40:01,Morgan Stanley Reorganizes Wealth Management Sales Structure  ,0,0,0,0,0,2,0.059529986,0.020059489,0.9204106,Neu,0.039470498,advisorhubinc
+890,2017-01-13 20:01:03,"SEC Charges Long Island Brokers with Churning, Excessive Trading  ",0,0,0,0,0,0,0.008649882,0.9354462,0.055903886,Neg,-0.9267963,advisorhubinc
+891,2017-01-13 19:40:02,President Kowach names E. region president Getzoff & strategy head Alexander to run divisions  ,0,1,0,0,0,0,0.043471977,0.01703465,0.9394934,Neu,0.026437327,advisorhubinc
+892,2017-01-13 19:20:02,Woman who advised brokers on succession planning has resolved her sexual harassment claim  ,1,1,0,0,0,0,0.14678547,0.47656944,0.376645,Neg,-0.32978398,advisorhubinc
+893,2017-01-13 19:01:03,Piazza’s attempt to resurrect famed SF firm stumbles with departure of former broker’s decision to form own RIA  ,1,1,0,0,0,0,0.011521286,0.93697196,0.051506765,Neg,-0.9254507,advisorhubinc
+894,2017-01-13 18:40:01,Finra panel orders UBS Wealth Americas to pay another group of investors for Puerto Rico fund losses  ,0,0,0,0,0,0,0.016095357,0.91528946,0.068615064,Neg,-0.8991941,advisorhubinc
+895,2017-01-13 14:40:02,"Another Week, Another $18 Mln Arb Loss for UBS  ",0,0,0,0,0,0,0.020323161,0.9529653,0.026711512,Neg,-0.93264216,advisorhubinc
+896,2017-01-13 14:20:02,"Edward Jones Boosts Broker Count, But Commissions Plummet  ",0,0,0,0,0,0,0.045449488,0.9389275,0.015623054,Neg,-0.893478,advisorhubinc
+897,2017-01-13 14:01:04,Robertson Stephens Loses Its Boston Team  ,0,1,0,0,0,0,0.011960691,0.9291285,0.058910806,Neg,-0.91716784,advisorhubinc
+898,2017-01-13 13:40:02,Wells Fargo Advisors Revamps Sales Management  ,0,0,0,0,0,0,0.02859563,0.11189389,0.8595105,Neu,-0.083298266,advisorhubinc
+900,2017-01-13 13:01:03,Issues alert to investors to be sensitive to high volume of activity in their accounts  ,0,1,0,0,0,0,0.06884597,0.026660554,0.90449345,Neu,0.04218542,advisorhubinc
+901,2017-01-12 20:01:04,"SEC Charges Long Island Brokers with Churning, Excessive Trading  ",0,0,0,0,0,0,0.008649882,0.9354462,0.055903886,Neg,-0.9267963,advisorhubinc
+902,2017-01-12 19:20:02,Woman who advised brokers on succession planning has resolved her sexual harassment claim  ,1,1,0,0,0,0,0.14678547,0.47656944,0.376645,Neg,-0.32978398,advisorhubinc
+903,2017-01-12 19:01:03,Piazza’s attempt to resurrect famed SF firm stumbles with departure of former broker’s decision to form own RIA  ,1,1,0,0,0,0,0.011521286,0.93697196,0.051506765,Neg,-0.9254507,advisorhubinc
+904,2017-01-12 14:01:03,Robertson Stephens Loses Its Boston Team  ,0,1,0,0,0,0,0.011960691,0.9291285,0.058910806,Neg,-0.91716784,advisorhubinc
+906,2017-01-12 13:01:02,Issues alert to investors to be sensitive to high volume of activity in their accounts  ,0,1,0,0,0,0,0.06884597,0.026660554,0.90449345,Neu,0.04218542,advisorhubinc
+907,2017-01-11 20:01:04,"SEC Charges Long Island Brokers with Churning, Excessive Trading  ",0,0,0,0,0,0,0.008649882,0.9354462,0.055903886,Neg,-0.9267963,advisorhubinc
+908,2017-01-11 19:20:02,Woman who advised brokers on succession planning has resolved her sexual harassment claim  ,1,1,0,0,0,0,0.14678547,0.47656944,0.376645,Neg,-0.32978398,advisorhubinc
+909,2017-01-11 19:01:03,Piazza’s attempt to resurrect famed SF firm stumbles with departure of former broker’s decision to form own RIA  ,1,1,0,0,1,0,0.011521286,0.93697196,0.051506765,Neg,-0.9254507,advisorhubinc
+910,2017-01-11 17:01:05,Jeremy Kientz has moved to Wells Fargo. Keep up with our RecruitingWire  ,1,1,0,0,0,0,0.1008904,0.023676017,0.8754336,Neu,0.07721438,advisorhubinc
+911,2017-01-11 14:01:03,Robertson Stephens Loses Its Boston Team  ,0,1,0,0,0,0,0.011960691,0.9291285,0.058910806,Neg,-0.91716784,advisorhubinc
+913,2017-01-11 13:01:03,Issues alert to investors to be sensitive to high volume of activity in their accounts  ,0,1,0,0,0,0,0.06884597,0.026660554,0.90449345,Neu,0.04218542,advisorhubinc
+914,2017-01-10 20:01:01,"SEC Charges Long Island Brokers with Churning, Excessive Trading  ",0,0,0,0,0,0,0.008649882,0.9354462,0.055903886,Neg,-0.9267963,advisorhubinc
+915,2017-01-10 19:20:02,Woman who advised brokers on succession planning has resolved her sexual harassment claim  ,1,1,0,0,0,0,0.14678547,0.47656944,0.376645,Neg,-0.32978398,advisorhubinc
+916,2017-01-10 19:01:02,Piazza’s attempt to resurrect famed SF firm stumbles with departure of former broker’s decision to form own RIA  ,1,1,0,0,0,0,0.011521286,0.93697196,0.051506765,Neg,-0.9254507,advisorhubinc
+917,2017-01-10 17:01:03,Jerry Nigro has moved to Claybrook Capital. Keep up with our RecruitingWire  ,1,1,0,0,0,0,0.11317598,0.015159398,0.8716646,Neu,0.09801658,advisorhubinc
+918,2017-01-10 14:40:02,GOP Congressman Introduces Bill to Delay DOL Fiduciary Rule  ,0,0,0,0,0,0,0.03298994,0.71274996,0.25426015,Neg,-0.67976004,advisorhubinc
+919,2017-01-10 14:01:01,Robertson Stephens Loses Its Boston Team  ,0,1,0,0,0,0,0.011960691,0.9291285,0.058910806,Neg,-0.91716784,advisorhubinc
+921,2017-01-10 13:01:00,Issues alert to investors to be sensitive to high volume of activity in their accounts  ,0,1,0,0,0,0,0.06884597,0.026660554,0.90449345,Neu,0.04218542,advisorhubinc
+922,2017-01-09 14:40:01,GOP Congressman Introduces Bill to Delay DOL Fiduciary Rule  ,0,0,0,0,0,0,0.03298994,0.71274996,0.25426015,Neg,-0.67976004,advisorhubinc
+923,2017-01-08 18:40:01,Finra Raises Pressure on Rogue Brokers and Their Firms  ,0,1,0,0,0,0,0.009915146,0.9430494,0.04703556,Neg,-0.9331342,advisorhubinc
+924,2017-01-08 18:20:02,Firm asks court to vacate Finra arbitration decision: 2 arbitrators’ failed to fully disclose litigation history  ,1,1,0,0,0,0,0.0122475745,0.89680403,0.09094841,Neg,-0.8845565,advisorhubinc
+925,2017-01-08 14:40:01,GOP Congressman Introduces Bill to Delay DOL Fiduciary Rule  ,0,0,0,0,0,1,0.03298994,0.71274996,0.25426015,Neg,-0.67976004,advisorhubinc
+926,2017-01-08 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+927,2017-01-08 13:20:01,UBS Fights Back Against Landmark $18.5 Million Puerto Rico Award  ,0,0,0,0,0,0,0.64942026,0.2322908,0.11828891,Pos,0.41712946,advisorhubinc
+928,2017-01-07 20:01:00,Wells Fargo Advisors to Pay $35.5 Million to Settle Race Discrimination Suit  ,0,0,0,0,0,0,0.44292623,0.365765,0.19130887,Pos,0.07716122,advisorhubinc
+929,2017-01-07 19:01:00,Brokers prepare training program to end 50% payouts as it “standardizes” compensation across all products & services  ,0,1,0,0,0,0,0.16930509,0.013994139,0.81670076,Neu,0.15531094,advisorhubinc
+930,2017-01-07 18:40:01,Finra Raises Pressure on Rogue Brokers and Their Firms  ,0,1,0,0,1,0,0.009915146,0.9430494,0.04703556,Neg,-0.9331342,advisorhubinc
+931,2017-01-07 18:20:02,Firm asks court to vacate Finra arbitration decision: 2 arbitrators’ failed to fully disclose litigation history  ,1,1,0,0,0,0,0.0122475745,0.89680403,0.09094841,Neg,-0.8845565,advisorhubinc
+932,2017-01-07 14:40:01,GOP Congressman Introduces Bill to Delay DOL Fiduciary Rule  ,0,0,0,0,0,0,0.03298994,0.71274996,0.25426015,Neg,-0.67976004,advisorhubinc
+933,2017-01-07 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+934,2017-01-07 14:01:01,UBS Slashes Advisory Account Payout for New Advisors  ,0,0,0,0,0,0,0.009193791,0.9637533,0.027052846,Neg,-0.9545595,advisorhubinc
+935,2017-01-07 13:20:01,UBS Fights Back Against Landmark $18.5 Million Puerto Rico Award  ,0,0,0,0,0,0,0.64942026,0.2322908,0.11828891,Pos,0.41712946,advisorhubinc
+936,2017-01-07 13:01:00,Wells Fargo to recruit more African American brokers and seek more minority candidates for management positions  ,0,0,0,0,1,0,0.84389937,0.010722036,0.14537859,Pos,0.8331773,advisorhubinc
+937,2017-01-06 20:01:02,Wells Fargo Advisors to Pay $35.5 Million to Settle Race Discrimination Suit  ,0,0,0,0,0,0,0.44292623,0.365765,0.19130887,Pos,0.07716122,advisorhubinc
+938,2017-01-06 19:01:02,Brokers prepare training program to end 50% payouts as it “standardizes” compensation across all products & services  ,0,1,0,0,0,0,0.16930509,0.013994139,0.81670076,Neu,0.15531094,advisorhubinc
+939,2017-01-06 18:40:01,Finra Raises Pressure on Rogue Brokers and Their Firms  ,0,1,0,0,0,0,0.009915146,0.9430494,0.04703556,Neg,-0.9331342,advisorhubinc
+940,2017-01-06 18:20:01,Firm asks court to vacate Finra arbitration decision: 2 arbitrators’ failed to fully disclose litigation history  ,1,1,0,0,0,0,0.0122475745,0.89680403,0.09094841,Neg,-0.8845565,advisorhubinc
+941,2017-01-06 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,1,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+942,2017-01-06 14:01:03,UBS Slashes Advisory Account Payout for New Advisors  ,0,0,0,0,0,0,0.009193791,0.9637533,0.027052846,Neg,-0.9545595,advisorhubinc
+943,2017-01-06 13:20:01,UBS Fights Back Against Landmark $18.5 Million Puerto Rico Award  ,0,0,0,0,0,0,0.64942026,0.2322908,0.11828891,Pos,0.41712946,advisorhubinc
+944,2017-01-06 13:01:01,Wells Fargo to recruit more African American brokers and seek more minority candidates for management positions  ,0,0,0,0,0,1,0.84389937,0.010722036,0.14537859,Pos,0.8331773,advisorhubinc
+945,2017-01-05 20:01:02,Wells Fargo Advisors to Pay $35.5 Million to Settle Race Discrimination Suit  ,0,0,0,0,0,0,0.44292623,0.365765,0.19130887,Pos,0.07716122,advisorhubinc
+946,2017-01-05 19:01:01,Brokers prepare training program to end 50% payouts as it “standardizes” compensation across all products & services  ,0,1,0,0,0,0,0.16930509,0.013994139,0.81670076,Neu,0.15531094,advisorhubinc
+947,2017-01-05 18:40:01,Finra Raises Pressure on Rogue Brokers and Their Firms  ,0,1,0,0,0,0,0.009915146,0.9430494,0.04703556,Neg,-0.9331342,advisorhubinc
+948,2017-01-05 18:20:01,Firm asks court to vacate Finra arbitration decision: 2 arbitrators’ failed to fully disclose litigation history  ,1,1,0,0,0,0,0.0122475745,0.89680403,0.09094841,Neg,-0.8845565,advisorhubinc
+950,2017-01-05 14:20:02,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+951,2017-01-05 14:01:03,UBS Slashes Advisory Account Payout for New Advisors  ,0,0,0,0,0,0,0.009193791,0.9637533,0.027052846,Neg,-0.9545595,advisorhubinc
+952,2017-01-05 13:20:01,UBS Fights Back Against Landmark $18.5 Million Puerto Rico Award  ,0,0,0,0,0,0,0.64942026,0.2322908,0.11828891,Pos,0.41712946,advisorhubinc
+953,2017-01-05 13:01:01,Wells Fargo to recruit more African American brokers and seek more minority candidates for management positions  ,0,0,0,0,1,0,0.84389937,0.010722036,0.14537859,Pos,0.8331773,advisorhubinc
+954,2017-01-04 20:01:01,Wells Fargo Advisors to Pay $35.5 Million to Settle Race Discrimination Suit  ,0,0,0,0,0,0,0.44292623,0.365765,0.19130887,Pos,0.07716122,advisorhubinc
+955,2017-01-04 19:01:00,Brokers prepare training program to end 50% payouts as it “standardizes” compensation across all products & services  ,0,1,0,0,0,0,0.16930509,0.013994139,0.81670076,Neu,0.15531094,advisorhubinc
+956,2017-01-04 14:00:05,UBS Slashes Advisory Account Payout for New Advisors  ,0,0,0,0,0,0,0.009193791,0.9637533,0.027052846,Neg,-0.9545595,advisorhubinc
+957,2017-01-04 13:00:05,Wells Fargo to recruit more African American brokers and seek more minority candidates for management positions  ,0,0,0,0,0,0,0.84389937,0.010722036,0.14537859,Pos,0.8331773,advisorhubinc
+958,2017-01-02 20:00:02,Year in Review (Part 3): Crimes and Misdemeanors  ,0,0,0,0,0,0,0.029659541,0.27118555,0.699155,Neu,-0.24152601,advisorhubinc
+959,2017-01-02 14:00:04,Most-Viewed Stories of 2016  ,0,0,0,0,0,0,0.067503124,0.040227722,0.8922692,Neu,0.027275402,advisorhubinc

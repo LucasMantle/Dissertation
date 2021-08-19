@@ -1,0 +1,43 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2020-10-28 17:08:01,  $SPOT $AAPL Stockwinners Earnings FreeMembership,0,0,0,0,0,0,0.114908405,0.025707904,0.85938376,Neu,0.0892005,stockwinnerscom
+1,2020-10-01 02:35:05,  AOC PeterThiel $PLTR NSA FBI CIA $AMZN Stockwinners FreeMembership,0,0,0,0,0,0,0.052009534,0.022135708,0.92585474,Neu,0.029873826,stockwinnerscom
+2,2020-08-27 17:20:01,   Stockwinners FreeMembership TIKTOK $MSFT $WMT $ORCL  ,0,0,0,0,0,0,0.07326385,0.026989583,0.89974654,Neu,0.046274263,stockwinnerscom
+3,2020-08-24 17:15:01,  $MSFt $FB Stockwinners mergers FreeMembership $ORCL,0,0,0,0,0,0,0.0821466,0.014890856,0.90296257,Neu,0.06725574,stockwinnerscom
+4,2020-08-19 16:36:05,  $JNJ $MNTA Stockwinners FreeMembership $SPX $SPY $DIA $DJIA,0,0,0,0,0,0,0.10422734,0.019900898,0.8758717,Neu,0.084326446,stockwinnerscom
+5,2020-08-03 23:59:04,  STOCKWINNERS FREEMEMBERSHIP $TWTR $AAPL $AMZN PROFIT TRADE,0,0,0,0,0,0,0.08451849,0.040608253,0.8748732,Neu,0.04391024,stockwinnerscom
+6,2020-06-17 20:50:01,  $GOOG $FB $TWTR $SNAP $MSFT,0,0,0,0,0,0,0.26167023,0.04329543,0.6950343,Neu,0.2183748,stockwinnerscom
+7,2020-05-19 12:52:04,  trade Stockwinners $M $JCP $WMT $AMZN FreeMembership,0,0,0,0,0,0,0.06460791,0.026897281,0.90849483,Neu,0.03771063,stockwinnerscom
+8,2020-05-11 13:55:03,  Amazon $AMZN AMC $AMC Stockwinners FreeMembership Trade Profit,0,0,0,0,0,0,0.042687666,0.020741452,0.9365709,Neu,0.021946214,stockwinnerscom
+9,2020-03-27 13:51:04,I hear rumors that $MSFT is looking to buy $DBX. Note DBX co-founder Ferdousi resigned. Meg Whitman quit as director. $DBX takeover is coming.,1,1,0,0,0,0,0.017854733,0.72038895,0.2617564,Neg,-0.7025342,stockwinnerscom
+10,2020-03-23 19:05:03,  Microsoft Stockwinners FreeMembership $MSFT,0,0,0,0,0,0,0.05326219,0.016630203,0.9301076,Neu,0.036631986,stockwinnerscom
+11,2020-01-02 16:55:03,   2020 Stockwinners RBC RBCCapital Predictions2020 $NFLX $AMZN $GOOGL $FB $BKNG $LYFT $UBER $SPOT,0,0,0,0,0,1,0.24141501,0.026837397,0.73174757,Neu,0.21457762,stockwinnerscom
+12,2019-03-13 16:22:03,   5G Service coming to Chicago and Minneapolis  $VZ $T $GOOG,0,1,0,0,0,0,0.13267624,0.013520732,0.85380304,Neu,0.11915551,stockwinnerscom
+13,2018-11-12 14:31:00,  $APTI $AMZN $AAPL,0,0,0,0,0,0,0.13556117,0.0114423195,0.85299647,Neu,0.12411885,stockwinnerscom
+14,2018-11-01 17:31:02,  $NYT $AMZN,0,0,0,0,0,0,0.059198182,0.029817691,0.91098416,Neu,0.029380491,stockwinnerscom
+15,2018-10-29 03:20:02,  $RHT $IBM $TSLA $AMZN,0,0,0,0,0,0,0.08048558,0.018901605,0.90061283,Neu,0.061583977,stockwinnerscom
+16,2018-10-05 16:01:02,  $TSLA $AAPL $BLK,0,0,0,0,0,0,0.09612883,0.013188175,0.89068294,Neu,0.08294065,stockwinnerscom
+17,2018-10-03 13:15:03,  $JCP $AMZN $M,0,0,0,0,0,0,0.10850775,0.0229187,0.86857355,Neu,0.08558905,stockwinnerscom
+18,2018-09-24 12:56:01,  $P $SIRI $AMZN $AAPL $SPOT,0,0,0,0,0,0,0.19532476,0.013972243,0.79070294,Neu,0.18135253,stockwinnerscom
+19,2018-09-19 18:51:03,  $AMZN $SFIX $BBy Amazon $SHOP,0,0,0,0,0,0,0.107365504,0.018100081,0.87453437,Neu,0.08926542,stockwinnerscom
+20,2018-07-31 15:19:04,  $HMNY $NFLX $AAPL,0,0,0,0,0,0,0.123079754,0.011644359,0.86527586,Neu,0.1114354,stockwinnerscom
+21,2018-07-18 15:54:00,  $AAPL $AMZN $GOOG google amazon apple,0,0,0,0,0,0,0.03254273,0.027042426,0.9404149,Neu,0.0055003054,stockwinnerscom
+22,2018-07-17 17:38:02,  $FB $DBX $GOOG,0,0,0,0,0,0,0.079109974,0.02359662,0.89729345,Neu,0.055513352,stockwinnerscom
+23,2018-07-13 18:51:02,  $SPX DJIA Stock market,0,0,0,0,0,0,0.031450152,0.03226459,0.9362852,Neu,-0.00081443787,stockwinnerscom
+24,2018-06-28 12:26:02,  $AMZN,0,0,0,0,0,0,0.039157916,0.04464395,0.9161982,Neu,-0.005486034,stockwinnerscom
+25,2018-06-21 17:58:04,  $AMZN $W $BBY $WMT $HD,0,0,0,0,0,0,0.13020986,0.015050781,0.85473937,Neu,0.11515908,stockwinnerscom
+26,2018-06-14 18:00:01,  $AMZN $ORCL $WDAY $IBM $MSFT $GOOG,0,0,0,0,0,0,0.08716214,0.018432261,0.8944056,Neu,0.06872988,stockwinnerscom
+27,2018-05-11 13:03:04,"Alcoa, Rio Tinto, Apple  announce 'world's first' carbon-free aluminum smelting process  Alcoa (AA) and Rio Tinto (RIO) announced what the companies called ""a revolutionary...  ",1,1,0,0,0,0,0.67401093,0.010638418,0.3153506,Pos,0.6633725,stockwinnerscom
+28,2018-05-09 12:47:03,Walmart to pay $16B for about 77% in India's Flipkart   via  $WMT  $MSFT,0,0,0,0,0,0,0.18107766,0.0096682,0.80925417,Neu,0.17140946,stockwinnerscom
+29,2018-05-06 03:13:01,Barron's is bullish on Apple and Exxon   via   $AAPL $XOM $BA Barrons,0,1,0,0,0,0,0.7534402,0.029116904,0.21744291,Pos,0.7243233,stockwinnerscom
+30,2018-05-06 03:12:01,"Barron’s, the weekly publication owned by the Wall Street Journal, in its latest issue mentions several names: BULLISH   MENTIONS Apple reaffirms position as tech's 'undisputed' leader - In a...  ",1,1,0,0,0,0,0.36165273,0.020536594,0.6178106,Neu,0.34111613,stockwinnerscom
+31,2018-05-06 03:12:00,Barron’s is bullish on Apple and Exxon    ,0,1,0,0,0,0,0.51247156,0.08924901,0.39827952,Pos,0.42322254,stockwinnerscom
+32,2018-05-02 13:41:05,"Apple announces new $100B buyback program, boosts dividend by 16%   via  $AAPL",0,1,0,0,0,0,0.94588375,0.021210706,0.032905575,Pos,0.924673,stockwinnerscom
+33,2018-05-02 13:41:02,"Apple announces new $100B buyback program, boosts dividend by 16% Apple (AAPL) said it will complete the execution of the previous $210B share repurchase authorization...  ",1,1,1,0,0,0,0.9483021,0.0180694,0.03362854,Pos,0.9302327,stockwinnerscom
+34,2018-05-02 13:41:01,"Apple announces new $100B buyback program, boosts dividend by 16%    ",0,1,0,0,0,0,0.9199514,0.039403543,0.040644996,Pos,0.8805478,stockwinnerscom
+35,2018-04-21 21:45:00,Barron's is bullish on GM and Delta   via   $AMZN  $MYL $DAL $GM,0,1,0,0,0,0,0.68144584,0.12446521,0.194089,Pos,0.5569806,stockwinnerscom
+36,2018-04-19 18:38:05,"Amazon higher on Prime members   via    $AMZN , $COST , $M",0,0,0,0,0,0,0.884018,0.011641005,0.10434094,Pos,0.872377,stockwinnerscom
+37,2018-04-19 18:37:03,Amazon rises as Prime reaches 100M paid members Amazon's (AMZN) CEO Jeff Bezos told investors that the company has exceeded 100M paid members globally and has shipped more than 5B items with Prime...  ,1,1,0,0,0,0,0.9453463,0.019359337,0.035294265,Pos,0.92598695,stockwinnerscom
+38,2018-04-19 18:37:01,Amazon higher on Prime members    ,0,0,0,0,0,0,0.9244022,0.02296517,0.052632708,Pos,0.901437,stockwinnerscom
+39,2018-04-08 17:58:01,Barron's is bullish on Google   via   $GOOG  $FB $SPOT,0,1,0,0,0,0,0.75649834,0.07857238,0.16492929,Pos,0.67792594,stockwinnerscom
+40,2018-04-08 17:57:03,"Barron’s, the weekly publication owned by the Wall Street Journal, in its latest issue mentions several names: BULLISH   MENTIONS: Alphabet a 'bargain' in big tech - Alphabet (GOOG; GOOGL) has the...  ",1,1,0,0,0,0,0.09031728,0.017817592,0.89186513,Neu,0.072499685,stockwinnerscom
+41,2018-04-08 17:57:02,Barron’s is bullish on Google    ,0,1,0,0,0,0,0.4501682,0.04331442,0.5065174,Neu,0.40685377,stockwinnerscom

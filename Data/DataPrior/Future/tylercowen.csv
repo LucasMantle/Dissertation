@@ -1,0 +1,425 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+4,2018-04-06 14:33:04," Can I ""double-like"" this one?",0,0,1,0,0,1,0.046310455,0.028959222,0.92473036,Neu,0.017351232,tylercowen
+5,2018-04-05 20:14:05,What should I ask    please leave your suggestions in the MR comments.,0,0,1,2,2,12,0.030398827,0.026044935,0.9435563,Neu,0.004353892,tylercowen
+8,2018-04-05 14:48:05,"Trump vs. Bezos should make you more libertarian,  ",0,0,1,10,47,95,0.10808134,0.02236108,0.86955756,Neu,0.08572026,tylercowen
+13,2018-04-04 16:02:03," I would go long Florida, in any case.",0,0,1,0,0,1,0.0435487,0.0388711,0.9175802,Neu,0.004677601,tylercowen
+14,2018-04-04 00:59:05," The piece implies DC will swat down SF, owl of Minerva flies at dusk, etc.",0,1,1,2,0,3,0.018808497,0.07142816,0.9097633,Neu,-0.05261966,tylercowen
+16,2018-04-01 21:59:02,"Oddly, you cannot catch an Uber standing right before the headquarters of...Uber. nowheretopullover",0,0,1,5,7,48,0.031302236,0.1252919,0.8434059,Neu,-0.09398966,tylercowen
+17,2018-04-01 16:18:05, It will make it easier to get a cab?,0,0,1,1,0,0,0.07789816,0.023327066,0.89877474,Neu,0.054571092,tylercowen
+18,2018-03-30 22:27:00,"Evidence that Amazon will in fact move to out near Dulles?,   HT ",0,0,1,11,12,25,0.108831726,0.014075865,0.87709236,Neu,0.09475586,tylercowen
+23,2018-03-29 21:37:00,"   He has many books, has changed points of view, and I have published lots in the history of economic thought and I can assure you that talking to people is nonetheless essential when possible.",1,1,1,2,1,17,0.09637111,0.016736645,0.8868922,Neu,0.07963446,tylercowen
+24,2018-03-29 21:00:01,"   His ""libertarian solution"" would have a lot of other forms of redistribution. Most of all, I suggest talking to him. I don't agree with him on this, I should add.",0,1,1,1,0,11,0.06277461,0.20477836,0.7324471,Neu,-0.14200374,tylercowen
+36,2018-03-26 22:50:00,"Why we won't have a trade war with China (yet),  ",0,0,1,1,12,14,0.05607435,0.07121778,0.8727079,Neu,-0.015143432,tylercowen
+42,2018-03-25 13:40:05," You could have slipped in a ruder replacement word there, too...",1,0,1,2,0,2,0.031946912,0.7023929,0.2656602,Neg,-0.670446,tylercowen
+45,2018-03-24 14:31:01,"Shouldn't ""they"" just put this book out right now?,  ",0,0,1,1,0,5,0.029701715,0.1537962,0.8165021,Neu,-0.12409448,tylercowen
+49,2018-03-23 20:24:01," Has to be one of the world's worst web page systems, no? From a company like Amazon, with otherwise the world's best web page? It would be better to make it easy for customers to contact you, and I hope a thousand other people tell you this.",0,1,1,0,0,0,0.074359685,0.09691328,0.82872707,Neu,-0.022553593,tylercowen
+51,2018-03-23 18:50:02, Note that you frequently will send me packages of say $50 of value in books and not make anyone sign for that.,0,1,1,1,0,0,0.033281624,0.06268798,0.9040304,Neu,-0.029406354,tylercowen
+52,2018-03-23 18:50:00," The desired response actually is ""We know you live in a safe neighborhood and are only ordering items of small value and you don't want to disturb your elderly father-in-law. We will remove this condition on the shipping.""",0,1,1,0,0,0,0.033735204,0.28281146,0.6834533,Neu,-0.24907626,tylercowen
+53,2018-03-23 18:48:00," I don't on that page see a way to do either chat or phone, sorry...someone could email me at tcowen if that is easier.",0,1,1,0,0,0,0.041269396,0.03127938,0.9274512,Neu,0.009990014,tylercowen
+54,2018-03-23 18:28:04," These are $20 books, and UPS claims the whole thing is simply a mistake, but they have directions from you...I am rarely home and a doorbell ring means my 85-year-old father-in-law will try to run down the stairs to get it, not good.",0,1,1,1,0,0,0.016524995,0.80706465,0.17641039,Neg,-0.7905397,tylercowen
+55,2018-03-23 17:43:02,"  Dear Amazon, no reason why my order 111-5265241-4458619 should require a signature -- you have been doing this to me for months! Have called UPS, problem continues, please fix this!",1,1,1,1,0,1,0.026267258,0.67779565,0.29593703,Neg,-0.6515284,tylercowen
+56,2018-03-23 11:45:04,"  Conversations with Tyler is the series,  will tell you when it is up and available...",0,1,1,1,0,0,0.03607421,0.019323852,0.9446019,Neu,0.016750358,tylercowen
+73,2018-03-15 01:08:03,"  will be back in touch, will ponder that, also think if there are others...",0,1,1,1,0,0,0.11860356,0.020376552,0.86101985,Neu,0.09822701,tylercowen
+74,2018-03-15 00:51:01,"  If you ever have ideas for a Haiti podcast guest, I would love to know, and I am willing to travel to do it, including to Haiti (I've been five times and collect Haitian art).",1,1,1,1,0,0,0.07512534,0.026579397,0.8982952,Neu,0.04854594,tylercowen
+80,2018-03-13 13:17:04,"What might game theory tell us about Trump talking to Kim?,  ",0,1,1,0,13,15,0.03536838,0.033787522,0.9308441,Neu,0.0015808567,tylercowen
+87,2018-03-12 12:47:02,"  Not sure what you mean by those words, Karl. I'll just say this: I believe if you have dozens of off-the-record chats with univ. administrators, and I mean Dems here, you would write a very different piece.",0,1,1,3,0,5,0.04087039,0.041916724,0.9172129,Neu,-0.0010463335,tylercowen
+88,2018-03-12 12:26:05," I've been at this for 31 years, and the difference is just *enormous*, and not without some benefits I might add. Poll data don't capture what a minority have achieved. And so many Dems in academia experience the same.",1,1,1,2,1,24,0.15746601,0.081194095,0.7613399,Neu,0.076271914,tylercowen
+103,2018-03-07 01:03:04," I'd be delighted with a steady 2%, frankly...",1,0,1,0,0,6,0.76291645,0.0148755945,0.2222079,Pos,0.74804085,tylercowen
+106,2018-03-06 18:17:00,"  Losing to anyone but her would have been humiliating, so now I am really happy!",1,1,1,0,0,34,0.21740788,0.04487554,0.7377166,Neu,0.17253235,tylercowen
+108,2018-03-06 13:23:00,"  Would gladly do a Conversations with Tyler with you, are you game? In NYC is fine.",0,1,1,9,2,110,0.0784652,0.026926717,0.89460814,Neu,0.051538482,tylercowen
+114,2018-03-05 14:25:00," Good! (But that does mean it is radical...you could have just written ""This doesn't seem so radical."")",1,1,1,0,0,10,0.037645563,0.06045254,0.90190196,Neu,-0.022806976,tylercowen
+117,2018-03-04 19:42:05,  I would even take Latin American pizza over NYC or Chicago...,0,0,1,1,1,5,0.048913907,0.027537234,0.9235488,Neu,0.021376673,tylercowen
+132,2018-03-01 12:22:05,"Why fascism won't come to America anytime soon,  ",0,0,1,26,37,80,0.037118647,0.20610695,0.75677437,Neu,-0.1689883,tylercowen
+138,2018-02-26 15:24:01,"At first I thought *Annihilation* would collapse into another sci-fi horror sludgy manipulation-fest, but in fact it gets better and ends up as surprisingly conceptual. Good visuals and soundtrack too.",1,1,1,2,4,33,0.37968546,0.018741352,0.6015732,Neu,0.36094412,tylercowen
+139,2018-02-25 12:58:00,"Could the tech companies run *everything* better?, or just some things?,  ",0,1,1,7,12,29,0.08545332,0.017901849,0.89664483,Neu,0.067551464,tylercowen
+142,2018-02-24 15:29:02," Better yet, don't call them ""Aztecs."" ""Original members of the Aztec Triple Alliance"" might be OK.",0,1,1,0,0,4,0.07951883,0.03976257,0.88071865,Neu,0.03975626,tylercowen
+147,2018-02-23 19:03:04," That is not what I claim, though, only that such forms will dominate *if* Caplanian signaling is the dominant motive...",0,1,1,3,1,4,0.06285809,0.014675714,0.9224662,Neu,0.048182376,tylercowen
+151,2018-02-21 18:21:00,  My talk produces learning...Bryan can answer as to his!,0,1,1,0,0,3,0.1480186,0.01478748,0.83719397,Neu,0.13323112,tylercowen
+152,2018-02-21 17:58:03,"""...there is a more concentrated core of more active users that may serve an  information broadcast function for larger cities, an emerging group of  “town tweeters” as it were.""   HT Kevin Lewis",1,1,1,0,5,15,0.07637683,0.013691957,0.9099312,Neu,0.06268488,tylercowen
+163,2018-02-18 03:57:04, Will you settle for a VR dinosaur?,0,0,1,1,1,6,0.036332693,0.054940905,0.9087264,Neu,-0.018608212,tylercowen
+178,2018-02-14 03:39:03,"The next series of tweets by  will herald the end of scarcity and the final Aufhebung, and I am waiting.",0,1,1,0,1,45,0.056101948,0.06937835,0.8745197,Neu,-0.013276406,tylercowen
+180,2018-02-13 16:11:01,"  Why aren't campuses themselves ""the real world""? We spend time and money there, and at least in theory should be training people to boost their productivity and qualities of citizenship.",0,1,1,2,0,11,0.26106828,0.0122815855,0.7266502,Neu,0.2487867,tylercowen
+195,2018-02-07 14:27:02,"   Yet whichever you may prefer, the incentives of a company are surely quite different from those of a single-payer government.",0,1,1,0,0,1,0.052874554,0.025283052,0.9218424,Neu,0.027591502,tylercowen
+199,2018-02-04 15:52:03," That might be my estimate, but Bryan's is much higher...maybe 70-80%? ",0,1,1,2,2,15,0.13113625,0.025100961,0.8437628,Neu,0.10603529,tylercowen
+205,2018-02-01 18:47:05,"Land value capture sometimes will work,  ",0,0,1,3,10,8,0.037925024,0.03694415,0.92513084,Neu,0.0009808727,tylercowen
+208,2018-01-31 13:20:01,"  Why should we expect a net social gain from shifting coffee demand to the wealthier, fair trade-eligible producing countries? Furthermore odd the authors don't stress this worry.",0,1,1,3,0,4,0.5142727,0.011688745,0.4740386,Pos,0.5025839,tylercowen
+214,2018-01-30 16:55:02,"The same person will use very different rhetoric when discussing ""the Trump boom"" or ""the Yellen boom.""",0,1,1,2,3,18,0.025661357,0.09746773,0.8768709,Neu,-0.07180637,tylercowen
+219,2018-01-29 15:01:04," unfortunately, we have a job candidate in that day, plus my interview with Robin...sadly I will miss you...",0,1,1,0,0,0,0.04383935,0.64807606,0.30808464,Neg,-0.6042367,tylercowen
+220,2018-01-27 22:17:03, You can make that many more decades than just two...,0,0,1,0,0,1,0.061956204,0.019989787,0.918054,Neu,0.041966416,tylercowen
+230,2018-01-26 03:48:02,What should I ask    please leave your suggestions on the blog post...,0,0,1,2,1,8,0.026231445,0.026827076,0.9469415,Neu,-0.0005956311,tylercowen
+232,2018-01-24 14:51:05,"Yana and Kyle in the news, as indeed they should be every day,   ",0,0,1,5,4,30,0.04847098,0.019143162,0.9323858,Neu,0.02932782,tylercowen
+234,2018-01-23 20:43:02,"Why Amazon will and should pick Montgomery County, MD, or maybe MD + NoVa,  ",0,0,1,2,9,10,0.060862776,0.015089088,0.9240481,Neu,0.04577369,tylercowen
+245,2018-01-19 18:47:02, Perhaps the list will be unveiled slowly...,0,0,1,5,0,5,0.053851508,0.06036906,0.8857795,Neu,-0.006517552,tylercowen
+247,2018-01-19 02:52:03," ...and eat at the places all around the lake, in the nearby area...so may places to eat...",0,0,1,0,0,0,0.06052468,0.025403444,0.9140719,Neu,0.035121236,tylercowen
+251,2018-01-18 02:22:05," pretty much everything there is great, you can't go wrong!",0,1,1,1,0,0,0.14178322,0.020680152,0.83753663,Neu,0.12110307,tylercowen
+254,2018-01-17 14:57:05," Alternatively, you might just say that most of us are wusses.",0,1,1,2,0,22,0.034394946,0.11074933,0.8548558,Neu,-0.076354384,tylercowen
+272,2018-01-11 13:46:05, For whom or what should you leave a Walmart job?,0,0,1,3,0,4,0.023806626,0.18590927,0.7902841,Neu,-0.16210264,tylercowen
+282,2018-01-10 14:02:04,Isn't Western Union one of the companies that actually *should* have a crypto-asset?  ,0,1,1,4,7,42,0.038281564,0.033158198,0.92856026,Neu,0.0051233657,tylercowen
+283,2018-01-10 13:58:02," Maybe, though, ""nature"" has evolved to be more stress-resistant than we would be in similar circumstances?",1,1,1,1,0,0,0.20972157,0.012324551,0.77795386,Neu,0.19739701,tylercowen
+295,2018-01-08 13:24:02,"  Lee Kuan Yew, of course...and I am not very confident in my Ireland recommendation, but it was the one I could think of.",1,1,1,1,0,1,0.17882733,0.019142509,0.80203015,Neu,0.15968482,tylercowen
+303,2018-01-07 16:06:05,What should I ask    please leave your suggestions at the post. Cowenconvos,0,0,1,1,0,8,0.029803367,0.025641514,0.9445551,Neu,0.0041618533,tylercowen
+311,2018-01-05 15:03:00,"  ""Because they can.""?",0,0,1,2,0,5,0.04717943,0.056745805,0.8960747,Neu,-0.009566374,tylercowen
+315,2018-01-04 21:07:01,  You will be a rich man and I will earn just the going rate of return. I view price as a sufficient statistic for what matters here.,0,1,1,4,2,6,0.102516726,0.014715373,0.8827679,Neu,0.08780135,tylercowen
+316,2018-01-04 20:54:03,  Or total cap of wind sector. Take your pick. But note my piece does say we will get there. Political obstacles to wind are huge.,0,1,1,1,2,6,0.06634717,0.053724796,0.879928,Neu,0.012622371,tylercowen
+321,2018-01-03 19:49:02,What should I ask    leave your answers in the comments there.,0,1,1,1,3,14,0.028572017,0.03849977,0.9329282,Neu,-0.0099277515,tylercowen
+326,2018-01-02 21:00:04,"  A really great book, congratulations, and I will plug it more on MR...",0,0,1,1,0,1,0.16133878,0.010533281,0.8281279,Neu,0.1508055,tylercowen
+330,2018-01-01 17:53:00," One day for most posts, but for a bleg I'll check back five days later too...the number doesn't really matter...",0,1,1,1,0,2,0.032709096,0.052904714,0.91438615,Neu,-0.020195618,tylercowen
+332,2018-01-01 13:21:03,"The deadpan use of ""Professor Robert Kelly"" as a commentator on MSM will be perhaps my favorite feature of 2018 Korea",0,0,1,0,0,9,0.035344414,0.038784113,0.92587143,Neu,-0.0034396984,tylercowen
+334,2017-12-30 20:05:00, It will make everyone pissed off...,1,0,1,0,0,0,0.017138295,0.90226215,0.08059962,Neg,-0.88512385,tylercowen
+338,2017-12-29 08:26:01,"  with recording, there is a problem with student confidentiality...I will ponder the MRU side, thanks for your interest...",0,1,1,0,0,1,0.07146708,0.092753865,0.83577913,Neu,-0.021286786,tylercowen
+340,2017-12-28 15:58:01,"  Then put up less...there is usually a meaningful way to short...Bitcoin won't rise 10x again, and Megan could afford a loss without losing solvency...",1,1,1,1,0,0,0.6073963,0.122419335,0.27018434,Pos,0.48497698,tylercowen
+342,2017-12-28 08:32:02," Can you spend 5k a year on this?  Better than savings, no?",0,0,1,2,0,3,0.18675928,0.012031322,0.8012094,Neu,0.17472796,tylercowen
+356,2017-12-21 18:38:01,"An MRU video about how economists should do their job interviews,  ",0,0,1,0,3,6,0.032053754,0.038308114,0.9296381,Neu,-0.00625436,tylercowen
+370,2017-12-19 20:33:01,"   So what? If I'm on Instagram, it takes away revenue from the ads on the main page. If they try to wreck Instagram, a substitute will pop up.",0,1,1,2,0,0,0.012922703,0.854407,0.13267028,Neg,-0.8414843,tylercowen
+374,2017-12-19 18:52:02,"  I can use Facebook, LinkedIn, my blog, Twitter, email, Snap, contact list in my phone, even parts of Facebook such as WhatsApp and Instagram compete with the main page. All network effects, but still contestable.",0,1,1,1,0,1,0.037472565,0.03168365,0.93084383,Neu,0.005788915,tylercowen
+384,2017-12-19 03:26:02," When Ford was young, he was not taken seriously as an actor, many people thought Hamill would have the better career.",1,0,1,1,0,0,0.07006364,0.02878514,0.90115124,Neu,0.041278504,tylercowen
+388,2017-12-19 00:25:03," ...and if you read the reviews of the two performances, you'll find that is close to consensus opinion...though few will voice it outright.",0,1,1,2,0,2,0.23471232,0.028936287,0.73635143,Neu,0.20577604,tylercowen
+393,2017-12-18 15:07:05," Voters don't trust Dems on taxes, Rs will simply say: ""We are going to renew and they won't.""",0,1,1,3,0,14,0.036725253,0.1750271,0.7882476,Neu,-0.13830185,tylercowen
+398,2017-12-16 14:59:02," In the short to medium term, I don't think many changes will be noticeable.",0,1,1,1,0,0,0.14860512,0.0518903,0.7995046,Neu,0.096714824,tylercowen
+409,2017-12-14 13:21:03," yes, absolutely, a good idea for another post, though perhaps you should write it...!",0,0,1,0,0,4,0.1500218,0.015566183,0.83441204,Neu,0.13445562,tylercowen
+425,2017-12-12 16:40:05," No! Don't have a strong view on exactly what the price should be, but think those pooh-poohing it aren't thinking long and hard enough.",0,1,1,3,0,0,0.04326101,0.096369736,0.86036927,Neu,-0.053108726,tylercowen
+426,2017-12-12 16:39:05,"  No, neutral. You could short it however, by in essence borrowing it or replicating same thru cash settlement at CME. Would gain when the price falls, are you game?",0,1,1,0,0,0,0.055376727,0.03494629,0.90967697,Neu,0.020430438,tylercowen
+441,2017-12-11 14:30:00,"  The researcher who works on cross-cultural depression, see MR a few days ago, knows quite a bit about this topic, I'll ask her next time I see her.",0,1,1,0,0,1,0.04686723,0.037492573,0.9156402,Neu,0.009374656,tylercowen
+446,2017-12-11 00:53:04, I will be covering this soon...,0,1,1,0,0,1,0.102319986,0.020640407,0.87703955,Neu,0.08167958,tylercowen
+447,2017-12-10 19:18:01,"   I don't think MFA, under these assumptions, actually would save much in terms of real resources.",0,1,1,1,0,1,0.07962031,0.0264415,0.8939382,Neu,0.05317881,tylercowen
+449,2017-12-10 19:04:02,  Maybe we should tax it.,0,0,1,0,0,0,0.08680699,0.032593284,0.88059974,Neu,0.054213706,tylercowen
+455,2017-12-10 15:15:01," I believe ""company size"" will do almost all of the work here, noting that big companies are more in some regions than others.",0,1,1,0,0,2,0.14061306,0.010271194,0.8491157,Neu,0.13034187,tylercowen
+458,2017-12-09 15:15:03,"   80s and 90s felt more tolerant, peaceful, and inclusive than the earlier decades...maybe 9/11 will be seen as turning point of decline.",1,1,1,6,1,33,0.10808151,0.51116014,0.38075832,Neg,-0.40307862,tylercowen
+465,2017-12-07 20:06:00," Yes, but not awesome ROR, esp. If you still might still drop out.",0,0,1,0,0,0,0.044097047,0.2039221,0.75198084,Neu,-0.15982504,tylercowen
+466,2017-12-07 19:52:02," mostly agree, but I think the response would be that simply holding onto a decent job sends further signals.",0,1,1,1,1,32,0.6697409,0.061573923,0.26868513,Pos,0.608167,tylercowen
+469,2017-12-07 16:18:03," I wonder if/when you will put ""Bitcoin"" and ""momentum"" into the same tweet, now with 280.",0,1,1,1,0,1,0.03565428,0.018127248,0.9462185,Neu,0.017527033,tylercowen
+476,2017-12-06 12:35:02,"The Age of Centaurs is over! It seems humans can no longer improve on chess-playing programs,  ",0,1,1,5,42,75,0.021847995,0.764811,0.21334109,Neg,-0.74296296,tylercowen
+483,2017-12-04 13:13:04," Fully agree, note if all Russian ill-gotten gains had to stay in Russia, they might just clamp down harder, no easy exit then...",1,0,1,1,0,0,0.24549468,0.3201461,0.4343592,Neu,-0.074651435,tylercowen
+484,2017-12-03 21:21:00," I might write more when the book comes out, but buy it, the work is a very serious (and non-polemical) one...",0,1,1,1,0,0,0.05120482,0.19037537,0.75841975,Neu,-0.13917056,tylercowen
+497,2017-12-01 21:47:03,"  And that sounds far less fearful than a lot of the rhetoric I am hearing. Note a bit of that may be from higher growth, too.",0,1,1,0,0,0,0.11897318,0.043992214,0.8370346,Neu,0.07498097,tylercowen
+514,2017-11-29 21:37:04,  I may at some point write these posts!,0,1,1,1,0,1,0.030713642,0.124459386,0.844827,Neu,-0.093745746,tylercowen
+521,2017-11-26 23:43:03," The funny/sad thing is, if presented as such, I don't actually think so many people would go along with them. complacency",1,1,1,1,0,1,0.06040844,0.08247523,0.85711634,Neu,-0.02206679,tylercowen
+523,2017-11-26 23:30:01, Would you make the same inference after you read a report about an ailing inner city school system?,0,1,1,1,0,0,0.032357093,0.5059324,0.46171054,Neg,-0.4735753,tylercowen
+524,2017-11-26 22:04:02," Keep in mind that ""things are bad"" can just as easily mean ""we need to do something.""  First, elasticity not prejudged, second small elasticity can mean bits of change quite vital.",1,1,1,1,1,0,0.04319741,0.09476051,0.86204207,Neu,-0.0515631,tylercowen
+530,2017-11-24 12:32:02,"Super short-term gdp reports can mislead, still this is kind of impressive,  ",0,1,1,2,6,21,0.6313784,0.121675245,0.24694635,Pos,0.50970316,tylercowen
+536,2017-11-21 17:34:04,The end of net neutrality will indeed be OK... ,0,0,1,22,49,65,0.40451366,0.038180955,0.5573054,Neu,0.3663327,tylercowen
+537,2017-11-21 17:02:02,What should I ask  please leave your comments on the post not Twitter... ,0,0,1,3,2,5,0.01855242,0.049202885,0.93224466,Neu,-0.030650465,tylercowen
+540,2017-11-20 21:59:02,"   if you're coming thru DC let me know, over the summer I'll be in Sao Paulo, there is Skype too.",0,1,1,1,0,0,0.0445075,0.034967117,0.9205254,Neu,0.009540383,tylercowen
+543,2017-11-20 20:35:02," There should be a single German word for ""This goes well beyond the bounds of Twitter""!",0,1,1,0,0,2,0.059653632,0.016616048,0.92373025,Neu,0.043037586,tylercowen
+553,2017-11-19 15:46:03,"  We shouldn't, this is a weakness of many of the Republican plans, I can't say I have seen all of the proposals here however.",1,1,1,2,1,1,0.06582004,0.5068472,0.42733273,Neg,-0.44102716,tylercowen
+557,2017-11-19 15:16:02, As we should do too.,0,0,1,1,0,5,0.17591928,0.013769561,0.8103112,Neu,0.16214971,tylercowen
+560,2017-11-18 17:53:01,"If you are concerned about what is going on in Saudi right now, perhaps you shouldn't totally condemn off-shore secret ""tax havens.""",1,1,1,11,18,59,0.049270995,0.2068074,0.7439216,Neu,-0.15753642,tylercowen
+561,2017-11-18 17:20:01,"   That said, there are always *some* people who in fact should.",1,1,1,1,0,7,0.045774892,0.04793361,0.90629154,Neu,-0.0021587163,tylercowen
+563,2017-11-18 15:26:03, They can readily take more risk and build bigger projects. Fine with fixing the other problem of course.,0,1,1,1,0,0,0.091991104,0.01945016,0.8885587,Neu,0.07254095,tylercowen
+576,2017-11-17 15:15:01,"  Larry wrote a good piece on what we *should* do, which I linked to approvingly.",1,1,1,1,0,1,0.3400909,0.017124282,0.64278483,Neu,0.3229666,tylercowen
+579,2017-11-17 15:05:04,"""We're still close to the zero lower bound so we have to rev up RORs and can tolerate higher deficits"" is another memoryhole argument, it pretty much has disappeared.",1,1,1,6,1,8,0.024575742,0.84531504,0.13010922,Neg,-0.82073927,tylercowen
+580,2017-11-17 15:04:02," I said clearly I don't think we should hike the deficit by $1.5 trillion, though I don't think your specified channel is so obvious at all.",1,1,1,3,0,0,0.2083838,0.07788606,0.7137302,Neu,0.13049774,tylercowen
+581,2017-11-17 14:57:03,"    check out the link in my piece, that claim simply isn't true, nor would it necessarily matter if it were.",1,1,1,1,0,0,0.036565278,0.09922108,0.86421365,Neu,-0.06265581,tylercowen
+584,2017-11-17 14:35:00,"   not long ago, there was indeed a near-consensus that the corporate rate should be at least as low as 28%, right? memoryhole",1,0,1,2,0,2,0.04756878,0.3180952,0.634336,Neu,-0.27052644,tylercowen
+586,2017-11-17 13:42:05,"  Sure, and 20% does right now seem too low to me.  But I am reading so many charges this won't really boost investment at all...it's a new denialism...",0,1,1,1,0,1,0.059417844,0.5434044,0.3971777,Neg,-0.48398656,tylercowen
+589,2017-11-17 13:10:05,"  Jargon!? What could be more ""real"" than ontology?",0,0,1,0,2,4,0.026534008,0.078483,0.89498305,Neu,-0.051948994,tylercowen
+600,2017-11-16 16:26:04," You could have real impact, but not as it stands. Up your game, listen, don't act so jerky. Use whatever emoji you want but I'm right, and I hope the people around you have the guts to tell you the same.",0,1,1,4,0,21,0.15983383,0.020324234,0.8198419,Neu,0.1395096,tylercowen
+616,2017-11-09 16:05:05," In any case VAT revenue will be used to pay off the debt, no matter what a VAT bill claims.",1,0,1,0,0,0,0.049213324,0.017136997,0.93364966,Neu,0.03207633,tylercowen
+618,2017-11-09 16:00:03,Many who favor VAT are criticizing Republican tax plan for distributional reasons that would apply to VAT also.,0,1,1,0,4,16,0.010041666,0.9370294,0.05292892,Neg,-0.92698777,tylercowen
+624,2017-11-07 23:19:00,Does this mean someday each person will get *two* flying cars?,0,1,1,5,8,47,0.03952553,0.038144305,0.9223302,Neu,0.0013812259,tylercowen
+625,2017-11-07 21:00:03, ...of course they should second source the course as well...,0,0,1,0,0,0,0.06199588,0.014178135,0.923826,Neu,0.047817744,tylercowen
+627,2017-11-07 16:55:01," a bunch of books on exactly that are in my pile right now, so I will possibly have an answer, but not quite yet, sorry!",0,1,1,1,0,0,0.041623954,0.073603384,0.8847727,Neu,-0.03197943,tylercowen
+629,2017-11-07 12:18:01," In fact it can't, and shouldn't.  As more people read, fewer understand and this average likely will go down.  Root for decline!",0,1,1,0,0,3,0.010204669,0.9291267,0.060668666,Neg,-0.918922,tylercowen
+631,2017-11-06 21:56:00,"Why and how Republican tax reform might evolve into a bipartisan plan,  ",0,0,1,5,16,23,0.038855452,0.027785376,0.9333592,Neu,0.011070076,tylercowen
+632,2017-11-06 12:11:03,Should the government tax tuition waivers?   no!,0,0,1,3,10,22,0.04127016,0.12705913,0.8316707,Neu,-0.08578897,tylercowen
+642,2017-11-05 12:02:05,"Anyone believe a corporate income tax falls mainly on capital, but a tax on university endowment income would fall mainly on students?",0,1,1,16,43,145,0.029507175,0.043119088,0.9273737,Neu,-0.013611913,tylercowen
+643,2017-11-05 11:18:01, Yet you cite a post where I criticize what the plan will do.,0,1,1,1,0,4,0.02589892,0.7545706,0.2195305,Neg,-0.72867167,tylercowen
+650,2017-11-03 10:41:02," Nervous the product will fail, trying to set up excuses in advance...?",0,1,1,1,1,1,0.032490727,0.49253252,0.47497678,Neg,-0.4600418,tylercowen
+655,2017-11-01 19:01:03, Can't it be sent encrypted if need be?  Plus maybe piracy an overrated problem?,1,0,1,1,0,0,0.05250739,0.09040976,0.8570828,Neu,-0.037902374,tylercowen
+660,2017-11-01 02:11:02," I've thought of getting two, so I can have one while I am getting a visa with the other.  Three is not so odd.",1,1,1,4,1,15,0.05342581,0.029211177,0.91736305,Neu,0.024214635,tylercowen
+661,2017-10-31 12:35:02,Where will tech take finance?  My written exchange with the great   ,1,0,1,1,22,44,0.1100063,0.014095429,0.87589824,Neu,0.09591088,tylercowen
+664,2017-10-31 00:21:04,"Who will be the first to blame Facebook for this too?,  ",0,0,1,0,1,6,0.02567089,0.34577748,0.6285516,Neu,-0.3201066,tylercowen
+665,2017-10-30 19:10:03, I'll get back to you in a century.,0,0,1,2,1,38,0.048333343,0.028685799,0.9229808,Neu,0.019647544,tylercowen
+666,2017-10-30 19:05:00," Yes, and its fans would love it less.",0,0,1,0,0,12,0.1099268,0.036714684,0.8533585,Neu,0.07321212,tylercowen
+667,2017-10-30 15:11:03,"""Free college for everyone"" would not actually help the poor,   ",0,0,1,8,33,85,0.052640427,0.24622212,0.7011375,Neu,-0.1935817,tylercowen
+669,2017-10-30 14:38:00,Or the telephone. In principle AT&T could listen in and stop all the bad conversations. Why should *they* be allowed to be neutral?,1,1,1,7,7,39,0.033256084,0.122899495,0.8438445,Neu,-0.08964341,tylercowen
+687,2017-10-21 20:39:04," I will take a look, thanks...",0,0,1,0,0,1,0.09541283,0.018427415,0.8861598,Neu,0.07698541,tylercowen
+688,2017-10-21 20:11:04," Roland is awesome, but he just spoke at GMU and not sure I would get something so different, but I will ponder...",1,1,1,0,0,2,0.07206481,0.020266827,0.9076684,Neu,0.051797982,tylercowen
+689,2017-10-21 19:42:03," It is worth pondering, because I think over time many people will be asking you how to help.",0,1,1,1,0,1,0.11589431,0.018942654,0.865163,Neu,0.096951656,tylercowen
+690,2017-10-21 17:41:03," Someone sets up an institution to serve as a kind of help fund, others can publicize to generate donations.",0,1,1,0,0,1,0.03695848,0.024845202,0.93819624,Neu,0.012113277,tylercowen
+696,2017-10-19 23:38:04,"Can we impose rules on the Fed at all?,   FightClub, JeanBodin",0,0,1,0,11,11,0.031608503,0.08122401,0.8871675,Neu,-0.049615506,tylercowen
+700,2017-10-17 21:58:02,"""...you still might think that Kim and the markets really are insane. But then how about you?""  ",0,1,1,0,5,12,0.05571783,0.18615504,0.7581271,Neu,-0.13043721,tylercowen
+701,2017-10-17 21:17:01," I will ponder, but do see my earlier post on Johnny Rogan and the Byrds!",0,1,1,0,0,1,0.05681542,0.06512154,0.8780631,Neu,-0.00830612,tylercowen
+705,2017-10-17 14:40:04,"...""we may be rather deliberately moving to an uglier but cheaper world.""  ",0,1,1,3,1,12,0.1587234,0.12736087,0.7139157,Neu,0.031362534,tylercowen
+710,2017-10-16 00:44:05,    I would sooner say that your alter ego needs a bit of a boost from you.,0,1,1,0,0,1,0.2711062,0.013609093,0.71528465,Neu,0.25749713,tylercowen
+713,2017-10-15 20:15:01,It is possible that last week will go down as the actual first week of the Trump administration.,0,1,1,18,1,17,0.009522673,0.93963504,0.05084223,Neg,-0.93011236,tylercowen
+721,2017-10-12 20:44:02,"I know I should infer *something* from the existence of this article, and recording, I just don't know what,  ",0,1,1,2,3,4,0.040413223,0.107981645,0.8516052,Neu,-0.06756842,tylercowen
+723,2017-10-12 16:02:02," ...you can bring them by GMU for some guest lectures, we do that for Bryan Caplan's kids...",0,1,1,3,0,14,0.03594461,0.025290282,0.9387651,Neu,0.010654328,tylercowen
+734,2017-10-11 17:49:03,"""...using your residential location to drive your lifestyle and mindset may be a thing of the past...""  ",0,1,1,0,7,18,0.034140736,0.08415145,0.88170785,Neu,-0.05001071,tylercowen
+739,2017-10-10 14:24:02," I've seen maybe 20-30 Dem. takes on this, can't recall seeing anyone call for a lower 28 percent rate as of late.  ""The usual suspects.""",1,1,1,2,0,1,0.053538367,0.302753,0.64370865,Neu,-0.24921463,tylercowen
+740,2017-10-10 14:23:03,  You would lose a good deal of revenue on some small companies.,0,0,1,2,0,0,0.008760214,0.95726556,0.03397419,Neg,-0.94850534,tylercowen
+757,2017-10-05 18:51:04,". on K taxation: ""Closer to the tax rate on other income than to zero would be my answer to that.""  ",0,0,1,1,9,22,0.08478849,0.0803656,0.83484596,Neu,0.004422888,tylercowen
+763,2017-10-05 13:09:03,"How to think about who should lead the Fed,  ",0,0,1,3,0,4,0.038174495,0.027774137,0.9340514,Neu,0.010400359,tylercowen
+769,2017-10-03 01:22:00, Why won't the public goods themselves keep resources in those states that offer them?,0,1,1,1,0,10,0.032782342,0.05932844,0.90788925,Neu,-0.026546098,tylercowen
+774,2017-09-30 21:38:00," most specials are overrated, period, I would say...",1,1,1,1,0,2,0.085951544,0.057486594,0.85656184,Neu,0.02846495,tylercowen
+781,2017-09-29 15:13:03,You would think that refilling the printer with paper would be automated by now.,1,1,1,16,11,59,0.045506917,0.025282204,0.92921084,Neu,0.020224713,tylercowen
+787,2017-09-27 03:50:02,"280 characters? What would Charles Tiebout say? Whatever he might opine, I would follow him only if he said it briefly.",1,1,1,3,3,14,0.0275136,0.04664085,0.92584556,Neu,-0.01912725,tylercowen
+791,2017-09-26 14:11:00,"  Poor countries can't get away with this,   nor can Brazil...",0,0,1,0,0,2,0.05806039,0.3184768,0.62346286,Neu,-0.26041642,tylercowen
+798,2017-09-24 20:46:04," Yes but the ""we'll just kill people silently by stifling innovation"" option is so popular it doesn't even need to be voted upon.",1,1,1,19,9,87,0.08899634,0.017324908,0.89367867,Neu,0.071671434,tylercowen
+801,2017-09-24 14:30:01,  You badly misunderstand how outside investors view what kind of burden of proof regulatory authorities should impose on themselves.,0,1,1,1,0,3,0.028992362,0.27308086,0.69792676,Neu,-0.2440885,tylercowen
+808,2017-09-23 19:26:04, Any state can raise taxes on its own.,0,0,1,1,0,0,0.033573158,0.023013849,0.943413,Neu,0.010559309,tylercowen
+810,2017-09-22 17:52:03,"London can't afford to ban Uber right now, a big mistake,  ",0,0,1,6,38,73,0.02324304,0.81224364,0.1645133,Neg,-0.78900063,tylercowen
+811,2017-09-22 13:20:02,"  The mix of unappealing options and lack of federal expertise or even tech competence will blunt this movement, however.",0,0,1,0,0,4,0.039101902,0.88580406,0.07509402,Neg,-0.84670216,tylercowen
+815,2017-09-21 15:09:05,"Graham-Cassidy might change a lot, and soon, due to budgetary rules,  ",0,0,1,1,4,8,0.04420562,0.14650212,0.80929226,Neu,-0.1022965,tylercowen
+823,2017-09-19 20:24:04,"It's not the main issue, but Graham-Cassidy also would lower mobility across state lines.",0,1,1,2,11,37,0.15053338,0.06672264,0.782744,Neu,0.08381074,tylercowen
+827,2017-09-19 14:32:01," This would make many more unsound, I am afraid...",0,1,1,0,0,0,0.013627205,0.90009576,0.08627703,Neg,-0.8864685,tylercowen
+830,2017-09-19 12:31:00," Yes, I'm not just a moralizer.  How much we should do depends on the scope of the damages.",0,1,1,2,0,8,0.039076947,0.062199183,0.8987239,Neu,-0.023122236,tylercowen
+840,2017-09-17 03:04:01,"  I do plenty of research, and take plenty of chances.  And who said we should only see (parts of) good movies?",1,1,1,1,0,2,0.056771975,0.047379076,0.895849,Neu,0.0093928985,tylercowen
+848,2017-09-12 21:13:03,"Why I don't think we can evolve into single payer health care,  ",0,1,1,12,13,40,0.0722242,0.017031373,0.91074437,Neu,0.05519283,tylercowen
+857,2017-09-08 19:33:04,"Should Harvard admit more legacy students?,  ",0,0,1,10,4,20,0.095098816,0.021587158,0.883314,Neu,0.07351166,tylercowen
+860,2017-09-08 15:17:03,"Obviously, a utilitarian is hoping for Hou Yifan to down Lev Aronian, in what would be a historic chess event.",0,1,1,2,0,5,0.09544677,0.040069923,0.8644833,Neu,0.05537685,tylercowen
+863,2017-09-08 14:12:01, Isn't the risk too great that ailing fiscal authorities basically confiscate Amazon resources? Or can't provide public services?,0,1,1,1,0,0,0.016431374,0.8249692,0.15859948,Neg,-0.8085378,tylercowen
+880,2017-09-04 23:56:00, Can government really guarantee all of those assets in the shadow banking system?,0,0,1,0,0,3,0.052260686,0.017843168,0.9298961,Neu,0.034417517,tylercowen
+886,2017-09-01 18:01:03,"  Thanks, and also have your publisher send me a review copy, if they can!",0,0,1,1,0,1,0.084433414,0.018418984,0.8971476,Neu,0.06601443,tylercowen
+894,2017-08-31 18:56:00,"Will withdrawing federally subsidized flood insurance succeed in helping?,  ",1,1,1,1,6,2,0.64938116,0.011267453,0.3393514,Pos,0.63811374,tylercowen
+896,2017-08-31 16:08:04,  Today you would only get that from *Teen Vogue*.,0,0,1,0,0,3,0.033382587,0.043591276,0.9230261,Neu,-0.010208689,tylercowen
+897,2017-08-31 15:30:02," In other words, the criticism is picking on arguments it thinks it can beat, rather than actually reading the words of the piece itself.",0,1,1,1,0,0,0.035481524,0.1507654,0.8137531,Neu,-0.11528388,tylercowen
+898,2017-08-31 15:29:05," The piece even says directly that expensing could be better if you do it right, but look at the recent health care experience.",0,1,1,0,0,0,0.12523773,0.016362209,0.85840005,Neu,0.10887553,tylercowen
+899,2017-08-31 15:23:04," That is pretty much what I say.  Exp. is the right idea, but won't end up getting you big gains.",0,1,1,0,0,0,0.12994722,0.032068238,0.8379845,Neu,0.09787898,tylercowen
+900,2017-08-31 15:18:03," Wait until it goes through the usual ringer, the case that it will be significantly better simply isn't there, unless assumed by fiat.",1,1,1,1,0,0,0.029794341,0.28674763,0.68345803,Neu,-0.2569533,tylercowen
+902,2017-08-31 11:56:01," Maybe 15 is too low, too, I think we don't know.  Also, tax-exempts can own corporations, and corp. rate &gt; 0 makes sure some tax is paid",1,1,1,0,0,0,0.028895605,0.021335445,0.9497689,Neu,0.00756016,tylercowen
+910,2017-08-29 00:00:03," True, but at the time seemed like maybe NK would eventually go the reformist route, not a crazy view in the 1990s.",1,0,1,2,0,3,0.111999996,0.019104779,0.86889523,Neu,0.09289522,tylercowen
+912,2017-08-28 18:51:02,"  I will read, thanks...",0,0,1,0,0,0,0.21951641,0.018797113,0.7616865,Neu,0.2007193,tylercowen
+915,2017-08-28 12:47:00,"Where should you fear private internet censorship the most?,  ",0,1,1,1,11,12,0.026776804,0.1907929,0.7824303,Neu,-0.1640161,tylercowen
+918,2017-08-27 21:55:03,"Should I be worried about how many of these I have read?,  ",1,1,1,9,2,37,0.03766805,0.12513562,0.83719635,Neu,-0.087467566,tylercowen
+924,2017-08-26 02:13:00,Doesn't this make it harder to legally restrict immigration?  Any chance I should be happy?,0,1,1,8,4,11,0.08142858,0.07135179,0.84721965,Neu,0.010076791,tylercowen
+932,2017-08-24 20:12:01, ...the latter never has been and never will be the case...,1,1,1,1,0,1,0.051191587,0.12073759,0.8280709,Neu,-0.069546,tylercowen
+933,2017-08-24 16:30:03,"How much should we welcome genetic engineering?,  ",0,0,1,6,16,21,0.08444053,0.012266116,0.9032934,Neu,0.072174415,tylercowen
+936,2017-08-24 14:53:04, I'll settle for a very well-modeled correlation...,0,0,1,1,0,0,0.10466398,0.019859986,0.875476,Neu,0.084804,tylercowen
+944,2017-08-23 15:29:05," If you can ditch your bag, northern Paris has some very good ethnic restaurants, query cabbie as to safety.",0,1,1,0,0,5,0.11771875,0.015445219,0.866836,Neu,0.10227353,tylercowen
+951,2017-08-22 21:49:05,"  I'll be blogging it soon, have been studying it today, that said the main argument seems quite flawed on examination.",1,1,1,3,0,9,0.03844556,0.328649,0.6329054,Neu,-0.29020345,tylercowen
+953,2017-08-22 15:35:00," Info tech, but also some of the new product variety may be rent-seeking rather than significantly welfare-improving.",0,1,1,2,1,2,0.3157108,0.011663991,0.6726252,Neu,0.3040468,tylercowen
+959,2017-08-21 22:20:02,"""I’ve hardly seen critical self-examination about how the leaders, and the incentives they have created and supported, might be at fault.""",1,1,1,0,1,7,0.12209153,0.27662718,0.60128134,Neu,-0.15453565,tylercowen
+977,2017-08-13 11:11:02,That it can take four days to get back from southern  Macedonia does itself show something.,0,1,1,0,1,5,0.17459057,0.03568771,0.7897217,Neu,0.13890286,tylercowen
+983,2017-08-12 15:27:01," If a narrowly thwarted apocalypse leaves residual neg. cost, we still should expect falling asset prices and standard results?",1,1,1,1,0,5,0.029545406,0.9286605,0.041794065,Neg,-0.8991151,tylercowen
+993,2017-08-10 16:11:00," Question I address is whether many will survive, not whether current price is too high, exp. many price drops for new assets in any case.",0,1,1,2,0,5,0.05313879,0.37724543,0.56961584,Neu,-0.32410663,tylercowen
+995,2017-08-09 20:47:01,"Why Bitcoin and many alt coins will thrive and persist,  ",0,0,1,3,27,53,0.22770233,0.009539048,0.7627586,Neu,0.21816328,tylercowen
+1001,2017-08-09 06:30:04," Oops, my bad, will correct!",0,0,1,0,0,0,0.10713753,0.46540818,0.4274543,Neg,-0.35827065,tylercowen
+1002,2017-08-08 21:53:00,"I am told that if Macedonia joins the EU, the outdoor roasting of peppers will be prohibited. notfakenews",1,1,1,6,6,16,0.024748888,0.059483606,0.9157675,Neu,-0.03473472,tylercowen
+1005,2017-08-07 22:14:01,"Shouldn't this be a bigger story?,  ",0,0,1,66,564,689,0.04622655,0.051878322,0.90189517,Neu,-0.005651772,tylercowen
+1030,2017-07-30 12:38:05,"I'm seeing a pretty quick pivot from ""electric cars will never work"" to ""electric cars will leave people behind,"" homage tweet for ",0,1,1,3,7,40,0.35345444,0.025201743,0.62134373,Neu,0.3282527,tylercowen
+1040,2017-07-26 20:30:05,"Why robots won't boost productivity as much as you might think,  ",0,0,1,3,16,33,0.1921904,0.021032996,0.78677666,Neu,0.17115739,tylercowen
+1050,2017-07-25 01:15:02,"  I don't think it shows that, though would require a longer discussion.",0,1,1,1,0,1,0.053726148,0.029838992,0.9164349,Neu,0.023887156,tylercowen
+1061,2017-07-24 22:19:03," Arguably business is ""too normal,"" needs more of an Elon Musk element.  Wish we could trade some of that normalcy into politics.",0,1,1,2,2,17,0.061033413,0.029930057,0.9090365,Neu,0.031103356,tylercowen
+1078,2017-07-19 13:07:04,"My Conversation with  will make you see the world in a different way,   he was amazing.",1,1,1,2,35,119,0.14111628,0.014549296,0.8443344,Neu,0.12656698,tylercowen
+1083,2017-07-18 18:36:02, what would be needed to get formal permission to reproduce a graph in this post of yours?   tcowen,1,0,1,6,3,17,0.035578806,0.022457534,0.9419636,Neu,0.0131212715,tylercowen
+1084,2017-07-18 15:46:03,"  I hope, yes, more of them are seen that way.  Of course they ought to be major pieces, worthy of display, no broom closet stuff.",1,1,1,1,0,0,0.1521,0.013079363,0.8348206,Neu,0.13902064,tylercowen
+1085,2017-07-18 15:40:00,"  I care.  I'm happy the piece eventually will end up somewhere better, most likely.  lowdiscountrate",0,1,1,1,0,1,0.14770262,0.011514009,0.84078336,Neu,0.13618861,tylercowen
+1088,2017-07-18 13:49:00,"  Many won't sell at any price.  And the law does not in general prohibit such sales, unless perhaps they constrained themselves ex ante.",1,1,1,1,0,2,0.031406667,0.10910978,0.8594835,Neu,-0.07770312,tylercowen
+1090,2017-07-17 20:59:04,"How much should we allow robots to teach our children?,  ",0,0,1,4,5,14,0.04390498,0.021886881,0.93420815,Neu,0.022018097,tylercowen
+1091,2017-07-17 12:26:05," However, Tyler doesn't know who Ed Sheeran is, or for that matter where he should be.",0,1,1,1,0,7,0.025390336,0.091589175,0.88302046,Neu,-0.06619884,tylercowen
+1101,2017-07-14 22:57:04,"By the way, *could* a large gorilla in fact successfully mount and ride a normal-sized horse?  How about the ""should""?",0,0,1,5,9,36,0.068049826,0.0148006445,0.9171495,Neu,0.05324918,tylercowen
+1108,2017-07-13 02:36:00,  You can view the technology as a tax on those who are silly enough to answer.,0,1,1,1,5,49,0.027555263,0.180982,0.7914628,Neu,-0.15342674,tylercowen
+1109,2017-07-13 02:14:00,  Many Chinese would consider this appropriate.,0,0,1,1,0,1,0.18222372,0.014247712,0.80352855,Neu,0.167976,tylercowen
+1112,2017-07-12 15:03:03," It implies we should talk less about monetary policy, and furthermore save bouts of possible inflation for when they are really needed.",1,1,1,3,0,1,0.08859294,0.06637504,0.8450321,Neu,0.0222179,tylercowen
+1119,2017-07-11 16:39:02," a) producing something great and appropriable can boost income inequality, b) innovation need not increase with inequality, both can be true",0,1,1,1,0,0,0.60048866,0.013075332,0.38643596,Pos,0.5874133,tylercowen
+1122,2017-07-11 15:59:01," Any more talk like that and John Wall won't sign with the Wizards, nor will another iPhone come along.",1,0,1,1,0,5,0.04365497,0.06625679,0.8900882,Neu,-0.02260182,tylercowen
+1124,2017-07-11 13:53:00,"Why China may never democratize, is nationalism stronger anyway?,  ",0,1,1,9,17,32,0.14932948,0.017620565,0.83304995,Neu,0.13170892,tylercowen
+1128,2017-07-09 03:33:03,"  .You can talk a lot, and sing.  Who knows what else?  Maybe the value of capital goods for whales is quite low.",0,1,1,0,0,7,0.027330197,0.6677401,0.30492964,Neg,-0.6404099,tylercowen
+1134,2017-07-07 16:22:00, Don't you fear strengthening executive power in a nation that might someday elect Le Pen?,0,1,1,3,0,5,0.36195105,0.027072072,0.61097693,Neu,0.33487898,tylercowen
+1135,2017-07-07 13:04:01,  In a country that might someday elect Le Pen?,0,0,1,0,0,1,0.070692986,0.09662401,0.832683,Neu,-0.025931023,tylercowen
+1139,2017-07-07 03:42:01,"  Boosted my EMH skepticism, which in turn is yet another sign of EMH falsity, my beliefs should be closer to a random walk than they are.",1,1,1,0,0,3,0.12594679,0.04120221,0.83285105,Neu,0.08474458,tylercowen
+1141,2017-07-07 00:28:04,". on whether I should believe in God,   I am truly honored, a long discourse.",0,1,1,11,17,75,0.13278821,0.015222713,0.8519891,Neu,0.1175655,tylercowen
+1143,2017-07-06 08:36:05, I can grasp it.,0,0,1,1,0,3,0.14218184,0.013835597,0.8439826,Neu,0.12834625,tylercowen
+1147,2017-07-05 14:52:00,   There is a whole world of actual securities markets that would just love to bet with you.,0,1,1,2,1,8,0.056100614,0.01877877,0.9251206,Neu,0.037321843,tylercowen
+1150,2017-07-05 11:26:03,"  You'll notice I favorited that tweet rather quickly, though perhaps not quickly enough...",1,0,1,0,0,2,0.14655083,0.05773175,0.7957175,Neu,0.08881909,tylercowen
+1151,2017-07-05 11:25:02,"You can now snort chocolate, but should you?,  ",0,0,1,2,5,10,0.040203173,0.02815953,0.93163735,Neu,0.012043642,tylercowen
+1156,2017-07-04 02:01:00,"  That seems untrue, falling MP will suffice.",0,1,1,2,0,0,0.1100829,0.7832826,0.1066345,Neg,-0.67319965,tylercowen
+1176,2017-06-24 02:04:05,  Would you know the source on this material?  Thanks...,0,0,1,0,0,0,0.07290786,0.019266995,0.9078252,Neu,0.053640865,tylercowen
+1177,2017-06-24 01:29:02,"  Can you tell me what is the actual source here?  Much appreciated, thanks, would like to report more on this.",1,1,1,0,0,1,0.05938377,0.018542107,0.92207414,Neu,0.04084166,tylercowen
+1183,2017-06-21 19:39:03," absolutely, GMU, Dept. of Econ. will work, 22030...",0,0,1,1,0,0,0.032718487,0.020530488,0.94675106,Neu,0.012187999,tylercowen
+1196,2017-06-16 21:11:05, I would rather have much less!,0,0,1,1,0,0,0.042757057,0.13306929,0.8241737,Neu,-0.090312235,tylercowen
+1198,2017-06-16 19:25:03,  do send it along if you can...,0,1,1,0,0,1,0.13180362,0.013698614,0.8544978,Neu,0.118105,tylercowen
+1201,2017-06-16 18:10:04, What problems a health care bill right now ought to try to solve...,0,0,1,3,0,2,0.08032367,0.031225115,0.8884512,Neu,0.04909855,tylercowen
+1217,2017-06-15 02:34:03,"Fear not,  can indeed recite Chaucer from memory, and discuss distinct books of Rousseau's *Emile*.",0,0,1,7,4,48,0.093255214,0.012723543,0.8940212,Neu,0.08053167,tylercowen
+1220,2017-06-14 11:56:02, Of course you could have emailed those two sentences to me...,1,0,1,0,0,0,0.051367577,0.0907391,0.85789335,Neu,-0.039371524,tylercowen
+1225,2017-06-13 15:06:03," I would say ""they call individuals persons""...",0,1,1,5,0,4,0.029358197,0.0697552,0.9008866,Neu,-0.040397,tylercowen
+1243,2017-06-08 17:38:03,"Some answers on what we should infer from the now-earlier origin of Homo Sapiens,  ",0,0,1,0,9,19,0.0630249,0.016104238,0.9208709,Neu,0.046920665,tylercowen
+1246,2017-06-07 23:39:04,"So if ""mankind"" is now 300,000 years old, what beliefs about the present should we revise?",1,1,1,35,14,47,0.02741781,0.04889542,0.92368674,Neu,-0.021477608,tylercowen
+1255,2017-06-07 03:53:01," You can say the earlier regime was a tax on banks, and we got rid of the tax.  Not sure it is right to call the status quo a subsidy.",1,1,1,1,0,0,0.051238976,0.07216519,0.8765958,Neu,-0.020926215,tylercowen
+1264,2017-06-04 11:46:01," yes, Google will get you there...",0,0,1,1,0,0,0.13972986,0.0130157685,0.8472544,Neu,0.1267141,tylercowen
+1266,2017-06-04 08:40:00,"If I wasn't me, this would be my favorite web site ever,  ",1,0,1,7,31,163,0.02955707,0.039328713,0.9311142,Neu,-0.009771643,tylercowen
+1271,2017-06-02 18:48:03,"  Some of that we can't change, though, and so still more is needed.  We can't do nothing while waiting for the never-arriving ""best.""",1,1,1,0,0,1,0.052934613,0.07785592,0.8692095,Neu,-0.02492131,tylercowen
+1274,2017-06-02 18:17:05,"  Haven't read underlying study, but if both WaPo and Autor are right, we still should pare back disability.",0,1,1,1,0,0,0.19413881,0.03353615,0.772325,Neu,0.16060266,tylercowen
+1282,2017-05-31 17:18:05," As far as fun goes, I can think of much better options!",0,1,1,4,0,8,0.17909344,0.018936725,0.8019699,Neu,0.16015671,tylercowen
+1284,2017-05-31 15:29:02,"Should the Feds be paying more or less for overhead to universities?, or more grants instead?   ",0,1,1,4,7,11,0.042966984,0.06007346,0.89695954,Neu,-0.017106477,tylercowen
+1289,2017-05-30 21:30:05,"  thanks, we will look into it...",0,0,1,0,0,1,0.21775715,0.010859314,0.7713836,Neu,0.20689784,tylercowen
+1300,2017-05-26 14:55:00,  A lie in the other direction might be better yet!,0,0,1,0,0,3,0.20548317,0.10240934,0.69210744,Neu,0.10307383,tylercowen
+1301,2017-05-26 14:46:05," Keep in mind right now the ""target"" is a lie of sorts, you could debate for how long this has been the case...",1,1,1,2,0,0,0.034480803,0.27002323,0.6954959,Neu,-0.23554242,tylercowen
+1302,2017-05-26 14:42:00," ""Big""/  Probably not.  Modest, noting that the shocks you specify may not arrive in such a significant manner.",0,1,1,1,0,0,0.056062095,0.083453946,0.8604839,Neu,-0.027391851,tylercowen
+1308,2017-05-24 16:02:05," In fact, I believe he has speeded up...which is as it should be...",1,1,1,1,0,5,0.79316473,0.0157394,0.19109583,Pos,0.77742535,tylercowen
+1330,2017-05-19 18:43:02,  Can you get us the link?,0,0,1,2,0,0,0.07449121,0.015087322,0.9104215,Neu,0.05940389,tylercowen
+1332,2017-05-19 04:44:03," I would buy it from you, giving you hefty profit ($30m - nickel), then you would send the money along to the poor, how about that?",0,1,1,1,0,2,0.08958423,0.014757697,0.8956581,Neu,0.07482654,tylercowen
+1333,2017-05-19 04:39:01," $20 to $30 million to me seems plenty.  If I had real $$, I wouldn't go above that.",1,1,1,1,0,0,0.103958465,0.017859038,0.8781825,Neu,0.08609943,tylercowen
+1335,2017-05-19 04:25:04, Would you buy it for a nickel?,0,0,1,2,0,1,0.037589774,0.03724997,0.9251602,Neu,0.00033980235,tylercowen
+1336,2017-05-19 04:17:02,"If you are curious, here are some of the other most expensive Basquiats, I would take the 1982 diptych,  ",0,1,1,2,6,13,0.0412258,0.019559518,0.93921465,Neu,0.02166628,tylercowen
+1341,2017-05-17 16:32:01,"  But they also don't trust the forces that would have to be entrusted with removing DT, that is part of the problem...",1,1,1,1,0,17,0.03473342,0.45265737,0.51260924,Neu,-0.41792396,tylercowen
+1347,2017-05-16 22:30:03," Sure it does, those who don't expect big career gains won't publish the marginal piece...",0,1,1,0,0,0,0.05896511,0.05534949,0.8856854,Neu,0.0036156178,tylercowen
+1349,2017-05-16 22:22:02, Does your argument imply we should tax research?,0,1,1,1,0,2,0.041371584,0.08277941,0.87584895,Neu,-0.041407824,tylercowen
+1350,2017-05-16 20:30:00,"Should women pay more than men for health insurance?,  ",0,0,1,8,7,21,0.05758467,0.06036822,0.8820472,Neu,-0.0027835518,tylercowen
+1357,2017-05-15 15:35:04,"  I agree not everyone can afford to rebel, but I encourage those who are willing and able.  Just put it out there, ungated.",1,1,1,0,2,8,0.08440373,0.03289887,0.8826974,Neu,0.05150486,tylercowen
+1358,2017-05-15 15:23:02," Thanks for retweeting the Kasparov chat, I would gladly do one with you, would come down to Miami, tcowen if interested.",0,1,1,0,0,0,0.061926045,0.019240092,0.9188339,Neu,0.042685952,tylercowen
+1368,2017-05-13 11:52:02,  Then surely you can find a Straussian way of telling us the truth.,0,1,1,0,0,1,0.12055904,0.01364949,0.8657915,Neu,0.10690954,tylercowen
+1380,2017-05-11 23:37:01," It's pretty good, but you'd have to pay me to watch it again.",0,1,1,0,0,7,0.15007438,0.014689966,0.8352357,Neu,0.13538441,tylercowen
+1387,2017-05-11 13:49:04,"What Democrats won't admit about voters and health care,  ",0,0,1,5,19,21,0.048594166,0.09819693,0.8532089,Neu,-0.049602766,tylercowen
+1402,2017-05-09 15:32:05," Actually, we are redesigning, but not sure we will change what you are mentioning...",0,1,1,0,0,0,0.070456736,0.016736444,0.9128068,Neu,0.05372029,tylercowen
+1405,2017-05-09 12:11:01,"How long would it have taken for another Industrial Revolution to have come along?,  ",1,0,1,8,35,55,0.038125236,0.039218295,0.9226565,Neu,-0.0010930598,tylercowen
+1406,2017-05-08 15:56:04," all the major sports I would think, though I know the most about basketball...",0,1,1,1,0,0,0.05556408,0.034581695,0.9098543,Neu,0.020982385,tylercowen
+1409,2017-05-07 23:05:03,"Do, however, recall: ""Things are never as good, or as bad, as they may at first seem"" -- La Rochefoucauld",0,1,1,4,39,73,0.049668826,0.47801098,0.47232017,Neg,-0.42834216,tylercowen
+1411,2017-05-07 22:16:00," I hope, though some performance on his end will be required...good signal to Trump, too.",1,1,1,0,0,1,0.87386084,0.015404324,0.1107349,Pos,0.8584565,tylercowen
+1414,2017-05-07 18:57:00, ...and look how those fared...or will fare...,0,0,1,1,0,0,0.09840964,0.1707907,0.7307997,Neu,-0.072381064,tylercowen
+1415,2017-05-07 18:55:01,That neither side can admit there might be too much health care suggests...there is in some ways too much health care.,0,1,1,10,18,49,0.07925049,0.34595272,0.57479674,Neu,-0.26670223,tylercowen
+1416,2017-05-06 03:43:02,May is the month when you realize LeBron James should be the MVP every single year.,0,1,1,5,54,161,0.07173844,0.027861226,0.9004004,Neu,0.04387721,tylercowen
+1420,2017-05-05 14:40:03,  That number is quite distinct from how much voters care about a bill that won't be enacted into law in any case.,1,1,1,0,0,0,0.06810559,0.041226655,0.89066774,Neu,0.026878938,tylercowen
+1425,2017-05-04 15:18:03,"How might an implosion of cable TV revenue affect the NBA?,  ",0,1,1,3,6,9,0.026005639,0.4191805,0.5548138,Neu,-0.3931749,tylercowen
+1426,2017-05-04 14:43:03,  ...try picking a group that will oppose the overvaluation of human life --is there one?,0,1,1,5,0,2,0.06153516,0.02841864,0.9100463,Neu,0.03311652,tylercowen
+1436,2017-05-03 15:18:02," I did say solar would go up a fair amount, economic growth will too, and fracking, I don't expect a big temperature effect.",1,1,1,1,0,0,0.25515428,0.01823083,0.72661483,Neu,0.23692346,tylercowen
+1437,2017-05-03 15:17:04," Study their installed coal base, solar will help them keep up however.",0,0,1,0,0,0,0.71209776,0.008043187,0.279859,Pos,0.7040546,tylercowen
+1441,2017-05-02 18:09:03,"   fine to change, but do any of you have an estimate of by what pct. wages would rise?  I say not noticeable.",0,1,1,1,0,1,0.06494627,0.07198531,0.8630684,Neu,-0.0070390403,tylercowen
+1447,2017-04-30 01:29:03,"Thanks  for an awesome interview and book, the rest of you should buy it! Podcast coming next week, CowenConvos",0,1,1,0,2,25,0.09653071,0.013215683,0.8902536,Neu,0.08331503,tylercowen
+1460,2017-04-21 13:28:04," Always, no, some time ago I thought it might ""work for the Left,"" no longer do...",1,1,1,1,0,0,0.07432875,0.02959964,0.89607155,Neu,0.04472911,tylercowen
+1463,2017-04-20 13:10:05,"How would you apply these two rationality tests?,  ",0,0,1,4,1,8,0.043096736,0.02387087,0.9330324,Neu,0.019225866,tylercowen
+1468,2017-04-19 13:11:03," Require 15, or 1500, congestion will go down even more!",0,0,1,1,0,5,0.0102224555,0.9482444,0.04153306,Neg,-0.93802196,tylercowen
+1469,2017-04-18 22:01:05,     I love you  but I'll never name a building at Yale University after you!,0,1,1,1,0,3,0.05208916,0.02976665,0.9181442,Neu,0.022322508,tylercowen
+1476,2017-04-18 21:02:04,   Why is it that different from slavery?  What happens to me if I won't serve?,0,1,1,6,0,12,0.029730327,0.36618823,0.60408145,Neu,-0.3364579,tylercowen
+1479,2017-04-18 18:18:04,"   Such institutions have not been kind to the neurodiverse, I should note...",1,1,1,1,1,15,0.05854028,0.3107534,0.6307063,Neu,-0.25221312,tylercowen
+1485,2017-04-18 13:39:05," thanks, will fix...",0,0,1,7,0,0,0.7902419,0.015912352,0.19384578,Pos,0.77432954,tylercowen
+1489,2017-04-18 12:53:02,"How should economists model ""the deep state""?,  ",0,0,1,2,5,10,0.033196967,0.05101054,0.9157925,Neu,-0.017813575,tylercowen
+1494,2017-04-16 00:51:02," The first will happen, the second not, you will print your house and leave it far from SF.",0,0,1,0,0,1,0.01979695,0.36450893,0.61569417,Neu,-0.344712,tylercowen
+1503,2017-04-14 19:44:00,  p.s. congrats on new book!  I will read and cover soon.,0,0,1,1,1,0,0.0857534,0.018923344,0.8953233,Neu,0.06683006,tylercowen
+1506,2017-04-14 19:05:01," 50-50?  But how can the ""no"" side win anytime soon?",1,0,1,4,0,4,0.047916546,0.039635543,0.91244787,Neu,0.008281004,tylercowen
+1511,2017-04-13 23:35:01,What should I ask    Conversations with Tyler...,0,0,1,4,1,15,0.038810994,0.08119627,0.8799927,Neu,-0.042385276,tylercowen
+1514,2017-04-13 15:59:03," It is the passing that cannot be taken for granted, however!",1,1,1,0,0,5,0.07768698,0.022436935,0.8998761,Neu,0.055250045,tylercowen
+1519,2017-04-12 15:41:03," For no grounds at all, in fact, or because the govt. says so.  You can be kicked out of a nightclub too, for no good reason.  Not news.",1,1,1,1,0,0,0.023990033,0.57238084,0.40362915,Neg,-0.5483908,tylercowen
+1520,2017-04-12 15:31:03," Come on, Will, virtually all flyers know the whole deal is contingent on the discretion of the airline, and this guy would not budge.",1,1,1,19,1,5,0.06319159,0.03633468,0.9004737,Neu,0.026856914,tylercowen
+1533,2017-04-11 16:31:01,"That so many people are reading that vicious review of Le Cinq actually should induce you to doubt its reliability, rationality",0,1,1,4,2,14,0.049597673,0.39969665,0.5507057,Neu,-0.35009897,tylercowen
+1535,2017-04-11 00:43:04," In fact that may reward those who focus on the state and local level, where perhaps the internet cycle has less influence?",0,1,1,1,2,20,0.19568066,0.014608441,0.78971094,Neu,0.18107222,tylercowen
+1536,2017-04-10 16:25:02,"  agree, but on subtle reading ""the Right"" may be part of his audience too, showing PC movement is not all-powerful could go a long way...",0,1,1,1,0,1,0.13159132,0.051050644,0.8173581,Neu,0.08054067,tylercowen
+1537,2017-04-10 16:13:00,"  If you can show that ten controversial speakers can visit Harvard without major ruckus, a big victory, no?",0,0,1,2,0,1,0.3552746,0.013497023,0.6312284,Neu,0.34177756,tylercowen
+1540,2017-04-10 15:23:02,  The fact that he won't have Milo in suggests a better strategy.,0,1,1,1,0,0,0.24261646,0.016124543,0.7412589,Neu,0.22649191,tylercowen
+1543,2017-04-10 01:59:01," Note that most or at least many people don't agree with him, and for that matter Guinness share price is doing fine best I can tell!",0,1,1,3,0,0,0.5732355,0.11709885,0.30966568,Pos,0.45613664,tylercowen
+1545,2017-04-10 01:41:04," Maybe, but so many of those are North American (or European) too...and it doesn't seem Trump will go after them...",0,1,1,1,0,0,0.070725404,0.11901819,0.8102564,Neu,-0.048292786,tylercowen
+1551,2017-04-09 03:22:03," That might apply to results on intra-firm trade, but probably not to the gravity equation for regular cross-firm trade...",0,0,1,1,0,1,0.042846728,0.045715455,0.91143775,Neu,-0.0028687268,tylercowen
+1552,2017-04-09 00:48:03," And they are superb, I can vouch for that.  What's missing is China, too many to count.",0,1,1,1,1,2,0.08525058,0.078003876,0.8367455,Neu,0.007246703,tylercowen
+1562,2017-04-07 15:06:03,   You just say that because I would delegate to you.,0,1,1,1,0,5,0.042311516,0.07235217,0.88533634,Neu,-0.030040655,tylercowen
+1565,2017-04-07 12:54:00," Furthermore I would not rule out that Chopra may be telling many people ""what they need to hear,"" not a claim but not obviously false either",0,1,1,1,0,0,0.04879035,0.062772565,0.8884371,Neu,-0.013982214,tylercowen
+1566,2017-04-07 12:53:02," ""highly imperfect,"" but let's just say if you *don't* get asked a lot...you should start to wonder...",1,1,1,0,0,1,0.04974886,0.20522709,0.74502414,Neu,-0.15547824,tylercowen
+1582,2017-04-04 20:26:03, I would sooner say they don't want to spend so much money preserving and extending human life per se...,0,1,1,2,0,0,0.046428647,0.047736473,0.90583485,Neu,-0.0013078265,tylercowen
+1589,2017-04-03 23:48:05,"   fully agree, but would love to see your actual private ranking of various intellectuals as rational, rationalist or not!",0,0,1,1,0,1,0.07562024,0.018926648,0.9054531,Neu,0.05669359,tylercowen
+1596,2017-04-02 01:11:01,"   Happy to, if she can wait until the current storm of book-related publicity is over...",0,1,1,0,0,11,0.16432102,0.018083403,0.81759554,Neu,0.14623761,tylercowen
+1604,2017-04-01 15:53:02,"  would be easy enough to fix this one, right?  Also ""learned"" this week from headline that China is leading the global climate change fight.",1,1,1,1,0,1,0.6103342,0.011477936,0.3781878,Pos,0.5988563,tylercowen
+1606,2017-04-01 15:03:05,  That other studies may or may not support the *general* conclusion doesn't excuse that practice.,0,1,1,2,0,0,0.03765838,0.37578285,0.5865588,Neu,-0.33812445,tylercowen
+1610,2017-04-01 06:02:01," If ""accidental"" were the right word, the errors would be normally distributed, at least symmetrically distributed, sadly they are not.",1,1,1,2,4,9,0.029086428,0.164614,0.8062995,Neu,-0.13552758,tylercowen
+1616,2017-03-30 01:57:00, Write for me!  I'll read it!  F*** the others!,1,0,1,2,1,35,0.042475354,0.10703825,0.85048634,Neu,-0.0645629,tylercowen
+1619,2017-03-29 12:23:02," cannot this summer, will be in China...",0,0,1,0,0,1,0.049400598,0.022833724,0.9277657,Neu,0.026566874,tylercowen
+1620,2017-03-29 12:12:03," Serious!  Booked for this summer, but do think I will get there.",1,1,1,0,0,1,0.43581262,0.015076788,0.5491106,Neu,0.42073584,tylercowen
+1621,2017-03-28 23:41:00," When there is something I need to know for sure, ""Trending"" will alert me, maybe you will too.",0,1,1,0,0,1,0.05834608,0.02464694,0.9170069,Neu,0.03369914,tylercowen
+1627,2017-03-27 19:12:02, But you can read so much faster than you can talk or listen...,0,0,1,4,0,10,0.046598762,0.052107513,0.9012937,Neu,-0.0055087507,tylercowen
+1629,2017-03-27 12:59:02," Yet I suspect a measurement of how much the life expectancy gradient went up, post-1965, would be slightly underwhelming.",1,1,1,2,0,1,0.68754786,0.092763744,0.21968839,Pos,0.59478414,tylercowen
+1630,2017-03-27 12:57:05," The point is that doctor charity, which once was significant, would be much less effective today because of K costs.",1,1,1,1,0,6,0.018836489,0.80554986,0.17561364,Neg,-0.78671336,tylercowen
+1635,2017-03-26 14:24:01," ...if you send me some links, I will be happy to oblige...btw cited you in my Conversation with Raj Chetty...",1,1,1,1,0,0,0.16694403,0.014028304,0.8190277,Neu,0.15291572,tylercowen
+1650,2017-03-23 10:09:00," The word that dare not be uttered!  That's how it should be, right?",0,1,1,0,0,5,0.03381391,0.08594381,0.8802423,Neu,-0.052129902,tylercowen
+1655,2017-03-21 14:59:05,   poorly run California can confirm this...,1,0,1,1,0,0,0.3139635,0.07969241,0.6063441,Neu,0.2342711,tylercowen
+1663,2017-03-19 17:29:01," step down and promote you, so you could implement your plan.",0,0,1,0,0,3,0.23588462,0.013361137,0.75075424,Neu,0.22252348,tylercowen
+1679,2017-03-16 06:36:03," thanks, should be ""has""...",0,1,1,1,0,1,0.32267508,0.013405441,0.66391945,Neu,0.30926964,tylercowen
+1681,2017-03-16 06:33:02," While I would not make exactly this claim as a prediction, it would not surprise me either.",0,0,1,0,0,1,0.04684525,0.025576413,0.9275783,Neu,0.021268837,tylercowen
+1682,2017-03-15 22:52:02,"No matter how highly rated he may be,  is in fact still quite *underrated*,  ",1,1,1,0,8,46,0.16973484,0.087702595,0.74256253,Neu,0.08203224,tylercowen
+1690,2017-03-15 15:39:02, one's score can always be worse...,0,0,1,0,0,1,0.017135937,0.8785799,0.104284205,Neg,-0.861444,tylercowen
+1697,2017-03-15 11:18:01, I'll send them their scores *in absentia*...,0,1,1,0,0,1,0.054030612,0.07325863,0.8727108,Neu,-0.019228019,tylercowen
+1698,2017-03-15 08:57:02," Had you been *standing*, it might have come out better...",1,1,1,1,0,1,0.27622762,0.056437504,0.66733485,Neu,0.21979012,tylercowen
+1703,2017-03-14 22:45:04, You are suggesting those are the only examples of price controls in medicine?  I can think of a few others.,0,1,1,2,0,1,0.042558685,0.054140512,0.9033008,Neu,-0.011581827,tylercowen
+1704,2017-03-14 22:17:05,"  unless there is an exogenous decline in ""goods velocity"" gdp won't fall, Fritz Machlup considered this in the 1940s...",1,1,1,1,0,0,0.07540493,0.5296631,0.39493197,Neg,-0.45425814,tylercowen
+1707,2017-03-14 21:08:00,"  ...you did spend or invest the saved money somewhere else, so gdp should not have gone down...",1,0,1,1,0,0,0.05104545,0.87247354,0.076480955,Neg,-0.82142806,tylercowen
+1714,2017-03-13 21:44:01," You can send me that number, too.",0,0,1,1,0,1,0.041011542,0.023715483,0.93527293,Neu,0.017296059,tylercowen
+1716,2017-03-13 21:22:04,"Yes, I understand everyone's complaints, but can someone tell me the $$ to lives/sickness trade-offs in the bill?",0,1,1,12,7,17,0.067686096,0.24852113,0.68379277,Neu,-0.18083504,tylercowen
+1719,2017-03-12 17:14:02," Um...not any more actually, at least not in chess, best we can tell...sorry!",0,0,1,2,0,4,0.064669065,0.18198578,0.75334513,Neu,-0.117316715,tylercowen
+1742,2017-03-08 21:52:03, this can be verified by bigdata,1,0,1,0,1,0,0.06501115,0.014115399,0.9208734,Neu,0.05089575,tylercowen
+1743,2017-03-08 15:29:01,"  ...and note I devote a whole paragraph to this option, but suggest more revenue will be needed...and it won't stick.",1,1,1,0,0,0,0.2276036,0.18138765,0.5910087,Neu,0.04621595,tylercowen
+1744,2017-03-08 15:11:02,  the big general point is that full and immediate expensing will draw special interest provisions like moths to a flame.,0,1,1,0,0,0,0.04952318,0.09824593,0.85223097,Neu,-0.048722755,tylercowen
+1745,2017-03-08 15:10:03,"  Again, my piece makes it clear many versions, will be shaped by lobbying, nothing close to say details on health.",1,1,1,0,0,0,0.03843152,0.016389256,0.94517916,Neu,0.022042265,tylercowen
+1747,2017-03-08 13:29:01," Maybe some of the South Korean studies are best, could be as high as two percent...",0,1,1,1,0,1,0.25117958,0.023259781,0.72556067,Neu,0.22791979,tylercowen
+1749,2017-03-07 21:48:01, his name is Garry Kasparov and you will find him on Twitter!,0,1,1,1,0,1,0.03043788,0.042335466,0.9272266,Neu,-0.011897586,tylercowen
+1758,2017-03-07 13:04:04, How about *increasing health*?  Your point of course would still apply.,0,1,1,3,4,34,0.09556045,0.015575227,0.8888643,Neu,0.079985216,tylercowen
+1765,2017-03-07 02:21:01, Regret minimization also would imply you did pursue so many branching choices...,1,0,1,0,0,1,0.06264252,0.18921378,0.7481437,Neu,-0.12657127,tylercowen
+1766,2017-03-06 20:21:03,"  ...and then I have to get to get to Oxford for a conference, but would love to some other time.",0,1,1,1,0,2,0.05139693,0.038786534,0.90981656,Neu,0.0126103945,tylercowen
+1770,2017-03-06 13:44:05,  a few times I have simply refused and told the editor I will send him/her the document as a Word file by email...,1,1,1,0,0,3,0.030599462,0.112132624,0.85726786,Neu,-0.081533164,tylercowen
+1774,2017-03-05 02:24:03, I believe you would have agreed with most or maybe even all of the talk Murray was likely to have given there.,1,1,1,3,2,12,0.104383215,0.028303599,0.8673132,Neu,0.076079614,tylercowen
+1778,2017-03-04 13:17:02,"  especially for a high stakes paper, note there may have been other referees too.",1,1,1,0,0,1,0.035546113,0.06819086,0.89626306,Neu,-0.032644745,tylercowen
+1790,2017-03-02 17:57:05,"The Resistance will have all the proper permits,  ",0,0,1,2,18,19,0.13333477,0.008347405,0.85831785,Neu,0.124987364,tylercowen
+1798,2017-03-01 04:00:03," ""escafoídeas"" means ""scaphoid,"" and the rest is entirely positive I can assure you.",0,1,1,0,0,2,0.05132991,0.021179548,0.9274905,Neu,0.030150363,tylercowen
+1806,2017-02-28 03:36:00,"  ...thanks for the post by the way, but will not make the ultimate sacrifice!",0,0,1,4,0,4,0.21298955,0.033920243,0.75309014,Neu,0.17906931,tylercowen
+1813,2017-02-26 17:59:04," do my know, sorry! But will announce on MR and Twitter.",0,0,1,0,0,1,0.029986678,0.04400067,0.9260127,Neu,-0.014013993,tylercowen
+1825,2017-02-22 02:50:01,"  ""Capital that is especially substitutable for labor,"" I would think.",0,1,1,0,0,4,0.09090399,0.01996154,0.8891345,Neu,0.07094245,tylercowen
+1827,2017-02-22 02:38:03," ...if you had pool of funds, would you ever prefer anything but the wage subsidy?  A serious question, answer not obvious.",1,1,1,1,0,4,0.047470227,0.06226898,0.8902608,Neu,-0.014798753,tylercowen
+1833,2017-02-20 18:40:03, ...as one might expect from someone so prediction-worthy.,0,0,1,0,0,7,0.137296,0.012649877,0.85005414,Neu,0.12464613,tylercowen
+1837,2017-02-19 01:36:01,   Would gladly fly to Bill if he is game...,0,1,1,1,0,0,0.13642296,0.014681489,0.8488956,Neu,0.12174147,tylercowen
+1838,2017-02-19 00:04:01, I wonder how many people in today's media actually would agree with that.,0,1,1,1,0,6,0.07202335,0.08269508,0.84528154,Neu,-0.010671735,tylercowen
+1844,2017-02-18 22:43:03," I don't think a Times knuckling under to Trump would pull in a lot of $$, agree?",0,1,1,1,0,1,0.104744986,0.030981751,0.8642733,Neu,0.07376324,tylercowen
+1846,2017-02-18 22:40:01,"Since NYT stock up 44% since the election, what should we infer is the most likely outcome for press freedom in this country?",0,1,1,15,11,31,0.20810565,0.015386768,0.77650756,Neu,0.1927189,tylercowen
+1854,2017-02-17 12:14:04,"Who should own the robots?,  ",0,0,1,7,8,17,0.032099675,0.034937404,0.9329629,Neu,-0.0028377287,tylercowen
+1856,2017-02-16 19:08:01," We'll manage, will just take a long time.",0,0,1,0,0,1,0.30503464,0.018311093,0.67665434,Neu,0.28672355,tylercowen
+1857,2017-02-16 19:07:03," sounds fascinating, thanks, I will have a look...",0,0,1,1,0,0,0.10859044,0.015309759,0.87609977,Neu,0.09328068,tylercowen
+1872,2017-02-15 02:37:00,"But you can buy them on Amazon,  ",0,0,1,0,1,6,0.03478451,0.024507523,0.940708,Neu,0.010276988,tylercowen
+1873,2017-02-14 17:21:03," We'll name a new award after you for ""Completely right but through the most improbable mechanism imaginable.""",0,0,1,1,2,28,0.35724673,0.012795974,0.6299574,Neu,0.34445074,tylercowen
+1874,2017-02-14 16:02:03, I wonder if they figured use of this word would bring the article more hits...perhaps a new (temporary) trend?,1,1,1,1,0,0,0.12999715,0.1234844,0.74651843,Neu,0.006512746,tylercowen
+1875,2017-02-14 12:09:01,"Why you should read Alexander Dugin,  ",0,0,1,1,4,11,0.04707449,0.03760513,0.91532034,Neu,0.00946936,tylercowen
+1878,2017-02-13 22:47:00," I'll try to blog an answer sometime over the next month, thanks for the question...",0,0,1,1,0,1,0.091046244,0.019490609,0.8894632,Neu,0.07155564,tylercowen
+1884,2017-02-13 14:36:01,   Remember the good ol' days when Walmart was the villain that someday would hike all prices?,1,0,1,1,0,4,0.123735145,0.017438436,0.85882646,Neu,0.10629671,tylercowen
+1886,2017-02-13 14:34:05,"   Will reply to any serious empirics showing Amazon is inflationary, but they don't exist.",0,1,1,0,0,0,0.040128533,0.096448444,0.86342305,Neu,-0.05631991,tylercowen
+1902,2017-02-12 17:05:01," private vs. social, however, still can clog up local labor market with PD leavers problem.",0,0,1,0,0,0,0.011441048,0.96404225,0.024516677,Neg,-0.9526012,tylercowen
+1904,2017-02-12 00:59:05,    I can choose from more booksellers than ever before.,0,0,1,2,0,0,0.09451961,0.014454625,0.8910257,Neu,0.08006498,tylercowen
+1909,2017-02-11 21:35:02,  Can you tell me in a sentence how consumers are made worse off from this?  The abstract doesn't.,1,1,1,1,0,3,0.031219004,0.47361666,0.4951643,Neu,-0.44239765,tylercowen
+1910,2017-02-11 20:04:03,"For a guy who says we'll live to 1000, he sure looks like hell,  ",0,1,1,20,18,101,0.10439836,0.022039667,0.873562,Neu,0.082358696,tylercowen
+1911,2017-02-11 19:59:03,"  you'll understand dictatorship best through books, if that is your goal.",0,1,1,0,0,1,0.11220451,0.013070986,0.8747245,Neu,0.09913352,tylercowen
+1919,2017-02-09 19:29:00,"  ...and we must compare this to ""choice to try to influence local school district,"" a key to govt. quality.",0,0,1,1,0,0,0.1611668,0.010146371,0.82868683,Neu,0.15102044,tylercowen
+1928,2017-02-08 12:47:04," Too bad you don't like talking on the phone, much less at 3 a.m. You'll never know!",0,1,1,1,0,11,0.027776355,0.11900407,0.8532196,Neu,-0.09122772,tylercowen
+1943,2017-02-07 15:41:00,"  U.S. is a democracy, a big difference, plus not clear long-run level of discrimination will be any higher.",0,1,1,2,0,0,0.2554005,0.051606897,0.69299257,Neu,0.20379362,tylercowen
+1957,2017-02-05 03:51:03," Some do, but like South Indians, they can eat their food without making the same mess of it that we do...",0,1,1,2,0,4,0.056229547,0.077793874,0.86597663,Neu,-0.021564327,tylercowen
+1965,2017-02-04 16:13:05," do note that going back a few months this was not the status quo, and there should be some burden of proof on new regs.",1,1,1,1,0,0,0.093081854,0.029622935,0.8772952,Neu,0.06345892,tylercowen
+1970,2017-02-04 12:45:00,"What should I ask Malcolm Gladwell?,  ",0,0,1,7,1,9,0.028880132,0.051671147,0.91944873,Neu,-0.022791015,tylercowen
+1975,2017-02-03 21:15:01," I would insist I don't know, and don't see how others are so sure they know, on both sides...",0,1,1,1,1,5,0.049693663,0.13765691,0.8126494,Neu,-0.08796325,tylercowen
+1976,2017-02-03 21:08:00," If you are manipulating coal supply, maybe...but given some coal is being used, I would be surprised if that is true.",1,1,1,4,0,2,0.070227236,0.028553024,0.9012197,Neu,0.04167421,tylercowen
+1978,2017-02-03 12:42:03,"It can't be both ""taxes on imported inputs will crush U.S. exports,"" and ""strong dollar will wipe out American jobs.""",1,0,1,4,17,56,0.012267329,0.9409609,0.046771847,Neg,-0.92869353,tylercowen
+1986,2017-02-01 23:57:03," If you had mentioned Ollie, however, I might have capitulated...",1,0,1,0,0,1,0.12995161,0.42176157,0.4482868,Neu,-0.29180998,tylercowen
+1991,2017-02-01 15:12:04," will call you soon, just back from a trip...",0,0,1,0,0,0,0.079362534,0.04084417,0.8797933,Neu,0.038518365,tylercowen
+1992,2017-02-01 02:49:03,  I will read any link you send my way.,0,1,1,1,1,5,0.03920071,0.020883657,0.93991566,Neu,0.018317051,tylercowen
+1994,2017-02-01 02:26:03,"But they would have to be happy if you borrowed the money to fund your assisted suicide, right? Regardless of interest rate?",1,0,1,4,4,15,0.054326344,0.021311186,0.9243625,Neu,0.033015158,tylercowen
+1995,2017-02-01 02:07:05,"It's amazing how many people think you should have the right to kill yourself, but no right to borrow money at high rates of interest.",0,1,1,81,414,836,0.05113757,0.14105868,0.80780375,Neu,-0.08992112,tylercowen
+1999,2017-01-31 15:06:05, I don't believe everyone should or even could harp on the single dominant story of the day...,0,1,1,1,0,2,0.050768945,0.11706128,0.8321697,Neu,-0.06629233,tylercowen
+2007,2017-01-29 06:01:00,"In fact, for better or worse, the border patrol people can detain people without an Executive Order to that effect.",0,0,1,9,6,21,0.022843642,0.5512163,0.42594007,Neg,-0.52837265,tylercowen
+2010,2017-01-28 19:33:00,  sorry we will look into it...Tyler,0,0,1,1,0,0,0.047253292,0.14029478,0.8124519,Neu,-0.09304148,tylercowen
+2015,2017-01-26 18:32:03,"   it will appear in April, ",0,0,1,0,0,1,0.02237452,0.026625678,0.95099986,Neu,-0.004251158,tylercowen
+2019,2017-01-26 12:40:00," a good query, I can only say I have never done it, read a few of the new books on the topic...",1,1,1,1,0,0,0.056437306,0.026432058,0.91713065,Neu,0.030005248,tylercowen
+2022,2017-01-26 03:12:00," Theorem: If a bigger country can grab a third of your territory and keep it, the bigger country also can take some of your money.",0,0,1,0,0,2,0.05998859,0.018110836,0.9219005,Neu,0.041877754,tylercowen
+2023,2017-01-26 03:08:00, Don't they keep saying it because they will pay part and are trying to bargain down the price?,0,1,1,1,0,2,0.031520754,0.35232288,0.6161564,Neu,-0.32080212,tylercowen
+2025,2017-01-25 23:58:04,"  absolutely, and it will be released in April...",1,0,1,1,0,1,0.068749495,0.0142024215,0.91704816,Neu,0.05454707,tylercowen
+2032,2017-01-23 18:24:03," Likely, but it also can be the case that he means the ""show"" as well...",0,1,1,0,0,0,0.044325765,0.04248915,0.9131851,Neu,0.0018366165,tylercowen
+2035,2017-01-22 16:54:03,"My Tuesday Stripe discussion with Patrick Collison will have bigger crowd than the Inauguration,   alternativefacts",0,0,1,3,7,101,0.09869277,0.013940802,0.8873665,Neu,0.08475196,tylercowen
+2038,2017-01-21 17:26:00," of course, but not just, it mirrored my own life in the Northeast in some critical ways, all the stuff I rejected I might add...",1,0,1,1,0,1,0.07319611,0.0472257,0.87957823,Neu,0.025970414,tylercowen
+2039,2017-01-21 16:34:02," Saw the first forty minutes, was bored, then the theater lost power...may or may not go back to see the rest...",1,0,1,1,0,0,0.014146002,0.80853015,0.17732376,Neg,-0.7943841,tylercowen
+2042,2017-01-21 15:26:05,"If you are a tourist in a new city, how should you organize your first day?,  ",0,1,1,5,9,20,0.03575656,0.031738497,0.932505,Neu,0.004018061,tylercowen
+2055,2017-01-18 13:12:02,"   On information, that is not what real estate agents (or home prices) will tell you...",0,1,1,1,0,1,0.026605943,0.049962733,0.92343134,Neu,-0.02335679,tylercowen
+2056,2017-01-18 13:11:01,   Even the Ohio results might plausibly pass a cost-benefit test!  LA results have been criticized strongly.,1,1,1,0,0,1,0.0122751435,0.96056086,0.027164003,Neg,-0.9482857,tylercowen
+2062,2017-01-18 12:33:02," for balance, shouldn't you cite RCT results like these,   plus African-Americans seem to support vouchers strongly.",0,1,1,0,1,3,0.7368962,0.034938324,0.2281654,Pos,0.7019579,tylercowen
+2067,2017-01-18 03:06:01,"  ...and if you asked even a Dem nominee whether they supported a fed ban on high school football, of course they would say no.",1,0,1,1,1,1,0.08217267,0.096805006,0.8210223,Neu,-0.014632337,tylercowen
+2071,2017-01-18 01:47:05, Isn't the real issue that most guns wouldn't stop a grizzly?,0,1,1,4,1,20,0.037667584,0.10688387,0.85544854,Neu,-0.06921628,tylercowen
+2078,2017-01-15 23:21:03," The stress would fall on different syllables, at least...",0,0,1,1,0,21,0.03130394,0.061107457,0.9075886,Neu,-0.029803518,tylercowen
+2080,2017-01-13 18:31:02, Do you think a Senate full of Harvard professors could win reelection?  No way.  They could however stick on the Cambridge town council.,0,1,1,2,0,0,0.109898955,0.02436166,0.8657394,Neu,0.08553729,tylercowen
+2082,2017-01-13 18:11:04," Not true (northern England? Arizona?), but even if it were, they would not be very representative...",1,0,1,0,0,0,0.056179896,0.053934887,0.8898852,Neu,0.002245009,tylercowen
+2087,2017-01-13 13:49:03,"Would you rather be ruled by the people or the experts?,  ",1,0,1,30,37,70,0.031961452,0.039499402,0.9285391,Neu,-0.00753795,tylercowen
+2088,2017-01-13 12:48:02,"Sad to learn I won't be the first one to compare Kenneth Arrow to the Beach Boys,  ",0,0,1,4,12,36,0.06343093,0.052173305,0.8843958,Neu,0.011257622,tylercowen
+2093,2017-01-12 16:07:00,"  .""The money is to be made by going long"" is a stronger truth than any particular judgment about current affairs we might hold.",1,1,1,0,1,1,0.12390852,0.022474498,0.853617,Neu,0.10143402,tylercowen
+2095,2017-01-12 13:46:01,"Can I ask a question that stumps one of America's most famous rabbis? There is only one way to find out,  ",0,1,1,0,3,10,0.044056598,0.054949302,0.90099406,Neu,-0.010892704,tylercowen
+2098,2017-01-12 02:02:02, So everything will be terrible and the market still will go up...?  Bet the correlation!,0,0,1,3,2,10,0.0787243,0.40600777,0.5152679,Neu,-0.32728347,tylercowen
+2100,2017-01-12 00:00:01, I bet you can deduce the implications of an economy-wide decline in real income...yes I bet you can!,0,1,1,1,1,3,0.19545434,0.43589076,0.36865488,Neg,-0.24043642,tylercowen
+2102,2017-01-11 19:54:02," ...what market price would indicate a bad domestic outcome then? I agree on foreign, though sans Mexico most of those mkts. are fine too.",0,1,1,5,2,1,0.43652135,0.12905046,0.4344282,Pos,0.3074709,tylercowen
+2106,2017-01-11 15:34:01,"""Scarlet Letter...[is] actually a novel of immigrants,"" they wouldn't have behaved that way in their home country,  ",1,1,1,0,2,8,0.03519701,0.3697863,0.5950167,Neu,-0.33458927,tylercowen
+2107,2017-01-11 15:25:05," that was just a one-off, the section will be returning with a vengeance!",1,1,1,1,0,0,0.06593389,0.13268782,0.80137825,Neu,-0.06675393,tylercowen
+2110,2017-01-11 00:26:04,"It may be raining, but the Asian markets don't seem to mind,  ",0,1,1,1,1,8,0.06707627,0.12775083,0.80517286,Neu,-0.060674556,tylercowen
+2111,2017-01-11 00:18:01,"I wish I could retweet this one again,  ",0,1,1,6,19,74,0.033262838,0.13072717,0.83601,Neu,-0.09746434,tylercowen
+2112,2017-01-11 00:14:00,"As President, I would either certify or repudiate the report, the latter subtly.",0,0,1,2,2,7,0.033293936,0.13527063,0.83143544,Neu,-0.10197669,tylercowen
+2120,2017-01-09 12:05:02," If we had listened to Powell, the West never would have been developed.  Nor did Stegner understand ""opportunity cost.""",1,0,1,2,0,0,0.046580423,0.044949178,0.90847045,Neu,0.001631245,tylercowen
+2121,2017-01-09 10:38:02,"When should the federal government own land?,  ",0,0,1,2,9,14,0.02392343,0.054089505,0.92198706,Neu,-0.030166075,tylercowen
+2122,2017-01-09 00:41:00,  I wish I could say GC is underrated...but it's not.,0,1,1,0,0,0,0.06309416,0.111985624,0.82492024,Neu,-0.048891462,tylercowen
+2130,2017-01-03 16:20:01,"Furthermore, Lagos is much safer and more religiously tolerant than you might think,  ",0,1,1,4,31,33,0.18219702,0.012612639,0.8051903,Neu,0.16958438,tylercowen
+2131,2017-01-03 16:13:03,"Can Nigeria teach the West a thing or two?,  ",0,0,1,0,28,27,0.1315917,0.0140726445,0.8543357,Neu,0.11751905,tylercowen

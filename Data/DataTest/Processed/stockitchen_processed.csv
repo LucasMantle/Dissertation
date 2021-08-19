@@ -1,0 +1,6 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2019-08-01 20:02:04,$GOOGL now has more cash on the books than $AAPL times really are changing,0,1,0,0,0,0,0.10328689,0.023697661,0.87301546,Neu,0.07958923,stockitchen
+1,2019-05-13 01:02:03,Socially conscious investors should not invest in  because they allow the olds to be menaces on their platform,0,1,1,0,0,2,0.036933877,0.097771235,0.8652949,Neu,-0.06083736,stockitchen
+2,2018-09-19 22:05:05, what's the big idea  ,0,1,0,0,0,0,0.029466007,0.068663664,0.9018703,Neu,-0.039197657,stockitchen
+3,2018-08-05 04:07:01,Apple is an Absolute Wagon Blog:  ,0,1,0,0,0,0,0.024617363,0.044297922,0.93108475,Neu,-0.01968056,stockitchen
+4,2018-06-21 05:47:00,RIPIP to $GE  111 years was not enough with you in the Dow.  Pour one out for the conglomerate tonight. CVS ain’t shit  ,1,1,0,0,1,0,0.073731706,0.022078987,0.9041893,Neu,0.05165272,stockitchen

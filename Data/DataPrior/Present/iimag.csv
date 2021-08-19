@@ -1,0 +1,954 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+4,2018-04-01 22:00:00,More Activist Campaigns Aren't Better For Hedge Funds    ,0,1,0,0,3,2,0.048694987,0.15258318,0.79872185,Neu,-0.1038882,iimag
+5,2018-04-01 21:00:00,One-in-Ten Allocators Plan to Invest in Crypto This Year    ,0,1,0,1,2,2,0.08295666,0.010234676,0.9068087,Neu,0.07272198,iimag
+11,2018-03-31 17:00:00,"After Years of Talk, MiFID II Is Live. Here’s How It’s Already Changing the Research Business.    ",0,1,0,0,0,4,0.090874314,0.012231781,0.89689386,Neu,0.07864253,iimag
+12,2018-03-31 16:00:00,The White House is investigating whether loans from Apollo Global Management and Citigroup to Jared Kushner's family business violated ethics rules.    ,1,1,0,0,1,2,0.025751045,0.71170115,0.26254776,Neg,-0.6859501,iimag
+14,2018-03-31 15:30:00,Blackstone Acquires Minority Stake in PAG    ,0,1,0,0,1,0,0.07897367,0.0147245405,0.9063018,Neu,0.064249136,iimag
+15,2018-03-31 15:00:00,This Firm Wants To Bogle-Ize Cryptocurrencies    ,0,1,0,0,1,0,0.039632272,0.014534401,0.9458333,Neu,0.025097871,iimag
+17,2018-03-31 14:00:00,Venture Capital Has a MeToo Problem. Have Investors Been Ignoring It?    ,0,1,0,0,0,0,0.013681333,0.88790923,0.098409414,Neg,-0.8742279,iimag
+18,2018-03-31 01:00:00,Why Is No One Listening to Jeremy Grantham?     ,0,1,0,1,2,6,0.025356907,0.29911467,0.6755284,Neu,-0.27375776,iimag
+19,2018-03-30 20:00:00,One-in-Ten Allocators Plan to Invest in Crypto This Year    ,0,1,0,1,2,3,0.08295666,0.010234676,0.9068087,Neu,0.07272198,iimag
+20,2018-03-30 18:32:00,More Activist Campaigns Aren't Better For Hedge Funds    ,0,1,0,0,4,1,0.048694987,0.15258318,0.79872185,Neu,-0.1038882,iimag
+21,2018-03-30 18:00:00,ICYMI: Quants feast in the land of retail investors    ,0,1,0,0,1,2,0.060432103,0.031780273,0.9077877,Neu,0.02865183,iimag
+27,2018-03-29 16:00:04,"Check out Institutional Investor's last magazine going to print. The end of an era for us, but we're excited for what's to come!  ",1,1,0,0,2,10,0.09685179,0.019013667,0.8841346,Neu,0.07783812,iimag
+31,2018-03-28 19:00:00,"After Years of Talk, MiFID II Is Live. Here’s How It’s Already Changing the Research Business.    ",0,1,0,0,0,2,0.090874314,0.012231781,0.89689386,Neu,0.07864253,iimag
+32,2018-03-27 21:02:00,Janus Henderson co-chief executive Andrew Formica has acquired his way to $371 billion under management – and he's not done yet.    ,1,1,0,0,1,4,0.13609861,0.013452571,0.85044885,Neu,0.122646034,iimag
+34,2018-03-27 17:48:00,This Firm Wants To Bogle-Ize Cryptocurrencies    ,0,1,0,0,2,9,0.039632272,0.014534401,0.9458333,Neu,0.025097871,iimag
+35,2018-03-27 15:14:05,University endowments are being drawn into the scrutiny of Silicon Valley’s sexual harassment claims. Few seem ready for it.   MeToo  ,1,1,0,1,3,6,0.029381372,0.44686487,0.52375376,Neu,-0.4174835,iimag
+37,2018-03-26 21:27:03,Venture Capital Has a 'MeToo' Problem. Have Investors Been Ignoring It?    ,0,1,0,0,2,1,0.012260713,0.90506446,0.08267485,Neg,-0.8928037,iimag
+38,2018-03-26 20:19:03,Investors' Top Reasons for Firing Asset Managers    ,0,1,0,1,2,3,0.023982354,0.64376575,0.3322519,Neg,-0.6197834,iimag
+39,2018-03-26 19:16:03,Blackstone Acquires Minority Stake in PAG    ,0,1,0,0,1,0,0.07897367,0.0147245405,0.9063018,Neu,0.064249136,iimag
+41,2018-03-24 23:00:00,The Bloodletting Isn't Over Yet for Active Managers     ,0,1,0,0,0,0,0.08870357,0.13926606,0.77203035,Neu,-0.050562486,iimag
+49,2018-03-24 16:00:00,Giant Allocators Love Illiquid Investments. Are They Ignoring Risk?     ,0,1,0,1,0,4,0.032488067,0.124304615,0.8432073,Neu,-0.091816545,iimag
+50,2018-03-24 15:33:00,Gerald Tsai Jr. Once Ruled Money. This Man Will Soon Do the Same    ,1,1,0,0,0,1,0.052248657,0.017540371,0.93021095,Neu,0.034708284,iimag
+51,2018-03-24 15:00:00,"CEOs named to the 2018 All-Europe Executive Team discuss innovation, Brexit, and the biggest challenges facing their industries.  ",1,1,0,0,0,1,0.034471843,0.037601653,0.92792654,Neu,-0.00312981,iimag
+53,2018-03-24 14:00:00,"MarchMadness turns nontraditional fans into sports betting junkies, and count private credit managers among them.    ",0,1,0,0,0,0,0.015676692,0.7838713,0.20045207,Neg,-0.7681946,iimag
+54,2018-03-24 04:16:00,I'll Finally Know Everyone Who Reads This Column. That Scares Me    ,0,1,1,1,0,4,0.046903353,0.15562518,0.79747146,Neu,-0.10872182,iimag
+56,2018-03-22 22:00:00,The Bloodletting Isn't Over Yet for Active Managers    ,0,1,0,0,0,1,0.08870357,0.13926606,0.77203035,Neu,-0.050562486,iimag
+60,2018-03-22 15:06:03,Scoop: University of Georgia's endowment has a new CIO...and it's  head of public equities:    🍨,0,1,0,0,0,1,0.045157675,0.0156102395,0.9392321,Neu,0.029547434,iimag
+63,2018-03-21 16:00:00,"Whitney Tilson explains why his hedge fund was ""sucking the joy"" out of his life — and why he's turning Kase Capital's failure into a teachable moment.    ",1,1,0,0,2,6,0.10198941,0.03948196,0.8585287,Neu,0.06250745,iimag
+68,2018-03-20 19:46:02,"Columnist  has been conducting research on liquidity, cash flow predictions, and risk tools – and found that almost all giant allocators are underprepared.    ",1,1,0,0,2,4,0.1369869,0.28166372,0.58134943,Neu,-0.14467682,iimag
+75,2018-03-18 16:00:00,Prudential Spins Out Savings and Investment Provider M&G    ,0,1,0,0,0,0,0.038572915,0.048875336,0.9125517,Neu,-0.010302421,iimag
+80,2018-03-17 22:00:00,Institutional Investors Mostly Absent from Emerging Markets Infrastructure Projects  ,0,1,0,0,1,1,0.024915982,0.13638887,0.83869517,Neu,-0.11147289,iimag
+83,2018-03-17 19:00:00,Willis Towers Watson’s OCIO Business Surpasses $100 Billion Under Management    ,0,1,0,0,1,2,0.8894553,0.010978783,0.09956585,Pos,0.87847656,iimag
+85,2018-03-17 17:00:00,"These Active Managers Actually Beat the Market, Over Time    ",0,1,0,1,1,1,0.7418061,0.014342833,0.24385108,Pos,0.72746325,iimag
+88,2018-03-17 15:00:00,Endowments and Foundations Take a Hard Pass on Cryptocurrencies    ,0,1,0,0,1,0,0.02598622,0.5511104,0.4229034,Neg,-0.5251242,iimag
+89,2018-03-17 14:40:03,Pensions are hot for ETFs..     ,0,1,0,0,0,1,0.07837862,0.4770048,0.44461653,Neg,-0.39862618,iimag
+91,2018-03-16 19:38:02,Institutional Investors Mostly Absent from Emerging Markets Infrastructure Projects    ,0,1,0,3,2,1,0.024915982,0.13638887,0.83869517,Neu,-0.11147289,iimag
+94,2018-03-15 21:03:03,Firms resigned to getting sued over 401(k) plans via   ,1,1,0,0,1,1,0.023761323,0.9143621,0.06187656,Neg,-0.89060074,iimag
+96,2018-03-15 17:00:00,China's sovereign wealth fund is dropping its investment in Blackstone via   ,0,1,0,0,0,0,0.0074619185,0.95021725,0.042320825,Neg,-0.94275534,iimag
+97,2018-03-15 16:30:00,Google is banning crypto ads.  fills readers in on why  ,0,1,0,1,0,2,0.02895515,0.33368787,0.637357,Neu,-0.3047327,iimag
+98,2018-03-15 16:00:00,Prudential Spins Out Savings and Investment Provider M&G    ,0,1,0,0,1,1,0.038572915,0.048875336,0.9125517,Neu,-0.010302421,iimag
+100,2018-03-15 15:00:00,Standards Board Aims to Tackle Hedge Fund Issues (Before Regulators Do) via     ,0,1,0,0,1,2,0.06796694,0.012340929,0.91969216,Neu,0.05562601,iimag
+101,2018-03-14 21:15:00,Prudential Spins Out Savings and Investment Provider M&G    ,0,1,0,0,1,1,0.038572915,0.048875336,0.9125517,Neu,-0.010302421,iimag
+105,2018-03-14 01:25:03,The last winner of the evening is  iimosthonored,1,1,0,0,0,0,0.055033367,0.024063893,0.9209027,Neu,0.030969474,iimag
+107,2018-03-14 01:09:04,"Full sector winner catepillar: "" we're going for your spot on the Dow this year"" ",0,1,0,0,0,0,0.85396445,0.011315531,0.13471998,Pos,0.8426489,iimag
+110,2018-03-14 01:00:00, thanks their team for winning the full-sector award at iimosthonored.,1,1,0,0,0,0,0.8676356,0.010126536,0.12223788,Pos,0.8575091,iimag
+111,2018-03-14 00:52:00,Their failed wallpaper experiment became the world's first engineered packaging material: Bubble wrap.  wins the full-sector award. iimosthonored,1,1,0,0,0,0,0.52422124,0.0113269575,0.4644518,Pos,0.5128943,iimag
+113,2018-03-14 00:42:05,"Having tested over a billion chips last year,  is a mid-cap winner at iimosthonored.",1,1,0,0,0,0,0.2668607,0.010686917,0.72245234,Neu,0.2561738,iimag
+114,2018-03-14 00:40:01,"Celebrating their 10th Anniversary this year, Western Gas Partners wins the mid-cap award iimosthonored",1,1,0,0,0,0,0.8805305,0.016137464,0.10333198,Pos,0.864393,iimag
+115,2018-03-14 00:37:04,Tenet Healthcare Corp wins the health care small-cap award  iimosthonored,1,1,0,0,0,0,0.88265043,0.015653403,0.10169621,Pos,0.866997,iimag
+116,2018-03-14 00:03:04,"Name that tune contest at iimosthonored begins at iimusiccontest, as winners are announced.",1,1,0,0,0,1,0.039820984,0.015460127,0.9447189,Neu,0.024360858,iimag
+117,2018-03-13 23:58:03,This year's 8th annual America's Most Honored kicks off with a toast  iimosthonored  ,0,1,0,0,0,0,0.1035986,0.014747231,0.8816542,Neu,0.08885137,iimag
+118,2018-03-13 23:00:00,"These Active Managers Actually Beat the Market, Over Time    ",0,1,0,1,0,4,0.7418061,0.014342833,0.24385108,Pos,0.72746325,iimag
+119,2018-03-13 20:35:00,The Future of Hedge Funds Is Non-Equity Strategies    ,0,1,0,0,2,1,0.023059819,0.043504152,0.9334361,Neu,-0.020444334,iimag
+120,2018-03-13 20:10:00,Willis Towers Watson’s OCIO Business Surpasses $100 Billion Under Management    ,0,1,0,0,0,1,0.8894553,0.010978783,0.09956585,Pos,0.87847656,iimag
+121,2018-03-13 20:00:00,Carleton College has hired BlackRock's Kelsey Deshler as CIO of its $828 million endowment    ,1,1,0,0,2,5,0.14859788,0.009750737,0.8416514,Neu,0.13884714,iimag
+125,2018-03-12 21:00:00,Endowments and Foundations Take a Hard Pass on Cryptocurrencies  ,0,1,0,1,2,6,0.02598622,0.5511104,0.4229034,Neg,-0.5251242,iimag
+129,2018-03-11 20:00:00,Emerging Markets Companies Turn to U.S. for IPOs    ,0,1,0,0,2,2,0.07007063,0.03376363,0.8961658,Neu,0.036307003,iimag
+132,2018-03-11 19:00:00,"Blankfein Prepares to Exit Goldman, WSJ Reports    ",0,1,0,0,1,0,0.019658212,0.076539926,0.90380186,Neu,-0.056881715,iimag
+133,2018-03-11 19:00:00,These Hedge Funds Produce the Most Consistently Great Results    ,0,1,0,0,3,6,0.817946,0.0114285,0.17062552,Pos,0.80651754,iimag
+136,2018-03-11 16:00:00,Where (Most) Activists Fear to Tread    ,0,1,0,0,1,0,0.026299061,0.35172322,0.62197775,Neu,-0.32542416,iimag
+139,2018-03-11 01:00:00,Learning from the Dumb Money    ,0,1,0,0,3,2,0.09754167,0.032284945,0.8701734,Neu,0.06525672,iimag
+140,2018-03-11 00:30:00,Active Managers Hope to Win Back Investors With Index-Like Fees    ,0,1,0,2,0,2,0.5563808,0.012979956,0.43063927,Pos,0.5434008,iimag
+142,2018-03-10 22:00:00,How Investors Are Wrestling With the Greenback    ,0,1,0,0,0,1,0.04582357,0.42000073,0.5341757,Neu,-0.37417716,iimag
+149,2018-03-10 13:00:03,"Watch our latest Bonus/Severance series: Why Michael Urias and his quant team at Hutchin Hill Capital are up, and Vijoy Chattergy of Hawaii’s $16 billion state pension fund is down.  ",1,1,0,0,1,3,0.012112278,0.8922155,0.09567224,Neg,-0.88010323,iimag
+150,2018-03-09 22:00:00,Emerging Markets Companies Turn to U.S. for IPOs    ,0,1,0,0,0,0,0.07007063,0.03376363,0.8961658,Neu,0.036307003,iimag
+152,2018-03-09 18:50:00,"Blankfein Prepares to Exit Goldman, WSJ Reports    ",0,1,0,0,1,2,0.019658212,0.076539926,0.90380186,Neu,-0.056881715,iimag
+157,2018-03-08 22:00:00,These Hedge Funds Produce the Most Consistently Great Results    ,0,1,0,0,4,7,0.817946,0.0114285,0.17062552,Pos,0.80651754,iimag
+158,2018-03-08 16:10:00,Morning Brief: Hedge Funds Post First Loss in More Than a Year  ,0,1,0,0,0,1,0.009162029,0.95728916,0.033548787,Neg,-0.94812715,iimag
+160,2018-03-08 01:01:05,Where (Most) Activists Fear to Tread    ,0,1,0,0,0,0,0.026299061,0.35172322,0.62197775,Neu,-0.32542416,iimag
+163,2018-03-07 14:00:04,"Why Michael Urias and his quant team at Hutchin Hill Capital are up, and Vijoy Chattergy of Hawaii’s $16 billion state pension fund is down.    ",1,1,0,0,0,0,0.012999602,0.86359984,0.12340062,Neg,-0.85060024,iimag
+164,2018-03-06 22:00:00,Active Managers Hope to Win Back Investors With Index-Like Fees    ,0,1,0,4,5,4,0.5563808,0.012979956,0.43063927,Pos,0.5434008,iimag
+165,2018-03-06 21:30:00,How Investors Are Wrestling With the Greenback    ,0,1,0,0,0,1,0.04582357,0.42000073,0.5341757,Neu,-0.37417716,iimag
+167,2018-03-06 15:00:00,Learning from the Dumb Money    ,0,1,0,0,0,2,0.09754167,0.032284945,0.8701734,Neu,0.06525672,iimag
+175,2018-03-05 15:59:03,The Goldman chief — once a scrappy kid from East New York — is taking a chance on the American consumer. But is it a mistake?     ,0,1,0,0,0,0,0.038855188,0.39327282,0.56787205,Neu,-0.35441762,iimag
+176,2018-03-05 03:00:00,Why Is No One Listening to Jeremy Grantham?     ,0,1,0,0,0,3,0.025356907,0.29911467,0.6755284,Neu,-0.27375776,iimag
+178,2018-03-04 16:00:00,Ackman Calls it Quits on Herbalife Bet    ,0,1,0,0,0,0,0.022011956,0.62593454,0.35205358,Neg,-0.6039226,iimag
+180,2018-03-03 19:00:00,Fund Managers Say Goodbye to Stodgy Midtown    ,0,1,0,0,1,4,0.040365394,0.33622926,0.62340534,Neu,-0.29586387,iimag
+181,2018-03-03 19:00:00,What's at Stake in a U.S. Trade War With China    ,0,1,0,0,0,0,0.044763748,0.19709553,0.75814074,Neu,-0.15233178,iimag
+184,2018-03-03 17:00:00,Americans Outearn European Poratfolio Managers    ,0,1,0,0,0,0,0.111865714,0.01619527,0.871939,Neu,0.09567045,iimag
+188,2018-02-28 19:40:00,Ackman Calls it Quits on Herbalife Bet    ,0,1,0,1,4,3,0.022011956,0.62593454,0.35205358,Neg,-0.6039226,iimag
+191,2018-02-28 17:35:00,Why Is No One Listening to Jeremy Grantham?     ,0,1,0,0,0,0,0.025356907,0.29911467,0.6755284,Neu,-0.27375776,iimag
+192,2018-02-28 15:30:00,Fund Managers Say Goodbye to Stodgy Midtown    ,0,1,0,0,3,3,0.040365394,0.33622926,0.62340534,Neu,-0.29586387,iimag
+194,2018-02-27 22:30:00,What's at Stake in a U.S. Trade War With China    ,0,1,0,0,1,0,0.044763748,0.19709553,0.75814074,Neu,-0.15233178,iimag
+197,2018-02-27 14:00:00,Americans Outearn European Poratfolio Managers    ,0,1,0,1,0,2,0.111865714,0.01619527,0.871939,Neu,0.09567045,iimag
+200,2018-02-26 17:35:01,"We published next month's cover story 30 mins ago, and it's already the most-read article on  right now:   ",1,1,0,0,5,7,0.04009181,0.025139367,0.93476886,Neu,0.014952442,iimag
+201,2018-02-26 17:20:02,"When Steven Cohen and the hedge fund elite battle the press, Jonathan Gasthalter — PR man extraordinaire — throws the punches...  ",0,1,0,1,1,2,0.07913057,0.029631544,0.89123785,Neu,0.049499024,iimag
+207,2018-02-25 15:00:00,Missing Pension Money Sparks Calls for Probe    ,0,1,0,0,0,0,0.07432802,0.8505156,0.075156406,Neg,-0.7761876,iimag
+208,2018-02-25 03:00:00,The Relentless Rise of Investment Outsourcing  ,0,1,0,1,5,9,0.22442469,0.12862632,0.646949,Neu,0.09579837,iimag
+211,2018-02-24 19:22:00,Goldman Raises $2.5 Billion for Funds That Buy Stakes in Private Equity Firms    ,0,1,0,0,0,2,0.21966882,0.020863641,0.7594676,Neu,0.19880518,iimag
+212,2018-02-24 18:00:00,BlackRock Will Engage Gun Makers After School Shooting    ,0,1,0,0,3,5,0.02686832,0.13459077,0.8385409,Neu,-0.107722454,iimag
+214,2018-02-24 15:00:00,Missing Pension Money Sparks Calls for Probe    ,0,1,0,0,1,1,0.07432802,0.8505156,0.075156406,Neg,-0.7761876,iimag
+215,2018-02-24 14:00:00,"Private Equity Managers Are Optimistic About 2018. Investors, Not So Much.    ",0,1,0,0,0,1,0.07368273,0.027977768,0.8983395,Neu,0.045704965,iimag
+217,2018-02-23 16:00:00,Missing Pension Money Sparks Calls for Probe    ,0,1,0,0,0,0,0.07432802,0.8505156,0.075156406,Neg,-0.7761876,iimag
+218,2018-02-23 15:30:00,Goldman Raises $2.5 Billion for Funds That Buy Stakes in Private Equity Firms    ,0,1,0,0,1,1,0.21966882,0.020863641,0.7594676,Neu,0.19880518,iimag
+219,2018-02-23 14:00:00,BlackRock Will Engage Gun Makers After School Shooting    ,0,1,0,0,4,3,0.02686832,0.13459077,0.8385409,Neu,-0.107722454,iimag
+222,2018-02-23 03:21:00,BlackRock Will Engage Gun Makers After School Shooting    ,0,1,0,0,1,0,0.02686832,0.13459077,0.8385409,Neu,-0.107722454,iimag
+223,2018-02-22 18:40:00,Missing Pension Money Sparks Calls for Probe    ,0,1,0,0,0,0,0.07432802,0.8505156,0.075156406,Neg,-0.7761876,iimag
+224,2018-02-20 14:00:00,"Private Equity Managers Are Optimistic About 2018. Investors, Not So Much.    ",0,1,0,1,1,0,0.07368273,0.027977768,0.8983395,Neu,0.045704965,iimag
+225,2018-02-19 15:00:00,What Sets Today's Buyout Market Apart From the Pre-Crisis Boom Era    ,0,1,0,0,1,0,0.045060635,0.030382236,0.92455715,Neu,0.014678398,iimag
+226,2018-02-18 17:00:00,The Illusion of Alignment in Investing    ,0,1,0,0,3,3,0.15672657,0.02476106,0.8185123,Neu,0.1319655,iimag
+228,2018-02-18 15:00:00,What Sets Today's Buyout Market Apart From the Pre-Crisis Boom Era    ,0,1,0,0,0,1,0.045060635,0.030382236,0.92455715,Neu,0.014678398,iimag
+229,2018-02-17 20:00:00,Smart Beta Is Making This Strategist Sick    ,0,1,0,0,1,3,0.1767579,0.014129475,0.80911267,Neu,0.16262843,iimag
+233,2018-02-17 15:00:00,Ray Dalio: Risk of Recession is Rising    ,0,1,0,0,2,0,0.0516209,0.82249576,0.12588337,Neg,-0.77087486,iimag
+234,2018-02-16 23:00:00,The Illusion of Alignment in Investing    ,0,1,0,0,0,0,0.15672657,0.02476106,0.8185123,Neu,0.1319655,iimag
+236,2018-02-14 19:00:00,Nominations are open! Don’t miss your chance to help determine the winners of Institutional Investor’s 16th Annual Hedge Fund Awards! Click it now!    ,1,1,0,0,0,0,0.058910936,0.02224502,0.91884404,Neu,0.036665916,iimag
+237,2018-02-13 20:00:00,Smart Beta Is Making This Strategist Sick    ,0,1,0,1,2,7,0.1767579,0.014129475,0.80911267,Neu,0.16262843,iimag
+241,2018-02-12 19:30:00,Ray Dalio: Risk of Recession is Rising    ,0,1,0,0,7,6,0.0516209,0.82249576,0.12588337,Neg,-0.77087486,iimag
+242,2018-02-11 21:00:00,China’s Hedge Funds Are Shorting Again    ,0,1,0,1,0,0,0.023107156,0.76456183,0.21233097,Neg,-0.74145466,iimag
+243,2018-02-11 19:00:00,Forget Factors: This is How to Pick Top-Performing Hedge Funds    ,0,1,0,0,0,0,0.034975223,0.026249582,0.9387752,Neu,0.008725641,iimag
+246,2018-02-11 14:30:00,Why Fund Firms Are Gunning for China    ,0,1,0,1,2,1,0.050850403,0.05414516,0.89500445,Neu,-0.0032947585,iimag
+249,2018-02-10 22:00:00,Why Spotify is Skipping Wall Street    ,0,1,0,0,0,0,0.040427133,0.046060026,0.91351277,Neu,-0.0056328923,iimag
+255,2018-02-08 20:00:00,China’s Hedge Funds Are Shorting Again    ,0,1,0,0,3,3,0.023107156,0.76456183,0.21233097,Neg,-0.74145466,iimag
+257,2018-02-08 17:30:00,Why Fund Firms Are Gunning for China    ,0,1,0,0,0,1,0.050850403,0.05414516,0.89500445,Neu,-0.0032947585,iimag
+258,2018-02-08 17:00:00,Forget Factors: This is How to Pick Top-Performing Hedge Funds    ,0,1,0,1,0,1,0.034975223,0.026249582,0.9387752,Neu,0.008725641,iimag
+263,2018-02-06 20:30:00,Why Spotify is Skipping Wall Street    ,0,1,0,0,2,4,0.040427133,0.046060026,0.91351277,Neu,-0.0056328923,iimag
+270,2018-02-04 23:00:00,How Active Managers Are Fighting Back    ,0,1,0,0,1,3,0.06182602,0.21264471,0.72552925,Neu,-0.15081869,iimag
+271,2018-02-04 22:00:00,What's Curbing the Bitcoin Short    ,0,1,0,0,0,5,0.047407437,0.19428295,0.75830966,Neu,-0.14687552,iimag
+277,2018-02-04 15:00:00,Financial Engineers Killed the Art of Investing    ,1,1,0,0,0,5,0.04740569,0.29500708,0.65758723,Neu,-0.24760139,iimag
+280,2018-02-03 20:15:00,"U.K. Government to Carillion Trustees: ""Why Didn't You Ask for Help?""    ",0,1,0,0,0,2,0.08650824,0.07767608,0.83581567,Neu,0.008832157,iimag
+288,2018-02-02 18:00:00,How Active Managers Are Fighting Back    ,0,1,0,0,0,4,0.06182602,0.21264471,0.72552925,Neu,-0.15081869,iimag
+292,2018-02-01 21:00:00,What's Curbing the Bitcoin Short    ,0,1,0,0,0,1,0.047407437,0.19428295,0.75830966,Neu,-0.14687552,iimag
+296,2018-02-01 16:00:00,Financial Engineers Killed the Art of Investing    ,1,1,0,0,0,0,0.04740569,0.29500708,0.65758723,Neu,-0.24760139,iimag
+299,2018-01-30 21:30:00,"U.K. Government to Carillion Trustees: ""Why Didn't You Ask for Help?""    ",0,1,0,0,0,0,0.08650824,0.07767608,0.83581567,Neu,0.008832157,iimag
+308,2018-01-28 22:00:00,Bridgewater's Ray Dalio Squares off with Central Bankers in Davos    ,0,1,0,0,1,3,0.17262545,0.08892594,0.7384486,Neu,0.08369951,iimag
+310,2018-01-28 19:00:00,'Hard' Fundraising Caps Melt in Private Equity    ,0,1,0,0,0,1,0.10128776,0.7964692,0.102243036,Neg,-0.6951814,iimag
+314,2018-01-28 16:00:00,AQR's Asness Calls NY Governor a 'Lying Thief'    ,0,1,0,0,1,2,0.029059803,0.824768,0.14617227,Neg,-0.7957082,iimag
+317,2018-01-28 03:00:00,Howard Marks Favors Being Defensive in Aging Bull Market    ,0,1,0,0,0,1,0.07562366,0.04462824,0.87974817,Neu,0.030995421,iimag
+321,2018-01-27 20:00:00,Fund Manager Says Red-Hot Private Debt Market May Cool Off    ,0,1,0,0,0,1,0.8519862,0.063985996,0.0840278,Pos,0.7880002,iimag
+322,2018-01-27 19:00:05,Our latest WarStories episode: The Man 'Daring Enough' to Launch a Fund in a Market Crash    ,0,1,0,0,0,0,0.12907405,0.013772586,0.8571533,Neu,0.11530147,iimag
+325,2018-01-27 17:00:00,"Real Service Is Harder than Lip Service, Managers Find    ",0,1,0,0,0,0,0.022708511,0.6886192,0.2886723,Neg,-0.66591066,iimag
+327,2018-01-27 16:00:00,Investors Debate If the Pitchforks Are Coming    ,0,1,0,0,0,0,0.0360233,0.13128844,0.8326883,Neu,-0.095265135,iimag
+330,2018-01-26 23:00:00,Bridgewater's Ray Dalio Squares off with Central Bankers in Davos    ,0,1,0,0,5,7,0.17262545,0.08892594,0.7384486,Neu,0.08369951,iimag
+332,2018-01-26 00:00:00,'Hard' Fundraising Caps Melt in Private Equity    ,0,1,0,0,0,2,0.10128776,0.7964692,0.102243036,Neg,-0.6951814,iimag
+336,2018-01-25 00:00:00,AQR's Asness Calls NY Governor a 'Lying Thief'    ,0,1,0,0,1,6,0.029059803,0.824768,0.14617227,Neg,-0.7957082,iimag
+338,2018-01-24 22:30:00,Howard Marks Favors Being Defensive in Aging Bull Market    ,0,1,0,0,2,0,0.07562366,0.04462824,0.87974817,Neu,0.030995421,iimag
+339,2018-01-24 19:00:00,Identifying fresh opportunities in the U.S. real estate market   Sponsored By   ,1,1,0,0,0,1,0.39400476,0.009625756,0.59636956,Neu,0.384379,iimag
+340,2018-01-24 15:30:04,Our latest WarStories episode: The Man 'Daring Enough' to Launch a Fund in a Market Crash    ,0,1,0,0,0,0,0.12907405,0.013772586,0.8571533,Neu,0.11530147,iimag
+346,2018-01-23 15:30:00,Fund Manager Says Red-Hot Private Debt Market May Cool Off    ,0,1,0,0,1,0,0.8519862,0.063985996,0.0840278,Pos,0.7880002,iimag
+350,2018-01-22 18:00:00,"Real Service Is Harder than Lip Service, Managers Find  ",0,1,0,0,0,0,0.022708511,0.6886192,0.2886723,Neg,-0.66591066,iimag
+351,2018-01-22 17:00:00,Investors Debate If the Pitchforks Are Coming    ,0,1,0,0,0,0,0.0360233,0.13128844,0.8326883,Neu,-0.095265135,iimag
+352,2018-01-22 16:30:00,Omega's Cooperman is Less Bullish About 2018    ,0,1,0,0,0,0,0.059428528,0.39943355,0.5411379,Neu,-0.34000504,iimag
+359,2018-01-21 19:00:00,JPMorgan Suggests Investors Pivot to Distressed Credit    ,1,1,0,0,2,2,0.04675018,0.13232692,0.8209229,Neu,-0.085576735,iimag
+363,2018-01-20 21:00:00,"""Scammers"" Seek to Cash In on Carillion Collapse, Trade Group Warns    ",0,1,0,0,1,0,0.049492255,0.15616408,0.7943437,Neu,-0.106671825,iimag
+378,2018-01-18 18:00:00,JPMorgan Suggests Investors Pivot to Distressed Credit    ,1,1,0,0,1,1,0.04675018,0.13232692,0.8209229,Neu,-0.085576735,iimag
+379,2018-01-18 17:00:00,“The Biggest Asset Manager You Never Heard Of”  released a new research report indicating that US asset owners are challenging conventional wisdom.   insight multiasset,1,1,0,0,0,5,0.107474804,0.139278,0.7532472,Neu,-0.03180319,iimag
+380,2018-01-17 22:00:00,"Real Service Is Harder than Lip Service, Managers Find    ",0,1,0,1,1,1,0.022708511,0.6886192,0.2886723,Neg,-0.66591066,iimag
+381,2018-01-17 21:00:00,"""Scammers"" Seek to Cash In on Carillion Collapse, Trade Group Warns    ",0,1,0,0,0,0,0.049492255,0.15616408,0.7943437,Neu,-0.106671825,iimag
+382,2018-01-17 17:00:00,Focus on What You Do Best: Advent Outsourcing Services    Video sponsored by   ,1,1,0,0,0,0,0.055839557,0.0114899445,0.9326705,Neu,0.04434961,iimag
+390,2018-01-14 21:00:00,Don't Be Weinstein Co. 2.0    ,0,1,0,0,0,1,0.026932329,0.03382257,0.93924505,Neu,-0.006890241,iimag
+395,2018-01-14 15:00:00,Japan's MUFG Bets on Indonesia's Growing Middle Class    ,0,1,0,0,0,1,0.8475623,0.04130651,0.11113124,Pos,0.8062558,iimag
+397,2018-01-13 22:00:00,The Private Firm Running on Garbage    ,0,1,0,0,1,5,0.095915936,0.06231,0.8417741,Neu,0.033605937,iimag
+400,2018-01-13 19:00:00,The Venture Capital Fee Structure That Produces the Highest Returns    ,0,1,0,0,0,3,0.09213218,0.011911124,0.8959567,Neu,0.08022106,iimag
+401,2018-01-13 18:00:00,Protégé Partners Pays Up in Buffett Bet    ,0,1,0,0,1,6,0.19959892,0.012029617,0.78837144,Neu,0.1875693,iimag
+403,2018-01-13 16:00:00,Sam Isaly Remains At OrbiMed As Investors Consider Options    ,0,1,0,0,0,1,0.03526166,0.034000393,0.930738,Neu,0.0012612678,iimag
+409,2018-01-11 21:00:00,Don't Be Weinstein Co. 2.0    ,0,1,0,0,0,2,0.026932329,0.03382257,0.93924505,Neu,-0.006890241,iimag
+415,2018-01-10 19:10:00,Japan's MUFG Bets on Indonesia's Growing Middle Class    ,0,1,0,0,0,0,0.8475623,0.04130651,0.11113124,Pos,0.8062558,iimag
+416,2018-01-10 19:00:00,The Private Firm Running on Garbage    ,0,1,0,0,0,1,0.095915936,0.06231,0.8417741,Neu,0.033605937,iimag
+419,2018-01-10 17:00:00,TDFs: Embracing Open Architecture in Retirement’s Most Important Investment Option   Sponsored by   ,1,1,0,0,0,0,0.29073507,0.0069151293,0.7023498,Neu,0.28381994,iimag
+420,2018-01-09 17:00:00,Protégé Partners Pays Up in Buffett Bet    ,0,1,0,0,2,2,0.19959892,0.012029617,0.78837144,Neu,0.1875693,iimag
+422,2018-01-08 21:59:05,The Venture Capital Fee Structure That Produces the Highest Returns    ,0,1,0,1,0,1,0.09213218,0.011911124,0.8959567,Neu,0.08022106,iimag
+423,2018-01-08 21:10:00,Sam Isaly Remains At OrbiMed As Investors Consider Options    ,0,1,0,0,1,0,0.03526166,0.034000393,0.930738,Neu,0.0012612678,iimag
+424,2018-01-08 17:00:00,Is Now The Time For Baby Boomers to Put Their Retirement Assets at Risk?     ,0,1,0,0,1,0,0.034961767,0.28251085,0.6825274,Neu,-0.24754909,iimag
+426,2018-01-08 00:00:00,Emerging Markets Specialist Mark Mobius Retires From Franklin Templeton    ,0,1,0,1,5,13,0.021167783,0.24536517,0.7334671,Neu,-0.22419739,iimag
+429,2018-01-07 21:00:00,When $1 Trillion Isn't Enough    ,0,1,0,0,2,2,0.039265953,0.17159924,0.7891348,Neu,-0.13233328,iimag
+430,2018-01-07 20:00:00,When Pensions Run Out of Cash    ,0,1,0,0,0,3,0.02429631,0.5627545,0.4129492,Neg,-0.5384582,iimag
+431,2018-01-07 19:00:03,Banker Tells Obama: Odds Are Against Auto Rescue    ,0,1,0,0,0,2,0.122326374,0.03479698,0.8428766,Neu,0.08752939,iimag
+434,2018-01-06 23:00:00,"Equities Correction Is Nearing, Survey Finds    ",0,1,0,0,0,4,0.051872294,0.86612564,0.08200209,Neg,-0.81425333,iimag
+445,2018-01-06 14:00:00,Their Hedge Fund's Founder Was Accused of Sexual Harassment. Here's What They Did Next.    ,1,1,0,0,1,2,0.03263633,0.19875535,0.76860833,Neu,-0.16611902,iimag
+446,2018-01-06 01:00:00,When Pensions Run Out of Cash    ,0,1,0,0,3,3,0.02429631,0.5627545,0.4129492,Neg,-0.5384582,iimag
+447,2018-01-05 23:00:00,Emerging Markets Specialist Mark Mobius Retires From Franklin Templeton    ,0,1,0,0,6,3,0.021167783,0.24536517,0.7334671,Neu,-0.22419739,iimag
+451,2018-01-05 20:00:00,When $1 Trillion Isn't Enough    ,0,1,0,0,1,2,0.039265953,0.17159924,0.7891348,Neu,-0.13233328,iimag
+452,2018-01-05 14:00:03,Banker Tells Obama: Odds Are Against Auto Rescue    ,0,1,0,0,0,2,0.122326374,0.03479698,0.8428766,Neu,0.08752939,iimag
+454,2018-01-04 17:30:00,"Equities Correction Is Nearing, Survey Finds    ",0,1,0,1,0,1,0.051872294,0.86612564,0.08200209,Neg,-0.81425333,iimag
+455,2018-01-04 14:00:00,Their Hedge Fund's Founder Was Accused of Sexual Harassment. Here's What They Did Next.    ,1,1,0,0,0,3,0.03263633,0.19875535,0.76860833,Neu,-0.16611902,iimag
+463,2018-01-02 17:00:00,Mathematical Models Are Poor Predictors in Finance    ,0,1,0,1,4,9,0.02610435,0.7689893,0.2049063,Neg,-0.742885,iimag
+466,2017-12-24 16:00:00,This Column Is Meant to Make You Uncomfortable.    ,0,1,0,1,1,3,0.03035544,0.3051449,0.6644997,Neu,-0.27478945,iimag
+471,2017-12-23 19:00:00,LaSalle Predicts 'Goldilocks' Real Estate Market in 2018    ,0,1,0,0,2,4,0.09099327,0.014878395,0.8941283,Neu,0.07611488,iimag
+478,2017-12-20 14:00:00,This Column Is Meant to Make You Uncomfortable.    ,0,1,0,1,2,5,0.03035544,0.3051449,0.6644997,Neu,-0.27478945,iimag
+482,2017-12-19 12:30:00,LaSalle Predicts 'Goldilocks' Real Estate Market in 2018    ,0,1,0,0,3,3,0.09099327,0.014878395,0.8941283,Neu,0.07611488,iimag
+487,2017-12-17 23:00:00,Why Niche Is Nice in Private Equity    ,0,1,0,0,3,3,0.07860312,0.02188417,0.8995127,Neu,0.05671895,iimag
+488,2017-12-17 22:00:00,GMO Bets Big on Emerging Markets    ,0,1,0,0,1,0,0.5552298,0.15377943,0.29099083,Pos,0.40145034,iimag
+493,2017-12-17 16:00:00,Waking Up to the Fintech Hangover    ,0,1,0,0,0,1,0.047017638,0.077786095,0.87519634,Neu,-0.030768458,iimag
+494,2017-12-17 15:00:00,Investors Turn Most Bearish Since the Great Recession    ,0,1,0,0,1,1,0.017340675,0.94766176,0.03499753,Neg,-0.9303211,iimag
+495,2017-12-16 19:00:00,Cryptocurrency Hedge Funds? There's an Index for That    ,0,1,0,0,3,3,0.033218943,0.03555685,0.93122417,Neu,-0.0023379065,iimag
+497,2017-12-16 17:00:00,What's Eating Bill Ackman?     ,0,1,0,0,3,0,0.029205602,0.27164984,0.6991446,Neu,-0.24244423,iimag
+501,2017-12-16 00:00:00,Why Niche Is Nice in Private Equity    ,0,1,0,0,2,4,0.07860312,0.02188417,0.8995127,Neu,0.05671895,iimag
+502,2017-12-15 23:00:00,GMO Bets Big on Emerging Markets    ,0,1,0,0,2,1,0.5552298,0.15377943,0.29099083,Pos,0.40145034,iimag
+506,2017-12-14 19:00:00,Waking Up to the Fintech Hangover    ,0,1,0,0,0,2,0.047017638,0.077786095,0.87519634,Neu,-0.030768458,iimag
+507,2017-12-14 19:00:00,Breaking: American Red Cross to Outsource Investments    ,0,1,0,0,1,3,0.0831074,0.015519821,0.9013728,Neu,0.06758758,iimag
+508,2017-12-14 14:00:00,Investors Turn Most Bearish Since the Great Recession    ,0,1,0,0,1,0,0.017340675,0.94766176,0.03499753,Neg,-0.9303211,iimag
+509,2017-12-13 20:30:00,Cryptocurrency Hedge Funds? There's an Index for That    ,0,1,0,0,1,4,0.033218943,0.03555685,0.93122417,Neu,-0.0023379065,iimag
+511,2017-12-13 19:00:00,Learn how alternative risk premia (ARP) strategies provide excess return potential   whitepaper sponsored by   ,1,1,0,0,1,1,0.087877885,0.011599781,0.90052235,Neu,0.076278105,iimag
+512,2017-12-13 17:20:00,What's Eating Bill Ackman?     ,0,1,0,0,6,17,0.029205602,0.27164984,0.6991446,Neu,-0.24244423,iimag
+513,2017-12-13 17:00:00,Learn how alternative risk premia (ARP) strategies provide excess return potential   whitepaper sponsored by   ,1,1,0,0,2,0,0.087877885,0.011599781,0.90052235,Neu,0.076278105,iimag
+515,2017-12-12 02:00:00,Bitcoin Gets Institutionalized    ,1,1,0,0,3,3,0.3608533,0.026433159,0.6127136,Neu,0.33442014,iimag
+518,2017-12-11 01:00:00,Beware the Cresting Wave of Emerging Market Debt    ,0,1,0,0,1,1,0.28590697,0.02220909,0.691884,Neu,0.2636979,iimag
+523,2017-12-10 19:00:00,And the Artificial Intelligence Winner Is...   ,0,1,0,0,0,1,0.14796413,0.012409594,0.8396263,Neu,0.13555454,iimag
+529,2017-12-10 03:00:04,When Losing Money Is the Least Scary Risk of Investing    ,0,1,0,1,0,2,0.031282444,0.4183282,0.55038935,Neu,-0.38704574,iimag
+534,2017-12-09 21:00:00,BlackRock is Europe's Largest Fund Manager    ,0,1,0,0,0,0,0.11951926,0.008532906,0.8719478,Neu,0.11098636,iimag
+538,2017-12-09 17:00:00,Green Bond Market Heats Up    ,0,1,0,0,1,1,0.14516853,0.036498994,0.81833243,Neu,0.108669534,iimag
+539,2017-12-09 16:00:00,"Ray Dalio's Tax Reform Bets: Florida, Nevada, Arizona    ",0,1,0,0,1,1,0.047115233,0.026816338,0.9260685,Neu,0.020298894,iimag
+540,2017-12-09 15:00:00,McKinsey: Asset Management's Problems Are Here to Stay    ,0,1,0,0,0,0,0.038025443,0.26204833,0.6999262,Neu,-0.2240229,iimag
+541,2017-12-09 00:00:00,Beware the Cresting Wave of Emerging Market Debt    ,0,1,0,0,2,1,0.28590697,0.02220909,0.691884,Neu,0.2636979,iimag
+543,2017-12-08 22:00:00,Bitcoin Gets Institutionalized    ,1,1,0,0,1,0,0.3608533,0.026433159,0.6127136,Neu,0.33442014,iimag
+547,2017-12-08 17:00:00,Alternative Assets When Everything Is Digital   Sponsored by   ,0,1,0,0,1,2,0.028713377,0.023622224,0.94766444,Neu,0.005091153,iimag
+548,2017-12-08 15:00:04,When Losing Money Is the Least Scary Risk of Investing    ,0,1,0,0,0,2,0.031282444,0.4183282,0.55038935,Neu,-0.38704574,iimag
+550,2017-12-07 22:00:00,And the Artificial Intelligence Winner Is...   ,0,1,0,0,1,1,0.14796413,0.012409594,0.8396263,Neu,0.13555454,iimag
+552,2017-12-07 17:00:00,Seeking Yield or Managing Risks?   An  Sponsored Report  ,0,1,0,0,1,0,0.039135374,0.02572661,0.93513805,Neu,0.013408763,iimag
+554,2017-12-07 14:00:00,BlackRock is Europe's Largest Fund Manager    ,0,1,0,0,0,0,0.11951926,0.008532906,0.8719478,Neu,0.11098636,iimag
+563,2017-12-06 17:00:00,"As ESG Goes Truly Global, Investors Up the Game   Report Sponsored by   ",0,1,0,0,0,0,0.069930635,0.018283885,0.9117855,Neu,0.05164675,iimag
+565,2017-12-06 14:00:00,Green Bond Market Heats Up    ,0,1,0,0,0,1,0.14516853,0.036498994,0.81833243,Neu,0.108669534,iimag
+566,2017-12-06 13:30:00,McKinsey: Asset Management's Problems Are Here to Stay    ,0,1,0,0,2,1,0.038025443,0.26204833,0.6999262,Neu,-0.2240229,iimag
+567,2017-12-05 22:30:00,"Ray Dalio's Tax Reform Bets: Florida, Nevada, Arizona    ",0,1,0,1,4,8,0.047115233,0.026816338,0.9260685,Neu,0.020298894,iimag
+571,2017-12-03 19:00:00,The Quant Trader Singing His Heart Out    ,0,1,0,1,1,2,0.25712168,0.06780455,0.6750738,Neu,0.18931714,iimag
+583,2017-12-02 16:00:00,This Firm is Warning Investors to Be Wary of Smart-Beta Bond Funds    ,0,1,0,0,1,0,0.067278795,0.078917205,0.853804,Neu,-0.01163841,iimag
+587,2017-12-01 21:15:00,The Quant Trader Singing His Heart Out    ,0,1,0,0,2,0,0.25712168,0.06780455,0.6750738,Neu,0.18931714,iimag
+595,2017-11-29 19:38:02,". cleaned up at last night's allocatorschoice awards, winning ""Partnership of the Year"" as well as ""Investment Committee of the Year. Congrats!",1,1,0,0,0,0,0.7013669,0.0238862,0.2747468,Pos,0.6774807,iimag
+596,2017-11-29 19:37:01,"Congrats to  for winning “Change Maker of the Year”. The pension’s current CIO, Jerry Albright, and former investment chief Britt Harris, were both credited with making major fee structure changes that are reshaping the industry. allocatorschoice",1,1,0,0,0,1,0.6815726,0.010523639,0.30790374,Pos,0.671049,iimag
+600,2017-11-29 02:45:00,Greg Williamson with American Red Cross wins Turnaround of the Year.,0,1,0,0,2,6,0.3229929,0.031651452,0.6453557,Neu,0.29134142,iimag
+601,2017-11-29 01:25:00,"Technology User of the Year award goes to David Villa, Wisconsin CIO   ACA2017",0,1,0,0,3,1,0.15215968,0.014276603,0.83356375,Neu,0.13788307,iimag
+602,2017-11-29 01:09:05,Institutional Investor’s  kicks off this year’s Allocators’ Choice Awards ACA2017  ,1,1,0,0,2,1,0.17922486,0.01377405,0.80700105,Neu,0.16545081,iimag
+607,2017-11-28 17:30:00,This Firm is Warning Investors to Be Wary of Smart-Beta Bond Funds    ,0,1,0,0,0,2,0.067278795,0.078917205,0.853804,Neu,-0.01163841,iimag
+608,2017-11-28 17:00:00,China’s Opening Equity Market: Factors to Watch   Report Sponsored by   ,1,1,0,0,0,0,0.045219168,0.023529679,0.93125117,Neu,0.02168949,iimag
+613,2017-11-27 17:00:00,What Really Counts When Choosing Asset Managers   sponsored by   ,1,1,0,0,0,2,0.034523293,0.0275271,0.93794966,Neu,0.006996194,iimag
+615,2017-11-25 20:00:00,The Big Fee Mistake Institutional Investors Are Making    ,0,1,0,0,2,1,0.04989243,0.16934744,0.78076005,Neu,-0.11945501,iimag
+620,2017-11-24 17:00:00,Learn how to reap significant rewards from the new emerging market order   sponsored by   ,1,1,0,0,4,5,0.42327148,0.0074956007,0.5692328,Neu,0.41577587,iimag
+622,2017-11-24 16:00:00,The Elite CIO You Don't Know    ,0,1,0,0,0,0,0.02734563,0.043777317,0.92887706,Neu,-0.016431687,iimag
+624,2017-11-22 20:00:00,The Big Fee Mistake Institutional Investors Are Making  ,0,1,0,1,1,3,0.04989243,0.16934744,0.78076005,Neu,-0.11945501,iimag
+625,2017-11-22 18:00:00,Filling the gap between expected and required return   whitepaper sponsored by   ,1,1,0,1,0,0,0.0838335,0.02160235,0.89456415,Neu,0.062231153,iimag
+629,2017-11-21 14:00:00,The Elite CIO You Don't Know    ,0,1,0,0,0,1,0.02734563,0.043777317,0.92887706,Neu,-0.016431687,iimag
+633,2017-11-20 18:00:00,Why Vanguard Isn't Freaking Out About Fewer Public Companies    ,0,1,0,0,0,1,0.0896692,0.08136344,0.82896733,Neu,0.008305758,iimag
+634,2017-11-20 17:00:00,Diversified opportunities abound in global fixed income   sponsored by   ,1,1,0,0,1,1,0.34196588,0.007992145,0.65004194,Neu,0.33397374,iimag
+635,2017-11-20 15:00:00,The Incredible Shrinking Bond Covenant    ,0,1,0,0,0,0,0.10381033,0.05189987,0.84428984,Neu,0.051910464,iimag
+638,2017-11-20 00:00:00,Why Vanguard Isn't Freaking Out About Fewer Public Companies    ,0,1,0,0,0,0,0.0896692,0.08136344,0.82896733,Neu,0.008305758,iimag
+646,2017-11-19 14:00:00,Here's What Hedge Fund Managers Will Earn this Year    ,0,1,0,0,0,1,0.054254904,0.01713022,0.92861485,Neu,0.037124686,iimag
+654,2017-11-18 19:00:00,Report: Active Managers Face a New Threat    ,0,1,0,0,2,2,0.03403032,0.85032386,0.115645826,Neg,-0.81629354,iimag
+656,2017-11-18 17:00:00,Why Investors Won't Embrace AI    ,0,1,0,0,2,0,0.043792084,0.07270691,0.883501,Neu,-0.028914824,iimag
+657,2017-11-18 16:00:00,Investors Find An Offshore Haven in Jersey    ,0,1,0,0,0,0,0.25666434,0.032966763,0.71036893,Neu,0.22369757,iimag
+662,2017-11-17 21:00:00,The Incredible Shrinking Bond Covenant    ,0,1,0,0,1,0,0.10381033,0.05189987,0.84428984,Neu,0.051910464,iimag
+669,2017-11-17 02:00:00,Too Uninformed to Vote? Research Says Non-Voting Shares Have Benefits    ,1,1,0,0,0,1,0.090999685,0.19817042,0.71083,Neu,-0.10717074,iimag
+672,2017-11-16 17:00:00,"Investors should focus on inflation, a weakening dollar and rising rates   An  sponsored video series  ",0,1,1,0,1,1,0.119950145,0.06098791,0.81906193,Neu,0.058962237,iimag
+683,2017-11-15 15:00:00,Is bond volatility set for a comeback? What you need to know   whitepaper sponsored by   ,1,1,0,0,0,0,0.043005843,0.030628191,0.926366,Neu,0.012377651,iimag
+686,2017-11-14 21:00:00,Here's What Hedge Fund Managers Will Earn this Year    ,0,1,0,0,2,2,0.054254904,0.01713022,0.92861485,Neu,0.037124686,iimag
+688,2017-11-14 17:00:00,Why Investors Won't Embrace AI    ,0,1,0,0,2,1,0.043792084,0.07270691,0.883501,Neu,-0.028914824,iimag
+689,2017-11-14 16:00:00,Investors Find An Offshore Haven in Jersey    ,0,1,0,0,1,0,0.25666434,0.032966763,0.71036893,Neu,0.22369757,iimag
+690,2017-11-14 15:00:00,Report: Active Managers Face a New Threat    ,0,1,0,0,1,0,0.03403032,0.85032386,0.115645826,Neg,-0.81629354,iimag
+692,2017-11-14 13:15:00,Here's What Hedge Fund Managers Will Earn this Year    ,0,1,0,0,0,0,0.054254904,0.01713022,0.92861485,Neu,0.037124686,iimag
+694,2017-11-13 17:00:00,Forget “average” when designing glide paths for target date funds   sponsored by   ,1,1,0,0,1,1,0.043393712,0.03608487,0.92052144,Neu,0.0073088408,iimag
+699,2017-11-12 20:00:00,The Gospel According to Michael Porter    ,0,1,0,0,2,1,0.06367841,0.02668468,0.9096369,Neu,0.036993735,iimag
+700,2017-11-12 19:00:00,Timberland Is Poised for Resurgence    ,1,1,0,0,1,2,0.4241829,0.015804721,0.5600124,Neu,0.40837818,iimag
+701,2017-11-12 18:00:00,The Asset Class That's Paying Off - for Employees    ,0,1,0,0,1,1,0.10745724,0.06591473,0.826628,Neu,0.041542515,iimag
+703,2017-11-12 16:00:00,Where Are the Women in Alternative Investing?    ,0,1,0,0,0,1,0.031944726,0.10750356,0.8605517,Neu,-0.07555884,iimag
+705,2017-11-12 14:00:00,No 'Seismic Disruptions' Coming from MiFID II    ,0,1,0,0,0,0,0.04277051,0.2628368,0.6943927,Neu,-0.22006631,iimag
+708,2017-11-12 00:00:00,Why Critics Are Slamming an Increasingly Popular Private Equity Format    ,0,1,0,1,2,1,0.034323115,0.43161294,0.53406394,Neu,-0.3972898,iimag
+709,2017-11-11 22:00:00,Ackman Loses ADP Proxy Battle    ,0,1,0,0,7,1,0.041403446,0.28813696,0.67045957,Neu,-0.24673352,iimag
+710,2017-11-11 20:00:00,The 2018 All-America Executive Team: What Makes a Top CEO    ,0,1,0,0,1,7,0.038996443,0.025211342,0.9357922,Neu,0.0137851015,iimag
+712,2017-11-11 19:00:00,Search Is on to Replace Retiring Mellon Foundation CIO    ,0,1,0,0,0,0,0.026191887,0.058275204,0.91553295,Neu,-0.032083318,iimag
+715,2017-11-11 16:00:00,Saudi Arabia Signals Pending Power Shift with Mass Arrests    ,0,1,0,0,0,1,0.07928349,0.085739955,0.83497655,Neu,-0.0064564645,iimag
+716,2017-11-11 15:00:00,Why the U.K.'s Once-Hot Student Housing Sector May Be Cooling Off    ,0,1,0,0,0,0,0.068918094,0.61941653,0.31166545,Neg,-0.5504984,iimag
+720,2017-11-10 15:00:00,No 'Seismic Disruptions' Coming from MiFID II    ,0,1,0,0,0,3,0.04277051,0.2628368,0.6943927,Neu,-0.22006631,iimag
+721,2017-11-10 14:00:00,Timberland Is Poised for Resurgence    ,1,1,0,0,0,0,0.4241829,0.015804721,0.5600124,Neu,0.40837818,iimag
+722,2017-11-10 02:00:00,The Asset Class That's Paying Off - for Employees    ,0,1,0,0,1,2,0.10745724,0.06591473,0.826628,Neu,0.041542515,iimag
+723,2017-11-09 18:00:00,Where Are the Women in Alternative Investing?     ,0,1,0,0,1,4,0.031944726,0.10750356,0.8605517,Neu,-0.07555884,iimag
+727,2017-11-09 14:00:00,The Gospel According to Michael Porter    ,0,1,0,0,0,0,0.06367841,0.02668468,0.9096369,Neu,0.036993735,iimag
+728,2017-11-08 22:30:00,Search Is on to Replace Retiring Mellon Foundation CIO    ,0,1,0,0,1,0,0.026191887,0.058275204,0.91553295,Neu,-0.032083318,iimag
+729,2017-11-08 22:05:05,The Gospel According to Michael Porter    ,0,1,0,0,2,8,0.06367841,0.02668468,0.9096369,Neu,0.036993735,iimag
+730,2017-11-08 19:00:00,Timberland Is Poised for Resurgence    ,1,1,0,0,2,1,0.4241829,0.015804721,0.5600124,Neu,0.40837818,iimag
+732,2017-11-08 17:00:00,Why Critics Are Slamming an Increasingly Popular Private Equity Format    ,0,1,0,0,2,2,0.034323115,0.43161294,0.53406394,Neu,-0.3972898,iimag
+736,2017-11-07 23:30:00,Ackman Loses ADP Proxy Battle    ,0,1,0,0,0,1,0.041403446,0.28813696,0.67045957,Neu,-0.24673352,iimag
+737,2017-11-07 23:00:00,The 2018 All-America Executive Team: What Makes a Top CEO    ,0,1,0,0,5,16,0.038996443,0.025211342,0.9357922,Neu,0.0137851015,iimag
+741,2017-11-06 21:30:00,Saudi Arabia Signals Pending Power Shift with Mass Arrests    ,0,1,0,0,1,0,0.07928349,0.085739955,0.83497655,Neu,-0.0064564645,iimag
+742,2017-11-06 18:30:00,Why the U.K.'s Once-Hot Student Housing Sector May Be Cooling Off    ,0,1,0,0,1,0,0.068918094,0.61941653,0.31166545,Neg,-0.5504984,iimag
+744,2017-11-06 04:00:00,China's ICBC Sets Up Global Asset Management Company    ,0,1,0,0,2,1,0.042365324,0.0151896,0.94244516,Neu,0.027175725,iimag
+749,2017-11-05 17:00:00,Cybersecurity Dominates the Conversation at Sibos    ,0,1,0,0,0,0,0.05230629,0.027119633,0.92057407,Neu,0.025186658,iimag
+752,2017-11-05 15:00:00,Bill Gross Made a Mess of PIMCO. Manny Roman Is Here to Clean It Up    ,1,1,0,0,0,0,0.042286646,0.19034934,0.76736397,Neu,-0.14806269,iimag
+771,2017-11-03 18:30:00,China's ICBC Sets Up Global Asset Management Company    ,0,1,0,0,1,1,0.042365324,0.0151896,0.94244516,Neu,0.027175725,iimag
+779,2017-11-02 16:20:00,Cybersecurity Dominates the Conversation at Sibos    ,0,1,0,0,1,0,0.05230629,0.027119633,0.92057407,Neu,0.025186658,iimag
+784,2017-11-01 20:30:00,Bill Gross Made a Mess of PIMCO. Manny Roman Is Here to Clean It Up    ,1,1,0,0,4,1,0.042286646,0.19034934,0.76736397,Neu,-0.14806269,iimag
+786,2017-11-01 16:00:00,What Is the True Impact of Passive Investing?   Sponsored by   ,1,1,0,0,1,0,0.034745768,0.02911061,0.93614364,Neu,0.005635157,iimag
+796,2017-10-30 01:00:00,Why Emerging Funds Struggle to Put on Weight    ,0,1,0,0,1,2,0.050301068,0.066522,0.8831769,Neu,-0.016220935,iimag
+810,2017-10-28 19:00:00,Is the Dollar Still a Safe Haven    ,0,1,0,0,1,2,0.31720766,0.03130348,0.6514889,Neu,0.28590417,iimag
+812,2017-10-28 16:00:00,How Universities Are Failing Finance Students    ,0,1,0,0,0,7,0.032471392,0.5995736,0.367955,Neg,-0.5671022,iimag
+815,2017-10-27 22:26:02,Why Emerging Funds Struggle to Put on Weight    ,0,1,0,0,2,2,0.050301068,0.066522,0.8831769,Neu,-0.016220935,iimag
+818,2017-10-27 17:00:00,Learn how to reap significant rewards from the new emerging market order   sponsored by   ,1,1,0,0,1,1,0.42327148,0.0074956007,0.5692328,Neu,0.41577587,iimag
+831,2017-10-24 16:30:00,How Universities Are Failing Finance Students    ,0,1,0,0,2,6,0.032471392,0.5995736,0.367955,Neg,-0.5671022,iimag
+834,2017-10-23 19:00:00,Is the Dollar Still a Safe Haven    ,0,1,0,0,0,0,0.31720766,0.03130348,0.6514889,Neu,0.28590417,iimag
+836,2017-10-23 17:00:00,"Plan Sponsors Love TDFs, Participants Fear Volatility   sponsored by   ",1,1,0,0,0,0,0.020842621,0.64158666,0.33757073,Neg,-0.62074405,iimag
+838,2017-10-22 20:00:00,What the Active vs. Passive Debate Is Really About    ,0,1,0,0,1,1,0.03294652,0.0691057,0.89794785,Neu,-0.03615918,iimag
+840,2017-10-22 18:00:00,Evacuating the Billionaires    ,0,1,0,0,0,1,0.02830207,0.54372376,0.42797422,Neg,-0.5154217,iimag
+844,2017-10-22 00:00:00,Insider Traders Less Likely to Get Caught if SEC is Far Away    ,0,1,0,0,0,1,0.050069008,0.23742071,0.7125103,Neu,-0.1873517,iimag
+847,2017-10-21 22:00:00,What Renaissance Technologies Has That You Don't...   ,0,1,0,0,2,12,0.04433709,0.06502028,0.8906426,Neu,-0.020683188,iimag
+848,2017-10-21 21:00:00,Citi Boasts Most Rising Stars in Equity Research    ,0,1,0,0,1,2,0.7273808,0.010300139,0.262319,Pos,0.71708065,iimag
+853,2017-10-21 17:00:00,FCA Creates Program to Help Startups in Asset Management    ,0,1,0,0,0,0,0.5220881,0.009285487,0.46862644,Pos,0.5128026,iimag
+855,2017-10-21 16:00:04,Bankrolling the Big Short    ,0,1,0,0,1,2,0.17765908,0.16632724,0.65601367,Neu,0.011331841,iimag
+856,2017-10-21 16:00:00,"CalPERS, CPPIB Named Among World’s Most Responsible Allocators    ",0,1,0,0,0,0,0.8877121,0.011768228,0.10051968,Pos,0.8759439,iimag
+860,2017-10-20 17:30:00,Evacuating the Billionaires    ,0,1,0,0,2,3,0.02830207,0.54372376,0.42797422,Neg,-0.5154217,iimag
+862,2017-10-20 16:04:00, CIO  challenges the herd by looking for opportunities where others don't   OFI Global sponsored  ,1,1,0,0,1,0,0.120202996,0.025750125,0.8540469,Neu,0.09445287,iimag
+866,2017-10-19 19:00:00,What the Active vs. Passive Debate Is Really About    ,0,1,0,0,1,0,0.03294652,0.0691057,0.89794785,Neu,-0.03615918,iimag
+868,2017-10-18 18:00:00,Filling the gap between expected and required return   whitepaper sponsored by   ,1,1,0,0,0,1,0.0838335,0.02160235,0.89456415,Neu,0.062231153,iimag
+870,2017-10-18 16:15:03,Bankrolling the Big Short    ,0,1,0,0,0,2,0.17765908,0.16632724,0.65601367,Neu,0.011331841,iimag
+871,2017-10-18 14:00:00,Investors seek relief from burdens of regulation     sponsored  ,1,1,0,0,0,1,0.6571014,0.03803352,0.30486506,Pos,0.61906785,iimag
+873,2017-10-17 21:42:00,Insider Traders Less Likely to Get Caught if SEC is Far Away    ,0,1,0,0,3,3,0.050069008,0.23742071,0.7125103,Neu,-0.1873517,iimag
+874,2017-10-17 21:00:00,What Renaissance Technologies Has That You Don't...   ,0,1,0,0,1,0,0.04433709,0.06502028,0.8906426,Neu,-0.020683188,iimag
+875,2017-10-17 20:00:00,Citi Boasts Most Rising Stars in Equity Research    ,0,1,0,0,0,0,0.7273808,0.010300139,0.262319,Pos,0.71708065,iimag
+877,2017-10-17 16:00:00,"CalPERS, CPPIB Named Among World’s Most Responsible Allocators    ",0,1,0,1,4,3,0.8877121,0.011768228,0.10051968,Pos,0.8759439,iimag
+878,2017-10-17 14:00:00,FCA Creates Program to Help Startups in Asset Management    ,0,1,0,0,1,1,0.5220881,0.009285487,0.46862644,Pos,0.5128026,iimag
+887,2017-10-16 00:00:00,CalSTRS Invests $250 Million in Timber Joint Venture    ,0,1,0,1,2,0,0.16157557,0.0070717325,0.8313527,Neu,0.15450384,iimag
+889,2017-10-15 22:00:00,"ESG Focus Dents Returns, Investors Fear    ",0,1,0,0,1,0,0.010266002,0.9618932,0.02784084,Neg,-0.9516272,iimag
+894,2017-10-15 15:00:00,Only 15% of Alternative Investment Teams are Female    ,0,1,0,0,0,1,0.030720433,0.027090134,0.9421894,Neu,0.0036302991,iimag
+900,2017-10-14 17:00:00, takes the crown as the best American research firm. Again. See the full AART rankings:    ,0,1,0,0,0,0,0.4911453,0.01123396,0.49762076,Neu,0.47991136,iimag
+905,2017-10-14 14:30:00,"""Inaccurate and Misinformed"": Bridgewater Hits Back at Jim Grant Attack    ",0,1,0,0,1,0,0.033693872,0.79396147,0.17234464,Neg,-0.7602676,iimag
+907,2017-10-13 15:00:00,Is bond volatility set for a comeback? What you need to know   whitepaper sponsored by   ,1,1,0,0,1,0,0.043005843,0.030628191,0.926366,Neu,0.012377651,iimag
+908,2017-10-13 14:14:00,"""Inaccurate and Misinformed"": Bridgewater Hits Back at Jim Grant Attack    ",0,1,0,2,9,9,0.033693872,0.79396147,0.17234464,Neg,-0.7602676,iimag
+910,2017-10-12 22:30:00,CalSTRS Invests $250 Million in Timber Joint Venture    ,0,1,0,0,1,1,0.16157557,0.0070717325,0.8313527,Neu,0.15450384,iimag
+913,2017-10-12 19:00:00,Only 15% of Alternative Investment Teams are Female    ,0,1,0,0,2,0,0.030720433,0.027090134,0.9421894,Neu,0.0036302991,iimag
+914,2017-10-12 18:30:00,"ESG Focus Dents Returns, Investors Fear    ",0,1,0,0,1,3,0.010266002,0.9618932,0.02784084,Neg,-0.9516272,iimag
+916,2017-10-12 17:00:00,"As bonds exceed expectations, worries lessen regarding fixed income   sponsored by Lyxor ETF  ",1,1,0,0,1,0,0.9178615,0.04794701,0.03419143,Pos,0.86991453,iimag
+922,2017-10-11 15:45:00,Procter & Gamble's Win is Rare in a Year of Activist Gains    ,0,1,0,0,1,2,0.31953192,0.22360945,0.45685863,Neu,0.09592247,iimag
+927,2017-10-10 19:00:00,Announcing  2017 All-America Research Team. Find out what changed – and what stayed the same. AART2017  ,1,1,0,0,3,4,0.047829535,0.019223537,0.9329469,Neu,0.028605998,iimag
+929,2017-10-10 16:50:05,"Evercore-ISI senior managing director/senior research analyst Glenn Schorr ranks among the top analysts in this year’s AART2017. Glenn made first team in brokers, asset managers & exchanges sector.    ",1,1,0,0,0,0,0.20123692,0.0104750125,0.788288,Neu,0.19076191,iimag
+930,2017-10-10 16:34:01,"Mark Moerdler, managing director, SVP, and senior research analyst at Bernstein, places first in the software sector AART2017    ",0,1,0,0,0,0,0.29501763,0.014589628,0.6903928,Neu,0.280428,iimag
+931,2017-10-10 16:13:02,"AART2017 top economics and strategy analyst Dubravko Lakos-Bujas, head of U.S. equity strategy and global quantitative research at  It’s becoming increasingly important to adopt an integrated approach when conducting research that blends different disciplines.  ",1,1,0,0,1,2,0.24219757,0.008574989,0.7492274,Neu,0.23362258,iimag
+932,2017-10-10 16:05:05,"“I’m a big believer that people are just a product of their ecosystem,” says AART2017 Hall-of-Fame inductee Ali Dibadj, partner and senior analyst at Bernstein.     ",0,1,0,0,1,2,0.68652195,0.014504671,0.29897344,Pos,0.6720173,iimag
+933,2017-10-10 16:00:00,"This is a very humbling business,” says Evercore-ISI senior managing director, Umer Raffat. AART2017    ",0,1,0,0,0,4,0.032944966,0.1862869,0.78076816,Neu,-0.15334193,iimag
+934,2017-10-10 14:27:00,"Only one analyst — Bernstein’s Ali Dibadj, covering beverage, household, and personal care products — broke into the AART2017 Hall of Fame, the division of the elite analysts who have made first team ten times or more.   AART2017  ",1,1,0,0,2,1,0.084465235,0.014600589,0.90093416,Neu,0.069864646,iimag
+935,2017-10-10 13:53:04,"“At the end of the day, the [MIFID II] offers a great opportunity for really good, differentiated analysts to rise above – but getting there is going to be really tough,” Lisa Ellis, senior research analyst at Bernstein.    AART2017  ",0,1,0,0,2,2,0.64844537,0.16705808,0.18449658,Pos,0.4813873,iimag
+936,2017-10-10 13:30:00,. managing director Zalman (Shneur) Gershuni ranks among the top analysts in this year’s AART2017.    ,0,1,0,0,0,0,0.35804838,0.010423357,0.63152826,Neu,0.34762502,iimag
+937,2017-10-10 13:02:00,"Only one analyst — Bernstein’s Ali Dibadj, covering beverage, household, and personal care products — broke into the AART2017 Hall of Fame, the division of the elite analysts who have made first team ten times or more.    ",1,1,0,0,1,1,0.10297441,0.015959559,0.88106596,Neu,0.08701485,iimag
+939,2017-10-10 12:40:00,". held onto their spot from last year, this year tying for 4th place with  and    AART2017",1,1,0,0,0,1,0.9237151,0.012949186,0.06333575,Pos,0.91076595,iimag
+940,2017-10-10 12:30:00,"Evercore-ISI takes third place in AART2017, holding on to their spot from last year. See full rankings:   AART2017",0,1,0,0,0,1,0.62843794,0.026618974,0.34494308,Pos,0.601819,iimag
+941,2017-10-10 12:20:00,Second-place goes to  Again. See the full AART rankings:   AART2017,0,1,0,0,0,1,0.036862843,0.027088976,0.93604815,Neu,0.009773867,iimag
+942,2017-10-10 12:10:00,. once again takes the crown as the best American research firm. See the full rankings:   AART2017,0,1,0,0,0,1,0.70897466,0.010600293,0.2804251,Pos,0.6983744,iimag
+943,2017-10-10 12:05:00,Announcing the 46th edition of InstitutionalInvestor’s All-America Research Team. See the full rankings:   AART2017  ,1,1,0,0,2,3,0.035113797,0.02135295,0.94353324,Neu,0.013760846,iimag
+952,2017-10-09 14:00:00,How much do you know about All-America Research Team Leaders? Test your knowledge here:   AART2017  ,0,1,0,0,0,0,0.035338633,0.023841877,0.9408195,Neu,0.011496756,iimag
+954,2017-10-08 22:00:00,Most Investors Say They Will Back Activist Peers    ,0,1,1,0,1,1,0.11230702,0.12449575,0.7631972,Neu,-0.012188733,iimag
+958,2017-10-08 18:00:00,Fidelity’s Star Technology Fund Manager Gavin Baker Departs    ,0,1,0,0,2,2,0.018461218,0.5583699,0.42316893,Neg,-0.53990865,iimag
+959,2017-10-08 17:00:00,Secondary Investors Say Blackstone is Their Top Pick    ,0,1,0,0,1,1,0.13599482,0.011953956,0.85205126,Neu,0.124040864,iimag
+969,2017-10-07 15:00:00,Borrowing Terms Loosen as Direct Lending Competition Rises    ,0,1,0,0,1,1,0.10708934,0.8645169,0.028393777,Neg,-0.7574276,iimag
+972,2017-10-06 20:00:00,Most Investors Say They Will Back Activist Peers    ,0,1,1,0,1,0,0.11230702,0.12449575,0.7631972,Neu,-0.012188733,iimag
+974,2017-10-06 18:00:00,Fidelity’s Star Technology Fund Manager Gavin Baker Departs    ,0,1,0,0,0,1,0.018461218,0.5583699,0.42316893,Neg,-0.53990865,iimag
+976,2017-10-05 00:00:00,Secondary Investors Say Blackstone is Their Top Pick    ,0,1,0,0,2,0,0.13599482,0.011953956,0.85205126,Neu,0.124040864,iimag
+978,2017-10-04 22:30:00,Borrowing Terms Loosen as Direct Lending Competition Rises    ,0,1,0,0,0,0,0.10708934,0.8645169,0.028393777,Neg,-0.7574276,iimag
+979,2017-10-04 17:00:00,Asset allocation is replacing security selection as top source of alpha     sponsored  ,1,1,0,0,1,5,0.060901005,0.017993094,0.92110586,Neu,0.04290791,iimag
+980,2017-10-04 16:00:00,How much do you know about  All-America Research Team Leaders? Find out here:   AART2017  ,0,1,0,0,0,0,0.02794923,0.03040567,0.94164515,Neu,-0.0024564397,iimag
+985,2017-10-03 15:00:00,One week to go until the country’s top analysts are crowned in the AART2017. Who will stay on top?   ,1,1,1,0,0,0,0.053525224,0.022195546,0.9242793,Neu,0.031329677,iimag
+990,2017-10-02 14:00:00,What Quant and Discretionary Strategies Have in Common    ,0,1,0,0,2,0,0.040041152,0.026629904,0.9333289,Neu,0.013411248,iimag
+991,2017-10-02 04:00:00,"High Fines Make Working in U.K. Risky, Asset Managers Say    ",0,1,0,0,1,0,0.016984649,0.9281833,0.05483198,Neg,-0.9111987,iimag
+992,2017-10-02 02:00:00,What Quant and Discretionary Strategies Have in Common    ,0,1,0,0,2,1,0.040041152,0.026629904,0.9333289,Neu,0.013411248,iimag
+993,2017-10-01 23:00:00,"Record Number of Private Equity Funds Fighting for Assets, Investor Capital    ",0,1,0,0,2,1,0.04231392,0.26854438,0.68914175,Neu,-0.22623046,iimag
+995,2017-10-01 20:00:00,". latest avenueofgiants column for our September issue: The Powerful, Sleeping Giants    ",0,1,0,0,2,1,0.039659377,0.029744845,0.93059576,Neu,0.009914532,iimag
+998,2017-10-01 16:00:00,Who is the Robert Moses of Asset Management?     ,0,1,0,0,0,2,0.028249526,0.09747547,0.87427497,Neu,-0.069225945,iimag
+1002,2017-09-30 23:00:03,Investing in a Time of Chaos    ,0,1,0,0,0,0,0.098009475,0.02932233,0.8726682,Neu,0.06868714,iimag
+1009,2017-09-30 21:00:00,"ESG - Or Else, Consultants Warn Pension Clients    ",0,1,0,0,3,2,0.026506491,0.08211277,0.8913808,Neu,-0.055606276,iimag
+1011,2017-09-30 19:00:00,Schroders Picks Up Ex-BlackRock Exec    ,0,1,0,0,0,1,0.03526821,0.025335226,0.9393965,Neu,0.009932984,iimag
+1013,2017-09-30 18:00:00,Why Ultra-Long Bonds Are an Ultra-Long Shot    ,0,1,0,0,1,2,0.037006658,0.04508196,0.9179114,Neu,-0.008075301,iimag
+1015,2017-09-30 16:00:00,Ackman Claims ADP Is Drastically Overstating Its Stock Returns    ,0,1,0,0,1,0,0.009056781,0.9684759,0.022467254,Neg,-0.9594191,iimag
+1016,2017-09-30 15:00:00,"REITs Have Matured, but Investors Are Still Skittish    ",0,1,0,0,0,2,0.026101176,0.9356845,0.038214277,Neg,-0.90958333,iimag
+1017,2017-09-29 22:10:00,"Record Number of Private Equity Funds Fighting for Assets, Investor Capital    ",0,1,0,0,4,3,0.04231392,0.26854438,0.68914175,Neu,-0.22623046,iimag
+1020,2017-09-29 16:02:02,Learn how to reap significant rewards from the new emerging market order   sponsored by   ,1,1,0,0,1,1,0.42327148,0.0074956007,0.5692328,Neu,0.41577587,iimag
+1021,2017-09-29 16:00:00,". latest avenueofgiants column for our September issue: The Powerful, Sleeping Giants    ",0,1,0,0,1,4,0.039659377,0.029744845,0.93059576,Neu,0.009914532,iimag
+1025,2017-09-28 22:45:00,"High Fines Make Working in U.K. Risky, Asset Managers Say    ",0,1,0,0,1,1,0.016984649,0.9281833,0.05483198,Neg,-0.9111987,iimag
+1026,2017-09-28 17:00:00,Who is the Robert Moses of Asset Management?     ,0,1,0,0,1,1,0.028249526,0.09747547,0.87427497,Neu,-0.069225945,iimag
+1027,2017-09-28 17:00:00,Institutions are trading bond ETFs in size. Find out why     sponsored  ,0,1,0,0,0,0,0.03366538,0.034869548,0.9314651,Neu,-0.0012041666,iimag
+1030,2017-09-27 15:00:04,Investing in a Time of Chaos    ,0,1,0,0,2,0,0.098009475,0.02932233,0.8726682,Neu,0.06868714,iimag
+1034,2017-09-26 17:00:00,Access report: top 5 reasons institutional use of bond ETFs is growing     sponsored  ,1,1,0,0,0,2,0.79346865,0.008185084,0.19834626,Pos,0.78528357,iimag
+1037,2017-09-25 22:30:00,"ESG - Or Else, Consultants Warn Pension Clients    ",0,1,0,0,4,3,0.026506491,0.08211277,0.8913808,Neu,-0.055606276,iimag
+1040,2017-09-25 20:40:00,Schroders Picks Up Ex-BlackRock Exec    ,0,1,0,0,2,2,0.03526821,0.025335226,0.9393965,Neu,0.009932984,iimag
+1043,2017-09-25 17:00:00,Ackman Claims ADP Is Drastically Overstating Its Stock Returns    ,0,1,0,0,0,2,0.009056781,0.9684759,0.022467254,Neg,-0.9594191,iimag
+1044,2017-09-25 16:00:00,Why Ultra-Long Bonds Are an Ultra-Long Shot    ,0,1,0,0,0,0,0.037006658,0.04508196,0.9179114,Neu,-0.008075301,iimag
+1045,2017-09-25 15:00:00,"REITs Have Matured, but Investors Are Still Skittish    ",0,1,0,0,2,0,0.026101176,0.9356845,0.038214277,Neg,-0.90958333,iimag
+1052,2017-09-24 17:00:00,Harvard Endowment Gains 8.1% Under New CEO    ,0,1,0,0,2,3,0.9263618,0.03259133,0.04104686,Pos,0.89377046,iimag
+1053,2017-09-24 15:00:00,China's Green Powerhouse is Going Global    ,0,1,0,0,0,0,0.62447876,0.015223507,0.3602978,Pos,0.60925525,iimag
+1057,2017-09-24 00:00:00,Most Public Pensions Don't Know What They Own    ,0,1,0,0,1,4,0.019192548,0.10192833,0.87887913,Neu,-0.082735784,iimag
+1062,2017-09-23 17:00:00,A Hacker's Guide to Destroying the Global Economy    ,0,1,0,1,2,1,0.06878619,0.041398916,0.8898149,Neu,0.027387273,iimag
+1063,2017-09-23 16:00:00,Controversial Real-Estate Tycoon is Wanted in China    ,1,1,0,0,2,0,0.020591721,0.7226732,0.25673506,Neg,-0.70208144,iimag
+1064,2017-09-23 14:01:01,II's latest WarStories goes inside the walls of BridgewaterAssociates with      ,0,1,0,0,0,0,0.039920498,0.028655067,0.93142444,Neu,0.011265431,iimag
+1069,2017-09-21 17:00:00,What are the primary drivers of ETF growth around the world?     sponsored  ,1,1,0,0,0,0,0.065447636,0.014421739,0.9201306,Neu,0.051025897,iimag
+1073,2017-09-20 22:00:00,Most Public Pensions Don't Know What They Own    ,0,1,0,0,0,4,0.019192548,0.10192833,0.87887913,Neu,-0.082735784,iimag
+1074,2017-09-20 18:11:00,Controversial Real-Estate Tycoon is Wanted in China    ,1,1,0,0,1,0,0.020591721,0.7226732,0.25673506,Neg,-0.70208144,iimag
+1076,2017-09-20 17:00:00,TDFs: A strategic approach to investment that avoids complications of tactical allocation   Sponsored by ,1,1,0,0,1,1,0.13275342,0.009097042,0.8581496,Neu,0.12365638,iimag
+1077,2017-09-20 15:33:00,"""Global Outlook: Looking Beyond the Cycle"" assess RE values in a long-term context    sponsored whitepaper",1,1,0,0,1,1,0.22265169,0.009485296,0.767863,Neu,0.2131664,iimag
+1080,2017-09-19 21:29:03,II's latest WarStories goes inside the walls of BridgewaterAssociates with     ,0,1,0,0,0,0,0.039920498,0.028655067,0.93142444,Neu,0.011265431,iimag
+1081,2017-09-19 20:06:00,Harvard Endowment Gains 8.1% Under New CEO    ,0,1,0,0,1,0,0.9263618,0.03259133,0.04104686,Pos,0.89377046,iimag
+1082,2017-09-19 17:30:00,China's Green Powerhouse is Going Global    ,0,1,0,0,1,1,0.62447876,0.015223507,0.3602978,Pos,0.60925525,iimag
+1083,2017-09-19 17:00:00,Top reasons why institutions around the world are stepping up their use of ETFs     sponsored  ,1,1,0,0,0,1,0.15711768,0.030985665,0.8118967,Neu,0.12613201,iimag
+1086,2017-09-19 14:00:00,A Hacker's Guide to Destroying the Global Economy    ,0,1,0,0,0,0,0.06878619,0.041398916,0.8898149,Neu,0.027387273,iimag
+1089,2017-09-18 17:00:00,Emerging economies face outsized idiosyncratic risks. But with these risks may come rewards   sponsored by   ,1,1,1,0,1,0,0.18020657,0.021931577,0.7978619,Neu,0.158275,iimag
+1091,2017-09-15 15:00:00,Is bond volatility set for a comeback? What you need to know   whitepaper sponsored by   ,1,1,0,0,1,1,0.043005843,0.030628191,0.926366,Neu,0.012377651,iimag
+1093,2017-09-14 15:31:01,"Ken  speaks to starting banking business during a financial catastrophe, on  latest WarStories    ",0,1,0,1,3,7,0.061528448,0.018126225,0.9203453,Neu,0.043402225,iimag
+1095,2017-09-13 20:30:00,Hedge Fund Alpha Is on the Wane    ,0,1,0,0,1,0,0.020653578,0.879455,0.09989151,Neg,-0.85880136,iimag
+1098,2017-09-12 22:08:00,Dimon: Don't Worry About JPMorgan    ,0,1,0,0,2,2,0.06642657,0.035627183,0.8979462,Neu,0.030799385,iimag
+1100,2017-09-12 21:13:05,Jim Chanos is Shorting Continental Resources    ,0,1,0,0,1,0,0.01708806,0.07395868,0.90895325,Neu,-0.05687062,iimag
+1101,2017-09-12 20:22:01,"Disbanding CEO councils is not a big deal. The group itself became a distraction, says Jamie Dimon.. DeliveringAlpha",1,1,0,0,2,0,0.01070383,0.85223174,0.13706447,Neg,-0.84152794,iimag
+1102,2017-09-12 19:53:00," I bet on Mark Zuckerberg when I was 20, and I'll never bet against Mark Zuckerberg  DeliveringAlpha",1,1,1,0,0,0,0.040403295,0.0313528,0.92824394,Neu,0.009050496,iimag
+1103,2017-09-12 19:43:05,. says he's staying out of China because of IP threats DeliveringAlpha,0,1,0,0,0,0,0.03528432,0.4120005,0.55271524,Neu,-0.3767162,iimag
+1104,2017-09-12 19:33:04,"""I ask the very best entrepreneurs and technologists what is most interesting to them"" says Jim Breyer with Breyer Capital on the AI panel",0,1,0,0,0,0,0.16197993,0.008734395,0.8292857,Neu,0.15324554,iimag
+1107,2017-09-12 17:59:00,"Blackstone's Schwarzman Isn't Worried About High Valuations,  reports from DeliveringAlpha    ",1,1,0,1,2,4,0.12261477,0.021560624,0.8558246,Neu,0.10105415,iimag
+1108,2017-09-12 17:44:01,Robertson's advice to young people: you ought to be darn sure you love the field and that should be what guides you. DeliveringAlpha,0,1,1,1,4,3,0.10271562,0.01349308,0.8837913,Neu,0.089222535,iimag
+1109,2017-09-12 17:38:05,"We've seen 50% in earnings for  this year, which is unbelievable, says Hedge fund manager giant Robertson DeliveringAlpha",1,1,0,0,0,0,0.94706476,0.023156134,0.029779093,Pos,0.92390865,iimag
+1110,2017-09-12 17:33:05,"Now, the   the  are cheaper than they would have been in the 60s, 70s, 80s - says Billionaire Julian Robertson",1,1,1,0,3,2,0.55537647,0.018890481,0.42573306,Pos,0.53648597,iimag
+1111,2017-09-12 17:27:05,"Trump will ask Janet Yellen to stay on as Fed chair, predicts Julian Robertson DeliveringAlpha",0,1,1,1,2,2,0.043934185,0.029289266,0.9267766,Neu,0.014644919,iimag
+1112,2017-09-12 17:00:00,How are institutions using ETFs as a tool to adjust sector allocations?     sponsored  ,1,1,0,0,2,0,0.060252164,0.020156676,0.9195911,Neu,0.040095486,iimag
+1115,2017-09-12 16:21:04,"Very few people leave our firm. We were voted the best place to work in finance, says Schwarzman at DeliveringAlpha",1,1,0,0,1,0,0.38514113,0.040633053,0.5742258,Neu,0.34450808,iimag
+1116,2017-09-12 16:13:03,Schwarzman at DeliveringAlpha: I'm optimistic that the worst we'll do in tax reform is a tax cut somewhere between 25 and 28 percent.,0,1,1,0,2,0,0.6529059,0.13466033,0.21243377,Pos,0.5182456,iimag
+1117,2017-09-12 16:06:05,"""How often do I meet with the president? That's none of your business."" says  Stephen A. Schwarzman",0,1,0,1,1,0,0.03637678,0.12210769,0.84151554,Neu,-0.08573091,iimag
+1118,2017-09-12 16:03:05,Live now at DeliveringAlpha: Blackstone's Stephen Schwarzman makes a rare public appearance with Michelle Caruso-Cabrera,0,1,0,0,0,0,0.17493919,0.0112369135,0.81382394,Neu,0.16370228,iimag
+1121,2017-09-12 15:25:04,"""I never had any money. I started in a two-bedroom apartment,"" says Dalio at DeliveringAlpha",1,1,0,0,0,1,0.06759905,0.024281152,0.90811986,Neu,0.0433179,iimag
+1122,2017-09-12 15:21:03,". I need independent thinkers who engage in a process of thoughtful disagreement and ""believable decision making"" DeliveringAlpha",0,1,0,0,3,8,0.09876886,0.014935444,0.8862957,Neu,0.08383342,iimag
+1123,2017-09-12 15:16:01,"""I was told that my process of being totally radically truthful was hurting people's morale,"" says  DeliveringAlpha",1,1,0,0,0,1,0.017832085,0.9525725,0.0295954,Neg,-0.9347404,iimag
+1124,2017-09-12 15:11:05,"It would be terrible if garycohn left, and it would be bad for the market, says  DeliveringAlpha",0,1,1,0,2,0,0.009063659,0.95865995,0.032276403,Neg,-0.9495963,iimag
+1125,2017-09-12 15:00:00,"Ray Dalio, who recently topped  Rich List, speaks at DeliveringAlpha    ",1,1,0,0,0,0,0.054377608,0.017191693,0.9284307,Neu,0.037185915,iimag
+1126,2017-09-12 14:54:02,"Don't become too exuberant as a business player, Leon Cooperman warns. DeliveringAlpha",0,1,0,0,0,0,0.082058914,0.03139453,0.88654655,Neu,0.050664384,iimag
+1127,2017-09-12 14:52:03,"""The market will do what it wants to do when it wants to do it"" Leon Cooperman says at DeliveringAlpha",0,1,1,0,1,0,0.09904266,0.012755511,0.88820183,Neu,0.08628715,iimag
+1129,2017-09-12 14:34:04,"""We expect that volatility will increase, moving forward"" Mark Baumgartner, CIO at ",0,1,1,0,0,0,0.9322243,0.016594764,0.05118093,Pos,0.9156295,iimag
+1130,2017-09-12 14:32:02,"Real estate is the fundamental basic of all that happens in America, and we remain interested in it, says  Mary Callahan Erdoes",0,1,0,0,0,1,0.1048661,0.009827037,0.88530684,Neu,0.09503906,iimag
+1131,2017-09-12 14:25:03,"Unless you have top talent doing the work, you won't stay on top of trends that change on the dime, says  Mary Callahan Erdoes",0,1,1,0,0,1,0.0847241,0.030337328,0.8849386,Neu,0.054386772,iimag
+1132,2017-09-12 14:19:02,"We believe that Alpha is out there. You have to find positive, sustainable, consistent Alpha, says  Mark Baumgartner. DeliveringAlpha",0,1,0,0,0,1,0.52433074,0.009327498,0.46634173,Pos,0.51500326,iimag
+1133,2017-09-12 14:12:05,"With great returns, risks have risen. We don't feel we're compensating for that gap, says Mark Maumgartner DeliveringAlpha",1,1,0,0,1,3,0.9139978,0.043796677,0.04220543,Pos,0.8702012,iimag
+1134,2017-09-12 14:06:04,"Thank God Alpha's back. We're in a zone where you're really going back to the fundamentals, says Mary Callahan Erdoes with ",0,1,0,0,0,2,0.7455012,0.021735167,0.23276356,Pos,0.723766,iimag
+1135,2017-09-12 14:04:01,Our very own  takes the stage to discuss global opportunities at DeliveringAlpha,0,1,0,0,0,1,0.13698834,0.009139488,0.8538721,Neu,0.12784885,iimag
+1136,2017-09-12 13:54:05,"""I assure you we are working with all necessary information systems to keep the American people safe.""  at DeliveringAlpha",0,1,0,0,0,1,0.18273276,0.011894937,0.8053723,Neu,0.17083782,iimag
+1137,2017-09-12 13:52:05,"Economic warfare works. I made it clear that anybody wanting to trade with North Korea, we won't trade with them, says ",1,1,1,0,1,3,0.10758888,0.064846955,0.8275641,Neu,0.042741925,iimag
+1139,2017-09-12 13:37:01,"""We are going to get this tax system competitive,""  tells  DeliveringAlpha",0,1,0,0,2,2,0.9253882,0.013340841,0.061270982,Pos,0.9120474,iimag
+1140,2017-09-12 13:31:04,"""Whatever the is needed of the government to contribute to this, we will do so,""  speaking about hurricaneimra",1,1,1,0,0,1,0.3849979,0.008963548,0.6060386,Neu,0.37603435,iimag
+1142,2017-09-12 12:59:00,Looking forward to a day of live tweeting at today's DeliveringAlpha with best ideas for Alpha from:   and more.  ,0,1,0,0,1,1,0.18039931,0.008781977,0.81081873,Neu,0.17161733,iimag
+1143,2017-09-12 03:00:00,The Future of China's Economy is Digital  ,0,1,0,0,1,1,0.054297768,0.0382747,0.90742755,Neu,0.016023066,iimag
+1151,2017-09-06 16:49:00,Morning Brief: Third Point Extends Gains in August  ,0,1,0,0,0,0,0.8973405,0.048772678,0.053886812,Pos,0.8485678,iimag
+1163,2017-09-01 16:00:00,Vanguard Increases Proxy Engagement    ,0,1,0,2,2,1,0.16735901,0.012383464,0.82025754,Neu,0.15497555,iimag
+1168,2017-08-30 20:20:00,London Real Estate Investment Surpasses Pre-Crisis High    ,0,1,0,0,2,1,0.8939346,0.011623861,0.09444164,Pos,0.88231075,iimag
+1170,2017-08-30 17:00:00,Emerging Market Hedge Funds Reach Record Highs    ,0,1,0,0,3,3,0.85162574,0.03192436,0.11644992,Pos,0.8197014,iimag
+1178,2017-08-28 17:00:00,China's Ping An Turns to Venture Capital for Technology Edge    ,0,1,0,0,0,1,0.13062546,0.016505582,0.852869,Neu,0.11411987,iimag
+1182,2017-08-25 17:00:00,Smoking in the Boys' Room    ,0,1,0,0,1,0,0.025881076,0.21857402,0.7555449,Neu,-0.19269294,iimag
+1184,2017-08-25 01:00:00,The E-mail Bill Ackman Wasn't Supposed to See    ,1,1,0,0,0,1,0.024545241,0.09569585,0.87975895,Neu,-0.071150616,iimag
+1188,2017-08-23 21:33:05,And the Most Popular Active Manager Is...    ,0,1,0,1,2,1,0.09170381,0.013179031,0.8951171,Neu,0.078524776,iimag
+1190,2017-08-23 19:00:00,More Active Managers Are Beating Passive Funds    ,0,1,0,0,2,2,0.17528033,0.094905965,0.7298137,Neu,0.08037437,iimag
+1194,2017-08-23 14:00:00,Report: Hedge fund managers get optimistic    ,0,1,0,0,2,1,0.10299426,0.46081206,0.43619365,Neg,-0.3578178,iimag
+1195,2017-08-22 23:30:00,Ana Marshall with  is announced as a finalist for CIO of the Year. Read more about why here:   ACA2017  ,1,1,0,0,1,2,0.07039692,0.016117733,0.91348535,Neu,0.05427919,iimag
+1196,2017-08-22 23:00:00,". ACA2017 finalist, under Tim Barrett who created a place where talent wants to be.    ",1,1,0,0,0,1,0.19895163,0.009853075,0.79119533,Neu,0.18909855,iimag
+1197,2017-08-22 22:30:00,"Change Maker of the Year finalists announced, including:    investment team. ACA2017    ",1,1,0,0,2,0,0.031440858,0.019523304,0.94903576,Neu,0.011917554,iimag
+1198,2017-08-22 22:00:00,The $10 billion  endowment is in the running for  Tech User of the Year award. ACA2017    ,0,1,0,0,0,1,0.15302084,0.012789409,0.8341898,Neu,0.14023143,iimag
+1202,2017-08-22 20:45:00,"The Caisse de dépôt and  partnership, is a candidate for  ACA2017    ",0,1,0,0,0,0,0.11947323,0.008509917,0.8720169,Neu,0.11096331,iimag
+1203,2017-08-22 20:30:00,Investment office of  and  are in the running for Partnership of the Year. ACA2017  ,0,1,0,0,0,0,0.09966925,0.012203238,0.88812757,Neu,0.08746601,iimag
+1208,2017-08-22 01:00:00,Bridging the Gay Gap    ,0,1,0,0,0,0,0.3912608,0.03583031,0.57290894,Neu,0.35543048,iimag
+1211,2017-08-21 21:00:00,Abandoning the Pension Rat Race    ,0,1,0,0,0,1,0.04033336,0.19015536,0.7695113,Neu,-0.149822,iimag
+1213,2017-08-21 17:00:00,Looking for yield? Now is the time to consider emerging markets debt.   sponsored by   ,1,1,0,0,0,2,0.047687996,0.021810185,0.9305018,Neu,0.025877811,iimag
+1216,2017-08-18 20:00:00,"""Global Outlook: Looking Beyond the Cycle"" assess RE values in a long-term context    sponsored whitepaper",1,1,0,0,6,0,0.22265169,0.009485296,0.767863,Neu,0.2131664,iimag
+1217,2017-08-18 19:50:04,Abandoning the Pension Rat Race    ,0,1,0,0,7,2,0.04033336,0.19015536,0.7695113,Neu,-0.149822,iimag
+1218,2017-08-18 19:00:00,Ackman Says Changing ADP Will Likely Require a New CEO    ,0,1,0,0,0,0,0.025016077,0.15676527,0.8182186,Neu,-0.13174918,iimag
+1220,2017-08-18 17:00:00,"Morgan Stanley, Ex-Bank of America Employees Charged in Insider Trading Ring    ",0,1,0,0,0,1,0.019567091,0.77818155,0.2022514,Neg,-0.7586145,iimag
+1222,2017-08-18 15:15:00,Bridging the Gay Gap    ,0,1,0,0,0,1,0.3912608,0.03583031,0.57290894,Neu,0.35543048,iimag
+1224,2017-08-17 21:04:01,Ackman Says Changing ADP Will Likely Require a New CEO    ,0,1,0,1,2,1,0.025016077,0.15676527,0.8182186,Neu,-0.13174918,iimag
+1226,2017-08-17 19:41:03,Bridging the Gay Gap    ,0,1,0,0,1,0,0.3912608,0.03583031,0.57290894,Neu,0.35543048,iimag
+1227,2017-08-17 19:00:00,Fund Firms Turn Up the Heat on Executive Pay - and It's Working    ,0,1,0,0,0,1,0.08343428,0.051750485,0.8648152,Neu,0.03168379,iimag
+1229,2017-08-17 15:00:00,"Morgan Stanley, Ex-Bank of America Employees Charged in Insider Trading Ring    ",0,1,0,0,1,2,0.019567091,0.77818155,0.2022514,Neg,-0.7586145,iimag
+1237,2017-08-15 19:00:00,How are institutions using ETFs as a tool to adjust sector allocations?     sponsored,1,1,0,0,0,0,0.060252164,0.020156676,0.9195911,Neu,0.040095486,iimag
+1238,2017-08-15 17:00:00,The E-mail Bill Ackman Wasn't Supposed to See    ,1,1,0,0,0,1,0.024545241,0.09569585,0.87975895,Neu,-0.071150616,iimag
+1240,2017-08-14 21:32:00,The E-mail Bill Ackman Wasn't Supposed to See    ,1,1,0,0,2,1,0.024545241,0.09569585,0.87975895,Neu,-0.071150616,iimag
+1242,2017-08-14 18:00:00,Old Mutual Lays Out Timetable for Four-way Split    ,0,1,0,0,1,1,0.0515597,0.015991837,0.9324484,Neu,0.035567865,iimag
+1243,2017-08-14 16:00:00,What Makes a Firm a Target for Activists?     ,0,1,0,0,0,1,0.033257186,0.08675374,0.879989,Neu,-0.053496554,iimag
+1244,2017-08-14 14:00:00,Smoking in the Boys' Room    ,0,1,0,0,0,0,0.025881076,0.21857402,0.7555449,Neu,-0.19269294,iimag
+1246,2017-08-11 19:00:00,Institutions are trading bond ETFs in size. Find out why     sponsored,0,1,0,0,0,0,0.03366538,0.034869548,0.9314651,Neu,-0.0012041666,iimag
+1253,2017-08-10 18:00:00,These Are the Best-Paying Investment Banks    ,0,1,0,0,0,0,0.1172958,0.012436576,0.8702676,Neu,0.104859225,iimag
+1257,2017-08-09 20:25:03,These Are the Best-Paying Investment Banks    ,0,1,0,0,0,1,0.1172958,0.012436576,0.8702676,Neu,0.104859225,iimag
+1259,2017-08-09 19:00:00,Big Investors 'Missing Out' on Big Data Opportunities    ,0,1,0,0,1,1,0.013191423,0.9097392,0.077069305,Neg,-0.8965478,iimag
+1260,2017-08-09 19:00:00,Access report: top 5 reasons institutional use of bond ETFs is growing     sponsored,1,1,0,0,0,1,0.79346865,0.008185084,0.19834626,Pos,0.78528357,iimag
+1263,2017-08-08 21:00:00,Unpacking Hartford's Top Decile Returns    ,0,1,0,0,0,0,0.118654266,0.043689813,0.8376559,Neu,0.07496445,iimag
+1268,2017-08-08 14:00:00,Investors looking to diversify fixed-income portfolios should consider international debt   sponsored by   ,1,1,1,0,0,0,0.10130532,0.009811367,0.88888335,Neu,0.09149396,iimag
+1271,2017-08-07 21:00:00,Surging Tesla Is the Most Shorted Stock  ,0,1,0,0,2,1,0.059018563,0.5429436,0.39803782,Neg,-0.48392504,iimag
+1272,2017-08-07 19:00:00,Asia Hedge Funds Are Dominating 2017    ,0,1,0,0,0,1,0.14362766,0.020900154,0.8354722,Neu,0.122727506,iimag
+1274,2017-08-07 17:06:02,Unpacking Hartford’s Top Decile Returns    ,1,1,0,0,0,2,0.12715673,0.04861951,0.82422376,Neu,0.078537226,iimag
+1276,2017-08-07 15:00:00,Unpacking Hartford's Top Decile Returns    ,0,1,0,0,0,0,0.118654266,0.043689813,0.8376559,Neu,0.07496445,iimag
+1284,2017-08-04 19:48:01,Asia Hedge Funds Are Dominating 2017    ,0,1,0,0,3,4,0.14362766,0.020900154,0.8354722,Neu,0.122727506,iimag
+1292,2017-08-03 19:00:00, &  surveyed 200 global managers & investors to assess how perspectives about alts have changed    ,1,1,0,0,1,1,0.077727325,0.0150936255,0.9071791,Neu,0.0626337,iimag
+1297,2017-07-27 15:30:00,Private Capital Managers Are Charging Higher Fees    ,0,1,0,0,1,2,0.09898553,0.43706658,0.46394792,Neu,-0.33808106,iimag
+1301,2017-07-25 15:00:00,Pension Protection Fund Loses Its CEO    ,0,1,0,0,0,0,0.015543679,0.92053825,0.06391809,Neg,-0.90499455,iimag
+1302,2017-07-25 14:00:00,Goldman's Asset Management Arm is Bullish on Equities - For Now    ,0,1,0,0,2,1,0.21085753,0.036176816,0.7529656,Neu,0.17468071,iimag
+1303,2017-07-25 03:00:00,Carnegie CIO Goes It Alone    ,0,1,0,1,2,2,0.097435616,0.01804486,0.8845195,Neu,0.07939076,iimag
+1306,2017-07-24 17:00:00,Are you reaping the rewards of the volatility risk premium?   whitepaper sponsored by   ,1,1,0,0,1,2,0.06493529,0.019414598,0.9156501,Neu,0.045520693,iimag
+1308,2017-07-22 01:00:00,"It may seem counterintuitive, but responsible investing appeals to the rebel in me. Here's why.    ",0,1,1,0,1,1,0.0808116,0.027904464,0.89128387,Neu,0.05290713,iimag
+1309,2017-07-21 19:00:00,Is Growth the New Value?     ,0,1,0,0,0,0,0.07185523,0.030095058,0.8980497,Neu,0.041760176,iimag
+1310,2017-07-21 15:00:00,Investors are putting money in hedge funds again    ,0,1,0,1,0,0,0.04325296,0.031008968,0.9257381,Neu,0.012243992,iimag
+1312,2017-07-20 20:12:00,Credit Market Investing: Stop Watching the Clock. The Fundamentals Matter More.   whitepaper sponsored by   ,1,1,0,0,2,1,0.031789504,0.03136332,0.93684715,Neu,0.0004261844,iimag
+1317,2017-07-19 19:00:00,"""Global Outlook: Looking Beyond the Cycle"" assess RE values in a long-term context    sponsored whitepaper",1,1,0,0,1,4,0.22265169,0.009485296,0.767863,Neu,0.2131664,iimag
+1318,2017-07-19 17:00:00,China's Internet Sector Grows Up    ,0,1,0,0,0,0,0.78288984,0.009120303,0.20798993,Pos,0.77376956,iimag
+1320,2017-07-19 15:00:00,The Best Distressed Fund You've Never Heard Of    ,0,1,0,0,0,0,0.09535307,0.01540052,0.8892464,Neu,0.079952545,iimag
+1328,2017-07-17 19:30:00, read our latest cover story that looks at the decades-long quest to bring you down.    ,0,1,0,0,0,0,0.08370208,0.016368816,0.8999291,Neu,0.067333266,iimag
+1334,2017-07-14 13:00:00,"Chinese companies are committed to corporate governance in Asia,  Will Rowlands-Rees tells     ",0,1,0,0,1,0,0.47374523,0.0089921765,0.5172625,Neu,0.46475306,iimag
+1336,2017-07-13 22:09:00,. CEO steps down    ,0,1,0,0,0,0,0.019215608,0.64447826,0.3363061,Neg,-0.6252627,iimag
+1340,2017-07-13 17:00:00,"Chinese companies are committed to corporate governance in Asia,  Will Rowlands-Rees tells   ",0,1,0,0,0,0,0.47374523,0.0089921765,0.5172625,Neu,0.46475306,iimag
+1346,2017-07-12 19:30:00,Competition heats up among Asian executives    ,0,1,0,0,0,0,0.09998616,0.059679046,0.84033483,Neu,0.040307112,iimag
+1353,2017-07-06 15:00:00,Why I Go to Australia. A Lot.    ,0,1,0,0,0,1,0.061266944,0.040913556,0.8978195,Neu,0.020353388,iimag
+1356,2017-07-05 19:00:00,Why I Go to Australia. A Lot.    ,0,1,0,0,0,1,0.061266944,0.040913556,0.8978195,Neu,0.020353388,iimag
+1357,2017-07-05 19:00:00,Emerging Markets Debt: Has the Rally Run its Course?   whitepaper sponsored by   ,1,1,0,0,2,0,0.037399467,0.03493637,0.92766416,Neu,0.0024630986,iimag
+1366,2017-06-29 17:00:00,Bonds Are Different: Active Versus Passive Management in 12 Points    [Partner Content] whitepaper,0,1,0,0,0,0,0.05506891,0.019162323,0.92576873,Neu,0.035906587,iimag
+1368,2017-06-29 13:01:01,". reveals the late-night call that took him to Hollywood, working with  &     ",1,1,0,0,0,3,0.08951649,0.011930105,0.89855343,Neu,0.07758638,iimag
+1369,2017-06-29 04:00:00,Inside Ping An's Massive Expansion    ,0,1,0,0,0,1,0.069730654,0.021845585,0.9084238,Neu,0.047885068,iimag
+1371,2017-06-28 23:00:00,Inside Ping An's Massive Expansion    ,0,1,0,0,2,0,0.069730654,0.021845585,0.9084238,Neu,0.047885068,iimag
+1377,2017-06-27 21:00:00,Bank of America Tops II's Emerging Market Research Ranking    ,0,1,0,0,0,0,0.18205456,0.009835109,0.80811036,Neu,0.17221946,iimag
+1380,2017-06-27 15:00:00,NYC's Scott Evans on Turning Around the City's Pension System    ,0,1,0,0,0,2,0.21059895,0.013747959,0.7756531,Neu,0.19685099,iimag
+1384,2017-06-26 18:00:00,Where Are CFOs Investing Their Funds? A recent survey reveals plans for growth   by ,0,1,0,0,0,1,0.1541679,0.0119666215,0.83386546,Neu,0.14220129,iimag
+1388,2017-06-23 17:00:00,Are you reaping the rewards of the volatility risk premium?   whitepaper sponsored by   ,1,1,0,0,1,2,0.06493529,0.019414598,0.9156501,Neu,0.045520693,iimag
+1389,2017-06-23 15:00:00,What Pirates Can Teach Us About Hedge Funds    ,0,1,1,0,2,2,0.061900623,0.017550083,0.9205492,Neu,0.044350542,iimag
+1390,2017-06-23 13:00:00,Even the Most Skilled Hedge Funds are Bad at Predicting Crises    ,0,1,0,0,1,3,0.029906474,0.57093203,0.39916152,Neg,-0.5410256,iimag
+1394,2017-06-22 16:15:00,Credit Suisse Takes the Crown in All-Asia Sales    ,0,1,0,0,2,6,0.12239121,0.014951415,0.86265737,Neu,0.10743979,iimag
+1397,2017-06-22 02:29:04,"""Entering my 25th year at  I've been thinking about the legacy I'll leave behind,"" says Tom Hill.  HedgeFundAwards",1,1,1,0,0,1,0.052506547,0.029580178,0.91791326,Neu,0.02292637,iimag
+1398,2017-06-22 02:25:02,"""We’re on the cusp of another big wave of finance. Hedge funds need to be different,"" says Tom Hill at HedgeFundAwards",0,1,0,0,0,1,0.13232386,0.02443464,0.8432415,Neu,0.10788922,iimag
+1399,2017-06-22 02:24:03,"""I give a ___ what Paul Singer thinks,"" says Tom Hill in response to  June cover story  ",0,1,0,0,1,1,0.050921947,0.035327382,0.9137507,Neu,0.015594564,iimag
+1401,2017-06-22 01:07:03,"""Tom Hill is the Kendall Jenner of the room tonight,"" jokes MC  HedgeFundAwards",0,1,0,0,0,2,0.03126131,0.045297015,0.9234417,Neu,-0.0140357055,iimag
+1402,2017-06-22 01:04:04,"Kicking off this year's 15th Annual HedgeFundAwards, hosted by Institutional Investor.  ",1,1,0,0,0,1,0.098299235,0.017173616,0.88452715,Neu,0.08112562,iimag
+1404,2017-06-21 19:00:00,CalPERS Board Approves Potential Raises for Investment Team    ,0,1,0,0,1,1,0.4453522,0.014980955,0.53966683,Neu,0.43037125,iimag
+1405,2017-06-21 18:11:01,Could Hellman & Friedman Have Survived as Friedman and Hellman? Sponsor Select Sector SPDR    ,1,1,0,0,0,1,0.058050156,0.012203374,0.9297465,Neu,0.045846783,iimag
+1406,2017-06-21 15:00:00,The Future According to Britt Harris    ,0,1,0,1,0,2,0.08440312,0.021625657,0.89397126,Neu,0.06277746,iimag
+1407,2017-06-21 13:00:00,The 2016 Hedge Fund Rising Stars: Shining Brightly in Tough Times  ,0,1,0,0,0,0,0.7562173,0.015484175,0.22829852,Pos,0.74073315,iimag
+1409,2017-06-19 18:00:00,Watch asset management thought leaders in Creating a Resilient Portfolio   roundtable sponsored by ,1,1,0,0,0,0,0.44221297,0.0075277397,0.5502593,Neu,0.43468523,iimag
+1415,2017-06-16 13:00:00,Institutional Investor columnist  discovers a crime foretold    ,0,1,0,0,2,4,0.070095725,0.17679739,0.75310683,Neu,-0.106701665,iimag
+1419,2017-06-15 23:00:00,JPMorgan Steps Up Focus on Large Clients    ,0,1,0,0,0,2,0.23574503,0.022849688,0.7414053,Neu,0.21289533,iimag
+1420,2017-06-15 21:00:00,"Viking Loses CIO, Plans to Return $8 Billion of Capital    ",0,1,0,0,0,0,0.08272042,0.028992524,0.88828707,Neu,0.053727895,iimag
+1421,2017-06-15 19:00:00,Investors Need a Better Green Filter    ,0,1,0,0,0,0,0.1996866,0.015199216,0.7851142,Neu,0.18448739,iimag
+1423,2017-06-15 17:00:00,Bill Gross: Investors Are Seriously Threatened    ,1,1,0,0,3,4,0.014309809,0.92147416,0.06421596,Neg,-0.90716434,iimag
+1424,2017-06-15 16:00:00,How Allocators are Weatherproofing Their Portfolios    ,0,1,0,0,1,0,0.0575891,0.023134876,0.91927606,Neu,0.034454223,iimag
+1425,2017-06-15 15:00:00,Investors Want Private-Equity Firms to Take Hard Look at Cybersecurity    ,0,1,0,0,0,0,0.052979376,0.035130452,0.91189015,Neu,0.017848924,iimag
+1428,2017-06-14 17:00:00,Bonds Are Different: Active Versus Passive Management in 12 Points    [Partner Content] whitepaper,0,1,0,0,0,0,0.05506891,0.019162323,0.92576873,Neu,0.035906587,iimag
+1431,2017-06-08 19:24:01,Josh Gotbaum plays Hollywood snakes on Wall Street ladders in warstories. Sponsored By Select Sector SPDR.    ,1,1,0,0,0,3,0.041267104,0.015940117,0.9427928,Neu,0.025326988,iimag
+1432,2017-06-08 17:00:00,Paul Singer doesn’t give a - - - what you think. Our latest dive into ElliottManagement’s Paul Singer on   ,0,1,0,0,1,11,0.030568497,0.041151572,0.92828,Neu,-0.010583075,iimag
+1434,2017-06-08 13:00:00,Why ElliottManagement's Paul Singer is the last hedge fund pit bull — via     ,0,1,0,0,1,3,0.026974779,0.11192771,0.8610975,Neu,-0.084952936,iimag
+1437,2017-06-06 19:00:00,Arnott: Markets Don't Care Who's in Office    ,0,1,0,0,2,4,0.0337495,0.08850977,0.87774074,Neu,-0.05476027,iimag
+1438,2017-06-06 17:00:00,Mercer: Majority of European Pensions Now See Cash Flow Deficits  ,0,1,0,0,0,1,0.009164951,0.9636785,0.027156614,Neg,-0.95451355,iimag
+1439,2017-06-06 15:00:00,The Reckoning on Round Hill Road    ,0,1,0,0,2,3,0.050176755,0.034603667,0.9152196,Neu,0.015573088,iimag
+1440,2017-06-06 15:00:00,Finding Alpha in a Time of Lower Fees and Rising Costs   sponsored by  [Partner Content],1,1,0,0,0,1,0.6316075,0.014088156,0.35430437,Pos,0.6175193,iimag
+1448,2017-05-19 15:00:00,Taming the Data Sea – 5 Essential Questions for Building a Better Data Strategy    [Partner Content],0,1,0,0,1,3,0.10754265,0.019110821,0.87334657,Neu,0.08843183,iimag
+1449,2017-05-18 15:00:00,Emerging-market debt: Navigating the allocation dilemma    Whitepaper [Partner Content],0,1,0,0,0,0,0.0698362,0.016601015,0.91356283,Neu,0.053235184,iimag
+1454,2017-05-16 20:30:00,"Appaloosa Management’s David Tepper comes in at 5th place, with $700 million. RichList",0,1,0,1,1,0,0.04210868,0.01906543,0.93882585,Neu,0.02304325,iimag
+1456,2017-05-16 19:15:00, multistrategy funds makes no. 9 on  2017 RichList.,0,1,0,0,0,0,0.15482455,0.018270753,0.8269048,Neu,0.1365538,iimag
+1457,2017-05-16 18:45:00,Managers in the top 25 of Alpha’s Rich List have earned a combined $203.6 billion. RichList,1,1,0,0,0,1,0.06634673,0.01423393,0.9194193,Neu,0.052112795,iimag
+1458,2017-05-16 18:30:00,. Kenneth Griffin makes  2017 RichList.,0,1,0,0,0,0,0.11648083,0.024747305,0.85877186,Neu,0.09173352,iimag
+1459,2017-05-16 18:26:01,"Quants rule: of the top five managers, 4 hail from firms that employ computer-driven investment strategies   RichList  ",0,1,0,0,5,6,0.0413431,0.018607415,0.9400495,Neu,0.022735685,iimag
+1462,2017-05-16 18:15:00,The minimum a manager needed to earn in 2016 to qualify for this year’s RichList: $130 million.  ,1,1,0,0,1,1,0.052436285,0.025349472,0.9222142,Neu,0.027086813,iimag
+1463,2017-05-16 17:32:01,Renaissance Technologies founder James Simons is the only person to make the RichList all 16 years.    ,0,1,0,0,0,0,0.04354891,0.016542137,0.9399089,Neu,0.027006775,iimag
+1466,2017-05-16 13:15:00,RenaissanceTechnologies' Jim Simons once again takes home the crown as highest-earning hedge fund manager in  RichList.  ,0,1,0,0,2,5,0.89778465,0.015713032,0.086502396,Pos,0.8820716,iimag
+1469,2017-05-16 12:52:00,"To qualify for top 25, managers had to earn $130M—the lowest since 2011.  2017 RichList ranks hedge fund royalty.",1,1,0,0,1,1,0.01882074,0.87374127,0.10743799,Neg,-0.8549205,iimag
+1470,2017-05-16 12:48:05,"Alpha's 2017 RichList sees its lowest total since 2005, CNBC reports.",0,1,0,0,0,0,0.0060242885,0.96956855,0.024407113,Neg,-0.96354425,iimag
+1472,2017-05-16 12:46:00,"If you believe there are individuals on earth who can on years beat the market, these numbers will rebound, says  RichList.",0,1,1,0,0,0,0.9287552,0.012019093,0.05922568,Pos,0.9167361,iimag
+1473,2017-05-16 12:37:05,"Bad news for hedge funds in the middle: They're taking different fee structures and the average fee is coming down,  tells   ",0,1,0,0,0,3,0.009402082,0.9554663,0.035131726,Neg,-0.9460642,iimag
+1475,2017-05-16 12:13:00,Ranking hedge fund royalty  ,0,1,0,0,1,5,0.07050597,0.026994381,0.9024997,Neu,0.043511588,iimag
+1481,2017-05-11 17:00:00,Ray Dalio: Fired FBI Director James Comey is a 'Hero'    ,0,1,0,0,2,4,0.114046924,0.49396485,0.3919882,Neg,-0.37991792,iimag
+1495,2017-05-03 23:00:00,Fund executives run for cover as regulators toughen up    ,0,1,0,0,0,0,0.024988053,0.75004315,0.22496872,Neg,-0.7250551,iimag
+1498,2017-05-03 17:00:00,. seeks new investment chief    ,0,1,0,0,0,0,0.16739576,0.009914676,0.8226896,Neu,0.15748107,iimag
+1499,2017-05-03 03:00:00,Alternative asset managers make IR hires at record pace    ,0,1,0,0,0,2,0.1616956,0.016549915,0.8217545,Neu,0.14514568,iimag
+1500,2017-05-03 01:00:00,"AllianceBernstein replaces CEO, most of board    ",0,1,0,0,0,0,0.01921473,0.27886713,0.7019181,Neu,-0.2596524,iimag
+1501,2017-05-02 23:00:00,The investment industry needs more women. And that's no bull.    ,0,1,0,1,0,6,0.117297545,0.026406959,0.85629547,Neu,0.09089059,iimag
+1504,2017-05-02 18:00:00,Bonds Are Different: Active Versus Passive Management in 12 Points    [Partner Content] whitepaper,0,1,0,0,0,1,0.05506891,0.019162323,0.92576873,Neu,0.035906587,iimag
+1513,2017-04-28 17:00:00,Announcing the Allocator Finalists for Institutional Investor's Hedge Fund Industry Awards    ,0,1,0,0,0,0,0.06790622,0.013669282,0.9184245,Neu,0.05423694,iimag
+1515,2017-04-27 23:00:00,Insurers Make an About-Face on Market Expectations    ,0,1,0,0,0,2,0.0151483035,0.8489871,0.13586465,Neg,-0.8338388,iimag
+1516,2017-04-27 21:00:00,Fear Mongering in China's Sale of U.S. Debt    ,0,1,0,0,1,0,0.023313737,0.89111024,0.08557593,Neg,-0.8677965,iimag
+1517,2017-04-27 17:00:00,Recruiters Still Waiting for Brexit Job Rush to Frankfurt    ,0,1,0,0,1,0,0.01895301,0.8960914,0.0849557,Neg,-0.8771384,iimag
+1518,2017-04-27 15:00:00,The New Risks Facing Money Market Funds    ,0,1,0,0,0,0,0.110933,0.08450476,0.8045622,Neu,0.026428238,iimag
+1524,2017-04-26 17:00:00,Mizuho Takes Top Spot on 2017 All-Japan Sales Team Ranking    ,0,1,0,0,0,1,0.68896765,0.016636906,0.29439548,Pos,0.67233074,iimag
+1525,2017-04-26 15:00:04,Airing at 2PMEST Today! Join   &  in this webcast on Factor Investing    ,0,1,0,0,0,0,0.045221522,0.0148454085,0.939933,Neu,0.030376114,iimag
+1528,2017-04-24 15:00:05,Reminder! Join   &  4/26 for an informative discussion on Factor Investing    ,0,1,0,0,1,0,0.053971164,0.015671287,0.9303576,Neu,0.038299877,iimag
+1531,2017-04-20 15:00:02,Just 5 days to go! Register for Factor Perspectives: Separating Factors From Fiction. Airing 4/26:  ,0,1,0,0,0,1,0.04902026,0.021699077,0.92928064,Neu,0.027321184,iimag
+1532,2017-04-20 01:00:00,Asset management is one of the world’s most profitable and exciting businesses. Why should we even worry about disrupters?  ,0,1,1,0,1,4,0.06627088,0.026563006,0.9071661,Neu,0.039707877,iimag
+1535,2017-04-19 19:00:00,Robots Suck at Value Investing    ,0,1,0,0,1,4,0.028802603,0.5165344,0.4546631,Neg,-0.48773178,iimag
+1539,2017-04-18 15:00:00,On Factor Investing: Which factors are robust and why? Find out with   &  4/26.  ,0,1,0,0,0,0,0.058129925,0.015807334,0.92606276,Neu,0.04232259,iimag
+1541,2017-04-17 19:00:00,Is Tech's next hot thing a lukewarm investment?    ,0,1,0,0,0,1,0.14213577,0.020005068,0.8378592,Neu,0.1221307,iimag
+1548,2017-04-14 23:00:00,1996 Called. It Wants Its Tech Back.    ,0,1,0,0,0,2,0.26544905,0.01991399,0.71463704,Neu,0.24553506,iimag
+1551,2017-04-14 17:00:05,Looking beyond first-world and third-world: our Emerging Markets Local Bond Strategy    [Partner Content],0,1,0,0,0,1,0.09235713,0.011035939,0.8966069,Neu,0.08132119,iimag
+1552,2017-04-13 23:00:00,Wall Street's nerds: The world's most powerful trading executives   trading40  ,0,1,0,0,4,9,0.050191306,0.039219365,0.9105893,Neu,0.010971941,iimag
+1553,2017-04-13 20:21:00,"Hedge funds with strong, powerful names attract the most money    ",0,1,0,2,0,2,0.19134638,0.020073917,0.7885797,Neu,0.17127246,iimag
+1554,2017-04-13 15:00:00,"How are factor models doing? Join  ,  &  for factor & smartbeta strategy  ",0,1,0,0,0,2,0.05583722,0.013295838,0.93086696,Neu,0.042541385,iimag
+1556,2017-04-12 21:00:00,A winemaker confronts the ESG market. Will he succeed?    ,0,1,1,0,1,3,0.07660427,0.05316164,0.87023413,Neu,0.02344263,iimag
+1558,2017-04-12 17:01:02,Global business leaders anticipate an increase investment in growth and jobs    [Partner Content]  ,0,1,0,0,0,0,0.6920847,0.022553086,0.28536224,Pos,0.66953164,iimag
+1560,2017-04-11 21:00:00,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,0,1,3,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1562,2017-04-11 14:32:04,Best practices for constructing a defined contribution investment lineup    Whitepaper Partner Content,1,1,0,0,0,0,0.06297838,0.014128899,0.92289275,Neu,0.04884948,iimag
+1563,2017-04-10 23:00:00,Announcing this year's 25 top pension power players:   pensionpower25  ,0,1,0,0,0,2,0.12415372,0.009350918,0.8664953,Neu,0.1148028,iimag
+1565,2017-04-10 17:00:05,Hey CFOs! A new report shows that you are ascendant like never before!     [Partner Content],0,1,0,0,0,0,0.23584905,0.024411932,0.739739,Neu,0.21143712,iimag
+1567,2017-04-07 21:00:00,What does the American dream mean now?    ,0,1,0,0,0,1,0.031754646,0.083722204,0.88452315,Neu,-0.051967558,iimag
+1568,2017-04-07 19:00:00,Preqin: Private debt fund fees fall as assets soar    ,0,1,0,0,0,1,0.011943772,0.9637194,0.024336863,Neg,-0.95177567,iimag
+1570,2017-04-06 21:00:00,The end of research as we know it?    ,0,1,0,0,0,1,0.02576439,0.10759903,0.8666366,Neu,-0.08183464,iimag
+1571,2017-04-06 19:16:05,Lescure Leaves Caisse de dépôt CIO Post for Politics    ,0,1,0,0,0,0,0.058723222,0.07285072,0.868426,Neu,-0.014127497,iimag
+1572,2017-04-06 19:00:00,"As active managers struggle, one firm hunts for deals    ",0,1,0,0,0,4,0.02397048,0.6557835,0.32024604,Neg,-0.631813,iimag
+1575,2017-04-06 01:00:00,FCA to banks: You’re not off the hook    ,0,1,0,0,1,1,0.07540539,0.124069594,0.800525,Neu,-0.048664205,iimag
+1577,2017-04-05 21:00:00,U.S. Pensions aim to be more like Canadian funds    ,0,1,0,0,4,1,0.109037414,0.014379654,0.876583,Neu,0.094657764,iimag
+1579,2017-04-05 19:00:00,SoundPoint Capital sells minority interest to Dyal Capital    ,0,1,0,0,1,1,0.029884666,0.026636396,0.94347894,Neu,0.0032482706,iimag
+1580,2017-04-05 17:01:04,Julian Robertson pulls money from NehalChopra’s Ratan    ,1,1,0,0,4,4,0.046930738,0.046133675,0.9069356,Neu,0.0007970631,iimag
+1581,2017-04-05 17:01:01,New report reveals that companies globally are set to increase hiring in 2017    [Partner Content]  ,1,1,0,0,1,0,0.72289795,0.037462253,0.23963982,Pos,0.6854357,iimag
+1588,2017-04-04 03:00:00,The hedging strategy that’s cheaper than hedge funds    ,0,1,0,1,2,6,0.23482056,0.009325309,0.7558541,Neu,0.22549525,iimag
+1593,2017-04-03 18:38:05,"The pace of global growth is accelerating, led by North America and Asia    [Partner Content]",1,1,0,0,0,2,0.92730737,0.011780675,0.060911972,Pos,0.9155267,iimag
+1594,2017-04-03 17:00:00,Giving on (more than) a prayer   BonJovi  ,0,1,0,0,1,0,0.13139287,0.01756599,0.85104114,Neu,0.11382688,iimag
+1596,2017-03-31 21:00:04,"The pace of global growth is accelerating, led by North America and Asia   [Partner Content]",1,1,0,0,0,1,0.92730737,0.011780675,0.060911972,Pos,0.9155267,iimag
+1597,2017-03-31 21:00:00,Will public pensions regret dumping hedge funds?    ,0,1,1,0,1,4,0.05234156,0.08189951,0.8657589,Neu,-0.029557947,iimag
+1599,2017-03-31 15:00:02,Longevity & Liabilities: Bridging the Gap     whitepaper [Partner Content],0,1,0,0,1,2,0.0342097,0.07257269,0.8932176,Neu,-0.038362995,iimag
+1600,2017-03-31 15:00:00,Private equity firms adopt fee-reporting template as investors demand transparency    ,0,1,0,0,2,4,0.04941724,0.021038122,0.9295447,Neu,0.028379116,iimag
+1601,2017-03-31 03:00:00,The allocators’ view: energy investing    ,0,1,0,0,1,1,0.049751833,0.014001133,0.93624705,Neu,0.035750702,iimag
+1602,2017-03-31 01:00:00,"Finance’s ‘high achievers’ to outpace growth in banking, asset management    ",1,1,0,0,0,0,0.6510265,0.014758583,0.33421496,Pos,0.6362679,iimag
+1604,2017-03-30 21:00:00,Dimensional Fund Advisors grapples with its future   smartbeta  ,0,1,0,0,0,0,0.046588074,0.25351992,0.699892,Neu,-0.20693184,iimag
+1605,2017-03-30 20:01:00,Emerging Markets Fixed Income: Opportunity in Diversity    ebook [Partner Content]  ,0,1,0,0,3,3,0.12100548,0.013147135,0.86584735,Neu,0.107858345,iimag
+1606,2017-03-30 19:00:00,BlueBay snubs Portuguese bank’s bond issue amid concerns    ,0,1,0,0,0,0,0.032969035,0.8694824,0.097548574,Neg,-0.83651334,iimag
+1607,2017-03-30 17:00:03,Red-hot quant funds cool off    ,0,1,0,0,0,1,0.11391241,0.16992329,0.7161643,Neu,-0.05601088,iimag
+1610,2017-03-30 03:00:00,How hedge funds exploit sell-side analysts    ,0,1,0,1,0,2,0.031769168,0.07098628,0.8972445,Neu,-0.03921711,iimag
+1611,2017-03-30 01:00:00,Iowa Public Pension Plan is the latest fund to cut expected returns    ,0,1,0,0,0,2,0.024877392,0.86514735,0.10997525,Neg,-0.84027,iimag
+1612,2017-03-29 23:00:00,Wall Street's nerds: The world's most powerful trading executives   trading40  ,0,1,0,0,2,4,0.050191306,0.039219365,0.9105893,Neu,0.010971941,iimag
+1613,2017-03-29 21:00:00,1996 Called. It Wants Its Tech Back.    ,0,1,0,0,1,0,0.26544905,0.01991399,0.71463704,Neu,0.24553506,iimag
+1614,2017-03-29 19:00:00,Behind Bitcoin’s harrowing roller coaster ride    ,1,1,0,0,1,0,0.08728547,0.043020964,0.8696935,Neu,0.044264503,iimag
+1617,2017-03-29 13:01:01,K Stuart Peskin & James McCain  discuss challenges institutional investors face   webcast Partner Content,0,1,0,0,0,0,0.04119551,0.026517142,0.9322874,Neu,0.01467837,iimag
+1618,2017-03-29 13:00:00,The incredible shrinking bank   CreditSuisse  ,0,1,0,0,0,1,0.23188029,0.33644745,0.4316722,Neu,-0.104567155,iimag
+1620,2017-03-28 21:00:00,Businesses globally anticipate investing more in growth & new jobs in 2017    [Partner Content]  ,0,1,0,0,0,0,0.33323738,0.01946848,0.6472941,Neu,0.3137689,iimag
+1621,2017-03-28 21:00:00,Is the age of the powerful asset owner over? It might be.  ,0,1,1,0,0,1,0.041223202,0.06127266,0.89750415,Neu,-0.020049457,iimag
+1622,2017-03-28 19:00:00,Making the call between doom and boom   aert mislav matejka  ,0,1,0,0,0,0,0.05483512,0.04590801,0.8992569,Neu,0.008927107,iimag
+1627,2017-03-27 13:00:00,Is 60/40 the right tool for the job? Join the discussion with  on Mar 29th   webcast [Partner Content],0,1,0,0,0,0,0.064585626,0.019522024,0.91589236,Neu,0.0450636,iimag
+1628,2017-03-24 22:00:00,Hedge Fund accused of defrauding 9/11 heroes    ,1,1,0,0,1,0,0.040854093,0.5269298,0.43221614,Neg,-0.4860757,iimag
+1630,2017-03-24 18:00:00,Fitch sounds alarm on risk Trump poses to sovereign debt    ,0,1,0,0,4,2,0.03050537,0.90798396,0.061510533,Neg,-0.8774786,iimag
+1632,2017-03-23 21:25:01,Join  on Mar 29th to discuss challenges facing institutional investors   webcast [Partner Content],1,1,0,0,0,1,0.053911634,0.025520904,0.9205674,Neu,0.02839073,iimag
+1634,2017-03-23 13:05:02,StevenCohen is getting ready to make some (more) money    ,0,1,0,0,1,3,0.21185958,0.009456909,0.77868354,Neu,0.20240268,iimag
+1636,2017-03-23 00:00:00,Collapsed Icelandic bank loses legal challenge over trades    ,1,1,0,0,0,0,0.021029236,0.9440008,0.034969892,Neg,-0.92297155,iimag
+1637,2017-03-22 22:00:00,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,0,0,1,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1640,2017-03-22 18:00:00,1996 Called. It Wants Its Tech Back.    ,0,1,0,0,0,3,0.26544905,0.01991399,0.71463704,Neu,0.24553506,iimag
+1641,2017-03-22 18:00:00,"Danger for low-vol strategies, investors say    ",0,1,0,0,0,0,0.06253507,0.6086767,0.32878822,Neg,-0.5461416,iimag
+1643,2017-03-22 15:50:03,Best practices for constructing a defined contribution investment lineup    Whitepaper Partner Content,1,1,0,0,0,1,0.06297838,0.014128899,0.92289275,Neu,0.04884948,iimag
+1646,2017-03-21 20:00:00,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,0,0,0,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1647,2017-03-21 18:00:00,You want (and need) innovation. This is not It.    ,0,1,0,0,0,1,0.035932776,0.29745775,0.6666095,Neu,-0.26152498,iimag
+1648,2017-03-21 16:00:00,Wall Street's nerds: The world's most powerful trading executives   trading40  ,0,1,0,0,3,1,0.050191306,0.039219365,0.9105893,Neu,0.010971941,iimag
+1653,2017-03-20 18:00:00,Does experience matter in investing — and politics?    ,0,1,0,0,0,0,0.032989115,0.047124833,0.919886,Neu,-0.014135718,iimag
+1654,2017-03-20 16:00:00,Is 60/40 the right tool for the job? Join the discussion with  on Mar 29th   webcast [Partner Content],0,1,0,1,0,0,0.064585626,0.019522024,0.91589236,Neu,0.0450636,iimag
+1658,2017-03-17 22:00:00,Wall Street's nerds: The world's most powerful trading executives   trading40  ,0,1,0,0,1,2,0.050191306,0.039219365,0.9105893,Neu,0.010971941,iimag
+1659,2017-03-17 20:00:00,"Managers not earning their keep, say E&Fs, publicpensions    ",0,1,0,0,1,0,0.023722084,0.8177049,0.15857308,Neg,-0.7939828,iimag
+1664,2017-03-16 22:00:00,Pensions and other big investors increasingly turn to ETFs    ,0,1,0,0,1,2,0.029038912,0.22269231,0.7482688,Neu,-0.1936534,iimag
+1665,2017-03-16 20:00:00,Many European pensions still outsource private equity investments    ,0,1,0,1,0,1,0.02199615,0.10792093,0.8700829,Neu,-0.08592478,iimag
+1667,2017-03-16 18:26:05,Best practices for constructing a defined contribution investment lineup    Whitepaper Partner Content,1,1,0,0,0,1,0.06297838,0.014128899,0.92289275,Neu,0.04884948,iimag
+1668,2017-03-16 18:00:03,[Webcast] Is 60/40 the Right Tool for the Job? Register to join the discussion with    [Partner Content],0,1,0,0,0,0,0.08267316,0.017989803,0.89933705,Neu,0.06468336,iimag
+1670,2017-03-16 14:00:00,Japan ramps up retirement savings:    ,0,1,0,0,0,0,0.7496994,0.023164487,0.22713614,Pos,0.7265349,iimag
+1679,2017-03-14 22:00:00,Dissident shareholder turns up the heat on GAM    ,0,1,0,0,0,0,0.11301909,0.3098804,0.57710046,Neu,-0.19686133,iimag
+1680,2017-03-14 20:00:00,Can NZ’s super stay super?    ,0,1,1,0,0,3,0.1220054,0.025750834,0.8522438,Neu,0.09625457,iimag
+1682,2017-03-14 16:00:00,AQR’s Cliff Asness critiques the DoL’s fiduciary rule    ,1,1,0,0,0,1,0.11684933,0.70757335,0.17557733,Neg,-0.590724,iimag
+1684,2017-03-13 20:00:00,France's Amundi looks to Asia and ETFs for Growth    ,0,1,0,0,0,1,0.7403451,0.0071593984,0.25249547,Pos,0.7331857,iimag
+1686,2017-03-13 16:30:00,Why endowments are doing it wrong    ,0,1,0,0,1,1,0.032011025,0.050268494,0.9177205,Neu,-0.018257469,iimag
+1687,2017-03-13 16:00:00,Is 60/40 the right tool for the job? Join the discussion with  on Mar 29th   webcast [Partner Content],0,1,0,0,0,1,0.064585626,0.019522024,0.91589236,Neu,0.0450636,iimag
+1692,2017-03-13 00:00:00,Bill Gross: “trump mirage” won’t save the markets    ,1,1,0,1,1,2,0.20920125,0.22006258,0.57073617,Neu,-0.010861337,iimag
+1693,2017-03-12 22:00:00,Preqin: Private debt fund fees fall as assets soar    ,0,1,0,0,1,0,0.011943772,0.9637194,0.024336863,Neg,-0.95177567,iimag
+1694,2017-03-12 20:00:00,"As active managers struggle, one firm hunts for deals    ",0,1,0,0,1,4,0.02397048,0.6557835,0.32024604,Neg,-0.631813,iimag
+1697,2017-03-12 03:00:00,KKR raises $13.9 billion private equity fund    ,0,1,0,0,2,4,0.20026924,0.016308995,0.7834218,Neu,0.18396024,iimag
+1699,2017-03-11 23:00:00,"Hedge fund investors want more quant strategies, lower fees    ",0,1,0,0,0,1,0.2906907,0.022021612,0.6872877,Neu,0.26866907,iimag
+1701,2017-03-11 19:00:00,KKR raises $13.9 billion private equity fund    ,0,1,0,0,3,1,0.20026924,0.016308995,0.7834218,Neu,0.18396024,iimag
+1704,2017-03-10 19:00:00,Bill Gross: “trump mirage” won’t save the markets    ,1,1,0,0,0,1,0.20920125,0.22006258,0.57073617,Neu,-0.010861337,iimag
+1705,2017-03-10 17:51:04,"They Were Like Gods', our latest warstories series installment. See full video at   Thanks to sponsor   ",0,1,0,0,1,1,0.0532351,0.017004464,0.9297604,Neu,0.036230635,iimag
+1706,2017-03-10 17:18:04,Is the age of the powerful asset owner over? It might be.  ,0,1,1,0,0,1,0.041223202,0.06127266,0.89750415,Neu,-0.020049457,iimag
+1707,2017-03-10 17:00:00,Preqin: Private debt fund fees fall as assets soar    ,0,1,0,0,0,0,0.011943772,0.9637194,0.024336863,Neg,-0.95177567,iimag
+1708,2017-03-10 15:00:00,The pharma stocks we're buying now    ,0,1,0,0,1,0,0.063822545,0.01329864,0.92287886,Neu,0.050523907,iimag
+1709,2017-03-10 13:14:04,1996 Called. It Wants Its Tech Back.    ,0,1,0,0,1,2,0.26544905,0.01991399,0.71463704,Neu,0.24553506,iimag
+1712,2017-03-09 21:00:00,Kuwait’s Sovereign Wealth Fund Is hungry for (private) deals   kuwait  ,1,1,0,0,1,2,0.1881764,0.013923554,0.7979,Neu,0.17425284,iimag
+1713,2017-03-09 19:01:00,Is 60/40 the Right Tool for the Job? Join the discussion with  on Mar 29th   webcast [Partner Content],0,1,0,0,0,0,0.064585626,0.019522024,0.91589236,Neu,0.0450636,iimag
+1714,2017-03-09 19:00:00,"Hedge fund investors want more quant strategies, lower fees    ",0,1,0,0,3,3,0.2906907,0.022021612,0.6872877,Neu,0.26866907,iimag
+1715,2017-03-09 17:00:00,Monte Paschi’s failed road show   montepaschi italy  ,1,1,0,0,2,1,0.029027775,0.70614946,0.26482272,Neg,-0.6771217,iimag
+1716,2017-03-09 15:00:00,Is the age of the powerful asset owner over? It might be.    ,0,1,1,0,4,2,0.041223202,0.06127266,0.89750415,Neu,-0.020049457,iimag
+1717,2017-03-09 13:00:00,Why Caisse de Depot is no longer the dumb money    ,0,1,0,0,0,2,0.033924505,0.072504126,0.89357144,Neu,-0.03857962,iimag
+1718,2017-03-08 23:00:00,Will public pensions regret dumping hedge funds?    ,0,1,1,0,2,1,0.05234156,0.08189951,0.8657589,Neu,-0.029557947,iimag
+1719,2017-03-08 21:00:00,Investor relations hires soar at private capital firms    ,0,1,0,0,2,0,0.80260676,0.15101449,0.04637872,Pos,0.65159225,iimag
+1720,2017-03-08 19:00:00,Is Tech's next hot thing a lukewarm investment?    ,0,1,0,0,1,1,0.14213577,0.020005068,0.8378592,Neu,0.1221307,iimag
+1721,2017-03-08 17:00:00,A winemaker confronts the ESG market. Will he succeed?    ,0,1,1,0,0,0,0.07660427,0.05316164,0.87023413,Neu,0.02344263,iimag
+1724,2017-03-08 02:50:00,Thank you  for supporting tonight's iimosthonored awards dinner & ceremony,0,1,0,0,0,2,0.17073496,0.015940433,0.81332463,Neu,0.15479453,iimag
+1725,2017-03-08 02:45:00,A special thank you to  for sponsoring a table at tonight's iimosthonored awards dinner & ceremony,0,1,0,0,0,0,0.16958384,0.013030579,0.81738555,Neu,0.15655327,iimag
+1726,2017-03-08 02:30:00,The night is just getting started!  Stick around for the iimosthonored after-party sponsored by ,1,1,0,0,0,0,0.071377076,0.0139360735,0.91468686,Neu,0.057441004,iimag
+1728,2017-03-08 02:08:02," the first cash-back credit card, wins a iimosthonored award. Congrats!",0,1,0,0,0,0,0.72451025,0.013679196,0.26181054,Pos,0.71083105,iimag
+1730,2017-03-08 01:54:01,Congrats awardee  iimosthonored,0,1,0,0,0,0,0.19730717,0.0101277465,0.7925651,Neu,0.18717942,iimag
+1731,2017-03-08 01:51:04, is named full-sector winner at iimosthonored,1,1,0,0,0,0,0.20685494,0.01442943,0.7787156,Neu,0.1924255,iimag
+1732,2017-03-08 01:45:04,"It'd take 59 years of continuous, uninterrupted music listening to go through all the music pandora has catalogued. Congrats, ",1,1,1,0,0,0,0.4070586,0.010854042,0.5820873,Neu,0.39620456,iimag
+1735,2017-03-08 01:35:05,This company has produced enough orthopedic products to fill a stadium: Midcap winner  iimosthonored,1,1,0,0,0,0,0.81639165,0.0075678625,0.1760405,Pos,0.80882376,iimag
+1736,2017-03-08 01:33:01,"""We want to thank the outstanding judgement of all the people who voted for us,"" says iimosthonored awardee Arch Capital Group.",1,1,0,0,0,0,0.8387573,0.010662585,0.15058006,Pos,0.8280947,iimag
+1737,2017-03-08 01:26:04,Master of Ceremonies  takes the stage iimosthonored,1,1,0,1,0,1,0.036725547,0.0210557,0.9422187,Neu,0.015669847,iimag
+1739,2017-03-08 00:30:00,A toast to all the winners at tonight's iimosthonored awards dinner & ceremony! Thank you  for supporting our champagne toast.  ,0,1,0,1,2,2,0.7202187,0.012202289,0.2675789,Pos,0.70801646,iimag
+1740,2017-03-08 00:13:00,We're thrilled by the great turnout tonight at iimosthonored awards.  ,1,1,0,0,5,9,0.8272958,0.012385052,0.16031913,Pos,0.8149107,iimag
+1741,2017-03-07 23:30:00,Don't forget to get your picture taken at the iimosthonored Red Carpet Photo Booth sponsored by  Thanks   ,1,1,0,0,1,6,0.052046906,0.017248636,0.9307045,Neu,0.034798272,iimag
+1742,2017-03-07 23:15:00,Cocktails are served! Thank you  for sponsoring the cocktail reception at this year’s iimosthonored awards dinner & ceremony  ,1,1,0,0,0,0,0.23712468,0.01164903,0.75122625,Neu,0.22547565,iimag
+1746,2017-03-07 17:00:00,"As active managers struggle, one firm hunts for deals    ",0,1,0,0,0,3,0.02397048,0.6557835,0.32024604,Neg,-0.631813,iimag
+1747,2017-03-07 15:00:00,KKR raises $13.9 billion private equity fund    ,0,1,0,0,3,1,0.20026924,0.016308995,0.7834218,Neu,0.18396024,iimag
+1748,2017-03-07 13:00:00,Wall Street's nerds: The world's most powerful trading executives   trading40  ,0,1,0,0,8,10,0.050191306,0.039219365,0.9105893,Neu,0.010971941,iimag
+1749,2017-03-06 23:00:00,Announcing this year's 25 top pension power players:   pensionpower25  ,0,1,0,0,2,2,0.12415372,0.009350918,0.8664953,Neu,0.1148028,iimag
+1751,2017-03-06 19:00:00,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,1,2,1,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1753,2017-03-06 13:00:00,"CIO Alice Ruth exits Bloomberg Foundation, Family Office    ",0,1,0,0,1,1,0.02782548,0.026961956,0.94521254,Neu,0.00086352415,iimag
+1754,2017-03-06 03:00:00,What’s keeping risk officers awake at night: cybersecurity    ,1,1,0,0,1,0,0.02552656,0.35603082,0.61844265,Neu,-0.33050427,iimag
+1756,2017-03-05 23:00:00,Silver Lake’s SoFi deal shows appeal of upscale online lending    ,1,1,0,0,0,1,0.61765987,0.008966711,0.3733734,Pos,0.6086932,iimag
+1758,2017-03-05 19:00:00,Ray Dalio steps down from management at Bridgewater    ,0,1,0,0,2,3,0.020537034,0.4543163,0.5251467,Neu,-0.43377924,iimag
+1759,2017-03-05 17:00:00,Bridgewater vet Stefanova secures $100mn for Marto    ,0,1,0,0,2,0,0.7581123,0.012213209,0.22967453,Pos,0.7458991,iimag
+1760,2017-03-05 03:00:00,The sector politicians love to hate — and why we’re buying it    ,0,1,0,0,0,1,0.036902845,0.04984185,0.91325533,Neu,-0.012939006,iimag
+1762,2017-03-04 21:00:00,"Veteran hedge fund investor hits back at fees, consultants    ",0,1,0,0,5,1,0.16083382,0.15829937,0.6808668,Neu,0.002534449,iimag
+1763,2017-03-04 19:00:00,Russian hedge funds come in from the cold    ,0,1,0,0,0,2,0.10471906,0.017730746,0.87755024,Neu,0.086988315,iimag
+1764,2017-03-04 17:00:00,Hedge Fund Accused of Defrauding 9/11 Heroes    ,1,1,0,0,3,1,0.040854093,0.5269298,0.43221614,Neg,-0.4860757,iimag
+1766,2017-03-04 01:00:00,Dissident shareholder turns up the heat on GAM    ,0,1,0,0,0,1,0.11301909,0.3098804,0.57710046,Neu,-0.19686133,iimag
+1767,2017-03-03 23:00:00,Making the call between doom and boom   aert mislav matejka  ,0,1,0,0,0,1,0.05483512,0.04590801,0.8992569,Neu,0.008927107,iimag
+1768,2017-03-03 21:00:00,"Veteran hedge fund investor hits back at fees, consultants    ",0,1,0,0,3,4,0.16083382,0.15829937,0.6808668,Neu,0.002534449,iimag
+1769,2017-03-03 19:00:00,What’s keeping risk officers awake at night: cybersecurity    ,1,1,0,0,0,2,0.02552656,0.35603082,0.61844265,Neu,-0.33050427,iimag
+1770,2017-03-03 17:00:00,"Managers not earning their keep, say E&Fs, publicpensions    ",0,1,0,0,1,1,0.023722084,0.8177049,0.15857308,Neg,-0.7939828,iimag
+1771,2017-03-03 15:00:00,The sector politicians love to hate — and why we’re buying it    ,0,1,0,0,0,1,0.036902845,0.04984185,0.91325533,Neu,-0.012939006,iimag
+1772,2017-03-02 21:00:00,Pensions and other big investors increasingly turn to ETFs    ,0,1,0,0,2,2,0.029038912,0.22269231,0.7482688,Neu,-0.1936534,iimag
+1773,2017-03-02 19:00:00,Eaton Vance opens Tokyo office    ,0,1,0,0,0,0,0.056594376,0.063559145,0.8798465,Neu,-0.006964769,iimag
+1774,2017-03-02 17:00:00,Many European pensions still outsource private equity investments    ,0,1,0,0,1,1,0.02199615,0.10792093,0.8700829,Neu,-0.08592478,iimag
+1776,2017-03-02 13:00:00,Bridgewater vet Stefanova secures $100mn for Marto    ,0,1,0,0,0,0,0.7581123,0.012213209,0.22967453,Pos,0.7458991,iimag
+1778,2017-03-01 23:00:00,What does the American dream mean now?    ,0,1,0,0,1,2,0.031754646,0.083722204,0.88452315,Neu,-0.051967558,iimag
+1779,2017-03-01 21:00:00,Investors say financials will win big in 2017    ,0,1,1,0,0,1,0.9302938,0.018319657,0.05138659,Pos,0.91197413,iimag
+1781,2017-03-01 19:39:01,"Our latest warstories episode: From Lehman’s ashes rises  Thanks to our sponsor,     ",1,1,0,0,1,1,0.71864545,0.008467009,0.27288756,Pos,0.71017843,iimag
+1782,2017-03-01 19:00:00,"Transaction cost analysis makes leap to bonds, foreign exchange   tcaranking  ",0,1,0,0,1,2,0.0492713,0.015981538,0.93474716,Neu,0.03328976,iimag
+1783,2017-03-01 17:00:00,Silver Lake’s SoFi deal shows appeal of upscale online lending    ,1,1,0,0,1,2,0.61765987,0.008966711,0.3733734,Pos,0.6086932,iimag
+1785,2017-02-28 23:00:00,The end of research as we know it?    ,0,1,0,0,2,8,0.02576439,0.10759903,0.8666366,Neu,-0.08183464,iimag
+1786,2017-02-28 21:00:00,Global research firms vie for title of 2016's best      ,0,1,0,0,0,0,0.8363983,0.017647738,0.14595394,Pos,0.81875056,iimag
+1787,2017-02-28 19:00:00,"Cheyne, Novus peel back the curtain on fixed-income performance    ",0,1,0,0,0,0,0.10729335,0.13392994,0.7587768,Neu,-0.026636586,iimag
+1788,2017-02-28 17:00:00,Europe’s top trading teams bridge the divide between man versus machine    ,1,1,0,0,3,3,0.26444364,0.013437276,0.72211903,Neu,0.25100636,iimag
+1789,2017-02-28 15:00:00,Why carping over fees can cost investors in the long run    ,0,1,1,0,0,1,0.04122868,0.4937508,0.46502054,Neg,-0.45252213,iimag
+1792,2017-02-27 21:00:00,Leon Cooperman’s Omega Advisors continues to suffer from redemptions   leoncooperman  ,1,1,0,0,0,1,0.012115273,0.9356424,0.05224232,Neg,-0.9235271,iimag
+1793,2017-02-27 19:00:00,Why FRR Is stubbing out its tobacco habit    ,0,1,0,0,0,0,0.043298192,0.14575472,0.810947,Neu,-0.10245653,iimag
+1794,2017-02-27 17:00:00,SECOR asset management lures longtime CIOs Kenneth Frier and Gretchen Tai   secor  ,0,1,0,0,0,0,0.28720996,0.01909588,0.6936941,Neu,0.2681141,iimag
+1796,2017-02-27 13:04:04,Russian hedge funds come in from the cold    ,0,1,0,0,2,2,0.10471906,0.017730746,0.87755024,Neu,0.086988315,iimag
+1798,2017-02-27 01:00:00,Investors are returning to Venture Capital — but not in the way you think    ,0,1,0,3,3,5,0.13396983,0.016584348,0.8494458,Neu,0.11738548,iimag
+1799,2017-02-26 23:00:00,SEC charges Jeffrey Slocum & Associates for accepting masters golf tournament tickets    ,0,1,0,0,0,2,0.018377079,0.8597796,0.12184335,Neg,-0.84140253,iimag
+1802,2017-02-26 13:00:00,Getting rich off the management fee    ,0,1,0,0,1,2,0.11343543,0.09699354,0.78957105,Neu,0.01644189,iimag
+1804,2017-02-26 01:00:00,China Investment Corp. Chairman May Be Stepping Down to Rise Higher    ,0,1,0,0,0,0,0.021376744,0.40870363,0.5699196,Neu,-0.3873269,iimag
+1805,2017-02-25 23:00:00,McKinsey: Mounting dry powder Is nothing to worry about    ,0,1,0,0,1,3,0.053503063,0.03564568,0.9108513,Neu,0.017857384,iimag
+1806,2017-02-25 21:00:00,Why investors are pulling money from GTAA funds    ,0,1,0,0,0,3,0.034658086,0.14370018,0.82164174,Neu,-0.10904209,iimag
+1807,2017-02-25 19:00:00,China updates the silk road    ,0,1,0,0,0,0,0.034340076,0.03433798,0.931322,Neu,2.0973384e-06,iimag
+1810,2017-02-24 23:00:00,Leon Cooperman’s Omega Advisors continues to suffer from redemptions   leoncooperman  ,1,1,0,0,1,1,0.012115273,0.9356424,0.05224232,Neg,-0.9235271,iimag
+1811,2017-02-24 21:00:00,"Performance down, spending up at educational endowments    ",0,1,0,0,1,0,0.16516683,0.7683744,0.06645882,Neg,-0.6032076,iimag
+1812,2017-02-24 19:00:00,Are investors bailing on GTAA funds too soon?  ,0,1,0,0,0,1,0.020049106,0.75353867,0.2264122,Neg,-0.7334896,iimag
+1814,2017-02-24 15:00:00,Getting rich off the management fee    ,0,1,0,0,0,2,0.11343543,0.09699354,0.78957105,Neu,0.01644189,iimag
+1817,2017-02-23 23:00:00,Rising asian fintech investor AMTD goes global    ,0,1,0,0,0,0,0.62076706,0.021841852,0.35739112,Pos,0.59892523,iimag
+1818,2017-02-23 21:00:00,Will public pensions regret dumping hedge funds?    ,0,1,1,0,2,1,0.05234156,0.08189951,0.8657589,Neu,-0.029557947,iimag
+1819,2017-02-23 17:00:00,McKinsey: Mounting dry powder Is nothing to worry about    ,0,1,0,0,3,2,0.053503063,0.03564568,0.9108513,Neu,0.017857384,iimag
+1820,2017-02-23 16:45:00,Dimensional Fund Advisors grapples with its future   smartbeta dimensionalfundadvisors  ,0,1,0,0,1,5,0.036590107,0.14590639,0.8175035,Neu,-0.10931628,iimag
+1822,2017-02-23 15:00:00,Why investors are pulling money from GTAA funds    ,0,1,0,0,4,4,0.034658086,0.14370018,0.82164174,Neu,-0.10904209,iimag
+1823,2017-02-23 13:21:04,China updates the silkroad    ,0,1,0,0,0,0,0.03921382,0.032984857,0.9278013,Neu,0.006228965,iimag
+1830,2017-02-22 17:00:00,New fee structure offers hope to besieged hedge funds    ,0,1,0,0,0,0,0.8425709,0.007962794,0.14946637,Pos,0.8346081,iimag
+1833,2017-02-21 21:00:00,Announcing this year's 25 top pension power players:   pensionpower25  ,0,1,0,0,0,0,0.12415372,0.009350918,0.8664953,Neu,0.1148028,iimag
+1837,2017-02-20 21:00:00,Tiger-Related funds are not celebrating the market’s 2016 surge    ,0,1,0,0,0,2,0.066346526,0.061488267,0.8721652,Neu,0.004858259,iimag
+1839,2017-02-20 17:00:00,A winemaker confronts the ESG market. Will he succeed?    ,0,1,1,0,1,1,0.07660427,0.05316164,0.87023413,Neu,0.02344263,iimag
+1840,2017-02-20 03:00:00,Investor relations hires soar at private capital firms    ,0,1,0,0,2,1,0.80260676,0.15101449,0.04637872,Pos,0.65159225,iimag
+1841,2017-02-20 01:00:00,Hedge funds gravitate toward Greece    ,0,1,0,0,2,4,0.13700473,0.033908613,0.8290867,Neu,0.10309612,iimag
+1843,2017-02-19 21:00:00,Can NZ’s super stay super?    ,0,1,1,0,0,2,0.1220054,0.025750834,0.8522438,Neu,0.09625457,iimag
+1844,2017-02-19 19:00:00,Investors sticking with hedge funds after disappointing year    ,0,1,0,0,2,7,0.47164732,0.2434802,0.2848724,Pos,0.22816712,iimag
+1846,2017-02-19 03:00:00,Fitch sounds alarm on risk Trump poses to sovereign debt    ,0,1,0,0,2,2,0.03050537,0.90798396,0.061510533,Neg,-0.8774786,iimag
+1848,2017-02-18 23:00:00,Will public pensions regret dumping hedge funds?    ,0,1,1,0,3,1,0.05234156,0.08189951,0.8657589,Neu,-0.029557947,iimag
+1849,2017-02-18 21:00:00,You want (and need) innovation. This is not It.    ,0,1,0,0,2,4,0.035932776,0.29745775,0.6666095,Neu,-0.26152498,iimag
+1850,2017-02-18 19:00:00,Announcing this year's 25 top pension power players:   pensionpower25  ,0,1,0,0,3,3,0.12415372,0.009350918,0.8664953,Neu,0.1148028,iimag
+1853,2017-02-18 01:00:00,Fannie Mae sees tepid economic growth in 2017    ,0,1,0,0,1,1,0.04263336,0.9385052,0.018861437,Neg,-0.8958718,iimag
+1855,2017-02-17 21:00:00,"For banks, 2017 is shaping up to be the year of blockchain    ",0,1,0,0,0,3,0.066735685,0.026045432,0.90721893,Neu,0.04069025,iimag
+1857,2017-02-17 17:00:00,"Top Analyst Says AMG, Old Mutual and Legg Mason are Undervalued    ",1,1,0,0,1,0,0.7571039,0.14526251,0.09763351,Pos,0.61184144,iimag
+1859,2017-02-17 01:00:00,How sovereign wealth funds are changing direction    ,0,1,0,0,1,1,0.036736354,0.045093354,0.91817033,Neu,-0.008357,iimag
+1860,2017-02-17 01:00:00,Investors sticking with hedge funds after disappointing year    ,0,1,0,0,1,2,0.47164732,0.2434802,0.2848724,Pos,0.22816712,iimag
+1861,2017-02-16 21:00:00,Hedge funds gravitate toward Greece    ,0,1,0,0,0,0,0.13700473,0.033908613,0.8290867,Neu,0.10309612,iimag
+1863,2017-02-16 17:04:05,. Asset Management buys Verus’s Outsourced CIO Business for big plans    ,0,1,0,0,0,0,0.11705019,0.018223057,0.8647268,Neu,0.09882714,iimag
+1865,2017-02-16 16:00:00,Can NZ’s super stay super?    ,0,1,1,0,0,1,0.1220054,0.025750834,0.8522438,Neu,0.09625457,iimag
+1866,2017-02-16 15:18:02,Will public pensions regret dumping hedge funds?    ,0,1,1,0,1,1,0.05234156,0.08189951,0.8657589,Neu,-0.029557947,iimag
+1867,2017-02-16 03:00:00,Commodities hedge fund Taylor Woods Capital Management restructures    ,0,1,0,0,0,0,0.047631696,0.029114673,0.92325366,Neu,0.018517023,iimag
+1868,2017-02-16 01:00:00,Investor relations hires soar at private capital firms    ,0,1,0,0,1,3,0.80260676,0.15101449,0.04637872,Pos,0.65159225,iimag
+1870,2017-02-15 21:00:00,CEO James Verrier turbocharges auto-parts maker BorgWarner    ,0,1,0,0,0,0,0.03888053,0.036502425,0.924617,Neu,0.0023781061,iimag
+1871,2017-02-15 19:00:00,"Trump may equal volatility, but volatility doesn’t equal risk    ",0,1,1,0,0,0,0.036561094,0.054466326,0.90897256,Neu,-0.017905232,iimag
+1873,2017-02-14 23:00:00,"The 2016 Tech 50: Making Financial Services Faster, Cheaper, Bigger    ",0,1,0,0,3,3,0.73463917,0.008835858,0.25652492,Pos,0.7258033,iimag
+1874,2017-02-14 23:00:00,Rising asian fintech investor AMTD goes global    ,0,1,0,0,1,0,0.62076706,0.021841852,0.35739112,Pos,0.59892523,iimag
+1875,2017-02-14 20:00:00,Speaker of the House  made his reputation as a deficit hawk—makes our pensionpower25    ,1,1,0,0,0,0,0.2310818,0.0648711,0.704047,Neu,0.1662107,iimag
+1877,2017-02-14 18:00:00,"Rolling out our 2017 Pension Political Power 25, including    pensionpower25  ",0,1,0,1,0,0,0.13655652,0.008407687,0.8550358,Neu,0.12814884,iimag
+1878,2017-02-14 18:00:00, makes our Pension Political Power 25   pensionpower25  ,0,1,0,0,0,0,0.070582226,0.014280533,0.91513723,Neu,0.05630169,iimag
+1880,2017-02-14 17:00:00, head  tops our Pension Political Power 25   pensionpower25  ,0,1,0,0,0,0,0.08708592,0.012212332,0.9007017,Neu,0.07487358,iimag
+1881,2017-02-14 17:00:00,Behind Bitcoin’s harrowing roller coaster ride    ,1,1,0,0,0,0,0.08728547,0.043020964,0.8696935,Neu,0.044264503,iimag
+1883,2017-02-14 16:00:04," Wisconsin governor, tops our Pension Political Power 25   pensionpower25  ",0,1,0,0,0,0,0.23170382,0.011521025,0.7567752,Neu,0.22018279,iimag
+1884,2017-02-14 15:27:02,"  president, tops our Pension Political Power 25    ",0,1,0,0,2,2,0.184328,0.014010023,0.801662,Neu,0.17031798,iimag
+1885,2017-02-14 13:12:03,Announcing this year's 25 top pension power players:   pensionpower25  ,0,1,0,0,3,1,0.12415372,0.009350918,0.8664953,Neu,0.1148028,iimag
+1886,2017-02-13 23:00:00,IFM beats the drum for an infrastructure boom:    ,0,1,0,0,0,0,0.53336227,0.018189043,0.44844866,Pos,0.5151732,iimag
+1887,2017-02-13 21:00:00,Harvard Moves to Outsource Management of Most of Its Endowment    ,0,1,0,0,0,0,0.07176205,0.01260446,0.91563344,Neu,0.059157588,iimag
+1888,2017-02-13 19:00:00,Fitch sounds alarm on risk Trump poses to sovereign debt    ,0,1,0,0,1,0,0.03050537,0.90798396,0.061510533,Neg,-0.8774786,iimag
+1889,2017-02-13 19:00:00,New fee structure offers hope to besieged hedge funds    ,0,1,0,0,1,0,0.8425709,0.007962794,0.14946637,Pos,0.8346081,iimag
+1891,2017-02-13 15:00:00,You want (and need) innovation. This is not It.    ,0,1,0,1,2,2,0.035932776,0.29745775,0.6666095,Neu,-0.26152498,iimag
+1893,2017-02-13 01:00:00,House Republicans seek to kill DoL rule for state retirement programs    ,0,1,0,0,0,1,0.0287028,0.47530785,0.49598932,Neu,-0.44660506,iimag
+1896,2017-02-12 17:00:00,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,0,0,0,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1898,2017-02-12 01:00:00,Vanguard attracts more money than all fund managers combined    ,1,1,0,0,1,3,0.13567673,0.009345298,0.85497797,Neu,0.12633143,iimag
+1899,2017-02-11 23:00:00,Are investors bailing on GTAA funds too soon?  ,0,1,0,0,2,2,0.020049106,0.75353867,0.2264122,Neg,-0.7334896,iimag
+1900,2017-02-11 21:00:00,These investors are dominating private equity    ,0,1,0,0,0,1,0.04684282,0.037705284,0.9154519,Neu,0.009137537,iimag
+1902,2017-02-11 19:00:00,Making the call between doom and boom   aert mislav matejka  ,0,1,0,0,1,0,0.05483512,0.04590801,0.8992569,Neu,0.008927107,iimag
+1907,2017-02-10 19:00:00,"Trump may equal volatility, but volatility doesn’t equal risk    ",0,1,1,0,0,0,0.036561094,0.054466326,0.90897256,Neu,-0.017905232,iimag
+1908,2017-02-10 17:00:00,Are investors bailing on GTAA funds too soon?    ,0,1,0,0,1,0,0.020049106,0.75353867,0.2264122,Neg,-0.7334896,iimag
+1911,2017-02-09 23:00:00,The 2016 hedge fund rising stars: Ivy Leagues pave the eay    ,0,1,0,0,0,1,0.22633421,0.016923718,0.75674206,Neu,0.20941049,iimag
+1912,2017-02-09 21:00:00,House Republicans seek to kill DoL rule for state retirement programs    ,0,1,0,0,0,0,0.0287028,0.47530785,0.49598932,Neu,-0.44660506,iimag
+1913,2017-02-09 19:00:00,Vanguard attracts more money than all fund managers combined    ,1,1,0,0,0,1,0.13567673,0.009345298,0.85497797,Neu,0.12633143,iimag
+1914,2017-02-09 17:00:00,These investors are dominating private equity    ,0,1,0,0,1,3,0.04684282,0.037705284,0.9154519,Neu,0.009137537,iimag
+1915,2017-02-09 17:00:00,IFM beats the drum for an infrastructure boom:    ,0,1,0,0,0,0,0.53336227,0.018189043,0.44844866,Pos,0.5151732,iimag
+1916,2017-02-09 15:00:00,A winemaker confronts the ESG market. Will he succeed?    ,0,1,1,0,1,1,0.07660427,0.05316164,0.87023413,Neu,0.02344263,iimag
+1919,2017-02-08 23:00:00,"Business needs women’s strengths, Sallie Krawcheck argues    ",0,1,0,0,1,1,0.1484849,0.0151759805,0.8363392,Neu,0.13330892,iimag
+1920,2017-02-08 21:00:00,Hedge fund accused of defrauding 9/11 heroes    ,1,1,0,0,0,0,0.040854093,0.5269298,0.43221614,Neg,-0.4860757,iimag
+1921,2017-02-08 19:00:00,"McKinsey study: companies focused on the short term lag peers, drag down GDP    ",1,1,0,0,0,0,0.025230305,0.9501715,0.024598269,Neg,-0.9249412,iimag
+1922,2017-02-08 17:00:00,Our European Sales Team 2016 rankings have been released:   aest  ,1,1,0,0,0,0,0.04377187,0.026610851,0.9296173,Neu,0.01716102,iimag
+1923,2017-02-08 15:00:00,"Trump setting stage to roll back fiduciaryrule, doddfrank    ",0,1,0,0,0,0,0.2216274,0.014455972,0.7639166,Neu,0.20717143,iimag
+1925,2017-02-08 01:00:00,Does experience matter in investing — and politics?    ,0,1,0,0,2,1,0.032989115,0.047124833,0.919886,Neu,-0.014135718,iimag
+1927,2017-02-07 21:33:01,The  team is gearing up to launch our War Stories Over Board Games series tomorrow morning. Check out the teaser:  ,0,1,0,0,0,1,0.07065,0.012385754,0.91696423,Neu,0.05826424,iimag
+1928,2017-02-07 21:00:00,"PAAMCO, KKR Prisma combining to form new liquid alts firm   merger  ",0,1,0,0,1,0,0.12937072,0.014243546,0.8563857,Neu,0.115127176,iimag
+1929,2017-02-07 19:00:00,SECOR asset management lures longtime CIOs Kenneth Frier and Gretchen Tai   secor  ,0,1,0,0,1,1,0.28720996,0.01909588,0.6936941,Neu,0.2681141,iimag
+1930,2017-02-07 19:00:00,Making the call between doom and boom   aert mislav matejka  ,0,1,0,0,0,0,0.05483512,0.04590801,0.8992569,Neu,0.008927107,iimag
+1931,2017-02-07 17:00:00,Bill Ackman gets vindication in Herbalife battle    ,0,1,0,0,0,1,0.43658122,0.01583446,0.5475843,Neu,0.42074677,iimag
+1932,2017-02-07 15:00:00,Asset managers are “all over the place on ESG”    ,0,1,0,0,0,0,0.0473873,0.09037528,0.86223745,Neu,-0.042987984,iimag
+1934,2017-02-06 23:00:02,Israel's Silicon Wadi is bringing in billions from investors    ,0,1,0,0,0,0,0.6501597,0.011824664,0.33801565,Pos,0.63833505,iimag
+1935,2017-02-06 21:00:00,"Vietnam: A bright spot in emerging markets, if you can get in    ",0,1,1,0,6,3,0.8179798,0.010461846,0.17155835,Pos,0.80751795,iimag
+1937,2017-02-06 15:59:02,Reinventing Institutional Investor   magazine redesign iimag  ,0,1,0,0,3,1,0.08346155,0.016490418,0.900048,Neu,0.06697114,iimag
+1939,2017-02-06 01:00:00,Investing in hedge funds the Wisconsin way    ,0,1,0,0,1,3,0.061408598,0.01933828,0.9192532,Neu,0.042070318,iimag
+1941,2017-02-05 21:00:00,Dawn Fitzpatrick leaves UBS for Soros CIO job    ,0,1,0,0,0,3,0.022043357,0.26337495,0.7145817,Neu,-0.24133159,iimag
+1942,2017-02-05 19:00:00,"Performance down, spending up at educational endowments    ",0,1,0,0,1,0,0.16516683,0.7683744,0.06645882,Neg,-0.6032076,iimag
+1944,2017-02-05 15:00:00,A winemaker confronts the ESG market. Will he succeed?    ,0,1,1,0,0,2,0.07660427,0.05316164,0.87023413,Neu,0.02344263,iimag
+1948,2017-02-04 21:00:00,Kuwait’s Sovereign Wealth Fund Is hungry for (private) deals   kuwait  ,1,1,0,0,1,3,0.1881764,0.013923554,0.7979,Neu,0.17425284,iimag
+1950,2017-02-04 17:00:00,Monte Paschi’s failed road show   montepaschi italy  ,1,1,0,0,0,0,0.029027775,0.70614946,0.26482272,Neg,-0.6771217,iimag
+1951,2017-02-04 15:00:00,"Trump setting stage to roll back fiduciaryrule, doddfrank    ",0,1,0,0,1,0,0.2216274,0.014455972,0.7639166,Neu,0.20717143,iimag
+1953,2017-02-03 19:00:00,Saudi wealth fund wants to build the   of the Gulf    ,0,1,0,0,0,0,0.15879472,0.008797008,0.8324083,Neu,0.14999771,iimag
+1954,2017-02-03 17:00:00,"As rates rise, the appeal of real estate bridge loans grows    ",0,1,0,0,0,0,0.35319072,0.011201276,0.63560796,Neu,0.34198946,iimag
+1955,2017-02-03 13:00:00,Harvard Moves to Outsource Management of Most of Its Endowment    ,0,1,0,0,0,1,0.07176205,0.01260446,0.91563344,Neu,0.059157588,iimag
+1956,2017-02-03 13:00:00,"While Trump talks tax reform, the EU Is on the march    ",0,1,0,0,1,0,0.087638155,0.020574804,0.891787,Neu,0.06706335,iimag
+1958,2017-02-02 21:01:00,What's the difference between male and female investors? Get DawnFitzpatrick's take [watch video]   deliveringalpha  ,0,1,0,0,0,1,0.032762706,0.033981867,0.9332555,Neu,-0.0012191609,iimag
+1959,2017-02-02 21:00:00,Kuwait’s Sovereign Wealth Fund Is hungry for (private) deals   kuwait  ,1,1,0,0,0,3,0.1881764,0.013923554,0.7979,Neu,0.17425284,iimag
+1962,2017-02-02 15:00:00,Investing in hedge funds the Wisconsin way    ,0,1,0,0,1,0,0.061408598,0.01933828,0.9192532,Neu,0.042070318,iimag
+1963,2017-02-02 13:00:00,"Quarterly reports are not the problem, research finds    ",0,1,0,0,0,0,0.03569406,0.12798798,0.83631796,Neu,-0.09229392,iimag
+1965,2017-02-01 19:00:00,Dawn Fitzpatrick leaves  for Soros CIO job    ,0,1,0,0,0,0,0.023782436,0.23805809,0.7381595,Neu,-0.21427566,iimag
+1967,2017-02-01 15:00:00,"Performance down, spending up at educational endowments    ",0,1,0,0,0,0,0.16516683,0.7683744,0.06645882,Neg,-0.6032076,iimag
+1968,2017-02-01 13:00:00,Monte Paschi’s failed road show   montepaschi italy  ,1,1,0,0,0,1,0.029027775,0.70614946,0.26482272,Neg,-0.6771217,iimag
+1969,2017-02-01 13:00:00,"Trump may equal volatility, but volatility doesn’t equal risk    ",0,1,1,0,1,0,0.036561094,0.054466326,0.90897256,Neu,-0.017905232,iimag
+1970,2017-01-31 23:00:00,Bond fund managers quietly cheer interest rate rise    ,0,1,0,0,2,2,0.16053401,0.22523701,0.614229,Neu,-0.064703,iimag
+1972,2017-01-31 17:00:00,New fee structure offers hope to besieged hedge funds    ,0,1,0,0,1,1,0.8425709,0.007962794,0.14946637,Pos,0.8346081,iimag
+1974,2017-01-31 15:00:00,"After a busy 2016, Asset Management M&A looks set to slow    ",1,1,0,1,0,0,0.82637435,0.014046661,0.15957895,Pos,0.8123277,iimag
+1976,2017-01-30 23:00:00,IFM beats the drum for an infrastructure boom:    ,0,1,0,0,2,2,0.53336227,0.018189043,0.44844866,Pos,0.5151732,iimag
+1979,2017-01-30 17:00:00,Viking’s Halvorsen outlines changes after worst year    ,0,1,0,0,0,1,0.027733445,0.06789215,0.9043744,Neu,-0.040158704,iimag
+1981,2017-01-30 13:34:01,Discover the most effective tools for encouraging employee participation in DC plans     [Partner Content],0,1,0,0,4,0,0.12268017,0.01408576,0.86323404,Neu,0.10859441,iimag
+1982,2017-01-30 13:00:00,AQR’s Cliff Asness critiques the DoL’s fiduciary rule    ,1,1,0,0,1,1,0.11684933,0.70757335,0.17557733,Neg,-0.590724,iimag
+1985,2017-01-29 23:00:00,Harvard moves to outsource management of most of Its endowment   harvard endowment  ,0,1,0,0,0,2,0.0495258,0.014290784,0.93618345,Neu,0.035235018,iimag
+1986,2017-01-29 21:00:00,IFM beats the drum for an infrastructure boom:    ,0,1,0,0,3,0,0.53336227,0.018189043,0.44844866,Pos,0.5151732,iimag
+1987,2017-01-29 19:00:00,Insiders: don’t expect GMO to change    ,0,1,0,0,0,1,0.034753043,0.043638278,0.9216086,Neu,-0.008885235,iimag
+1989,2017-01-29 01:00:00,"Top Analyst Says AMG, Old Mutual and Legg Mason are Undervalued    ",1,1,0,0,0,2,0.7571039,0.14526251,0.09763351,Pos,0.61184144,iimag
+1990,2017-01-28 23:00:00,New fee structure offers hope to besieged hedge funds    ,0,1,0,0,1,0,0.8425709,0.007962794,0.14946637,Pos,0.8346081,iimag
+1992,2017-01-28 19:00:00,"Trump may equal volatility, but volatility doesn’t equal risk    ",0,1,1,0,0,1,0.036561094,0.054466326,0.90897256,Neu,-0.017905232,iimag
+1993,2017-01-28 17:00:00,Viking’s Halvorsen outlines changes after worst year    ,0,1,0,0,0,4,0.027733445,0.06789215,0.9043744,Neu,-0.040158704,iimag
+1995,2017-01-27 21:00:00,Performance is no life jacket for JPM European Mutual Fund    ,0,1,0,0,0,1,0.045699827,0.020180533,0.9341196,Neu,0.025519295,iimag
+1996,2017-01-27 19:00:00,"GMO’s Grantham goes Buffett on taxes, Trump, & inequality    ",1,1,0,0,0,0,0.04920188,0.033987377,0.9168107,Neu,0.015214503,iimag
+1998,2017-01-27 15:00:00,IRA rollover market looks due for a slowdown    ,0,1,0,0,1,1,0.017513392,0.9577964,0.024690192,Neg,-0.940283,iimag
+2000,2017-01-27 01:00:00,Wells Fargo's asset management arm to launch smart beta funds   wellsfargo analyticinvestors  ,0,1,0,0,0,0,0.14139415,0.008177924,0.850428,Neu,0.13321623,iimag
+2002,2017-01-26 21:00:00,"Top Analyst Says AMG, Old Mutual and Legg Mason are Undervalued    ",1,1,0,0,0,0,0.7571039,0.14526251,0.09763351,Pos,0.61184144,iimag
+2003,2017-01-26 19:00:00,Harvard Moves to Outsource Management of Most of Its Endowment    ,0,1,0,0,0,1,0.07176205,0.01260446,0.91563344,Neu,0.059157588,iimag
+2004,2017-01-26 15:00:00,Scaramucci sells SkyBridge and spins out SALT    ,0,1,0,0,1,1,0.072400935,0.014651973,0.9129471,Neu,0.057748962,iimag
+2005,2017-01-26 13:00:00,Moody's to active managers: You're in trouble     ,0,1,0,0,0,1,0.028351458,0.8241027,0.14754581,Neg,-0.7957512,iimag
+2006,2017-01-26 01:00:00,Tiger-Related funds are not celebrating the market’s 2016 surge    ,0,1,0,0,1,1,0.066346526,0.061488267,0.8721652,Neu,0.004858259,iimag
+2007,2017-01-25 23:00:00,Study: UK auto-enrollment scheme has boosted the number of retirement savers    ,1,1,0,0,1,0,0.9529187,0.022951359,0.024130015,Pos,0.92996734,iimag
+2009,2017-01-25 18:27:03,HarvardUniversity moves to outsource management of most of Its endowment   HarvardEndowment   ,0,1,0,0,1,1,0.057859853,0.01372856,0.9284116,Neu,0.044131294,iimag
+2010,2017-01-25 17:00:00,CargoMetrics cracks the code on shipping data    ,0,1,0,0,0,0,0.039858636,0.72626126,0.23388015,Neg,-0.6864026,iimag
+2012,2017-01-25 13:00:00,Insiders: don’t expect GMO to change    ,0,1,0,0,1,0,0.034753043,0.043638278,0.9216086,Neu,-0.008885235,iimag
+2015,2017-01-24 23:00:00,Best practices for constructing a defined contribution investment lineup    Whitepaper Partner Content,1,1,0,0,0,0,0.06297838,0.014128899,0.92289275,Neu,0.04884948,iimag
+2017,2017-01-24 18:53:02,Discover the most effective tools for encouraging employee participation in DC plans    [Partner Content],0,1,0,0,1,0,0.12268017,0.01408576,0.86323404,Neu,0.10859441,iimag
+2018,2017-01-24 17:00:00,New fee structure offers hope to besieged hedge funds    ,0,1,0,0,1,0,0.8425709,0.007962794,0.14946637,Pos,0.8346081,iimag
+2019,2017-01-24 15:00:00,"Trump may equal volatility, but volatility doesn’t equal risk    ",0,1,1,0,0,0,0.036561094,0.054466326,0.90897256,Neu,-0.017905232,iimag
+2023,2017-01-23 19:00:00,Viking’s AndreasHalvorsen outlines changes after worst year    ,0,1,0,0,0,2,0.02809611,0.07286672,0.8990371,Neu,-0.044770613,iimag
+2024,2017-01-23 17:00:00,MarketAxess hires SSGA exec for ETF expansion    ,0,1,0,0,3,0,0.1030702,0.011874103,0.88505566,Neu,0.0911961,iimag
+2025,2017-01-23 15:00:00,Muddy Waters ends 2016 with a big gain    ,0,1,0,0,0,1,0.77449614,0.01373871,0.21176514,Pos,0.76075745,iimag
+2026,2017-01-23 13:00:00,Investors say financials will win big in 2017    ,0,1,1,0,4,0,0.9302938,0.018319657,0.05138659,Pos,0.91197413,iimag
+2027,2017-01-23 01:00:00,Brexit briefing: developing a mind map    ,0,1,0,0,3,2,0.11293113,0.016684903,0.8703839,Neu,0.09624623,iimag
+2028,2017-01-22 23:00:00,"As rates rise, the appeal of real estate bridge loans grows    ",0,1,0,0,1,0,0.35319072,0.011201276,0.63560796,Neu,0.34198946,iimag
+2029,2017-01-22 21:00:00,"Despite Trump, CIC sees opportunity in U.S. infrastructure    ",0,1,0,0,1,1,0.8587239,0.006746323,0.13452978,Pos,0.8519775,iimag
+2030,2017-01-22 19:00:00,Why FRR Is stubbing out its tobacco habit    ,0,1,0,0,1,0,0.043298192,0.14575472,0.810947,Neu,-0.10245653,iimag
+2031,2017-01-22 17:00:00,"Business needs women’s strengths, Sallie Krawcheck argues    ",0,1,0,0,14,14,0.1484849,0.0151759805,0.8363392,Neu,0.13330892,iimag
+2032,2017-01-22 15:00:00,"Eton Park suffers sharp loss in 2016, posts big drop in assets    ",0,1,0,0,0,0,0.011758296,0.97296876,0.015272869,Neg,-0.9612105,iimag
+2035,2017-01-21 19:00:00,Muddy Waters ends 2016 with a big gain    ,0,1,0,0,0,1,0.77449614,0.01373871,0.21176514,Pos,0.76075745,iimag
+2036,2017-01-21 17:00:00,IRA rollover market looks due for a slowdown    ,0,1,0,0,0,0,0.017513392,0.9577964,0.024690192,Neg,-0.940283,iimag
+2037,2017-01-21 15:00:00,Scaramucci sells SkyBridge and spins out SALT    ,0,1,0,0,1,1,0.072400935,0.014651973,0.9129471,Neu,0.057748962,iimag
+2040,2017-01-20 23:00:00,Drawing lines in the battle for clean energy   TrumpInaugural  ,0,1,0,0,1,0,0.11976448,0.018851016,0.8613846,Neu,0.100913465,iimag
+2041,2017-01-20 21:00:00,Renaissance Techologies' Robert Mercer maintains Trump support   TrumpInaugural  ,0,1,0,0,0,0,0.15639098,0.022568591,0.82104045,Neu,0.13382238,iimag
+2042,2017-01-20 19:00:00,Is the fiduciary rule a possible Trump target?    ,0,1,0,0,1,0,0.033444457,0.12077291,0.8457826,Neu,-0.08732846,iimag
+2044,2017-01-20 15:00:00,What Donald Trump means for the new economies   TrumpInaugural  ,0,1,0,0,1,1,0.12282495,0.01850902,0.858666,Neu,0.10431594,iimag
+2046,2017-01-20 03:00:00,Hedge Funds smell blood in the student debt market    ,0,1,0,0,6,2,0.028554877,0.54254174,0.4289034,Neg,-0.5139869,iimag
+2047,2017-01-20 01:00:00,Brexit briefing: developing a mind map    ,0,1,0,0,0,0,0.11293113,0.016684903,0.8703839,Neu,0.09624623,iimag
+2048,2017-01-19 23:00:00,"As rates rise, the appeal of real estate bridge loans grows    ",0,1,0,0,0,0,0.35319072,0.011201276,0.63560796,Neu,0.34198946,iimag
+2049,2017-01-19 21:00:00,"Despite Trump, CIC sees opportunity in U.S. infrastructure    ",0,1,0,0,0,0,0.8587239,0.006746323,0.13452978,Pos,0.8519775,iimag
+2050,2017-01-19 19:00:00,Why FRR Is stubbing out its tobacco habit    ,0,1,0,0,0,0,0.043298192,0.14575472,0.810947,Neu,-0.10245653,iimag
+2052,2017-01-19 17:00:04,Start of Something Big: Demystifying the Source of Large Alpha in Small Caps   [Partner Content] QMA Whitepaper,0,1,0,0,1,2,0.08698166,0.014750512,0.8982678,Neu,0.07223115,iimag
+2053,2017-01-19 15:00:00,Behind Bitcoin’s harrowing roller coaster ride    ,1,1,0,0,0,0,0.08728547,0.043020964,0.8696935,Neu,0.044264503,iimag
+2054,2017-01-19 13:00:00,Dimensional Fund Advisors grapples with its future   smartbeta  ,0,1,0,0,0,1,0.046588074,0.25351992,0.699892,Neu,-0.20693184,iimag
+2057,2017-01-18 23:00:00,Is Tech's next hot thing a lukewarm investment?   nest  ,0,1,0,0,0,0,0.21622759,0.012763685,0.77100873,Neu,0.20346391,iimag
+2059,2017-01-18 19:00:00,Banks are reimagining corporate access    ,0,1,0,0,0,0,0.051563103,0.04182746,0.9066095,Neu,0.009735644,iimag
+2060,2017-01-18 17:00:00,"Business needs women’s strengths, Sallie Krawcheck argues    ",0,1,0,0,1,1,0.1484849,0.0151759805,0.8363392,Neu,0.13330892,iimag
+2061,2017-01-18 15:30:01,"Eton Park suffers sharp loss in 2016, posts big drop in assets   ericmindich  ",0,1,0,0,0,0,0.01344275,0.97050214,0.016055198,Neg,-0.9570594,iimag
+2062,2017-01-18 13:00:00,Another equities stumble for bond giant PIMCO    ,0,1,0,0,0,0,0.04376361,0.91542524,0.04081118,Neg,-0.8716616,iimag
+2065,2017-01-18 01:00:01,JPMorgan's Lisa Gill says being an analyst is a 24/7 business [watch video]   shortcuts  ,0,1,0,0,1,0,0.01896882,0.5598554,0.42117575,Neg,-0.5408866,iimag
+2066,2017-01-17 23:00:00,Muddy Waters ends 2016 with a big gain    ,0,1,0,0,0,0,0.77449614,0.01373871,0.21176514,Pos,0.76075745,iimag
+2067,2017-01-17 21:00:00,IRA rollover market looks due for a slowdown   ira  ,0,1,0,0,0,1,0.013852585,0.95922405,0.026923316,Neg,-0.94537145,iimag
+2068,2017-01-17 19:16:00,. sells SkyBridge and spins out SALT    ,0,1,0,0,0,2,0.069013916,0.012352944,0.91863316,Neu,0.056660973,iimag
+2072,2017-01-17 03:00:00,"Little value in sell-side research, managers say    ",0,1,0,0,2,2,0.025713407,0.47934416,0.49494243,Neu,-0.45363075,iimag
+2073,2017-01-17 01:00:00,"The 2016 Tech 50: Making Financial Services Faster, Cheaper, Bigger    ",0,1,0,0,0,2,0.73463917,0.008835858,0.25652492,Pos,0.7258033,iimag
+2074,2017-01-16 23:00:00,"For banks, 2017 is shaping up to be the year of blockchain    ",0,1,0,0,0,0,0.066735685,0.026045432,0.90721893,Neu,0.04069025,iimag
+2075,2017-01-16 21:00:00,Why Target Date Funds? Helping DC participants build a strategy for retirement   ebook  [Partner Content]  ,0,1,0,0,0,0,0.117602594,0.012108892,0.8702885,Neu,0.1054937,iimag
+2076,2017-01-16 21:00:00,Bridgewater’s Ray Dalio blasts media In epic linkedIn rant    ,1,1,0,0,3,5,0.04545704,0.66772044,0.2868225,Neg,-0.6222634,iimag
+2077,2017-01-16 19:00:00,Debt-plagued  annual report makes for scary reading    ,0,1,0,0,1,1,0.01828732,0.93591887,0.04579376,Neg,-0.91763157,iimag
+2079,2017-01-16 15:00:00,Outsourced CIO firms gain traction with private wealth managers    ,0,1,0,0,1,1,0.8802339,0.011458384,0.10830771,Pos,0.8687755,iimag
+2080,2017-01-16 13:00:00,Bond fund managers quietly cheer interest rate rise    ,0,1,0,0,1,1,0.16053401,0.22523701,0.614229,Neu,-0.064703,iimag
+2081,2017-01-16 03:00:00,Tiger-Related funds are not celebrating the market’s 2016 surge    ,0,1,0,0,0,2,0.066346526,0.061488267,0.8721652,Neu,0.004858259,iimag
+2082,2017-01-16 01:00:00,Behind Bitcoin’s harrowing roller coaster ride    ,1,1,0,0,0,2,0.08728547,0.043020964,0.8696935,Neu,0.044264503,iimag
+2084,2017-01-15 21:00:00,Another equities stumble for bond giant PIMCO    ,0,1,0,0,4,2,0.04376361,0.91542524,0.04081118,Neg,-0.8716616,iimag
+2085,2017-01-15 19:00:00,Investors say financials will win big in 2017    ,0,1,1,0,0,0,0.9302938,0.018319657,0.05138659,Pos,0.91197413,iimag
+2087,2017-01-15 03:00:00,Is Tech's next hot thing a lukewarm investment?    ,0,1,0,0,0,0,0.14213577,0.020005068,0.8378592,Neu,0.1221307,iimag
+2088,2017-01-15 01:00:00,MarketAxess hires SSGA exec for ETF expansion    ,0,1,0,0,1,0,0.1030702,0.011874103,0.88505566,Neu,0.0911961,iimag
+2091,2017-01-14 17:00:00,Bill Ackman gets vindication in Herbalife battle    ,0,1,0,0,0,0,0.43658122,0.01583446,0.5475843,Neu,0.42074677,iimag
+2094,2017-01-14 01:00:00,Pulling U.S. public pensions back from the brink    ,0,1,0,0,1,0,0.2248592,0.24576482,0.529376,Neu,-0.020905629,iimag
+2095,2017-01-13 23:00:00,Muddy Waters ends 2016 with a big gain    ,0,1,0,0,3,3,0.77449614,0.01373871,0.21176514,Pos,0.76075745,iimag
+2098,2017-01-13 17:00:00,CargoMetrics cracks the code on shipping data    ,0,1,0,0,0,0,0.039858636,0.72626126,0.23388015,Neg,-0.6864026,iimag
+2101,2017-01-13 15:56:01,"When it comes to private equity, is smaller better?    ",0,1,0,0,0,3,0.0678213,0.026175877,0.9060029,Neu,0.041645423,iimag
+2104,2017-01-13 03:00:00,Dimensional Fund Advisors grapples with its future   smartbeta  ,0,1,0,0,4,5,0.046588074,0.25351992,0.699892,Neu,-0.20693184,iimag
+2105,2017-01-13 01:00:00,"If investors complained about Wall Street in Fred Schwed's day, they're howling now.     ",1,1,0,0,0,1,0.07170334,0.38030192,0.54799473,Neu,-0.30859858,iimag
+2106,2017-01-12 23:00:00,Rising asian fintech investor AMTD goes global   fintech  ,0,1,0,0,1,0,0.78841144,0.017005911,0.19458264,Pos,0.7714055,iimag
+2107,2017-01-12 23:00:00,Helping DC plan participants build a strategy for retirement   TDF ebook  [Partner Content]  ,0,1,0,0,0,0,0.15749359,0.010856773,0.83164966,Neu,0.14663681,iimag
+2108,2017-01-12 23:00:00,Moody's to active managers: You're in trouble     ,0,1,0,0,0,1,0.028351458,0.8241027,0.14754581,Neg,-0.7957512,iimag
+2109,2017-01-12 21:00:04,Over half DC plan sponsors surveyed say employees don't save or start early enough    [Partner Content]  ,1,1,0,0,0,0,0.023636457,0.7134571,0.26290646,Neg,-0.68982065,iimag
+2110,2017-01-12 19:00:00,How sovereign wealth funds are changing direction    ,0,1,0,0,0,1,0.036736354,0.045093354,0.91817033,Neu,-0.008357,iimag
+2112,2017-01-12 15:00:00,U.S. cities free to sponsor private-sector retirement plans    ,0,1,0,0,0,0,0.05974826,0.016756281,0.9234955,Neu,0.042991977,iimag
+2114,2017-01-12 01:00:00,Activity has started to pick up:    ,1,1,0,0,1,1,0.6909756,0.02306624,0.2859581,Pos,0.6679094,iimag
+2116,2017-01-11 21:00:00,MarketAxess hires SSGA exec for ETF expansion    ,0,1,0,0,2,1,0.1030702,0.011874103,0.88505566,Neu,0.0911961,iimag
+2117,2017-01-11 19:00:00,Bill Ackman gets vindication in Herbalife battle    ,0,1,0,0,2,3,0.43658122,0.01583446,0.5475843,Neu,0.42074677,iimag
+2118,2017-01-11 17:00:03,1 in 3 plan sponsors believes the U.S. retirement system is in grave danger of failing    [Partner Content]  ,0,1,0,0,1,1,0.030998876,0.82296336,0.14603771,Neg,-0.7919645,iimag
+2121,2017-01-11 03:00:00,Canada's proposed pension switch riles labor unions    ,1,1,0,0,0,1,0.016452193,0.9444277,0.039120108,Neg,-0.92797554,iimag
+2122,2017-01-11 01:00:00,Study: UK auto-enrollment scheme has boosted the number of retirement savers    ,1,1,0,0,0,0,0.9529187,0.022951359,0.024130015,Pos,0.92996734,iimag
+2123,2017-01-10 23:00:00,Bridgewater’s Ray Dalio blasts media In epic linkedIn rant    ,1,1,0,0,0,0,0.04545704,0.66772044,0.2868225,Neg,-0.6222634,iimag
+2124,2017-01-10 23:00:00,Drawing lines in the battle for clean energy    ,0,1,0,0,0,0,0.10888912,0.0246519,0.866459,Neu,0.08423722,iimag
+2126,2017-01-10 19:00:00,Behind Bitcoin’s harrowing roller coaster ride    ,1,1,0,0,0,0,0.08728547,0.043020964,0.8696935,Neu,0.044264503,iimag
+2127,2017-01-10 15:00:00,Investors say financials will win big in 2017    ,0,1,1,0,1,1,0.9302938,0.018319657,0.05138659,Pos,0.91197413,iimag
+2129,2017-01-10 13:00:00,Is Tech's next hot thing a lukewarm investment?    ,0,1,0,0,0,0,0.14213577,0.020005068,0.8378592,Neu,0.1221307,iimag
+2130,2017-01-10 05:00:00,"Pension fund manager accepts bribes for drugs, prostitutes, and vacation    ",0,1,0,0,0,0,0.02400954,0.68580747,0.29018304,Neg,-0.66179794,iimag
+2133,2017-01-09 23:00:00,Tiger-Related funds are not celebrating the market’s 2016 surge    ,0,1,0,0,0,0,0.066346526,0.061488267,0.8721652,Neu,0.004858259,iimag
+2134,2017-01-09 21:00:00,A successful DC plan requires top-management attention and resources.    [Partner Content]  ,0,1,0,0,0,0,0.11427224,0.013109401,0.8726184,Neu,0.101162836,iimag
+2135,2017-01-09 19:00:00,Transaction cost analysis makes leap to bonds    ,0,1,0,0,0,0,0.09221636,0.017889585,0.88989407,Neu,0.07432677,iimag
+2136,2017-01-09 17:00:00,Dimensional Fund Advisors grapples with its future   smartbeta  ,0,1,0,0,1,0,0.046588074,0.25351992,0.699892,Neu,-0.20693184,iimag
+2138,2017-01-09 13:00:00,Another equities stumble for bond giant PIMCO    ,0,1,0,0,1,0,0.04376361,0.91542524,0.04081118,Neg,-0.8716616,iimag
+2139,2017-01-08 19:00:00,Leon Cooperman’s Omega Advisors continues to suffer from redemptions   leoncooperman  ,1,1,0,0,0,1,0.012115273,0.9356424,0.05224232,Neg,-0.9235271,iimag
+2140,2017-01-08 17:00:00,Pulling U.S. public pensions back from the brink    ,0,1,0,0,3,1,0.2248592,0.24576482,0.529376,Neu,-0.020905629,iimag
+2141,2017-01-07 19:00:00,Wells Fargo's asset management arm to launch smart beta funds   wellsfargo analyticinvestors  ,0,1,0,0,1,2,0.14139415,0.008177924,0.850428,Neu,0.13321623,iimag
+2144,2017-01-07 01:00:00,Blackrock is making big data bigger    ,0,1,0,0,0,0,0.09326173,0.017555322,0.8891829,Neu,0.07570641,iimag
+2145,2017-01-06 23:00:00,Helping DC plan participants build a strategy for retirement   TDF ebook  [Partner Content]  ,0,1,0,0,0,1,0.15749359,0.010856773,0.83164966,Neu,0.14663681,iimag
+2146,2017-01-06 22:05:01,Helping DC plan participants build a strategy for retirement   TDF ebook  [Partner Content]  ,0,1,0,0,0,0,0.15749359,0.010856773,0.83164966,Neu,0.14663681,iimag
+2147,2017-01-06 21:00:00,"Little value in sell-side research, managers say    ",0,1,0,0,0,0,0.025713407,0.47934416,0.49494243,Neu,-0.45363075,iimag
+2150,2017-01-06 15:00:00,new research provides hope for stock pickers under siege    ,0,1,0,0,0,0,0.85992604,0.011366286,0.12870757,Pos,0.84855974,iimag
+2152,2017-01-06 03:00:00,"Transaction cost analysis makes leap to bonds, foreign exchange   tcaranking  ",0,1,0,0,0,0,0.0492713,0.015981538,0.93474716,Neu,0.03328976,iimag
+2153,2017-01-06 03:00:00,. Julien Dumoulin-Smith offers his take on the state of the energy sector [watch video]   aart2016  ,0,1,0,0,0,0,0.044932824,0.027472084,0.9275951,Neu,0.01746074,iimag
+2155,2017-01-05 23:00:00, Tony James wants retirement security for all    ,0,1,0,0,0,0,0.04513173,0.030836971,0.92403126,Neu,0.01429476,iimag
+2156,2017-01-05 21:00:00,"Finance must serve investors and economy better, Jon Lukomnik says    ",0,1,1,0,0,0,0.51709896,0.012390067,0.470511,Pos,0.5047089,iimag
+2159,2017-01-05 16:14:03, Wondering who is the mystery person on  first cover. All we know: on the floor at Montreal Exch in 1967. Any ideas?  ,0,1,0,0,0,1,0.030202381,0.06585285,0.90394485,Neu,-0.03565047,iimag
+2161,2017-01-05 15:40:01,Mystery person on  first cover. We want to find out who this individual is. All we know: on the floor at Montreal Exch.  ,0,1,0,1,4,3,0.027827842,0.0692615,0.90291065,Neu,-0.041433655,iimag
+2162,2017-01-05 15:00:00,SECOR asset management lures longtime CIOs Kenneth Frier and Gretchen Tai   secor  ,0,1,0,0,1,0,0.28720996,0.01909588,0.6936941,Neu,0.2681141,iimag
+2163,2017-01-05 13:00:00,The things we think and do not say    ,0,1,0,0,0,0,0.024778966,0.07125684,0.9039642,Neu,-0.046477873,iimag
+2164,2017-01-05 01:00:00,Leon Cooperman’s Omega Advisors continues to suffer from redemptions   leoncooperman  ,1,1,0,0,2,0,0.012115273,0.9356424,0.05224232,Neg,-0.9235271,iimag
+2166,2017-01-04 21:00:00,Pulling U.S. public pensions back from the brink    ,0,1,0,0,1,1,0.2248592,0.24576482,0.529376,Neu,-0.020905629,iimag
+2167,2017-01-04 21:00:00,Drawing lines in the battle for clean energy    ,0,1,0,0,0,0,0.10888912,0.0246519,0.866459,Neu,0.08423722,iimag
+2169,2017-01-04 17:01:02,Why Target Date Funds? Helping DC participants build a strategy for retirement   ebook  [Partner Content],0,1,0,0,0,0,0.117602594,0.012108892,0.8702885,Neu,0.1054937,iimag
+2170,2017-01-04 17:00:00,Why Target Date Funds? Helping DC participants build a strategy for retirement   ebook  [Partner Content]  ,0,1,0,0,0,0,0.117602594,0.012108892,0.8702885,Neu,0.1054937,iimag
+2172,2017-01-04 13:00:03,Bridgewater’s Ray Dalio blasts media In epic linkedIn rant   raydalio bridgewater  ,1,1,0,0,5,4,0.038213875,0.5424535,0.41933256,Neg,-0.5042397,iimag
+2175,2017-01-03 23:00:00,Norges Bank appoints new CIO for Asset Strategies   norgesbank Norway  ,1,1,0,0,0,0,0.044110842,0.044969127,0.91092,Neu,-0.00085828453,iimag
+2176,2017-01-03 21:00:00,Children of the superrich want to fix the world's problems    ,0,1,0,0,1,3,0.07599853,0.029698085,0.8943034,Neu,0.046300445,iimag
+2178,2017-01-03 17:00:00,Anxiety over protectionism casts a pall over IMF meetings    ,0,1,0,0,0,1,0.019676015,0.9275918,0.05273217,Neg,-0.9079158,iimag
+2180,2017-01-03 13:00:00,Israel's Silicon Wadi is bringing in billions from investors    ,0,1,0,0,0,1,0.6501597,0.011824664,0.33801565,Pos,0.63833505,iimag
+2182,2017-01-02 23:00:00,What does the American dream mean now?    ,0,1,0,0,0,0,0.031754646,0.083722204,0.88452315,Neu,-0.051967558,iimag
+2184,2017-01-02 21:00:00,Bank of America is vying for a leg up in the tech world    ,0,1,0,0,1,0,0.7988126,0.0139335375,0.18725383,Pos,0.7848791,iimag
+2186,2017-01-02 17:00:00,The end of research as we know it?    ,0,1,0,0,1,1,0.02576439,0.10759903,0.8666366,Neu,-0.08183464,iimag

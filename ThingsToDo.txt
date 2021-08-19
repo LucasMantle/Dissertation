@@ -1,0 +1,21 @@
+
+See if we can do weekly sentiment and then predict the next weeks movement as there is a lot of noise.
+
+Things to do:
+
+Build a simple ANN and print curves to prove overfitting to justify using things such as dropout
+
+Generate a proper figure of results from model.
+
+Make moving averages for weekly sentiment
+
+Get users and keywords for scraping
+
+Keywords - find most correlated assets and use these as references etc.
+
+
+
+
+
+
+

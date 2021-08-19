@@ -1,0 +1,2 @@
+id,username,created_at,timezone,user_id,tweet,mentions,urls,replies_count,retweets_count,likes_count,hashtags,retweet,source
+1286420340462227456,fundylongshort,2020-07-23 22:58:04 BST,+0100,2149782648,"@ShortSightedCap May be more detail than you're looking for, but we've been using MSFT Teams a ton at work.  I found that non-work organizations tend to use Zoom more.",[],[],1,0,2,[],False,

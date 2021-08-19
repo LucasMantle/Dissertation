@@ -1,0 +1,10 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+5,2020-05-28 19:58:02,"  I can choose my Facebook friends, but I can't really choose who emails me. Plus I can stare at WhatsApp or Instagram instead of the Facebook page, or choose which parts of the page, lots of control, no?",0,1,1,2,0,5,0.02921495,0.040816188,0.92996883,Neu,-0.011601238,tylercowen
+6,2020-05-01 01:20:03, re: your recent request for funds for StatNews would you please be able to contact me? DM or you can google to my email. Thanks!,0,0,1,0,1,18,0.15920389,0.012600078,0.82819605,Neu,0.14660381,tylercowen
+7,2020-03-14 12:27:05,"In which year would this claim have been most surprising?: ""The only Apple stores up and running will be those in China"",  ",1,1,1,5,31,166,0.052090663,0.023927942,0.92398137,Neu,0.028162722,tylercowen
+8,2019-10-23 13:09:04,"Fortunately, since we live in a rational world, the Google quantum computing breakthrough will cause people to rethink their ""break up big tech"" views.",0,1,1,13,19,178,0.106940806,0.019287057,0.8737722,Neu,0.08765375,tylercowen
+9,2019-10-20 14:50:02,"  UK Amazon will ship! And with the cheaper pound, usually it doesn't cost much more than a US order.",0,1,1,1,0,0,0.17743377,0.01131569,0.8112505,Neu,0.16611809,tylercowen
+10,2019-10-10 13:38:01, Now Amazon will send you a link to buy Bentham!,0,0,1,0,0,8,0.08060437,0.011508715,0.9078869,Neu,0.06909565,tylercowen
+18,2019-02-16 21:15:04,"I think a prediction market, with the value of Queens land contingent on whether Amazon comes, would yield a strongly positive answer. Related to Krugman's current agnostic thread on Amazon.",1,1,1,12,6,60,0.07298363,0.0281779,0.8988385,Neu,0.044805728,tylercowen
+20,2018-11-10 19:46:00,"        Russ and I already did this, you can google to it!",1,0,1,2,0,0,0.053850982,0.020356424,0.9257925,Neu,0.03349456,tylercowen
+22,2018-06-27 21:41:02,"    do send me an invite some time...you can google to my email, or just tcowen",0,0,1,0,0,1,0.03969882,0.019599214,0.94070196,Neu,0.020099606,tylercowen

@@ -1,0 +1,82 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-07-16 05:02:01,Apple and Klarna are cutting up credit cards  ,0,1,0,1,0,4,0.007209319,0.9625709,0.030219773,Neg,-0.9553616,ftfinancenews
+3,2021-06-24 08:53:04,Visa buys Swedish fintech Tink in €1.8bn deal  ,0,1,0,0,9,11,0.07681196,0.013045521,0.91014254,Neu,0.06376644,ftfinancenews
+4,2021-06-10 04:01:04,Amazon’s landlord doubles down on vast ecommerce warehouses  ,0,1,0,0,2,5,0.020312285,0.8929713,0.08671649,Neg,-0.87265897,ftfinancenews
+5,2021-05-12 23:11:04,Facebook abandons plan to run digital currency from Switzerland  ,0,1,0,0,4,9,0.027448427,0.18047874,0.79207283,Neu,-0.1530303,ftfinancenews
+10,2021-03-15 20:21:05,Berkshire Hathaway opposes shareholder call for climate disclosures  ,0,1,0,2,1,7,0.03898047,0.20355447,0.7574651,Neu,-0.164574,ftfinancenews
+15,2020-12-18 05:13:02,"Google hit with another antitrust case, Brexit fears lead to stockpiling, Fed stress tests  ",1,1,0,0,0,1,0.010587385,0.93982774,0.04958488,Neg,-0.92924035,ftfinancenews
+16,2020-12-01 05:03:01,S&P Global’s $44bn deal shows data is the oil of the 21st century  ,1,1,0,0,1,4,0.6635739,0.023274938,0.3131512,Pos,0.64029896,ftfinancenews
+19,2020-11-30 10:10:04,S&P Global nears $44bn deal for IHS Markit  ,0,1,0,0,0,4,0.6327462,0.014029167,0.35322458,Pos,0.6187171,ftfinancenews
+20,2020-11-22 10:01:03,Rivals spy weakness in HK’s status as Asia’s prime financial centre  ,1,1,0,1,0,0,0.016705692,0.9664393,0.016855,Neg,-0.9497336,ftfinancenews
+21,2020-11-19 17:16:05,Google revamps its strategy towards banking  ,0,1,0,0,2,3,0.19473264,0.042884767,0.76238257,Neu,0.15184787,ftfinancenews
+23,2020-11-07 14:36:03,Berkshire Hathaway rides to $30bn profit on back of investment portfolio  ,0,1,0,6,45,220,0.92157584,0.03491167,0.043512568,Pos,0.88666415,ftfinancenews
+27,2020-10-09 05:00:04,BlackRock S&P 500 fund is Europe’s biggest equity ETF loser in third quarter  ,0,1,0,0,2,2,0.01801441,0.96012276,0.021862816,Neg,-0.94210833,ftfinancenews
+28,2020-08-21 12:33:00,Wirecard agrees sale of UK business to Visa-backed bank  ,0,1,0,1,4,3,0.48996893,0.01033436,0.49969667,Neu,0.47963455,ftfinancenews
+29,2020-08-19 16:28:05,"Lombard: In battle of British grocers, Morrisons uses Amazon to steal march on Asda  ",0,1,0,0,0,1,0.09260901,0.1100519,0.797339,Neu,-0.01744289,ftfinancenews
+30,2020-08-14 22:47:03,Berkshire Hathaway slashes its stakes in US banks  ,0,1,0,1,6,8,0.008863485,0.9636834,0.02745306,Neg,-0.9548199,ftfinancenews
+33,2020-06-17 05:02:03,Visa hails ‘permanent’ shift in consumer spending habits  ,0,1,0,0,3,2,0.53244704,0.17029114,0.2972619,Pos,0.3621559,ftfinancenews
+36,2020-05-04 05:27:00,"Banks get ready for bad loans, losses at Berkshire Hathaway, BlackRock’s influence  ",1,1,0,0,8,9,0.045440663,0.29309067,0.6614687,Neu,-0.24765001,ftfinancenews
+37,2020-05-03 18:02:05,Berkshire Hathaway AGM is still the Warren Buffett show  ,0,1,0,1,1,0,0.024956446,0.030348111,0.9446954,Neu,-0.005391665,ftfinancenews
+40,2020-03-25 23:43:04,"Coronavirus could wipe out US bank profits, says S&P  ",0,1,1,0,6,8,0.016206255,0.91704214,0.06675165,Neg,-0.9008359,ftfinancenews
+41,2020-03-13 23:33:01,Gates steps down from Berkshire and Microsoft boards  ,0,1,0,0,4,8,0.020872673,0.25676155,0.72236574,Neu,-0.23588888,ftfinancenews
+42,2020-03-07 11:02:02,MSCI president defends decision to include China  ,0,1,0,1,1,1,0.14152399,0.058320686,0.80015534,Neu,0.0832033,ftfinancenews
+43,2020-02-27 21:46:02,"Snap AV: S&P slump fastest correction ever, says Deutsche  ",0,1,0,0,1,4,0.022937194,0.94971955,0.02734321,Neg,-0.92678237,ftfinancenews
+44,2020-02-07 11:47:00,Credit Suisse/Tidjane Thiam: I spy an empty chair  ,0,1,0,0,1,1,0.060432732,0.47785202,0.46171522,Neg,-0.41741928,ftfinancenews
+47,2020-01-21 17:34:00,MSCI acquires Burgiss stake for $190m  ,0,1,0,1,0,0,0.051725373,0.014717751,0.9335569,Neu,0.037007622,ftfinancenews
+52,2019-12-09 04:02:04,Fund managers spy opportunity as distressed debt grows  ,0,1,0,0,0,0,0.053682614,0.23387833,0.71243906,Neu,-0.18019572,ftfinancenews
+53,2019-12-03 00:19:00,Monzo turns to Visa exec to lead US push  ,0,1,0,0,1,4,0.101519726,0.009322753,0.88915753,Neu,0.09219697,ftfinancenews
+56,2019-11-15 10:56:02,Can we all calm down about Apple Card’s “gender bias”  ,1,1,1,0,2,1,0.056487054,0.48065513,0.46285778,Neg,-0.42416808,ftfinancenews
+58,2019-11-14 14:29:05,Google/banking: every breath you take  ,0,1,0,0,3,1,0.029610025,0.036832,0.9335579,Neu,-0.0072219763,ftfinancenews
+60,2019-11-02 16:48:00,Warren Buffett’s Berkshire Hathaway grows cash pile to $128bn  ,0,1,0,1,6,8,0.81755924,0.021441083,0.16099972,Pos,0.79611814,ftfinancenews
+61,2019-10-25 05:01:03,"Could Alexa, Siri and Google make us smarter savers?  ",0,1,0,0,1,2,0.17962356,0.0112888785,0.8090875,Neu,0.16833468,ftfinancenews
+65,2019-10-03 19:06:00,PayPal on the verge of quitting Facebook’s Libra project  ,0,1,0,0,7,4,0.018889153,0.7391669,0.24194394,Neg,-0.7202778,ftfinancenews
+66,2019-09-26 21:19:05,S&P downgrades WeWork’s debt by one notch  ,0,1,0,0,2,0,0.019801766,0.92050415,0.059693977,Neg,-0.90070236,ftfinancenews
+68,2019-09-12 16:34:05,Goldman taps Amazon executive as new tech boss  ,0,1,0,0,1,0,0.2743396,0.011446042,0.7142144,Neu,0.26289356,ftfinancenews
+70,2019-08-14 05:32:04,The Apple Card is an expensive way to pay  ,0,1,0,0,3,3,0.028853092,0.54080546,0.4303414,Neg,-0.51195234,ftfinancenews
+76,2019-07-12 05:06:01,Donald Trump hits out at Facebook’s Libra  ,1,1,0,2,3,6,0.08575767,0.08454854,0.82969385,Neu,0.0012091324,ftfinancenews
+79,2019-07-03 02:48:01,US lawmakers seek ‘immediate’ halt to Facebook’s digital coin  ,1,1,0,0,3,5,0.020881187,0.78169376,0.19742508,Neg,-0.7608126,ftfinancenews
+86,2019-06-18 19:46:04,Facebook’s Libra currency draws instant response from regulators  ,1,1,0,1,6,9,0.2655375,0.01932015,0.7151423,Neu,0.24621736,ftfinancenews
+89,2019-06-18 16:41:01,Carney keeping ‘open mind’ to Facebook backed digital currency  ,1,1,0,0,0,0,0.14253803,0.014874357,0.84258765,Neu,0.12766367,ftfinancenews
+90,2019-06-18 12:02:05,Facebook’s Libra coin is a symptom of banks’ flaws  ,1,1,0,0,1,2,0.022335934,0.848306,0.12935814,Neg,-0.82597005,ftfinancenews
+91,2019-06-18 10:02:04,"What is Libra, Facebook’s new digital coin?  ",1,1,0,0,4,1,0.036575366,0.033775102,0.92964953,Neu,0.0028002635,ftfinancenews
+92,2019-06-18 10:02:04,Facebook unveils new global digital coin called Libra  ,1,1,0,0,1,2,0.24477875,0.008190857,0.7470304,Neu,0.2365879,ftfinancenews
+94,2019-06-14 04:00:05,Amazon seeks to revive its faltering loans business  ,0,1,0,0,0,2,0.8954869,0.04231671,0.062196434,Pos,0.85317016,ftfinancenews
+95,2019-06-13 16:38:02,Lombard: Amazon and Wm Morrison: food retail’s odd couple have clicked  ,1,1,0,0,0,1,0.05522849,0.1885763,0.7561952,Neu,-0.13334781,ftfinancenews
+96,2019-05-31 04:02:01,How the Apple world is quietly changing  ,0,1,0,0,3,4,0.06598543,0.05180426,0.8822103,Neu,0.014181167,ftfinancenews
+99,2019-05-15 23:10:02,Buffett’s Berkshire Hathaway reveals $861m Amazon stake  ,0,1,0,1,1,3,0.04839479,0.018611524,0.9329937,Neu,0.029783268,ftfinancenews
+100,2019-05-04 13:40:04,Berkshire Hathaway surges to $22bn first-quarter profit  ,0,1,0,2,1,3,0.9336864,0.029390816,0.03692281,Pos,0.90429556,ftfinancenews
+102,2019-04-24 22:41:01,Visa boosts earnings outlook for 2019 despite stronger dollar  ,0,1,0,0,4,0,0.9477003,0.026204754,0.026094954,Pos,0.92149556,ftfinancenews
+103,2019-04-11 00:11:01,Coinbase launches cryptocurrency Visa debit card in UK  ,0,1,0,1,1,3,0.14957607,0.010953876,0.8394701,Neu,0.1386222,ftfinancenews
+104,2019-04-10 20:28:03,Is Amazon the undoing of Tesco? Or is Tesco doing an Amazon?  ,0,1,0,0,0,0,0.037188824,0.09741179,0.8653994,Neu,-0.060222965,ftfinancenews
+105,2019-03-29 11:41:02,Apple and Goldman’s painful reinvention is hard to credit  ,1,1,0,0,0,1,0.030249577,0.52254647,0.447204,Neg,-0.4922969,ftfinancenews
+106,2019-03-26 05:32:05,Goldman’s Apple Card launch leaves questions unanswered  ,1,1,0,0,2,1,0.04245778,0.31325188,0.6442903,Neu,-0.2707941,ftfinancenews
+108,2019-03-08 11:44:04,Bank of England calls for independent review of Visa’s outage  ,0,1,0,0,3,1,0.09891514,0.04122433,0.8598606,Neu,0.057690807,ftfinancenews
+110,2019-03-01 05:02:00,Crowdfunding in search of the next Apple or Facebook  ,0,1,0,0,5,5,0.086206086,0.013667778,0.90012616,Neu,0.07253831,ftfinancenews
+111,2019-02-28 01:32:05,Amazon drops plans to move into Seattle skyscraper  ,0,1,0,0,3,2,0.019247018,0.6499742,0.33077872,Neg,-0.63072723,ftfinancenews
+115,2019-02-08 07:46:00,"Visa ups offer for UK payments group, fending off Mastercard bid  ",0,1,0,0,1,0,0.9354156,0.027015036,0.03756939,Pos,0.9084006,ftfinancenews
+117,2019-01-29 23:50:05,StoreKing lures Amazon by connecting the dots of rural India  ,0,1,0,0,0,1,0.1298174,0.012817335,0.85736525,Neu,0.11700006,ftfinancenews
+119,2019-01-24 10:06:00,‘Golden visa’ schemes deserve tougher scrutiny  ,0,1,0,0,1,1,0.24149019,0.043285266,0.71522456,Neu,0.19820492,ftfinancenews
+121,2019-01-10 15:38:02,Investors spy big opportunities in beaten-up US bank shares  ,0,1,0,0,1,3,0.35397026,0.15432274,0.491707,Neu,0.19964752,ftfinancenews
+122,2018-12-14 22:31:05,Campaigners mobilise against Amazon’s New York HQ  ,1,1,0,0,1,0,0.040167432,0.7395701,0.22026248,Neg,-0.69940263,ftfinancenews
+125,2018-11-29 05:08:03,Amazon gets its new HQs but what do the winning cities stand to gain?  ,0,1,0,0,0,1,0.16366328,0.010285482,0.82605124,Neu,0.1533778,ftfinancenews
+127,2018-11-15 07:50:05,Swiss watchdog launches inquiry into suspected Apple pay boycott  ,0,1,0,0,0,0,0.017193053,0.83472043,0.14808656,Neg,-0.81752735,ftfinancenews
+128,2018-11-11 16:54:04,Digital bank Simple poaches Amazon exec for top job  ,0,1,0,0,1,1,0.1301385,0.016898187,0.85296327,Neu,0.11324032,ftfinancenews
+129,2018-11-09 04:06:05,"Apple boosts land holdings to more than 7,000 acres  ",0,1,0,0,2,5,0.87392414,0.008274581,0.11780125,Pos,0.8656496,ftfinancenews
+130,2018-11-03 13:10:03,Warren Buffett’s Berkshire Hathaway posts sharp rise in profits  ,0,1,0,0,0,2,0.7396535,0.21104741,0.04929911,Pos,0.5286061,ftfinancenews
+131,2018-10-26 22:20:03,S&P cuts Italy’s outlook to negative but affirms credit rating  ,1,1,0,1,5,1,0.034674015,0.86969894,0.09562709,Neg,-0.83502495,ftfinancenews
+132,2018-09-18 18:23:03,Visa and Mastercard in $6.2bn settlement of swipe fees dispute  ,0,1,0,0,2,1,0.64888376,0.20786782,0.14324838,Pos,0.44101596,ftfinancenews
+133,2018-09-13 22:05:04,"Insurers likely to absorb Florence’s blow, S&P says  ",1,1,0,0,0,0,0.84498715,0.097938836,0.057073962,Pos,0.7470483,ftfinancenews
+134,2018-08-27 16:35:00,Berkshire Hathaway plans stake in Indian digital payments company  ,0,1,0,0,1,1,0.043266352,0.014204336,0.9425293,Neu,0.029062016,ftfinancenews
+135,2018-08-16 16:32:03,Amazon insurance talks push comparison sites lower  ,0,1,0,0,0,1,0.066048875,0.7709431,0.16300802,Neg,-0.70489424,ftfinancenews
+139,2018-07-29 05:32:03,Fund managers count cost of Facebook’s $120bn fall  ,1,1,0,3,1,4,0.028657228,0.11644565,0.85489714,Neu,-0.087788425,ftfinancenews
+142,2018-07-09 13:36:04,Why gender-based car insurance is preferable to a black box spy  ,0,1,0,0,1,2,0.041254513,0.04849002,0.9102555,Neu,-0.0072355084,ftfinancenews
+146,2018-06-09 06:25:04,Investors clash over call to rejig Big Tech in MSCI indices  ,0,1,0,0,0,1,0.021625683,0.8726133,0.105761044,Neg,-0.8509876,ftfinancenews
+147,2018-06-07 08:20:02,S&P Global Platts reverses Iranian ban at conferences  ,0,1,0,0,0,0,0.120693095,0.24606979,0.6332371,Neu,-0.1253767,ftfinancenews
+150,2018-06-05 09:59:02,UK parliament adds to pressure on Visa over system failure  ,0,1,0,0,1,1,0.014657654,0.9526114,0.032731,Neg,-0.9379537,ftfinancenews
+151,2018-06-01 17:15:03,Visa payment systems in Europe suffer major outage  ,0,1,0,0,4,1,0.009915941,0.9689432,0.021140944,Neg,-0.95902723,ftfinancenews
+152,2018-06-01 07:33:04,S&P downgrades Deutsche Bank on restructuring plans  ,0,1,0,0,5,3,0.012118974,0.899179,0.08870206,Neg,-0.88706,ftfinancenews
+153,2018-05-28 03:33:01,Sticking up for Zuckerberg: Facebook B shares are not his fault  ,0,1,0,0,1,2,0.043149825,0.08339568,0.8734545,Neu,-0.040245857,ftfinancenews
+156,2018-04-30 17:58:05,Lombard: Sainsbury’s Coupe gives Yorkshire the lead over Amazon of Seattle  ,1,1,0,0,0,0,0.32486245,0.016563028,0.6585746,Neu,0.30829942,ftfinancenews
+157,2018-04-25 21:59:05,Visa raises full-year profit outlook after solid Q2  ,0,1,0,0,1,0,0.82739484,0.13426937,0.038335785,Pos,0.6931255,ftfinancenews
+159,2018-04-12 20:36:03,S&P puts Deutsche Bank’s ‘A-’ rating on review for downgrade  ,0,1,0,0,1,2,0.017506065,0.9139224,0.06857151,Neg,-0.89641637,ftfinancenews
+160,2018-04-12 14:18:02,S&P warns of risks in leveraged loan market as deals surge  ,0,1,0,0,3,1,0.01604838,0.9407461,0.043205474,Neg,-0.92469776,ftfinancenews

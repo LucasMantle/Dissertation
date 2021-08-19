@@ -1,0 +1,205 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+5,2018-04-05 11:09:03,A trade war will increase average tariffs by 32 percentage points - VOX  ,0,0,1,0,0,0,0.78790754,0.081741564,0.13035096,Pos,0.70616597,activiststocks
+40,2018-03-23 22:10:01,Now would be a good time for Mark Zuckerberg to resign | TechCrunch  ,0,0,1,0,0,0,0.024866551,0.3502788,0.6248546,Neu,-0.32541224,activiststocks
+55,2018-03-22 01:08:04,"""Will deletefacebook become a thing?""   ",0,0,1,0,1,2,0.028569626,0.051019162,0.9204113,Neu,-0.022449536,activiststocks
+66,2018-03-19 20:55:00,"Cabernet wines are just as complex as a pinots, just not as delicate and fussy. The real thing about cabs is that they're the most adaptable of vines. You can plant them just about anywhere, and as long as you tend it, they'll always give you something beautiful.",0,1,1,0,0,0,0.078026436,0.02315196,0.89882165,Neu,0.054874476,activiststocks
+105,2018-03-08 17:41:01,Who'll Be The Amazon Of Housing? - The Basis Point  ,0,0,1,0,0,0,0.039641354,0.032514572,0.9278441,Neu,0.007126782,activiststocks
+106,2018-03-08 17:37:03,Will Apple Buy Snap? | Vanity Fair   $SNAP $AAPL,0,0,1,0,0,0,0.047581486,0.015643815,0.93677473,Neu,0.031937674,activiststocks
+134,2018-03-03 21:12:03,"Finally, some insider trading justice ... Ex-security guard must face SEC charges over 2013 Heinz takeover  ",0,0,1,0,0,0,0.029023545,0.5911178,0.37985867,Neg,-0.5620943,activiststocks
+157,2018-02-24 21:33:03,What Can Save General Electric?  -  ,0,0,1,0,0,1,0.05139676,0.032226868,0.91637635,Neu,0.019169893,activiststocks
+181,2018-02-12 16:56:05,The Best Business Book You’ll Read All Year Will Be A Novel  ,0,1,1,0,0,0,0.052845858,0.019798288,0.9273559,Neu,0.03304757,activiststocks
+186,2018-02-12 02:04:05,    Can confirm. This is the only question that matters.,0,1,1,0,0,2,0.03960475,0.03257222,0.92782307,Neu,0.0070325285,activiststocks
+192,2018-02-07 22:17:02,Should You Buy Bitcoin? by Adair Turner - Project Syndicate  ,0,0,1,0,0,0,0.038150642,0.022361686,0.93948764,Neu,0.015788956,activiststocks
+202,2018-02-05 20:03:01,"Sooner or later, God'll cut you down  ",0,0,1,0,0,0,0.03698596,0.5166362,0.44637787,Neg,-0.47965023,activiststocks
+203,2018-02-05 20:02:05,You can run on for a long time ...  ,0,0,1,0,0,0,0.05825617,0.048049603,0.8936942,Neu,0.010206569,activiststocks
+208,2018-02-03 16:17:04,"This ... -&gt; The investment business is perhaps the only area of the economy that can rival health care in complexity, low quality, opacity and unreasonable cost",0,1,1,0,0,0,0.17639072,0.029923487,0.7936858,Neu,0.14646724,activiststocks
+211,2018-02-02 04:23:00, Over/under on when we can buy bitcoins via Snap app?,0,0,1,0,0,2,0.044348896,0.017376581,0.93827456,Neu,0.026972314,activiststocks
+223,2018-01-31 15:19:03,"""JIM CHANOS: Charity Can Be A Sign Of Fraud - Business Insider""   ",0,0,1,0,0,1,0.058798816,0.10803001,0.8331711,Neu,-0.04923119,activiststocks
+297,2018-01-10 20:17:04,"""There is a big difference between being right about something and being right about when something will happen. To benefit from being right you either have to get the timing right or you have to hang in there until the timing is right.""  perspective",0,1,1,0,1,1,0.08632505,0.0485899,0.86508507,Neu,0.03773515,activiststocks
+301,2018-01-10 14:33:03,"""Buffett on cryptocurrencies: ’I can say almost with certainty that they will come to a bad ending’ - CNBC""   ",0,1,1,0,0,0,0.052212194,0.48246798,0.4653198,Neg,-0.43025577,activiststocks
+354,2018-01-03 15:55:01,"Tiny company which owns some Hooter's restaurants says it will use blockchain, boosting stock by 50%  ",0,1,1,0,1,3,0.9280886,0.011100491,0.060810864,Pos,0.91698813,activiststocks
+359,2018-01-02 14:01:01,"There is a 40% chance Apple will acquire Netflix, according to Citi  ",0,1,1,0,0,0,0.12292299,0.011274358,0.86580265,Neu,0.11164863,activiststocks
+366,2017-12-26 21:55:00,Bitcoin as Money? Here's a Roadmap for How It'll Happen  ,0,1,1,0,0,0,0.039253145,0.018112792,0.94263405,Neu,0.021140354,activiststocks
+389,2017-12-21 15:20:01,"A Million-Dollar Bet That Bitcoin Will Hit $50,000 - Wall Street Journal  ",0,0,1,0,1,0,0.4186096,0.01854563,0.5628448,Neu,0.40006396,activiststocks
+409,2017-12-16 15:40:01,Bitcoin may now be the biggest financial bubble of all time  ,0,0,1,0,0,0,0.033033643,0.21624933,0.750717,Neu,-0.1832157,activiststocks
+441,2017-12-12 22:01:00,Batteries can’t solve all our energy-storage problem. Here’s the solution - Quartz  ,0,1,1,0,1,0,0.046784036,0.04181018,0.9114058,Neu,0.004973855,activiststocks
+453,2017-12-11 21:45:01,"Activist will push for Whitbread split, investor predicts  ",0,0,1,0,0,1,0.33833092,0.082470745,0.5791983,Neu,0.25586018,activiststocks
+456,2017-12-11 20:05:01,Nassim ‘Black Swan’ Taleb says bitcoin can’t be shorted properly as futures debut  ,1,1,1,0,0,0,0.041917246,0.13961633,0.8184664,Neu,-0.097699076,activiststocks
+459,2017-12-11 17:55:01,Activists threaten to push for a sale of Alexion if execs can't jack up stock price  ,0,1,1,0,0,0,0.013097912,0.883119,0.10378304,Neg,-0.8700211,activiststocks
+466,2017-12-09 14:15:01,"Josh Brown: Here's how to buy bitcoin, but realize it could be one giant bubble  ",0,1,1,0,0,2,0.03294443,0.038390294,0.92866534,Neu,-0.005445864,activiststocks
+471,2017-12-08 17:10:01,The Bitcoin bubble – how we know it will burst  ,0,1,1,0,0,0,0.11034824,0.025169972,0.8644818,Neu,0.08517827,activiststocks
+502,2017-12-03 21:54:02,"CVS agrees to buy Aetna in $69 billion deal that could shake up health-care industry, people familiar with the deal  ",0,1,1,0,1,0,0.51908594,0.016927855,0.46398625,Pos,0.5021581,activiststocks
+527,2017-11-28 21:15:01,"Bitcoin could 'easily' reach $40,000 by the end of 2018, hedge fund legend Novogratz says  ",0,1,1,0,0,3,0.7926633,0.0115036,0.19583312,Pos,0.7811597,activiststocks
+563,2017-11-21 14:15:02,Can bitcoin survive an apocalypse?  ,0,0,1,0,0,1,0.0836676,0.020683957,0.8956485,Neu,0.06298364,activiststocks
+570,2017-11-20 17:10:04,Nelson Peltz will bring 'fresh perspective' to P&G: CalSTRS   $PG,0,0,1,0,1,1,0.3297127,0.00685255,0.66343474,Neu,0.32286015,activiststocks
+581,2017-11-15 21:05:01,"Major US mall owner rallies on $14.8 billion bid, but some say offer should be sweeter  ",0,1,1,0,0,0,0.56393373,0.27076095,0.16530527,Pos,0.29317278,activiststocks
+602,2017-11-08 16:55:02,Can Bitcoin be Tamed?  ,1,0,1,0,0,0,0.09945402,0.023001004,0.877545,Neu,0.076453015,activiststocks
+615,2017-11-04 19:35:00,Credit Suisse CEO responds to calls for bank to break up — and will meet with activist investor  ,0,1,1,0,0,0,0.0631671,0.03137819,0.90545475,Neu,0.03178891,activiststocks
+624,2017-11-01 14:35:01,CVS-Aetna Merger Would Be Mostly Positive for Both   $CVS $AET,0,0,1,0,0,1,0.82584995,0.010333176,0.16381685,Pos,0.81551677,activiststocks
+642,2017-10-27 16:55:02,NYU's 'dean of valuation' says he'll be 'OK' with the price of bitcoin if he can use it to buy and sell  ,1,1,1,0,0,0,0.78435105,0.008994031,0.20665494,Pos,0.775357,activiststocks
+643,2017-10-27 16:27:01,Bitcoin Gold's Website Was DDoS'd Into Oblivion Immediately After the Fork  ,0,0,1,0,0,0,0.015853476,0.7595986,0.22454801,Neg,-0.74374515,activiststocks
+649,2017-10-26 16:55:01,"Bitcoin cannot be valued, and that's okay  ",1,1,1,0,0,1,0.050226197,0.0644289,0.8853449,Neu,-0.0142027065,activiststocks
+692,2017-10-15 22:00:05,"Jamie Dimon says if you're 'stupid' enough to buy bitcoin, you'll pay the price one day  ",0,1,1,0,0,0,0.03084184,0.19560318,0.773555,Neu,-0.16476133,activiststocks
+700,2017-10-15 14:05:01,One reason why bitcoin may be surging: You can now buy it instantly on one major US exchange  ,0,1,1,0,0,0,0.17767857,0.015630981,0.80669045,Neu,0.1620476,activiststocks
+707,2017-10-13 19:50:03,ESPN Can’t Stick to Sports. But Can It Stick by Its Talent? -    ,0,0,1,0,0,0,0.08354115,0.01282663,0.9036323,Neu,0.07071452,activiststocks
+717,2017-10-11 21:15:01,Peltz's Procter & Gamble Defeat Could Be More Humbling Than Harmful  ,0,0,1,0,0,0,0.071253814,0.08907337,0.83967286,Neu,-0.017819554,activiststocks
+750,2017-10-07 17:10:01,We Can Finally Identify One of the Largest Holders of Puerto Rican Debt  ,0,0,1,0,1,1,0.47993448,0.008756902,0.5113086,Neu,0.47117758,activiststocks
+751,2017-10-07 14:17:03,Tenet will cut leadership positions to streamline operations and cut costs.  ,0,0,1,0,0,0,0.01206748,0.9460319,0.041900616,Neg,-0.93396443,activiststocks
+761,2017-10-06 15:05:02,You will thank Carl Icahn for ousting this energy-company guru  ,0,1,1,0,0,0,0.7045452,0.0114262765,0.2840285,Pos,0.69311893,activiststocks
+786,2017-10-02 20:00:05,Why Amazon should buy Twitter  ,0,0,1,0,0,1,0.032208335,0.03654306,0.93124855,Neu,-0.0043347254,activiststocks
+845,2017-09-23 16:03:05,Uber deserved to lose its licence – Londoners’ safety must come first - The Guardian  ,1,0,1,0,0,0,0.05119953,0.4709775,0.477823,Neu,-0.41977796,activiststocks
+877,2017-09-19 13:17:05,"""Why Listen to Earnings Calls When Artificial Intelligence Can Do It Better? - Institutional Investor""  ",0,0,1,0,0,6,0.051449142,0.020333534,0.9282173,Neu,0.031115608,activiststocks
+886,2017-09-18 18:38:02,"""Toys R Us could file for bankruptcy as soon as this week, sources say - CNBC""  ",0,1,1,0,0,1,0.018716143,0.16901357,0.81227034,Neu,-0.15029743,activiststocks
+888,2017-09-18 16:45:02,Warren Buffett wins $1M bet made a decade ago that the S&P 500 stock index would outperform hedge funds - AEI  ,1,1,1,0,0,0,0.7442542,0.015481145,0.24026467,Pos,0.728773,activiststocks
+909,2017-09-15 18:25:01,"A Chicago exchange says bitcoin is here to stay, but it will provide a way to bet against it  ",0,1,1,0,0,0,0.19245899,0.0151277175,0.79241335,Neu,0.17733127,activiststocks
+990,2017-09-02 22:07:02,"""Credit Suisse Will Offer Free Bond Research Post-MiFID - Bloomberg""  ",0,0,1,0,0,0,0.18392749,0.0074940235,0.8085785,Neu,0.17643347,activiststocks
+1039,2017-08-26 16:19:02,"This right here, ""Eventually, illiquidity will be a competitive disadvantage in fundraising that only top VC firms will be able to justify""",0,1,1,1,1,0,0.05263769,0.4929974,0.4543649,Neg,-0.4403597,activiststocks
+1051,2017-08-25 15:17:04,"Amazon says Whole Foods deal will close Monday, with discounts to begin then  ",0,1,1,0,0,0,0.04763159,0.029787084,0.9225814,Neu,0.017844507,activiststocks
+1068,2017-08-23 20:05:01,Ackman Should Learn From Rejection  ,0,0,1,0,0,0,0.12833127,0.01589627,0.8557724,Neu,0.112435006,activiststocks
+1075,2017-08-22 19:50:01,Yaaaaassss ... Early Uber investor says the troubled company should merge with Tesla   $TSLA,0,1,1,0,0,0,0.045079537,0.052811228,0.9021092,Neu,-0.007731691,activiststocks
+1082,2017-08-22 15:37:00,"""Could Puerto Rico Be the Next Hot Tax Haven? - Bloomberg""  ",0,0,1,0,0,0,0.3550295,0.017069874,0.6279006,Neu,0.33795962,activiststocks
+1098,2017-08-20 18:46:02,Elliott lawyer says third bidder may top Buffett's Oncor bid  ,0,1,1,0,0,2,0.4582418,0.014058993,0.52769923,Neu,0.44418278,activiststocks
+1111,2017-08-18 20:35:01,Paul Singer may trump Warren Buffett in energy company gambit  ,0,0,1,0,0,1,0.034361474,0.037473384,0.92816514,Neu,-0.00311191,activiststocks
+1118,2017-08-18 15:15:02,BILL ACKMAN: ADP's stock could double in five years  ,0,0,1,0,1,2,0.7227379,0.01675624,0.26050577,Pos,0.7059817,activiststocks
+1128,2017-08-17 15:35:01,How Coinbase Can Be a Real Unicorn  ,0,0,1,0,0,0,0.051295336,0.025027664,0.92367697,Neu,0.026267672,activiststocks
+1130,2017-08-17 15:28:03,"""Amazon can borrow money more cheaply than Russia, Mexico and China - Business Insider""  ",0,0,1,0,0,0,0.4622303,0.010678418,0.5270913,Neu,0.45155188,activiststocks
+1144,2017-08-15 20:40:03,JOHN McAFEE: Here's why you can't call bitcoin a 'bubble'  ,0,1,1,0,0,0,0.049308132,0.105988376,0.84470344,Neu,-0.056680243,activiststocks
+1180,2017-08-13 04:34:00,+1; can confirm  ,0,0,1,0,0,1,0.14740263,0.010537479,0.84205985,Neu,0.13686515,activiststocks
+1182,2017-08-13 04:22:00,What a presidential president would have said about Charlottesville - Washington Post  ,1,0,1,0,0,2,0.029647026,0.045482945,0.92487,Neu,-0.015835918,activiststocks
+1214,2017-08-11 15:59:05,Will Shareholders Vote 'Yes' On The Proposed EQT-Rice Merger?  ,1,0,1,0,0,0,0.060330547,0.0180469,0.9216225,Neu,0.042283647,activiststocks
+1221,2017-08-11 12:46:03,"""Chinese paper says China should stay neutral if North Korea attacks first - Reuters""  ",0,1,1,0,0,0,0.0519572,0.049903344,0.8981394,Neu,0.0020538568,activiststocks
+1237,2017-08-08 22:22:01,"""Disney will pull its movies from Netflix and start its own streaming services - CNBC""  ",0,0,1,0,0,0,0.02260646,0.06289168,0.9145019,Neu,-0.040285215,activiststocks
+1280,2017-08-02 16:55:01,My Advice To Anyone Starting A Business Is To Remember That Someday I Will Crush You  ,0,1,1,0,0,2,0.077712834,0.016913557,0.90537363,Neu,0.06079928,activiststocks
+1296,2017-07-31 18:15:01,"Activists Can Be Deal-Breakers, Too  ",0,0,1,0,0,0,0.030178793,0.37379646,0.5960248,Neu,-0.34361768,activiststocks
+1301,2017-07-31 16:10:01,Media Mega-Deals: Can Activist Investors Help?   $SNAP $PG $T $TWX $YHOO $VZ $FB $SNAP,0,0,1,0,0,1,0.1940997,0.011983296,0.793917,Neu,0.1821164,activiststocks
+1316,2017-07-29 16:36:03,Roomba is no spy: CEO says iRobot will never sell your data | ZDNet  ,0,1,1,0,0,1,0.03464817,0.05570572,0.9096461,Neu,-0.02105755,activiststocks
+1344,2017-07-27 06:33:03,Why be a king when you can be a god?  -Bitcoin,0,0,1,1,2,3,0.035165414,0.033487994,0.9313466,Neu,0.00167742,activiststocks
+1352,2017-07-26 17:49:05,"Bill Ackman about to cash in on Platform Speciality Products, which may sell to Blackstone Group - New York Business  ",0,0,1,1,0,1,0.10822016,0.01032366,0.8814562,Neu,0.0978965,activiststocks
+1370,2017-07-25 14:05:02,Media Mega-Deals: Can Activist Investors Help? $CBS $DIS $DISH $FB $NFLX $PG $SNAP $T $TWX $VZ $WFM  ,0,0,1,0,2,1,0.14121407,0.012603547,0.8461824,Neu,0.12861052,activiststocks
+1424,2017-07-18 14:05:02,Blue Apron hits all-time low as Amazon suggests it will get into the meal-kit business  ,0,1,1,0,0,0,0.025255056,0.88047487,0.09427006,Neg,-0.8552198,activiststocks
+1432,2017-07-17 15:15:02,3 Killer Persuasion Techniques You Can Learn From Billionaire Warren Buffett  ,0,0,1,0,1,3,0.103965476,0.016182872,0.8798517,Neu,0.08778261,activiststocks
+1439,2017-07-16 04:32:00,"From, this book thing could be really cool, to, you gonna eat ya cornbread?  ",0,1,1,0,0,2,0.051642142,0.02806077,0.9202971,Neu,0.023581373,activiststocks
+1459,2017-07-13 21:01:00,Where will fund managers end up?  Milking Cows  ,0,1,1,0,0,5,0.032097384,0.16616899,0.8017336,Neu,-0.1340716,activiststocks
+1467,2017-07-13 14:18:05,"""Twitter Guy Wants You To Think He Was This Close To Bringing Down The Trump Regime - Deadspin"" evergreentweet  ",0,0,1,0,0,2,0.06716685,0.03705905,0.89577407,Neu,0.0301078,activiststocks
+1468,2017-07-13 14:18:02,"""Uber Cedes Russia to Yandex With $3.7 Billion Merger Agreement - Bloomberg"" ... next round will be a down round   ",0,0,1,0,0,2,0.029237611,0.45709214,0.51367027,Neu,-0.42785454,activiststocks
+1511,2017-07-09 19:50:00,Danone Could Be The Next Serving For Hungry Activists  ,0,0,1,0,0,0,0.16845359,0.02277751,0.8087689,Neu,0.14567608,activiststocks
+1516,2017-07-08 21:55:02,Will Private Equity Eat Itself?  ,0,0,1,0,0,2,0.03306109,0.15640266,0.8105362,Neu,-0.123341575,activiststocks
+1519,2017-07-07 23:12:04,"""Warren Buffett Invests in Canada, but Should You? - New York Times""  ",0,1,1,1,2,3,0.04567639,0.021066094,0.9332576,Neu,0.024610298,activiststocks
+1526,2017-07-06 19:55:01,Young American men can find work but prefer to play video games  ,0,1,1,0,0,2,0.029160568,0.15430957,0.81652987,Neu,-0.125149,activiststocks
+1534,2017-07-06 03:08:01,Jana says EQT can save $4.5 billion by scrapping Rice Energy deal | Reuters  ,0,1,1,0,2,2,0.07804427,0.061065048,0.8608906,Neu,0.016979225,activiststocks
+1539,2017-07-05 17:38:03,"""Will Tesla Disrupt Long Haul Trucking? -    ",0,0,1,0,0,1,0.009775319,0.9341117,0.05611303,Neg,-0.9243364,activiststocks
+1570,2017-06-30 17:11:05," ""...but one fact that unites those victims is that Shkreli has made them all much richer than they would have been.""",1,1,1,0,0,0,0.88293254,0.017220551,0.09984691,Pos,0.865712,activiststocks
+1595,2017-06-29 17:46:04,From a Woman in VC to Men Everywhere: 5 Things You Can Do Now to Avoid Being That Guy  ,0,0,1,0,0,0,0.036215138,0.047086127,0.9166988,Neu,-0.010870989,activiststocks
+1611,2017-06-28 18:41:05,"""’Pharma Bro’ still can’t find jurors that won’t trash talk him - NY Post""  ",1,0,1,1,0,1,0.072320715,0.47087088,0.45680836,Neg,-0.39855015,activiststocks
+1615,2017-06-28 15:30:03,Whole Foods Could Be The Next YouTube $GOOG $WFM $AMZN $FB $KR $COST   ,0,0,1,0,0,2,0.08539183,0.015959065,0.8986491,Neu,0.069432765,activiststocks
+1618,2017-06-28 05:55:05," Research suggests that the presence of women in corporate leadership positions may improve a firm’s performance, i.e. Peterson Institute",1,1,1,1,0,0,0.9430397,0.014909057,0.04205131,Pos,0.9281307,activiststocks
+1635,2017-06-27 16:50:01,Whole Foods Could Be The Next YouTube   $WFM $AMZN $FB $SVU $GOOG,0,0,1,0,0,0,0.059328485,0.016378094,0.9242934,Neu,0.04295039,activiststocks
+1637,2017-06-27 15:10:05,How blockchain will shake up insurance | IOL  ,0,0,1,0,0,1,0.03638405,0.03309427,0.93052167,Neu,0.0032897815,activiststocks
+1673,2017-06-23 22:48:02,"Ron Harper - ""Kobe's as close to MJ as we’ll ever see. If he & Shaq would've stayed together, I believe they would've won 6 or 7 titles.""",1,1,1,1,0,3,0.17888373,0.020935383,0.80018085,Neu,0.15794834,activiststocks
+1681,2017-06-23 22:34:02," If you scored on Kobe in practice or even made a nice play with him guarding, he wouldn't let you leave the gym unless you played him 1-on-1",1,1,1,1,0,2,0.04007779,0.11465842,0.84526384,Neu,-0.07458063,activiststocks
+1682,2017-06-23 22:31:03," ""Kobe would go at guys so hard in practice that I started to think, Okay, this guy's really trying to be MJ. He’s trying to be the greatest""",1,1,1,1,1,2,0.09156255,0.06979248,0.83864504,Neu,0.021770068,activiststocks
+1684,2017-06-23 22:29:03," He’d say, “I can’t believe they’re putting you on me. Are you serious? You think you can guard me?” He wasn’t joking & the defender knew it.",1,1,1,1,0,3,0.061868895,0.20132084,0.7368102,Neu,-0.13945195,activiststocks
+1693,2017-06-23 19:10:01,What Pirates Can Teach Us About Hedge Funds  ,0,1,1,0,0,2,0.061900623,0.017550083,0.9205492,Neu,0.044350542,activiststocks
+1704,2017-06-22 22:34:02,There will be drinks provided.  ,1,0,1,0,0,1,0.04677172,0.021143595,0.9320846,Neu,0.025628125,activiststocks
+1711,2017-06-22 21:32:05,"""Perhaps the analogous architectural repurposing of the future will be artistic interpretations of old Sears stores.""",0,0,1,0,0,1,0.14049603,0.014590171,0.8449138,Neu,0.12590586,activiststocks
+1726,2017-06-22 04:17:04,"""Jeff Bezos has advice for the news business: `Ask people to pay. They will pay’ - CNBC""  ",0,1,1,0,0,1,0.06176019,0.020433092,0.9178067,Neu,0.041327097,activiststocks
+1744,2017-06-20 17:49:03,Finally someone on the board that can turn this thing around  ,0,0,1,0,0,0,0.21488151,0.011590532,0.7735279,Neu,0.20329098,activiststocks
+1755,2017-06-19 23:22:05,"Mackey also said that he had a dream that Whole Foods would merge with Amazon about 18 months ago, presaging the industry-rattling deal.",1,1,1,0,0,1,0.11804906,0.026032848,0.85591805,Neu,0.09201621,activiststocks
+1775,2017-06-18 20:50:00,Should Start-Up Founders Be Wary Of Activist Investors?  ,0,0,1,0,1,0,0.039123587,0.09970194,0.8611744,Neu,-0.060578354,activiststocks
+1795,2017-06-16 21:05:01,Nobody is talking about the impact AMZN WFM can have on packaged foods; here's looking at you $POST -- WFM big customer for POST  ,1,1,1,0,0,1,0.047391526,0.018368334,0.93424016,Neu,0.029023193,activiststocks
+1819,2017-06-16 04:27:03,Will Apple buy athenahealth? Jonathan Bush calls rumor baseless  ,0,1,1,0,1,1,0.035286337,0.20027061,0.76444304,Neu,-0.16498427,activiststocks
+1827,2017-06-15 19:10:00,Activist investor to Wayne Savings shareholders: We'll be back next year if the bank isn't sold  ,1,1,1,0,0,1,0.066319466,0.03742717,0.89625335,Neu,0.028892297,activiststocks
+1853,2017-06-14 17:10:01,Goldman Sachs’ Bloomberg-killing platform might finally be ready to take on Bloomberg   $GS,0,0,1,0,0,0,0.7182289,0.0073353685,0.27443576,Pos,0.7108935,activiststocks
+1869,2017-06-13 14:35:00,$1B hedge fund founder thinks Amazon will beat Apple to become first trillion-dollar company   $AMZN $AAPL,0,1,1,0,0,3,0.754319,0.010048272,0.23563272,Pos,0.74427074,activiststocks
+1880,2017-06-12 18:35:00,Who will take over for Uber CEO Travis Kalanick if he takes a leave of absence? Here are some names.  ,0,1,1,0,0,1,0.02495338,0.10715423,0.8678924,Neu,-0.08220085,activiststocks
+1888,2017-06-11 20:50:00,"$AMZN at $1,000 - Should We Be Celebrating? -  ",0,1,1,0,0,0,0.09403437,0.01578533,0.8901803,Neu,0.07824904,activiststocks
+1901,2017-06-11 02:07:05,Can Hillary Clinton Please Go Quietly into the Night?  ,0,0,1,0,0,3,0.031091144,0.097270384,0.8716385,Neu,-0.06617924,activiststocks
+1925,2017-06-08 21:10:01,How Investors Can Screen for Top Hedge Funds · Novus  ,0,0,1,0,0,2,0.09495288,0.015755627,0.88929147,Neu,0.07919726,activiststocks
+1943,2017-06-07 14:00:04,Looking to propose a shareholder vote? It may get tougher  ,0,1,1,0,0,0,0.037920535,0.3088401,0.6532393,Neu,-0.27091956,activiststocks
+1984,2017-06-03 17:47:00,Here’s what could go wrong for oil if OPEC is wrong about its future   via ,0,1,1,0,0,1,0.02870415,0.3391851,0.6321108,Neu,-0.31048095,activiststocks
+2003,2017-06-01 19:45:00,"Up to 25% of U.S. shopping malls may close in the next five years, report says  ",0,1,1,0,0,3,0.06639902,0.13310254,0.8004984,Neu,-0.06670351,activiststocks
+2016,2017-05-31 17:58:04,Can Oil Stocks Hold Their “Line In The Sand”?  ,0,0,1,0,0,1,0.24014501,0.1539095,0.6059454,Neu,0.08623551,activiststocks
+2052,2017-05-28 03:30:01,"""Hamptons bachelors are getting vasectomies so golddiggers can’t trap - NY Post""  ",0,1,1,0,2,2,0.024330052,0.7840501,0.19161981,Neg,-0.75972,activiststocks
+2062,2017-05-27 18:20:01,Herbalife Avoiding The Truth - I Can Because I'm Icahn  ,0,1,1,0,0,0,0.056343175,0.024636416,0.9190204,Neu,0.031706758,activiststocks
+2069,2017-05-27 03:27:03,The gig economy workforce will double in four years - Recode  ,0,0,1,0,0,1,0.77430207,0.026696572,0.1990014,Pos,0.7476055,activiststocks
+2073,2017-05-27 01:44:04,"The vast majority, 80%, of millennials said they eventually plan to buy a home, but 72% said primary obstacle is that they can’t afford it",1,1,1,0,0,1,0.036716394,0.0974472,0.86583644,Neu,-0.060730807,activiststocks
+2075,2017-05-27 01:43:03,Less than 30% of 25- to 34-year-olds can save enough for a 10% down payment in next three years ...,0,0,1,2,0,0,0.11129438,0.16218789,0.7265177,Neu,-0.050893508,activiststocks
+2091,2017-05-26 03:38:04,"""Face it: The body-slammed reporter did just what you would have done - Washington Post""  ",1,0,1,0,0,0,0.050067954,0.03862431,0.91130775,Neu,0.011443645,activiststocks
+2097,2017-05-26 02:36:02,“After $SHLD files for bankruptcy it may make sense for us to invest in $SRG again. I'll be watching from the sidelines with keen interest”,0,1,1,0,0,4,0.097635314,0.010171002,0.89219373,Neu,0.08746431,activiststocks
+2151,2017-05-24 15:59:03,Only a handful of robo-advice startups will survive  ,0,0,1,0,0,0,0.055846166,0.015043599,0.92911017,Neu,0.04080257,activiststocks
+2174,2017-05-23 19:02:05,"""The Seth Rich lie, and how the corrosion of reality should worry every American - Washington Post""  ",0,0,1,0,0,0,0.044404488,0.11247937,0.84311616,Neu,-0.06807488,activiststocks
+2198,2017-05-22 15:51:01,"""Rep. Karl Oliver: Those removing Confederate monuments ‘should be lynched’ -    ",1,1,1,0,0,1,0.059697993,0.41184124,0.5284608,Neu,-0.35214326,activiststocks
+2294,2017-05-17 12:54:03,"""Colgate-Palmolive could be looking to sell - NY Post""  ",0,1,1,0,0,0,0.07750461,0.019360596,0.9031347,Neu,0.058144018,activiststocks
+2305,2017-05-16 21:48:04,must read ...  ,0,0,1,0,0,0,0.039831623,0.060300745,0.8998677,Neu,-0.020469122,activiststocks
+2310,2017-05-16 21:23:04,Pandora could sell Ticketfly as it looks for a buyer - Business Insider  ,0,1,1,0,0,1,0.06491084,0.011319951,0.92376924,Neu,0.053590886,activiststocks
+2328,2017-05-15 22:38:01,Pandora could sell Ticketfly as it looks for a buyer - Business Insider  ,0,1,1,0,1,0,0.06491084,0.011319951,0.92376924,Neu,0.053590886,activiststocks
+2343,2017-05-15 14:19:04,"""JAMIE DIMON: There is a ’national catastrophe’ and ’we should be ringing the alarm bells’ - Business Insider""  ",0,1,1,0,1,1,0.08865521,0.23888086,0.6724639,Neu,-0.15022564,activiststocks
+2378,2017-05-12 20:31:01,"Snap: How Low Should It Go? $SNAP   ... the answer, lower for longer",0,0,1,0,0,0,0.04888326,0.08874293,0.86237377,Neu,-0.039859667,activiststocks
+2395,2017-05-12 00:58:04,"“.... Jack Bogle [Vanguard founder] will have saved investors ""100s of billions"" over time with his low-cost investing philosophy.” WEB",1,0,1,0,0,0,0.14286861,0.011690269,0.8454411,Neu,0.13117833,activiststocks
+2404,2017-05-11 19:45:00,Marcato: Buffalo Wild Wings' stock price could pass $400 by 2021   $BWLD,0,0,1,0,0,0,0.07497313,0.014543585,0.91048324,Neu,0.060429543,activiststocks
+2419,2017-05-11 13:14:01,Why the Retail Crisis Could Be Coming to American Groceries - Bloomberg  ,0,1,1,0,0,0,0.029144658,0.27128947,0.6995659,Neu,-0.24214481,activiststocks
+2421,2017-05-11 12:55:03,Payday Jays: You Can Now Lease to Own a Pair of Air Jordans  ,0,0,1,1,0,0,0.1637473,0.0087164175,0.8275363,Neu,0.15503088,activiststocks
+2423,2017-05-11 06:18:02,Carl Icahn might be interested in buying the rest of $HTZ that he doesn't own for less than twice what he paid for a 15% stake in Nov.,1,1,1,0,0,1,0.04308927,0.016843935,0.9400668,Neu,0.026245335,activiststocks
+2441,2017-05-10 18:35:00,Elliott Management: So Close We Can Taste It - $ARNC $AA $SPR  ,0,0,1,0,0,1,0.4670775,0.014257479,0.5186651,Neu,0.45282,activiststocks
+2483,2017-05-09 14:05:01,"If there's a surprise to the market, it'll be to the upside: Activist investor Cliff Robbins  ",0,1,1,0,0,0,0.049361296,0.03232294,0.91831577,Neu,0.017038357,activiststocks
+2506,2017-05-07 20:20:00,Malcolm Gladwell: Here's why you should slow down and do less  ,0,1,1,0,0,2,0.0836846,0.021236116,0.8950793,Neu,0.062448487,activiststocks
+2510,2017-05-07 19:40:00,Amazon’s Profits Are Soaring: Why That Could Be Bad for the Stock - Barron's  ,0,1,1,0,0,1,0.08693605,0.48456573,0.4284983,Neg,-0.39762968,activiststocks
+2513,2017-05-07 14:00:02,Billionaire peers Gates and Druckenmiller warned Buffett he'd be wrong on IBM  ,1,0,1,0,1,2,0.04814066,0.7093851,0.2424742,Neg,-0.66124445,activiststocks
+2514,2017-05-07 03:12:02,"Bitcoin bear thesis: ""Also, the fact that Patrick Byrne is now spending   money on this, should also concern people!""",0,1,1,0,0,2,0.06712614,0.04293437,0.8899395,Neu,0.02419177,activiststocks
+2516,2017-05-06 21:15:00,Why the Retail Crisis Could Be Coming to American Groceries - Bloomberg  ,0,1,1,0,0,1,0.029144658,0.27128947,0.6995659,Neu,-0.24214481,activiststocks
+2541,2017-05-04 22:18:04,"""BlackRock Warns It Would Be ‘Folly’ to Ignore Home Capital Woes - Bloomberg""  ",1,1,1,0,0,0,0.087806046,0.54330164,0.3688923,Neg,-0.4554956,activiststocks
+2550,2017-05-04 18:25:01,What Apple Can’t Buy - WSJ  ,0,0,1,0,0,0,0.037582528,0.018582826,0.94383466,Neu,0.018999701,activiststocks
+2553,2017-05-04 15:40:01,Elliott Management: So Close We Can Taste It $ARNC $AA  ,0,0,1,0,0,0,0.21016708,0.013961705,0.7758712,Neu,0.19620538,activiststocks
+2574,2017-05-02 23:00:04,"""Clinton: ’If the election had been on October 27, I would be your president’ - CNN""  ",1,0,1,1,0,0,0.06597889,0.022512555,0.91150856,Neu,0.043466337,activiststocks
+2579,2017-05-02 18:55:00,Elliott Management: So Close We Can Taste It $AA $ARNC  ,0,0,1,0,1,0,0.23328975,0.01248738,0.7542228,Neu,0.22080237,activiststocks
+2597,2017-05-01 21:00:01,Elliott Management: So Close We Can Taste It $AA $ARNC  ,0,0,1,0,0,1,0.23328975,0.01248738,0.7542228,Neu,0.22080237,activiststocks
+2609,2017-04-30 23:08:00,Biglari Holdings may scrap controversial licensing deal with CEO - San Antonio Express-News   $BH,0,0,1,0,0,1,0.05981354,0.3128029,0.62738353,Neu,-0.25298938,activiststocks
+2694,2017-04-22 20:15:01,Snap: How Low Should It Go? $SNAP $FB $TWTR  ,0,0,1,0,0,0,0.04324253,0.047206033,0.9095514,Neu,-0.003963504,activiststocks
+2707,2017-04-21 22:49:03,"""Verizon could be the mystery company in on Time Inc. sale - NY Post""  ",0,0,1,0,0,0,0.024810027,0.05862148,0.91656846,Neu,-0.033811454,activiststocks
+2719,2017-04-20 16:45:02,Snap: How Low Should It Go? $FB $SNAP $TWTR  ,0,0,1,0,0,0,0.042303454,0.05187948,0.9058171,Neu,-0.009576026,activiststocks
+2729,2017-04-19 17:10:01,Why Jana's Involvement Can Have The Future Looking Fresh For Whole Foods  ,0,0,1,0,0,1,0.14898112,0.020867309,0.8301515,Neu,0.12811382,activiststocks
+2731,2017-04-19 14:05:02,Would a Whole Foods-Target partnership work? | Food Dive  ,0,0,1,0,1,2,0.093573816,0.011549365,0.8948769,Neu,0.082024455,activiststocks
+2732,2017-04-18 22:06:03, Time's the most valuable coin in life. You alone can determine how to spend that coin. Be careful that you don't let others spend it for you,0,1,1,0,0,0,0.041359335,0.030786864,0.92785376,Neu,0.010572471,activiststocks
+2781,2017-04-14 20:29:01,"""Can Amex monetize this data to its own advantage?  Can Amex regain its luster?"" $AMEX",0,0,1,0,0,0,0.32681686,0.008133662,0.66504943,Neu,0.3186832,activiststocks
+2795,2017-04-13 23:37:00,"  He got this; “And she’s 5-ft-2, so she can’t be a runway model, but I think she’s really beautiful and is prettier than anyone I’ve dated.""",1,1,1,0,0,1,0.0765171,0.045520194,0.8779627,Neu,0.030996904,activiststocks
+2804,2017-04-13 14:40:01,"Tesla stock may be soaring, but Elon Musk's business model is doomed, says former GM Vice Chairman Lutz  ",1,1,1,0,1,0,0.17671503,0.75291544,0.07036955,Neg,-0.5762004,activiststocks
+2825,2017-04-11 19:45:01,Airlines Treat You Badly Because They Can  ,0,0,1,1,1,1,0.01969398,0.7720426,0.20826347,Neg,-0.7523486,activiststocks
+2841,2017-04-10 18:20:01,Now Anyone Can Invest in Startups—if They Have the Stomach for It - WSJ  ,0,1,1,0,0,0,0.10895675,0.009592542,0.8814507,Neu,0.099364206,activiststocks
+2905,2017-04-03 18:55:00,Your way of life would not be remotely possible without Wall Street - LA Times  ,0,0,1,0,0,0,0.06988044,0.018639782,0.9114798,Neu,0.05124066,activiststocks
+2984,2017-03-26 14:15:00,12 Things Restaurants Should Know About Activist Investors - QSR magazine,0,0,1,0,0,0,0.039904002,0.022188872,0.93790716,Neu,0.01771513,activiststocks
+3034,2017-03-17 16:05:01,Will Betting on Zero Turn Out To Be A Zero For Ackman?  ,0,1,1,0,1,1,0.063501656,0.053787716,0.8827107,Neu,0.00971394,activiststocks
+3061,2017-03-13 21:26:04,"Ackman has sold out of Valeant, will step down from board $VRX",1,1,1,0,0,1,0.016447878,0.3838282,0.5997239,Neu,-0.36738032,activiststocks
+3068,2017-03-13 03:57:01,Elliott Management choice for $ARNC CEO - Larry Lawson former Spirit Aerosystems CEO - might be violating a noncompete agreement.,0,1,1,0,0,1,0.0110945795,0.8861903,0.1027152,Neg,-0.8750957,activiststocks
+3083,2017-03-09 20:52:04,Retailers need a “renaissance” ... one potential strategy might be incorporating more entertainment within retail settings. - Ackman,0,1,1,0,0,0,0.16118449,0.01017685,0.8286386,Neu,0.15100764,activiststocks
+3124,2017-03-07 15:58:03,Chaffetz: Low-income Americans will have to choose health care over iPhones -    ,0,0,1,0,0,0,0.06581479,0.09521499,0.8389702,Neu,-0.0294002,activiststocks
+3147,2017-03-05 17:52:03,When Will We See Fully Autonomous Vehicles? This Famous Hedge Fund Manager Thinks It Will Take 20 Years | Benzinga  ,0,1,1,0,0,0,0.07520783,0.015928973,0.9088632,Neu,0.059278857,activiststocks
+3269,2017-02-22 16:55:01,Goldman Sachs predicts Snap will deliver $2 billion in revenue - Business Insider  ,0,1,1,0,1,0,0.8204885,0.007114737,0.17239681,Pos,0.8133738,activiststocks
+3319,2017-02-17 18:30:03,CSX: Little An Activist Can Do $CSX $NSC $CNI  ,0,0,1,0,0,0,0.034031227,0.029437182,0.9365316,Neu,0.0045940448,activiststocks
+3353,2017-02-15 15:20:01,Trump could lead to a surge in shareholder activism - MarketWatch  ,0,0,1,1,0,0,0.019086972,0.89569986,0.08521317,Neg,-0.8766129,activiststocks
+3365,2017-02-14 14:00:05,Trump could lead to a surge in shareholder activism - MarketWatch  ,0,0,1,0,0,2,0.019086972,0.89569986,0.08521317,Neg,-0.8766129,activiststocks
+3374,2017-02-13 14:05:01,CSX: Little An Activist Can Do $CSX $NSC $CNI  ,0,0,1,0,1,0,0.034031227,0.029437182,0.9365316,Neu,0.0045940448,activiststocks
+3383,2017-02-11 19:50:00,Can Shareholders Force Facebook Inc. to Find a New Chairman? | Markets & Stocks |    ,0,1,1,0,0,0,0.023783233,0.06210715,0.9141096,Neu,-0.038323916,activiststocks
+3458,2017-02-06 19:45:04,"""How former Goldman President Gary Cohn may emerge versus the White House hard-liners - CNBC""  ",0,0,1,0,0,0,0.05651615,0.03481487,0.90866894,Neu,0.021701276,activiststocks
+3464,2017-02-05 22:00:03,Private equity & hedge fund pros reveal why they won't hire you  ,0,1,1,0,0,0,0.034428775,0.098928794,0.8666424,Neu,-0.06450002,activiststocks
+3504,2017-02-03 14:55:01,Dan Loeb: Trump will make hedge funds great again | Reuters  ,0,0,1,0,0,0,0.23412475,0.013482438,0.7523928,Neu,0.22064231,activiststocks
+3516,2017-02-02 15:11:04,"""Dan Loeb: Trump will make hedge funds great again - Reuters""  ",0,0,1,0,3,0,0.22077674,0.010429389,0.7687938,Neu,0.21034735,activiststocks
+3528,2017-02-01 17:01:00,Mario Gabelli's ABC Fund Merger and Arbitrage 'The Deal Fund' 4th Quarter Shareholder Commentary  ,0,0,1,0,1,2,0.039557017,0.018478282,0.9419647,Neu,0.021078736,activiststocks
+3560,2017-01-30 17:10:02,You Can See Where This is Going · Collaborative Fund  ,0,1,1,0,1,0,0.08640297,0.018095654,0.8955014,Neu,0.06830731,activiststocks
+3587,2017-01-27 18:35:01,CSX may not be the only rail target for activist investor | Ports & Rail |    ,0,0,1,0,0,0,0.07404922,0.014647114,0.9113037,Neu,0.059402104,activiststocks
+3597,2017-01-26 22:51:05,"""Americans Think Trump Will Be Worst President Since Nixon -    ",0,1,1,0,0,0,0.034151334,0.7686843,0.1971643,Neg,-0.734533,activiststocks
+3608,2017-01-26 15:35:01,Bob Evans Restaurants sale may bring an end to Bob Evans vs. Sandell battle - Columbus - Columbus Business First  ,0,0,1,0,0,0,0.017384587,0.7168389,0.26577657,Neg,-0.6994543,activiststocks
+3632,2017-01-24 02:22:00,"""What would Steve (Jobs) do? He sure wouldn’t eat humble pie as the Trump era dawns. - Recode""  ",0,0,1,0,0,0,0.031028118,0.09146062,0.8775113,Neu,-0.060432505,activiststocks
+3663,2017-01-21 07:59:02,"""Trump signs executive order that could effectively gut Affordable Care Act’s individual mandate - Washington Post""  ",1,0,1,0,0,0,0.14921694,0.024315009,0.82646805,Neu,0.12490193,activiststocks
+3672,2017-01-20 16:46:02,"""Could TransDigm be the Valeant of the Aerospace Industry?""  ",0,0,1,0,0,0,0.09206392,0.013322196,0.89461386,Neu,0.07874172,activiststocks
+3679,2017-01-20 02:07:02,"""George Soros says Trump will fail and market’s dream will end - Reuters""  ",0,1,1,1,3,2,0.05053781,0.08831753,0.86114466,Neu,-0.03777972,activiststocks
+3717,2017-01-17 16:24:01,"""Verizon may acquire a big cable company, sources say - NY Post""  ",0,1,1,0,0,1,0.11631282,0.010115218,0.873572,Neu,0.106197596,activiststocks
+3734,2017-01-16 00:33:03,"""Donald Trump interview: Brexit will be a great thing - The Times""  ",0,0,1,0,0,1,0.5648374,0.014087882,0.42107475,Pos,0.55074954,activiststocks
+3737,2017-01-15 19:10:02,"""Cutting Cash Would Be a Boon for the World’s Poor, Rogoff Says - Bloomberg""  ",0,1,1,0,0,0,0.798197,0.039379295,0.16242367,Pos,0.7588177,activiststocks
+3780,2017-01-12 22:00:05,Carl Icahn: Trump can stop this 'idiocy' with overregulation  ,0,0,1,0,0,1,0.13766073,0.035457667,0.8268816,Neu,0.102203056,activiststocks
+3795,2017-01-12 03:34:02,"The Fund Manager You Should Follow In 2017: CMG, VRX, FMCC, FNMA Stock  ",0,0,1,0,1,1,0.03285504,0.016649935,0.950495,Neu,0.016205106,activiststocks
+3809,2017-01-11 16:25:01,Liberty Media’s Malone Says Cable Firms Could Buy T-Mobile - Bloomberg  ,1,0,1,0,0,2,0.16629115,0.007926688,0.8257821,Neu,0.15836446,activiststocks
+3832,2017-01-09 22:25:04,"""With recovery ’largely done,’ Lockhart says Fed should step aside - Reuters""  ",1,1,1,0,1,1,0.18468417,0.035331607,0.77998424,Neu,0.14935257,activiststocks
+3866,2017-01-06 19:57:04,A man who can make music will never be lonely.,0,0,1,0,1,2,0.062216006,0.030966021,0.9068179,Neu,0.031249985,activiststocks
+3876,2017-01-06 00:55:01,"""This app will send you alerts when Donald Trump tweets about stocks you own - Yahoo""  ",0,1,1,0,0,0,0.045024853,0.016024286,0.9389509,Neu,0.029000567,activiststocks
+3904,2017-01-04 21:51:00,"""Kyle Bass: ’Global markets are at the beginning of a tectonic shift’ - Yahoo"" ... Japan will save us  ",0,1,1,0,0,1,0.6001864,0.028808849,0.37100473,Pos,0.5713776,activiststocks
+3929,2017-01-03 17:01:05,"""This Could Be the Most Volatile Year for Political Risk Since WW2, Eurasia Group Says - Bloomberg""  ",0,0,1,0,0,0,0.034602005,0.6893671,0.27603087,Neg,-0.6547651,activiststocks

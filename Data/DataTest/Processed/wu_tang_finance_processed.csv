@@ -1,0 +1,49 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-06-26 22:34:03,Apple. Nike. Delta. Wu-Tang.,0,0,0,5,6,138,0.03687289,0.024126064,0.939001,Neu,0.012746826,wu_tang_finance
+1,2021-04-10 16:40:05,Such a ridiculous oversimplification of a company with absolutely wild margins and a reasonable valuation at the same time ! $FB gang,0,0,0,4,3,95,0.071615234,0.22106586,0.70731884,Neu,-0.14945063,wu_tang_finance
+3,2021-01-21 17:55:03,I know the meme about if Amazon were in charge of this vaccine distribution things would be better. But it’s no doubt true given their access to capital and distribution infrastructure yo,1,1,1,7,12,175,0.3625474,0.011197551,0.62625504,Neu,0.35134986,wu_tang_finance
+4,2021-01-05 15:40:00,Personal finance and the god damn simple basics of principal and interest should be mandatory for all high school students. This shouldnt be confusing. It’s not if you try and just google how debt works...,1,1,1,29,62,604,0.029695852,0.08829275,0.8820115,Neu,-0.058596894,wu_tang_finance
+5,2020-11-24 17:32:00,"So apparently Dow Jones has crossed 30,000 for the first time because:  1) Trump is amazing, thank you so much Donald  2) Biden won, decreased inflammatory politics  3) Janet Yellen? (who raised rates that gave us trump) 4) corona spike but also vaccines 5) derp derp as usual",1,1,0,9,19,300,0.36320263,0.020373186,0.61642414,Neu,0.34282944,wu_tang_finance
+6,2020-08-09 14:29:02,    Why not both,0,0,0,0,0,0,0.049213223,0.036823545,0.91396326,Neu,0.0123896785,wu_tang_finance
+7,2020-08-09 13:35:04,    God damn,0,0,0,0,0,0,0.14672734,0.37558427,0.4776883,Neu,-0.22885694,wu_tang_finance
+8,2020-08-09 13:05:03,    What dude,0,0,0,0,0,0,0.03626749,0.12613818,0.83759433,Neu,-0.08987069,wu_tang_finance
+9,2020-08-09 12:57:03,     ,0,0,0,0,0,0,0.35916328,0.21665184,0.4241849,Neu,0.14251144,wu_tang_finance
+10,2020-07-09 13:06:01,ALL ABOUT FAAM THESE DAYS.  FACEBOOK AMAZON APPLE MICROSOFT  but also  FORTY ACRES AND A MULE  ANDREW JACKSON AINT ABOUT THAT FAAM LIFE THO,0,0,0,3,23,228,0.0334351,0.032281287,0.93428355,Neu,0.0011538118,wu_tang_finance
+11,2020-06-30 13:28:01,Amazon Bitcoin Bruh,0,0,0,8,92,768,0.06208407,0.014274322,0.92364156,Neu,0.04780975,wu_tang_finance
+12,2020-06-16 22:32:02, FreeZeroHedge,0,0,0,2,10,155,0.07280819,0.024007328,0.90318453,Neu,0.048800863,wu_tang_finance
+13,2020-05-05 23:14:01,replace every postoffice with an Amazon public private partnership,0,0,0,14,11,254,0.02599403,0.029016323,0.9449897,Neu,-0.0030222926,wu_tang_finance
+14,2020-04-22 03:06:05,"Bezos gonna be a trillionaire somebday even tho after I purchase a movie on Amazon I still can’t watch it cause of some unidentified error. Bald, got completely played by his mistress, mfer",1,1,1,5,22,350,0.030456426,0.38627422,0.5832693,Neu,-0.3558178,wu_tang_finance
+15,2020-04-16 01:10:05,"Need a mechanism to minimize individual support of China’s economy. An Amazon filter for manufacturing country, disclosure for tech products/services, whatever, I don’t care anymore",0,1,0,16,35,329,0.059843183,0.03667663,0.90348023,Neu,0.023166552,wu_tang_finance
+16,2020-03-07 22:34:00,Courting the influential “proficient asf in Microsoft excel without a mouse” vote,0,1,0,4,16,174,0.15780278,0.025850846,0.81634635,Neu,0.13195193,wu_tang_finance
+17,2020-02-09 15:03:00,"Nothing better than lazy Sunday mornings. Black coffee, dank food, new  concert on Amazon Video",0,1,0,2,1,28,0.05650764,0.020854434,0.9226379,Neu,0.035653204,wu_tang_finance
+18,2020-01-31 19:41:03,  Literally both of these definitions do not describe amazon  ,0,1,0,1,0,3,0.024641104,0.02877136,0.94658756,Neu,-0.0041302554,wu_tang_finance
+19,2020-01-28 21:58:02,TO ALL THE APPLE HATERS,0,0,0,9,8,83,0.05171828,0.18147126,0.7668104,Neu,-0.12975298,wu_tang_finance
+20,2019-12-05 01:59:02,Almost as bad as the “geniuses” working at Apple stores 😂,0,1,0,3,16,222,0.024281418,0.82324845,0.15247011,Neg,-0.798967,wu_tang_finance
+21,2019-10-18 17:25:03,"PERSON NEXT TO ME ON THIS FLIGHT ABSOLUTELY CRUSHING MICROSOFT EXCEL ON A SURFACE, NOMOUSEGANG IN FULL EFFECT SHOUTOUT TO EVERYONE WHO KNOWS WHAT ITS ALL ABOUT",0,0,0,10,48,678,0.03763932,0.051244225,0.9111164,Neu,-0.013604905,wu_tang_finance
+22,2019-10-10 15:50:04,  Y tho. Why would any highly skilled engineer want to work for Apple at below market wages.,1,0,1,2,1,45,0.03859183,0.24877007,0.7126381,Neu,-0.21017824,wu_tang_finance
+23,2019-07-24 00:05:00,WHAT IS INSTAGRAMS BUSINESS WORTH NOW. ELITE ACQUISITION BY FACEBOOK AKA YA BOI MARKY ZUCK,0,1,0,4,23,284,0.046972685,0.01686727,0.93616,Neu,0.030105414,wu_tang_finance
+24,2019-07-23 23:03:04, For a generous profit on your end too boosting yalls stock price yes,0,1,0,0,0,0,0.86385435,0.022385435,0.113760136,Pos,0.84146893,wu_tang_finance
+25,2019-06-05 16:05:00,When everyone at your mediocre marketing company gets a new Apple Pro Display XDR stand  ,0,1,0,2,14,235,0.050248764,0.023626523,0.9261247,Neu,0.026622241,wu_tang_finance
+26,2019-05-22 23:47:02,   Fromage is enjoyable,0,1,0,2,0,4,0.062410392,0.031006375,0.9065832,Neu,0.03140402,wu_tang_finance
+27,2019-04-30 23:42:03,Gene the OG Apple STAN and idk if anyone else is close to him.,0,1,0,0,1,22,0.02112735,0.05097597,0.9278967,Neu,-0.02984862,wu_tang_finance
+28,2019-04-25 23:28:03,  OH WHAT HAVE YOU BEEN SHORT FACEBOOK AND FEELING THE HEAT LATELY? FOH,0,0,0,0,2,56,0.050213877,0.21325898,0.73652714,Neu,-0.16304511,wu_tang_finance
+29,2019-03-28 14:33:03,     It’s a simple formula. I’m sure ramp will agree.,0,1,1,1,0,4,0.19455552,0.010220762,0.7952237,Neu,0.18433475,wu_tang_finance
+30,2019-03-28 14:18:03,   It completely depends on how fresh the meat is off the grill. Peak hours the food is great. If you miss the rush by 2 hours in either direction... it has potential to be very poor.,0,1,0,2,0,11,0.015090099,0.91550267,0.06940733,Neg,-0.90041256,wu_tang_finance
+32,2019-02-14 19:07:00,"NEW YORK REJECTING AMAZON IS A GIFT TO MIDDLE AMERICA MAY WE ALL REJOICE AND BE GLAD IN IT, WORD TO NASHVILLE",0,1,0,3,68,483,0.22904254,0.013427293,0.75753015,Neu,0.21561526,wu_tang_finance
+33,2019-01-30 23:01:05,HAS ANYONE OVERLAYED THE DOW VS TRUMP TWEETS ABOUT THE STOCK MARKET? WOULD BE DOPE. PLZ UPDATE FOR TODAY.,0,0,0,12,13,170,0.026200384,0.052784096,0.92101556,Neu,-0.026583713,wu_tang_finance
+34,2019-01-20 15:43:04, You can google,0,0,1,0,1,1,0.08047609,0.02055541,0.8989685,Neu,0.05992068,wu_tang_finance
+35,2019-01-17 13:44:04, YAS,0,0,0,0,0,1,0.066859946,0.034513175,0.89862686,Neu,0.03234677,wu_tang_finance
+36,2018-12-12 15:48:03,If u Google “cultural theft” macklemore’s picture shows up wtf ,0,1,0,7,12,98,0.032121014,0.17172787,0.7961511,Neu,-0.13960685,wu_tang_finance
+37,2018-11-28 23:42:05, Some men just want to watch the world burn,0,1,0,0,0,6,0.029317215,0.061635874,0.9090468,Neu,-0.03231866,wu_tang_finance
+39,2018-10-03 14:22:00,OH YEAH COOL MACKLEMORE IS FROM SEATTLE JUST LIKE AMAZON. STILL FRAUDS FOR NOT STANDING UP FOR WHAT IS RIGHT. RESISTBEZOS,0,0,0,1,9,169,0.04719806,0.062902994,0.889899,Neu,-0.015704934,wu_tang_finance
+40,2018-10-03 14:21:02,"OH YEAH AMAZON IS COOL NOW, RAISING THEY MINIMUM WAGES TO THAT MAGICAL $15/HOUR, BUT WHERE TF WERE THEY WHEN MACKLEMORE FRAUDULENTLY WON 5 GRAMMYS OVER THE GREATEST ALBUM OF THE DECADE KENDRICK LAMARS GOOD KID mAAd CITY",1,1,0,13,179,1008,0.1294085,0.031365946,0.83922553,Neu,0.09804255,wu_tang_finance
+41,2018-08-01 16:55:04,"SHOUTOUTS GOOGLE FOR CHASING THAT CHINESE PAPER. INFILTRATE THE MARKET, PRETEND TO ADHERE TO CHINA’S SHIT RULES, THEN LATER OPEN THE FLOOD GATES OF INFO TO THE CHINESE MASSES.",0,1,0,5,39,235,0.03253753,0.1490966,0.8183659,Neu,-0.11655906,wu_tang_finance
+42,2018-07-25 23:40:05,Me after looking at my portfolio after this massive Facebook crash. Scotch just doesn’t cut it.  ,0,1,0,17,37,313,0.034001306,0.11644819,0.84955055,Neu,-0.08244688,wu_tang_finance
+43,2018-07-25 21:17:02,"Guys go get on Facebook right now maybe create some new accounts, need to save the S&P 500  ",0,1,0,9,49,369,0.10025581,0.017552473,0.88219166,Neu,0.08270334,wu_tang_finance
+44,2018-07-20 17:12:00,We gonna execute that Russian spy or are we soft these days,0,1,0,9,61,345,0.10088525,0.20143512,0.69767964,Neu,-0.10054987,wu_tang_finance
+45,2018-07-17 21:55:03,Facebook laughing at all the Cambridge analytica crisis haters  ,0,1,0,1,22,132,0.039882403,0.341811,0.6183065,Neu,-0.3019286,wu_tang_finance
+46,2018-07-12 02:03:02,  Brown Apple core 🔥🔥🔥,0,0,0,1,0,3,0.05727884,0.03133923,0.9113819,Neu,0.025939614,wu_tang_finance
+47,2018-05-25 06:15:03, Voo doo shit,0,0,0,0,0,4,0.09375426,0.041311596,0.86493415,Neu,0.052442666,wu_tang_finance
+48,2018-04-25 17:55:05,WHAT IS LIFE WHAT ARE WE DOING WHY DO WE TWEET WHY DO WE GRIND AT WORK ALL DAY FUCK SOCIETAL NORMS GO SPEND ALL YO MONEY ON NICE FOOD TRIPS CONCERTS SPORTS DRUGS BOOZY BRUCH NEW APPLE PRODUCTS CONSUME TO YOUR HEARTS DESIRE SELL ASSETS ENJOY LIFE U NEVER KNOW WHEN UR GONNA GO,0,1,0,15,57,326,0.029305847,0.07343091,0.8972632,Neu,-0.044125065,wu_tang_finance
+49,2018-04-10 20:27:05,"Oh the horror of the existence of Facebook what a fucking nightmare compared to $20 trillion of national debt, endless deficits, broken international relations and a failing education system the enlightened old ass career politicians have blessed us with  ",1,1,0,12,98,488,0.058980536,0.768846,0.17217343,Neg,-0.70986545,wu_tang_finance
+50,2018-04-10 20:19:01,What does Maxine Waters have to say about FACEBOOK? I am thirsty for her expertise.,0,1,0,8,27,151,0.07154107,0.017027244,0.9114317,Neu,0.054513827,wu_tang_finance

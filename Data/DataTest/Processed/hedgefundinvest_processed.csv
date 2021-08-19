@@ -1,0 +1,5 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-12-19 18:39:01,"A creeping thought that I've been entertaining for the past few days is the how much sense an AAPL/MSFT merger makes. The more I think about it, the more sense it makes.",1,1,0,2,0,1,0.071847364,0.07139913,0.85675347,Neu,0.00044823438,hedgefundinvest
+1,2018-10-05 11:17:00,"Crazy story by Bloomberg on Amazon, Apple, etc being infiltrated by Chinese spy chips. To be honest, this story was coming, true or not.",1,1,0,0,2,3,0.048766557,0.11254839,0.83868504,Neu,-0.06378183,hedgefundinvest
+2,2018-08-09 12:16:05,YouTube drinking Facebook's milkshake.   ,0,1,0,0,2,2,0.036008865,0.051864885,0.91212624,Neu,-0.01585602,hedgefundinvest
+3,2018-08-02 11:23:05,"Folks should stop with the whole ""evil"" thing on this... isn't it better that Google has a slice of Chinese search vs. Tencent/Baidu/et al? All else equal?",0,1,1,1,0,1,0.046177946,0.04293049,0.91089153,Neu,0.0032474548,hedgefundinvest

@@ -1,0 +1,208 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+1,2021-07-23 17:34:05,$FB $GOOGL $MSFT - all-time highs. They keep going and going.  ,0,1,0,2,1,7,0.45414546,0.03949697,0.5063576,Neu,0.4146485,jasonleavitt
+2,2021-07-19 17:38:03,$AMZN - resistance becomes support? We'll see. No position.  ,0,1,1,2,0,5,0.12788855,0.3106819,0.56142956,Neu,-0.18279336,jasonleavitt
+3,2021-07-15 15:37:01," AAPL, AMZN, GOOGL and MSFT all down. We are so screwed.",0,1,0,0,0,0,0.009108257,0.9386922,0.052199487,Neg,-0.92958397,jasonleavitt
+4,2021-07-14 15:44:02,$AAPL - keeps going  ,0,1,0,0,0,3,0.12054739,0.015731458,0.86372113,Neu,0.10481593,jasonleavitt
+5,2021-07-07 15:33:05,"AAPL, MSFT, AMZN, GOOGL, FB - all posting gains while the S&P is down and the AD line is a -1000.",0,1,0,1,1,4,0.01846074,0.9577124,0.02382681,Neg,-0.93925166,jasonleavitt
+6,2021-07-07 14:25:01,$AMZN monthly and weekly. Doesn't get much better than this.  ,0,1,0,0,1,11,0.30735558,0.30020192,0.39244252,Neu,0.00715366,jasonleavitt
+7,2021-07-02 20:59:04,$AMZN - it's only a matter of time before this breaks out and rallies to be the largest company.  ,0,1,0,1,1,11,0.20636845,0.014194128,0.7794374,Neu,0.19217432,jasonleavitt
+8,2021-07-02 14:59:02,"$FB now a trillion dollars. Joins $AAPL, $MSFT, $AMZN and $GOOGL.",0,1,0,1,0,0,0.043854836,0.028297694,0.9278475,Neu,0.015557142,jasonleavitt
+9,2021-07-02 04:31:04,"The S&P is up 6 straight days and 8 of the last 9, and the internals are so-so. Hmmm.",0,1,0,6,1,18,0.6757338,0.03160779,0.29265842,Pos,0.644126,jasonleavitt
+11,2021-06-18 15:06:05,$AMZN - long term charts don't get much better than this.  ,0,1,0,0,0,21,0.06362465,0.59268486,0.3436905,Neg,-0.52906024,jasonleavitt
+12,2021-06-10 15:34:04,"Percentage of $SPX stocks above their 20 and 50-day MA declining, despite new highs.  ",0,1,0,3,3,22,0.013516614,0.9714386,0.015044816,Neg,-0.957922,jasonleavitt
+14,2021-06-09 16:04:05, So you think AMZN will be $45 trillion market cap in 10 years? 😉,0,1,1,1,0,5,0.10014566,0.017874205,0.8819801,Neu,0.08227146,jasonleavitt
+15,2021-06-02 20:32:05,$AMC is bigger than half the stocks in the S&P. When will it be added?,1,1,1,1,0,4,0.039200604,0.02126703,0.93953234,Neu,0.017933574,jasonleavitt
+16,2021-06-02 15:56:04,$DPZ still kicking $GOOGL's ass since going public.  ,0,1,0,0,0,7,0.30130023,0.18595833,0.5127415,Neu,0.1153419,jasonleavitt
+18,2021-05-10 21:12:01, The Dow no longer closed at an all time high. N still = 1.,1,1,0,0,0,5,0.10339116,0.31153432,0.58507454,Neu,-0.20814314,jasonleavitt
+19,2021-05-10 17:46:03,The Dow is up 0.7%; the Nas 100 is down 1.5%. This is the market.,0,1,0,1,0,5,0.041381486,0.7935443,0.16507429,Neg,-0.7521628,jasonleavitt
+21,2021-04-23 17:22:00,Huge rally coming next week? The S&P 500 and 600 are ready.  ,0,1,0,2,1,24,0.15001057,0.020677585,0.82931185,Neu,0.12933299,jasonleavitt
+22,2021-04-19 17:44:00,I can't remember a time when the $SPX was doing this and there was so much damage beneath the surface.  ,1,1,1,4,2,20,0.03891425,0.25408834,0.7069974,Neu,-0.2151741,jasonleavitt
+24,2021-04-07 19:42:02,"$AAPL, $MSFT $AMZN $GOOGL and $FB are masking the fact that the market isn't doing well.",0,1,0,4,2,27,0.018480163,0.91701376,0.064506106,Neg,-0.8985336,jasonleavitt
+25,2021-04-07 05:37:03,"   Actually the S&P won't own them until much later, right? (NFLX wasn't added until 2010) Right now, only 40 S&P companies are smaller than $10B market cap.",1,1,1,0,0,1,0.028256712,0.039468873,0.9322744,Neu,-0.011212161,jasonleavitt
+26,2021-04-05 14:56:04,$GOOGL continues (no position)  ,0,1,0,1,1,9,0.029489316,0.071427196,0.8990835,Neu,-0.04193788,jasonleavitt
+29,2021-02-17 16:19:03,"If the $SPX loses its 8, it's heading for the 21. If that doesn't hold, the 50 is next.  ",0,1,0,0,1,14,0.039861314,0.41634202,0.5437967,Neu,-0.3764807,jasonleavitt
+30,2021-02-11 19:34:00,"Despite yesterday's crash and today's follow through, the S&P is still up on the week and up big on the month.  ",0,1,0,1,0,8,0.93738765,0.022157582,0.040454768,Pos,0.91523004,jasonleavitt
+31,2021-02-05 21:51:04," I'm late responding. I have a Netgear Orbi setup. Router is in the basement; satellite is on main level. Sometimes we have 4 different people on Zoom or Google Meet, and so far it hasn't crashed once.",1,1,0,0,0,1,0.030961044,0.05106723,0.9179717,Neu,-0.020106185,jasonleavitt
+32,2021-02-05 01:50:02," Stop with the petty moves. The S&P is headed to 4,000.",1,1,0,0,0,0,0.038920313,0.038470674,0.922609,Neu,0.0004496388,jasonleavitt
+33,2021-01-29 18:31:00,"The S&P need to rally 39 the next 2-1/2 hours to avoid a ""down"" January.",0,1,0,2,0,6,0.023688717,0.93184245,0.04446887,Neg,-0.9081537,jasonleavitt
+35,2021-01-22 20:41:00,The S&P is up 0.06% and the Nas 100 is up 0.06%. What's all the hubbub about? 😉,0,1,0,1,0,9,0.51804435,0.08541734,0.3965383,Pos,0.43262702,jasonleavitt
+37,2020-12-28 00:23:00,"On the same page Delete Facebook is trending, there's an ad for Oculus.  ",0,1,0,1,0,4,0.02973047,0.11299469,0.85727483,Neu,-0.083264224,jasonleavitt
+38,2020-12-15 15:34:03,$AAPL - breaking out on the weekly  ,0,1,0,1,0,7,0.300203,0.034215704,0.6655813,Neu,0.26598728,jasonleavitt
+41,2020-10-30 17:05:04,"If $AMZN wants to hold above 3000, it probably should announce that 30-for-1 stock split. :)",0,1,1,0,1,10,0.03440534,0.034920402,0.93067425,Neu,-0.00051506236,jasonleavitt
+43,2020-10-12 15:13:05,$AAPL - finally moving again  ,0,1,0,0,0,1,0.4361241,0.015944429,0.54793143,Neu,0.42017967,jasonleavitt
+44,2020-10-07 19:57:05," $TSLA is not in the S&P, so yeah, possible. :)",0,1,0,0,0,0,0.033714436,0.025561756,0.9407238,Neu,0.0081526805,jasonleavitt
+45,2020-10-06 15:43:01,$AAPL getting squeezed between its hourly 50 and 200.  ,1,1,0,0,0,2,0.042612635,0.651388,0.30599934,Neg,-0.6087754,jasonleavitt
+46,2020-10-01 16:16:03,Now riding the hourly 21. Up against the 200. Progress. $AAPL  ,0,1,0,1,0,1,0.523129,0.13792375,0.3389473,Pos,0.38520524,jasonleavitt
+50,2020-09-24 20:03:02,$SPX - first the index gets rejected by its 5-min 200. Then it losses its 5-min 50.  ,1,1,0,2,0,11,0.015390159,0.867914,0.11669571,Neg,-0.85252386,jasonleavitt
+51,2020-09-23 18:37:01,Google not a trillion-dollar company any more. Bailouts coming soon.,0,1,0,0,0,4,0.06537534,0.080136485,0.8544882,Neu,-0.014761142,jasonleavitt
+54,2020-09-21 14:23:03, $SPX is definitely not going to rally without $AAPL.,0,1,0,0,0,0,0.77575386,0.08548712,0.13875905,Pos,0.6902667,jasonleavitt
+55,2020-09-21 14:21:03,per  here's the S&P performance per day of the year (1950-2018). This week is a weak one.  ,0,1,0,0,1,6,0.010146171,0.9650622,0.024791602,Neg,-0.954916,jasonleavitt
+56,2020-09-18 17:52:03,$AAPL - just keeping an open mind. hehe  ,0,1,0,4,0,16,0.06110029,0.020089343,0.91881037,Neu,0.041010946,jasonleavitt
+57,2020-09-18 16:21:05, $AAPL does not look great either.,0,1,0,1,0,3,0.050940767,0.13127916,0.8177801,Neu,-0.08033839,jasonleavitt
+58,2020-09-16 18:41:01,$AAPL is weak. The 50 is key.  ,0,1,0,0,0,5,0.13251103,0.2810686,0.58642036,Neu,-0.14855756,jasonleavitt
+59,2020-09-12 13:53:04, The $SPX is moving down; $WKHS is moving up. That's strong relative strength.  ,0,1,0,0,0,2,0.4361226,0.45601606,0.10786125,Neg,-0.019893467,jasonleavitt
+60,2020-09-10 19:25:01,$AAPL - looks more bearish than bullish  ,0,1,0,2,1,6,0.1680919,0.05054831,0.78135985,Neu,0.11754358,jasonleavitt
+63,2020-08-27 18:44:02,Tomorrow is the last day of trading for $AAPL and $TSLA before their splits.,0,1,0,0,0,4,0.017516691,0.17259245,0.80989087,Neu,-0.15507576,jasonleavitt
+66,2020-08-21 16:07:04,$AAPL is now almost twice as big as $GOOGL,0,1,0,0,0,3,0.19086073,0.026940154,0.7821991,Neu,0.16392058,jasonleavitt
+69,2020-08-11 19:50:00,"Per  when the S&P posts a gain 5 consecutive months, it has been higher 25 of 26 times a year later.",1,1,0,0,0,3,0.9091992,0.03592977,0.054871064,Pos,0.87326944,jasonleavitt
+70,2020-08-07 18:00:01," AAPL, AMZN, GOOGL and MSFT are already down. If FB goes negative, we're freaking screwed.",1,1,0,1,0,1,0.010845013,0.94092596,0.048229013,Neg,-0.93008095,jasonleavitt
+71,2020-08-06 16:29:05,$AAPL has a market cap of $1.9 trillion. Let that sink in.,0,1,0,3,0,9,0.044576433,0.019532533,0.9358911,Neu,0.0250439,jasonleavitt
+72,2020-08-03 05:35:05," Yep. Being price-weighted results in the Dow refusing to add AMZN, GOOGL or FB.",0,1,0,0,0,4,0.025415579,0.6421821,0.33240226,Neg,-0.6167665,jasonleavitt
+73,2020-07-29 19:43:01,$SPX - the 50 has been taken out  ,1,1,0,1,0,5,0.038589433,0.15448815,0.80692244,Neu,-0.11589871,jasonleavitt
+74,2020-07-29 15:14:05,The 50-MA on the hourly $SPX chart is a key level.  ,0,1,0,1,2,12,0.15755875,0.028716624,0.8137246,Neu,0.12884213,jasonleavitt
+75,2020-07-29 14:35:03,The leaders are consolidating 2/  $AMZN $PANW $FSLY $AVLR  ,0,1,0,1,0,0,0.07731378,0.023602836,0.8990834,Neu,0.053710945,jasonleavitt
+79,2020-06-24 16:39:04,The S&P is now down 1.4% for the week. Right on cue.,0,1,0,0,0,3,0.008051301,0.96337354,0.02857512,Neg,-0.95532227,jasonleavitt
+80,2020-06-22 19:56:03, How much overlap between the two. $AAPL is in both indexes. Others are too.,0,1,0,0,0,0,0.046488654,0.040502857,0.9130085,Neu,0.0059857965,jasonleavitt
+81,2020-06-19 14:55:05,$FB setting up  ,0,1,0,0,0,2,0.078693405,0.019440869,0.90186566,Neu,0.059252538,jasonleavitt
+82,2020-06-02 19:30:00,"Early weakness is often a gift. $AMZN, $ISRG, $WORK  ",0,1,0,0,0,2,0.05814896,0.059238262,0.8826128,Neu,-0.001089301,jasonleavitt
+83,2020-06-02 19:29:01,Early weakness is often a gift. $COUP $ESTC $FB $SBUX  ,0,1,0,2,2,8,0.048896696,0.10105974,0.85004354,Neu,-0.052163046,jasonleavitt
+84,2020-05-28 20:07:03,S&P breadth - the worst-performing group still has almost 90% of its stocks above their 50-day MAs. (image)  ,0,1,0,1,0,6,0.04180767,0.5630913,0.39510116,Neg,-0.5212836,jasonleavitt
+85,2020-05-26 16:19:00,$SPX stocks above their 50-day SMA and 50-day EMA. They are very correlated...except for right now.  ,0,1,0,0,0,5,0.25512114,0.07296334,0.67191553,Neu,0.1821578,jasonleavitt
+87,2020-05-21 19:27:02, Don't forget real estate expenses are being shifted from FB (commercial) to employees (residential).,1,1,0,1,0,6,0.13590182,0.07200799,0.7920902,Neu,0.06389383,jasonleavitt
+90,2020-05-06 19:35:05,"$SPX - middle Feb high/Mar low...middle of 50 and 200 MAs. I see a range developing, perhaps lasting long enough to exhaust everyone.  ",0,1,0,0,2,11,0.33792928,0.17728621,0.4847846,Neu,0.16064307,jasonleavitt
+91,2020-05-04 14:54:01,$SPX down 20 - that's not bad considering the losses in Asia and Europe.,0,1,0,1,0,7,0.051573724,0.92768854,0.020737708,Neg,-0.87611485,jasonleavitt
+92,2020-05-01 15:28:02, Bill Gates owns Microsoft?,0,1,0,0,0,0,0.03282654,0.059682462,0.90749097,Neu,-0.026855923,jasonleavitt
+93,2020-04-30 20:35:03,$AMZN - place your bets. A 150-point move in either direction coming soon.  ,0,1,0,3,1,5,0.09648196,0.020570295,0.8829478,Neu,0.07591166,jasonleavitt
+95,2020-04-28 15:48:05,"$SPX is flat, but AD line is +1400 - rotation into small caps.",0,1,0,0,0,3,0.113454215,0.174695,0.7118508,Neu,-0.061240785,jasonleavitt
+96,2020-04-27 19:11:04,"The market is posting solid, across-the-board gains, but MSFT, AAPL, AMZN, GOOGL and FB are down. Weird.",0,1,0,2,1,7,0.013939266,0.9574299,0.028630849,Neg,-0.9434906,jasonleavitt
+97,2020-04-27 14:24:03,"The 5 biggest companies ($MSFT, $AAPL, $AMZN, $GOOGL, $FB) all report earnings this week.",0,1,0,0,1,2,0.2347346,0.03810452,0.7271609,Neu,0.19663008,jasonleavitt
+99,2020-04-16 17:53:05," I look for the AD line to offer clues. For example, the S&P presses higher but the AD line starts to trend lower. Or the opposite.",0,1,0,1,0,3,0.03589552,0.77943933,0.18466514,Neg,-0.7435438,jasonleavitt
+100,2020-04-16 17:36:01,"When the S&P was posting a gain, the AD line was at -700. That was a warning.  ",1,1,0,1,3,28,0.07072296,0.27463832,0.65463865,Neu,-0.20391536,jasonleavitt
+103,2020-04-12 17:58:00," If they'd stop giving Amazon such cheap shipping rates, they'd be massively  profitable.",0,1,1,0,0,1,0.13815488,0.025812173,0.836033,Neu,0.11234271,jasonleavitt
+104,2020-04-07 16:10:04,The market is freaking wacko. Last week I was thinking the S&P would probably bounce up to 2800-2900. It's already at 2700. WTF. Can I get a slower move please. Things take days instead of weeks.,1,1,1,2,0,9,0.05922415,0.24314475,0.6976311,Neu,-0.18392059,jasonleavitt
+105,2020-04-03 18:18:02, I hear Google Hangouts is good.,0,1,0,2,0,0,0.554712,0.017623097,0.42766497,Pos,0.5370889,jasonleavitt
+106,2020-04-02 18:33:02,TICK trending down and AD not matching the S&P. Not a surprise market couldn't ramp up.  ,0,1,1,1,0,6,0.014332661,0.9395359,0.046131387,Neg,-0.92520326,jasonleavitt
+107,2020-04-02 14:57:00," My wife's school district (Boulder, CO) is not permitted to use Zoom for security reasons. They're using Google Classroom (or whatever it's called).",1,1,0,1,0,0,0.02169091,0.12916341,0.84914565,Neu,-0.1074725,jasonleavitt
+109,2020-04-01 20:25:02,$AAPL don't laugh  ,0,1,0,4,1,8,0.04702985,0.029199228,0.92377096,Neu,0.017830621,jasonleavitt
+115,2020-03-30 18:30:00,$AMZN getting scooped up by the 8 & 21.  ,1,1,0,1,1,2,0.116007075,0.0913245,0.79266846,Neu,0.024682574,jasonleavitt
+117,2020-03-25 17:48:04,A gigantic bullish engulfing forming. $SPX  ,0,1,0,1,1,19,0.101828784,0.024764568,0.87340665,Neu,0.077064216,jasonleavitt
+118,2020-03-23 16:04:03,"$V sliced through its monthly 21. When this is over (will take months), there will be amazing buys of quality companies available.  ",1,1,1,1,0,6,0.74595445,0.011566091,0.24247944,Pos,0.73438835,jasonleavitt
+119,2020-03-23 15:51:02,"$AAPL - people finally realizing as top-notch as Apple is, it still needs to manufacture and sell expensive products all over the world. Probably won't happen much right now.  ",0,1,1,3,1,5,0.1879977,0.029498642,0.78250366,Neu,0.15849906,jasonleavitt
+121,2020-03-20 16:08:00,This is the biggest WTF I've seen in a long time. 158K $SPY 25 puts were bought for June.  ,1,1,0,2,0,12,0.13955624,0.020389982,0.84005374,Neu,0.11916626,jasonleavitt
+124,2020-03-13 14:29:04,Massive volatility crush in the options market. The SPY 248 call (yesterday's close) is only up 6 today even though the stock is up 12.,0,1,0,1,0,5,0.27606133,0.33459315,0.38934556,Neu,-0.05853182,jasonleavitt
+125,2020-03-13 05:16:00,SPX 10-day high-low putting in a higher low. Bounce coming soon.  ,0,1,0,0,1,13,0.31752628,0.4938184,0.18865523,Neg,-0.17629212,jasonleavitt
+126,2020-03-12 21:19:04,"In all honesty, the market should shut down. The liquidity doesn't exist to absorb an all-out flash crash-type panic. The S&P can fall 500 points in an hour.",0,1,1,4,0,8,0.009035417,0.9402325,0.050731946,Neg,-0.9311971,jasonleavitt
+128,2020-02-28 22:19:04, S&P gaps up 100 on Monday. :),0,1,0,1,0,0,0.37497944,0.033069324,0.5919512,Neu,0.34191012,jasonleavitt
+130,2020-02-21 20:13:02,"$APPL, $MSFT, $GOOGL, $AMZN - I know you can get these on your own, but still worth posting. They don't look great near term. Two-week lows and open air below before support comes in.  ",0,1,1,1,2,13,0.03219103,0.8206406,0.14716837,Neg,-0.7884496,jasonleavitt
+131,2020-02-21 00:00:01,"If the S&P falls out of the gate tomorrow and doesn't recover, it'll be below its hourly 50 heading into the weekend.  ",0,1,1,0,1,10,0.008149596,0.961856,0.0299944,Neg,-0.9537064,jasonleavitt
+134,2020-02-05 16:07:00,"With today's drop, $F is now the smallest company in the S&P 100.",0,1,0,0,0,4,0.00949874,0.95302165,0.03747966,Neg,-0.94352293,jasonleavitt
+136,2020-01-31 18:35:04,  GOOGL is not a trade. It's an investment that sits in each of my 3 kids' accounts. I don't care what it does now or in 6 months.,0,1,0,2,0,1,0.026654758,0.044900794,0.92844445,Neu,-0.018246036,jasonleavitt
+138,2020-01-31 17:59:02,"Historically, a down January significantly increases the odds of a down year. These is the S&P's January and full year performance. Red lines up with red. Green lines up with green.  ",0,1,0,1,6,19,0.064551845,0.3278882,0.60756,Neu,-0.26333636,jasonleavitt
+139,2020-01-31 17:48:00,$SPX - going to close red on the month?  ,0,1,0,2,0,5,0.04362703,0.8145026,0.14187035,Neg,-0.7708756,jasonleavitt
+141,2020-01-30 21:52:04," Sean, we went for a hike in Boulder several years ago. I'm pretty sure I said the market wouldn't top until $AAPL, $MSFT, $GOOGL and $AMZN were north of $1T. We're there now. Can I change my answer? :)",1,1,1,0,0,1,0.05778714,0.06127673,0.88093615,Neu,-0.0034895912,jasonleavitt
+142,2020-01-30 21:10:05,There are now 4 members of the trillion-dollar club. $AAPL $MSFT $GOOGL $AMZN,0,1,0,0,1,5,0.039515126,0.015783057,0.9447018,Neu,0.02373207,jasonleavitt
+144,2020-01-30 16:32:02,The combined market cap of the top 5 S&P market cap companies is higher than any time in the last 25 years.  ,0,1,0,0,0,2,0.9193501,0.010980955,0.069668874,Pos,0.9083691,jasonleavitt
+146,2020-01-29 16:36:04,The hourly 50 for the $SPX is my line in the sand.  ,0,1,0,0,0,5,0.0424664,0.08644427,0.87108934,Neu,-0.043977875,jasonleavitt
+147,2020-01-27 15:38:01," It's not a prediction, but it's very possible. The S&P is already almost 100 points off its high. I can happen fast.",0,1,1,1,0,1,0.15891415,0.34752083,0.493565,Neu,-0.18860668,jasonleavitt
+148,2020-01-27 15:34:01,A 10% correction takes the S&P approx down to its 200-day MA at 3000.  ,0,1,0,4,3,11,0.012225741,0.95097786,0.03679642,Neg,-0.9387521,jasonleavitt
+149,2020-01-24 20:22:03,Come on...can't the S&P drop 1% just one day?,1,1,1,0,0,7,0.01852458,0.8820171,0.09945832,Neg,-0.8634925,jasonleavitt
+152,2020-01-14 14:56:05,$GOOGL - sometimes the best thing to do is do nothing  ,0,1,0,0,0,1,0.03333184,0.05833071,0.9083374,Neu,-0.02499887,jasonleavitt
+154,2020-01-02 19:20:04,$GOOGL - target is still 1600  ,0,1,0,1,0,1,0.05620642,0.10996077,0.8338328,Neu,-0.053754352,jasonleavitt
+156,2019-12-31 14:45:02, I only have Twitter and FB...and I never use FB.,0,1,0,0,0,0,0.025881423,0.11122057,0.86289805,Neu,-0.085339144,jasonleavitt
+158,2019-12-20 21:10:04," This one. If the current conditions continue into 2020, GOOGL won't be left behind.",1,1,1,0,0,0,0.041432872,0.024670228,0.93389684,Neu,0.016762644,jasonleavitt
+159,2019-12-20 20:05:05,$GOOGL - target still 1600. Anyone want to bet against me?  ,0,1,0,6,2,17,0.05772767,0.07591991,0.86635244,Neu,-0.018192243,jasonleavitt
+160,2019-12-20 20:00:01, That's the culture. Think Microsoft vs Netscape. Breakout rules. Get market share. Get fined. Continue on.,1,1,0,0,0,0,0.11500137,0.01842082,0.86657774,Neu,0.09658055,jasonleavitt
+161,2019-12-17 16:58:01,$GOOGL - still in and holding  ,0,1,0,0,0,2,0.07090706,0.24889916,0.6801938,Neu,-0.1779921,jasonleavitt
+163,2019-12-12 15:13:01,$GOOGL making progress  ,0,1,0,0,0,2,0.1978987,0.06947866,0.7326226,Neu,0.12842004,jasonleavitt
+164,2019-12-09 15:13:04,$GOOGL continues  ,0,1,0,2,0,8,0.03786502,0.05425241,0.9078826,Neu,-0.016387388,jasonleavitt
+165,2019-12-02 15:27:04,$GOOGL - there goes trendline support and the 21-EMA  ,0,1,0,0,1,4,0.2709267,0.019530455,0.7095429,Neu,0.25139627,jasonleavitt
+167,2019-11-26 17:41:04,$SPX - put/call moving up. The market doesn't care.  ,0,1,0,2,1,7,0.16115437,0.107391454,0.7314542,Neu,0.05376292,jasonleavitt
+169,2019-11-20 16:45:00,My phone has started telling me this. Thank you Apple.  ,1,1,0,1,0,7,0.14518529,0.015277241,0.83953744,Neu,0.12990806,jasonleavitt
+171,2019-11-15 02:32:05,"   I get the same. 5-10 calls per day, mostly from my 312 area code even though I don’t live in Chicago.",0,1,0,0,0,0,0.037988868,0.044900883,0.9171103,Neu,-0.0069120154,jasonleavitt
+172,2019-11-14 21:00:02,"   But now that I think about it, I live in Denver and still have my Chicago phone number. Many others do to. I guess it's a binary decision.",0,1,0,0,0,0,0.0332695,0.12567806,0.8410524,Neu,-0.09240857,jasonleavitt
+173,2019-11-14 20:47:01,"  Mixed feelings. I'd like to block all unknown calls outside my area code. When you have kids, you can't block all calls. One of those might be important.",0,1,1,1,0,3,0.03133651,0.15314086,0.8155227,Neu,-0.12180435,jasonleavitt
+175,2019-10-30 18:51:03,"$SPX near new high. Tech, financials, health care leading.  ",0,1,0,0,1,4,0.9087159,0.01992593,0.07135815,Pos,0.88878995,jasonleavitt
+176,2019-10-29 13:54:02,"  I agree participation is good but not great, but by the time it's great, the S&P will be at 3200. You can't wait for green lights across-the-board because you'll miss a big chunk of the move.",0,1,1,1,0,3,0.056436297,0.1479963,0.79556745,Neu,-0.091560006,jasonleavitt
+177,2019-10-29 13:46:00," What's more important? The message of a few smaller companies or the message of $AAPL and $MSFT, the largest companies on the planet?",0,1,0,1,0,2,0.03892276,0.027644489,0.93343276,Neu,0.011278272,jasonleavitt
+179,2019-10-28 15:22:04,$GOOGL is acting like it wants to be the next trillion-dollar company.  ,0,1,0,0,0,5,0.037793357,0.023768978,0.93843764,Neu,0.014024379,jasonleavitt
+181,2019-10-24 20:32:03,"Over/under on how long it takes to resolve this? I'm guessing it takes several days just to find the ""contact"" link on amazon's website.   ",0,1,0,1,0,1,0.020611437,0.086362034,0.89302653,Neu,-0.0657506,jasonleavitt
+182,2019-10-22 20:33:04, It's a good point. Do you want to be short and risk MSFT buying your company 30% higher?,0,1,0,0,0,1,0.059882347,0.043317433,0.8968002,Neu,0.016564913,jasonleavitt
+183,2019-10-17 01:34:04, I'm confused. How do you buy $AMZN after it gets broken up. Shouldn't you ask which piece of which company you'd buy. There's a big difference between buying youtube and waymo.,1,1,1,0,0,0,0.034991376,0.056198757,0.9088099,Neu,-0.021207381,jasonleavitt
+184,2019-10-03 15:13:03,$V - building a long term list. Eyeing Visa at the 21.  ,0,1,0,0,0,5,0.13603963,0.011191859,0.85276854,Neu,0.12484777,jasonleavitt
+185,2019-10-01 18:30:00,$SPX continues to put in lower highs and lower lows below its hourly 50.  ,0,1,0,0,0,1,0.092990495,0.88902277,0.01798682,Neg,-0.79603225,jasonleavitt
+190,2019-09-20 18:52:03,Is $AMZN gonna lose its 200?  ,0,1,0,0,0,2,0.014191161,0.91608953,0.06971931,Neg,-0.9018984,jasonleavitt
+191,2019-09-05 16:24:05, $FB is launching a dating app. $IAC owns a big chunk of $MTCH,0,1,0,0,0,2,0.04154626,0.012383827,0.9460699,Neu,0.029162433,jasonleavitt
+192,2019-09-04 15:20:03,Is $MSFT setting up like $NFLX?  ,0,1,0,0,0,1,0.04683037,0.022685654,0.930484,Neu,0.024144717,jasonleavitt
+196,2019-08-14 17:38:04,  Yes. When does AAPL get added to this list?,1,1,0,0,0,2,0.030096697,0.036257748,0.93364555,Neu,-0.006161051,jasonleavitt
+199,2019-08-07 14:48:03,$AAPL - just having fun with long term charts  ,0,1,0,0,0,4,0.044859488,0.028778553,0.926362,Neu,0.016080935,jasonleavitt
+201,2019-07-26 15:23:01,$SPX - new highs are declining.  ,0,1,0,1,5,12,0.015634956,0.9667499,0.017615212,Neg,-0.95111495,jasonleavitt
+202,2019-07-18 17:07:05,$SPX - negative divergence still playing out  ,0,1,0,0,1,4,0.10284232,0.5962096,0.30094808,Neg,-0.49336725,jasonleavitt
+204,2019-07-11 16:38:02,"If the S&P runs into the 3000's, $AMD will be a great one. (chart)  ",0,1,1,0,0,2,0.07442551,0.018657845,0.9069166,Neu,0.055767667,jasonleavitt
+205,2019-07-11 15:55:01,$SPY $IWM - moving opposite - new normal  ,0,1,0,0,0,1,0.12685582,0.022486256,0.8506579,Neu,0.104369566,jasonleavitt
+206,2019-07-11 14:11:04,"  It's hard until the S&P goes to 3200, and then you look back and wonder why you didn't get in.",1,1,0,1,0,0,0.030758224,0.31372863,0.6555131,Neu,-0.2829704,jasonleavitt
+207,2019-07-02 16:07:00, It's worth noting the S&P is up 18% this year - already better than average.,0,1,0,0,0,1,0.9532291,0.022018516,0.0247524,Pos,0.93121064,jasonleavitt
+208,2019-06-19 17:23:00," I hate this quote and a similar one by Buffett. If you buy GE when everyone is selling you get crushed. If you sell AMZN 10 years ago when everyone is frantically buying, you miss out on a generational trade.",1,1,0,1,0,1,0.018887743,0.7167424,0.26436988,Neg,-0.69785464,jasonleavitt
+209,2019-06-19 14:09:05,   What's overvalued mean. The best stocks are overvalued stocks that stay overvalued. AMZN was overvalued for 20 years.,1,1,0,0,0,0,0.062359985,0.022128483,0.91551155,Neu,0.040231504,jasonleavitt
+214,2019-06-03 20:05:04,"If things get nasty, my $SPX target is the red line.  ",0,1,0,0,0,7,0.04646146,0.34404054,0.609498,Neu,-0.29757908,jasonleavitt
+216,2019-06-03 19:20:04,$AAPL - some of you laughed at me when I posted this a while back.  ,1,1,0,0,1,3,0.050555,0.21714693,0.732298,Neu,-0.16659194,jasonleavitt
+220,2019-05-29 14:38:02,"$SPY - line in the same is still ""up there""  ",0,1,0,0,1,1,0.081171,0.032884438,0.8859446,Neu,0.04828656,jasonleavitt
+222,2019-05-26 15:39:05, Put the entire amount in SPY. Periodically sell way out if the money calls. Not that hard to beat the S&P.,0,1,0,0,0,6,0.04526342,0.030821104,0.92391545,Neu,0.014442317,jasonleavitt
+223,2019-05-23 15:14:00,"We're supposed to optimize the process and not fantasize about results, right? Well I'm fantasizing about a lower AAPL entry.  ",1,1,0,1,0,4,0.07650951,0.21454707,0.70894337,Neu,-0.13803756,jasonleavitt
+224,2019-05-21 14:28:02," I did no online searches, but I did use Google Maps to get there. But how does FB know? They don't use Google to serve ads.",1,1,0,2,0,0,0.031073298,0.057647508,0.91127926,Neu,-0.02657421,jasonleavitt
+225,2019-05-21 04:55:01,"This is fucked up. I bought a Eureka 2-burner stove this past weekend at REI. Now FB is pushing the exact product to me. How the fuck did they know? And I inquired about inflatable kayaks too, but didn't buy one. Coincidence or not (see ad)?  ",1,1,0,13,0,6,0.03402506,0.12014984,0.8458251,Neu,-0.086124785,jasonleavitt
+227,2019-05-15 18:18:05,$SPY making progress but still below its hourly 50.  ,0,1,0,1,0,3,0.2838104,0.6846954,0.031494215,Neg,-0.40088502,jasonleavitt
+228,2019-05-15 16:28:03," Fuck the public. If I go public, I'm raising as much money as I possibly can. FB was perfect in my eyes.",1,1,1,0,0,1,0.0800795,0.021124685,0.89879584,Neu,0.05895482,jasonleavitt
+229,2019-05-13 17:58:02,"Weird that TECL is so heavily weighted with MSFT and AAPL, but no AMZN, GOOGL or FB.  ",1,1,0,0,0,1,0.06325681,0.013941039,0.9228021,Neu,0.04931577,jasonleavitt
+230,2019-05-10 15:22:00, $GOOGL market cap dipping below $800B. $AAPL below $900B,0,1,0,1,0,0,0.066708215,0.83912396,0.094167866,Neg,-0.77241576,jasonleavitt
+232,2019-05-07 18:28:04,Should we call it the Buffett top? He says AAPL and AMZN are not disruptable.,0,1,1,0,0,3,0.0421351,0.028041685,0.92982316,Neu,0.014093416,jasonleavitt
+235,2019-05-02 16:47:02,"$SPX below its hourly 50, but that missing data is messing with everything, including the moving averages.  ",0,1,0,1,0,2,0.012067776,0.9421839,0.04574833,Neg,-0.9301161,jasonleavitt
+236,2019-05-02 16:00:00, S&P new monthly low. WTF is going on!,0,1,0,1,0,0,0.025907282,0.772933,0.20115972,Neg,-0.7470257,jasonleavitt
+237,2019-04-26 18:44:04, The S&P is up 2.7 points. You're missing out.,0,1,0,0,0,1,0.6625274,0.10201838,0.23545422,Pos,0.560509,jasonleavitt
+238,2019-04-22 22:34:01, Over the last 9 days the Dow has gone up down up down up down up down up. What’s is there to turnaround? :),1,1,0,1,0,1,0.047912855,0.08344987,0.86863726,Neu,-0.035537016,jasonleavitt
+242,2019-03-22 18:50:01,"   It must be Friday, and the weather is nice. Nobody's watching the market. Bets on the S&P going green today? Anyone?",0,1,1,1,0,0,0.03798271,0.06052652,0.9014908,Neu,-0.02254381,jasonleavitt
+243,2019-03-11 16:18:03,Elizabeth Warren reveals her plan to break up Apple if she becomes president  ,0,1,0,0,0,0,0.027015058,0.029075988,0.943909,Neu,-0.0020609293,jasonleavitt
+245,2019-03-06 19:32:00, The S&P opening print is meaningless because not all 505 stocks trade right out of the gate.,1,1,0,0,0,1,0.024315743,0.408465,0.56721926,Neu,-0.38414925,jasonleavitt
+246,2019-03-04 21:05:00, I have SPX Nov 13 close at 2722.18 and the Mar 1 close at 2803.69. This is a 3% increase. What numbers are you using to get 3.78%?,0,1,0,1,0,0,0.10518971,0.038293295,0.85651696,Neu,0.066896416,jasonleavitt
+247,2019-03-04 04:38:03,"$SPX pushing up, percentage of SPX stocks at a 20-day high down.  ",0,1,0,0,7,9,0.011263306,0.9655609,0.023175858,Neg,-0.9542976,jasonleavitt
+248,2019-02-17 02:47:05, I do not have a credit card stored on amazon for this exact reason. I don’t need my kids accidentally buying stuff while they’re playing on their kindles.,1,1,0,0,0,1,0.028579261,0.2248469,0.7465738,Neu,-0.19626763,jasonleavitt
+249,2019-02-13 04:55:03,Just saying. $SPX $NDX  ,0,1,0,2,2,8,0.051723726,0.022336159,0.9259401,Neu,0.029387567,jasonleavitt
+251,2019-02-05 05:52:05,$SPX - what I'm eyeing right now. The index bounced off the 200 and is now at the 50 (weekly time frame).  ,1,1,0,0,0,7,0.07743583,0.14148156,0.78108263,Neu,-0.064045735,jasonleavitt
+252,2019-01-31 05:17:03,This question was asked on FB. The responses are freaking hilarious.    ,1,1,0,0,1,2,0.037812185,0.33228514,0.62990266,Neu,-0.29447296,jasonleavitt
+253,2019-01-25 20:00:00," You're cherry-picking a 24-day stretch when AMZN posted a big gain. Subtract 3% from Warren Buffett's net worth every year for 30 years, and you'd practically take everything he has.",1,1,1,1,0,0,0.06983878,0.080291234,0.84987,Neu,-0.010452457,jasonleavitt
+256,2019-01-23 14:55:05,SPX - first line in the sand is the 15-min 50.  ,0,1,0,2,0,2,0.026294937,0.041986253,0.93171877,Neu,-0.015691316,jasonleavitt
+258,2019-01-03 14:52:01,"The prospect of a streaming war between Netflix, Amazon, AT&T, Disney, etc is fascinating from the outside and outright scary from the inside. No way people will sub to multiple platforms. Will everyone just go back to cable? One moderate price for everything.",0,1,1,1,0,3,0.034883473,0.122056276,0.84306026,Neu,-0.087172806,jasonleavitt
+261,2018-12-31 14:31:03, I don't get it. How can the S&P AD line drop to -1500 when there are only 505 stocks in the index?,0,1,1,1,0,1,0.012760963,0.89323837,0.09400067,Neg,-0.8804774,jasonleavitt
+265,2018-12-13 18:31:02,  I don't have Amazon Prime and I rarely drink. I could easily live without both. What prize do I win? :),0,1,1,0,0,2,0.03472118,0.03951221,0.9257666,Neu,-0.004791029,jasonleavitt
+267,2018-12-10 15:52:03,What's up with Dow world charts?  ,0,1,0,1,0,1,0.03142595,0.23603624,0.7325378,Neu,-0.20461029,jasonleavitt
+269,2018-11-30 14:31:00, Slightly different picture if dividends are included in the price. $RSP $SPY  ,1,1,0,1,0,2,0.027645456,0.023920562,0.94843394,Neu,0.0037248936,jasonleavitt
+271,2018-11-16 15:50:03,"Don't underestimate the market's ability to be forgetful and drift up into the holidays. And with the current state of things, a slow drift up can be 100 $SPX points.",0,1,1,0,0,3,0.10636834,0.09320107,0.8004306,Neu,0.0131672695,jasonleavitt
+273,2018-11-14 17:21:03, Are you talking about the 80M shares AAPL bought at $210? :),1,1,0,1,0,3,0.028862067,0.024254017,0.94688386,Neu,0.00460805,jasonleavitt
+275,2018-11-11 15:59:02," Your statement is completely wrong. Holding during the day and day trading are not the same. The S&P can move up 2 points during the day, but there can be 20 points available for day traders.",0,1,1,0,0,7,0.06735829,0.072885804,0.8597559,Neu,-0.0055275112,jasonleavitt
+276,2018-11-09 04:29:05, I have no position in any financial stock...just noting the groups has improved. Short term I'm neutral the overall market and will admit I don't have a great feel for things right now. Perhaps this is because the S&P is smack in the middle of its Sept high and Oct low.,1,1,1,0,0,1,0.022704067,0.93261456,0.044681355,Neg,-0.9099105,jasonleavitt
+277,2018-11-07 23:06:02,Lots of traders put themselves on the sidelines this week because of the election. They missed a 100-point SPX rally. Love Wall Street.,1,1,0,0,0,3,0.08286803,0.56846654,0.34866545,Neg,-0.4855985,jasonleavitt
+279,2018-11-01 23:17:05,Everyone bitched when $WBA was added to the Dow instead of $GOOGL or $AMZN. Here are the turns since the change was officially made.  ,1,1,0,0,0,2,0.02336749,0.108111046,0.8685215,Neu,-0.08474356,jasonleavitt
+280,2018-10-31 20:05:00,I can't wait to log into Facebook later tonight and see the Halloween costumes of people I haven't seen since HS.,1,1,1,1,0,2,0.036772516,0.06363959,0.8995878,Neu,-0.026867073,jasonleavitt
+281,2018-10-30 16:15:01," It's true. AMZN is not going to go 10X the next 10 years, but there are dozens of small caps that will.",0,1,1,1,0,2,0.1651065,0.023642976,0.8112505,Neu,0.14146353,jasonleavitt
+282,2018-10-29 18:37:05,My $AMZN target is at about 1400.  ,0,1,0,0,0,4,0.034511432,0.022823175,0.9426654,Neu,0.011688257,jasonleavitt
+284,2018-10-26 16:03:05," If I could only buy one stock and hold it for 20 years, it'd either be $AMZN or $AAPL. Put this doesn't mean it wouldn't tank a few times along the way.",0,1,1,1,0,1,0.08112698,0.030160248,0.88871276,Neu,0.050966732,jasonleavitt
+285,2018-10-26 15:46:04,$AMZN market cap has a 7 handle.,0,1,0,1,0,2,0.052914027,0.033395432,0.9136906,Neu,0.019518595,jasonleavitt
+286,2018-10-26 14:58:01,$SPX - downtrends are typically close to ending when the RSI(5) on the weekly gets oversold.  ,0,1,0,1,2,10,0.007853561,0.9600179,0.032128554,Neg,-0.95216435,jasonleavitt
+287,2018-10-24 21:07:01,$SPX - it's now down for the year.  ,0,1,0,0,0,2,0.0107787885,0.9636067,0.025614457,Neg,-0.95282793,jasonleavitt
+288,2018-10-23 15:40:02,$SPX - there goes the 50-week MA.  ,0,1,0,1,0,4,0.04193963,0.041276935,0.91678345,Neu,0.0006626956,jasonleavitt
+290,2018-10-04 22:26:04," Can you clarify. You list Sep 26 as a day the S&P hit a new high while the condition was positive, yet the index didn't hit a new high that day. The last new high was Sep 21.",1,1,1,1,0,0,0.056343175,0.048235726,0.895421,Neu,0.00810745,jasonleavitt
+296,2018-09-21 18:15:00,"Despite the Dow and S&P hitting new highs, I don't see many very good setups. Seems to be a disconnect between what's going on on the surface (indexes) and beneath the surface (ind names).",0,1,0,2,1,19,0.034313094,0.60964835,0.35603854,Neg,-0.57533526,jasonleavitt
+297,2018-09-13 16:33:04,"$SPX is up 10 but within the Russell 3000, 89 stocks are below lower Bollinger Band. 72 above. And 162 are in bottom 10% of intraday range. Only 68 in top 10%.",0,1,0,0,0,2,0.48199686,0.09576973,0.4222333,Pos,0.38622713,jasonleavitt
+298,2018-09-13 14:57:00,$SPX $EEM - something has to give.  ,0,1,0,2,0,3,0.040046345,0.04499958,0.91495407,Neu,-0.0049532354,jasonleavitt
+300,2018-08-30 19:03:03,The amount $AAPL has gone up in just the last 3 days would allow them to buy $TSLA for cash.,1,1,1,2,1,11,0.2518864,0.012174203,0.7359394,Neu,0.2397122,jasonleavitt
+302,2018-08-23 16:25:05,$SPX - 58 and 143 if you back and use top and bottom 20%,0,1,0,0,0,1,0.03690555,0.019248167,0.94384634,Neu,0.017657382,jasonleavitt
+304,2018-08-17 16:36:04,Everyone exiting FAANG and plowing into AAPL.,0,1,0,0,1,2,0.04071715,0.02799246,0.9312903,Neu,0.01272469,jasonleavitt
+305,2018-08-15 15:06:01,Hourly 50 continues to be a key level for $SPY  ,0,1,0,0,1,4,0.42244187,0.031201871,0.54635626,Neu,0.39124,jasonleavitt
+306,2018-08-08 20:57:00, So in 2009 Amazon was about the same size as airbnb currently is. Amazing.,1,1,0,0,0,1,0.056585,0.013790774,0.9296242,Neu,0.042794224,jasonleavitt
+307,2018-08-01 19:52:00,Does the $SPX want to revisit its lower BB?  ,0,1,0,0,0,4,0.046205744,0.13209717,0.8216971,Neu,-0.085891426,jasonleavitt
+308,2018-07-27 18:37:05,"Given the losses of some individual stocks, I'm surprised the S&P is only down 23. funnymath",1,1,0,0,0,2,0.010434038,0.9555519,0.034014113,Neg,-0.9451179,jasonleavitt
+309,2018-07-26 19:32:01, You're missing the point. The point is the earnings will be whatever Amazon wants them to be...impossible to predict. 100% coin flip.,0,1,1,0,0,0,0.04232978,0.053818572,0.9038516,Neu,-0.011488792,jasonleavitt
+310,2018-07-26 19:17:04,$AMZN earnings after today's close. They will be whatever Amazon wants them to be. Could be very good or not so good.,0,1,1,1,0,3,0.17274256,0.016562413,0.81069505,Neu,0.15618014,jasonleavitt
+312,2018-07-16 15:39:01,"Changing of the guard. $SPX higher high, above its 50-hour MA. $RUT lower high, now below its 50.  ",0,1,0,1,6,11,0.53795344,0.4352369,0.026809651,Pos,0.102716535,jasonleavitt
+315,2018-06-29 14:37:01, Don't forget when they could have bought Facebook for $1B but lowered the price at the last minute to $800M. FB said no.,1,1,1,1,0,4,0.10183733,0.068312496,0.8298502,Neu,0.033524834,jasonleavitt
+316,2018-06-28 19:11:02," The losers have been the brands. CAG, GIS, CPG, KHC, K. If/when AMZN introduces its own brand (like COST has Kirkland), losses will grow.",1,1,1,0,0,1,0.024045218,0.9140991,0.06185561,Neg,-0.89005387,jasonleavitt
+317,2018-06-28 16:42:05,$SPY - the 50 on the hourly is a key level  ,0,1,0,0,1,4,0.101582795,0.019553535,0.8788637,Neu,0.08202926,jasonleavitt
+319,2018-06-20 14:21:02," But the Dow is price-weighted, so they won't add AMZN or GOOGL.",0,1,1,1,0,0,0.05161546,0.047236986,0.9011476,Neu,0.0043784752,jasonleavitt
+320,2018-06-19 05:18:04, I'm still in...trying my best to hold. I'm not managing the short term. I'm managing under the belief the S&P is heading to 3200 and UAA is going to 30. Good trade though. Follow your system.,0,1,0,0,0,1,0.07523166,0.025693445,0.8990749,Neu,0.04953821,jasonleavitt
+321,2018-06-15 20:01:02,"  You're doing that with MSFT. You want another ""O'Hare"" trade?",0,1,0,1,0,0,0.054353576,0.023795785,0.92185056,Neu,0.03055779,jasonleavitt
+323,2018-05-29 16:09:03,$SPY - falling out of range?  ,0,1,0,0,0,1,0.018750736,0.86128,0.11996919,Neg,-0.8425293,jasonleavitt
+324,2018-05-10 18:33:03,$SPY is very extended from its hourly 50. A rest is needed.  ,1,1,0,0,0,5,0.081507124,0.4587738,0.45971906,Neu,-0.37726668,jasonleavitt
+325,2018-05-09 18:08:02,$SPX - bounces off the 50 and 200...gets thru resistance. It's a step.  ,0,1,0,0,0,1,0.2256301,0.028976457,0.7453934,Neu,0.19665365,jasonleavitt
+326,2018-05-03 15:42:04,And the $SPX has followed.  ,1,1,0,0,0,1,0.12779693,0.016185494,0.85601753,Neu,0.11161144,jasonleavitt
+327,2018-04-30 17:45:03,  They do more than watch your searches. I bet I could text you I was buying a bar stool on wayfair...and then wayfair adds would show up in my FB feed. (and I don't have FB on my phone),1,1,1,1,0,1,0.032731846,0.03112581,0.9361424,Neu,0.001606036,jasonleavitt
+329,2018-04-25 14:56:01,$SPY - hourly 50 continues to be important  ,0,1,0,0,0,1,0.373715,0.022005698,0.60427934,Neu,0.3517093,jasonleavitt
+330,2018-04-24 15:31:01,Not surprised with $GOOGL. I notice a month ago youtube was almost unwatchable because of all the ads. You could tell they were desperate.,1,1,1,0,0,2,0.05631899,0.33093137,0.6127497,Neu,-0.27461237,jasonleavitt

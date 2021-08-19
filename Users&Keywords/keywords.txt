@@ -1,0 +1,38 @@
+S&P
+"S&P 500"
+S&P500
+s&p
+SNP500
+SP500
+"SP 500"
+"SNP 500"
+"S&amp;P"
+SPX
+SPY
+SP500NTR
+IVV
+VOO
+SPLG
+RSP
+DIJA
+dowjones
+"Dow Jones"
+"dow jones"
+Dow
+MSCI
+msci
+AAPL
+Apple
+MSFT
+Microsoft
+AMZN
+Amazon
+FB
+Facebook
+Google
+Goog
+Googl
+Visa
+$V
+"Berkshire Hathaway"
+BRK.B
