@@ -7,3 +7,4 @@ Plots_Prior_Sentiment
 Keras_Tuning_Test
 **/*.ipynb_checkpoints/.ipynb_checkpoints
 __pycache__
+.idea
