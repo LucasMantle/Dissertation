@@ -18,7 +18,7 @@ def build_model(hp):
 
     for i in range(hp.Choice('num_layers', [1, 2, 3, 4, 5, 6, 10])):
         model.add(Dense(units=hp.Choice('layer_' + str(i) + '_width', [4, 8, 16, 32, 64, 128, 256]),
-                        kernel_initializer=hp.Choice('kernel_' + str(i), ['glorot_uniform', 'glorot_normal', 'TruncatedNormal', 'Zeros', 'VarianceScaling']),
+                        kernel_initializer=hp.Choice('kernel_' + str(i), ['glorot_uniform', 'glorot_normal', 'TruncatedNormal', 'Zeros']),
                         activation=hp.Choice('activation_' + str(i), ['relu', 'tanh'])))
         model.add(BatchNormalization())
         model.add(Dropout(rate=hp.Choice('dropout_' + str(i), [0.0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8])))
@@ -34,7 +34,7 @@ def build_model(hp):
 class CVTuner(kerastuner.engine.tuner.Tuner):
     def run_trial(self, trial, train, test, executions=3, *args, **kwargs):
         early_stop = tf.keras.callbacks.EarlyStopping(
-            monitor='val_accuracy', min_delta=0, patience=10, verbose=0,
+            monitor='val_accuracy', min_delta=0, patience=20, verbose=0,
             mode='max', baseline=None, restore_best_weights=True
         )
 
