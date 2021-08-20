@@ -1,6 +1,8 @@
 from _6_tuner_functions import *
 import time
 from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def tune(df, model_name, **params):
@@ -41,11 +43,25 @@ def tune(df, model_name, **params):
     print(model_name + ' done')
     print('--------')
 
-    cm = confusion_matrix(y_test, (hypermodel.predict(x_test) > 0.5))
+    cm = confusion_matrix(y_test, hypermodel.predict(x_test) > 0.5, normalize='true')
     print(cm)
 
-    eval_result = hypermodel.evaluate(x_test, y_test)
+    cm = np.round(cm, decimals=2)
 
+    plt.figure(figsize=(10, 7))
+    ax = plt.subplot()
+    sns.heatmap(cm, annot=True, fmt='g', ax=ax)  # annot=True to annotate cells, ftm='g' to disable scientific notation
+
+    # labels, title and ticks
+    ax.set_xlabel('Predicted labels')
+    ax.set_ylabel('True labels')
+    ax.set_title('Confusion matrix: ' + model_name)
+    ax.xaxis.set_ticklabels(['Increase', 'Decrease'])
+    ax.yaxis.set_ticklabels(['Increase', 'Decrease'])
+
+    plt.savefig('Results/CM_LSTM' + model_name + '.png')
+
+    eval_result = hypermodel.evaluate(x_test, y_test)
     # Save the train, val, test sets
     # np.savetxt("Data/Train_Val_Test_Sets/_6_train_" + model_name + '.csv', train, delimiter=",")
     # np.savetxt("Data/Train_Val_Test_Sets/_6_train_" + model_name + '.csv', test, delimiter=",")

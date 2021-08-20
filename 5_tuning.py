@@ -29,9 +29,9 @@ for model, data, f_graph in zip(models, datas, fgs):
     else:
         f_graph_col = 0
 
-    params = {'epochs': 100,
-              'max_trials': 150,
-              'executions': 3,
+    params = {'epochs': 10,
+              'max_trials': 2,
+              'executions': 1,
               'f_graph': (f_graph, f_graph_col)}
     results[model] = tune(data, model, **params)
 print(results)
