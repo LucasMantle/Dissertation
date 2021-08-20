@@ -69,9 +69,11 @@ for tense in files:
 
     distributions = pd.read_csv('Data/DataPrior/Prior_Distributions_daily.csv')
     for user in users:
-        print(user)
+
         mean = float(distributions[distributions['user'] == str((user, tense))]['0'])
         std = float(distributions[distributions['user'] == str((user, tense))]['1'])
-        new[user] = new.apply(lambda x: normalize(x[user], mean, std), axis=1)
+        hold = new[user]
+
+        new[user] = (hold - mean) / std
 
     new.to_csv('Data/DataTest/FollowerGraphsProcessed/V1_FG_Prior_' + tense + '.csv', index=False)

@@ -68,7 +68,7 @@ def sequencer(df, seq_len=1):
     return np.array(X), np.array(y)
 
 
-def processing_cv(train, validation, test, seq=True, seq_length=1, fg=(False, 0)):
+def processing_cv(train, validation, test, seq=True, seq_length=7, fg=(False, 0)):
     # This function uses the data from train, val test split and processes data in the correct manner so there is no
     # data leakage. All scaling and sequencing is done so there is no data leakage to ensure the robustness of the
     # model . Must sort again just in case
