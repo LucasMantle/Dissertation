@@ -5,4 +5,4 @@ twint
 Plots_Prior_Sentiment
 .ipynb_checkpoints
 Keras_Tuning_Test
-**/*.ipynb_checkpoints/
+**/*.ipynb_checkpoints/.ipynb_checkpoints
