@@ -55,7 +55,7 @@ def tune(df, model_name, **params):
     ax.set_xlabel('Predicted labels')
     ax.set_ylabel('True labels')
     ax.set_title('Confusion matrix: ' + model_name)
-    ax.xaxis.set_ticklabels(['Increase', 'Decrease'])
+    ax.xaxis.set_ticklabels(['Decrease', 'Increase'])
     ax.yaxis.set_ticklabels(['Increase', 'Decrease'])
 
     plt.savefig('Results/CM_NN_' + model_name + '.png')

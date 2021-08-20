@@ -28,7 +28,7 @@ def tune(df, model_name, **params):
     # Build the model with the optimal hyperparameters
     model = tuner.hypermodel.build(best_hps)
 
-    history = model.fit(x_train, y_train, epochs=250, validation_data=(x_val, y_val))
+    history = model.fit(x_train, y_train, epochs=150, validation_data=(x_val, y_val))
 
     val_acc_per_epoch = history.history['val_accuracy']
     best_epoch = val_acc_per_epoch.index(max(val_acc_per_epoch)) + 1
@@ -56,7 +56,7 @@ def tune(df, model_name, **params):
     ax.set_xlabel('Predicted labels')
     ax.set_ylabel('True labels')
     ax.set_title('Confusion matrix: ' + model_name)
-    ax.xaxis.set_ticklabels(['Increase', 'Decrease'])
+    ax.xaxis.set_ticklabels(['Decrease', 'Increase'])
     ax.yaxis.set_ticklabels(['Increase', 'Decrease'])
 
     plt.savefig('Results/CM_LSTM' + model_name + '.png')
