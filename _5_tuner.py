@@ -25,7 +25,7 @@ def tune(df, model_name, **params):
     # Build the model with the optimal hyperparameters
     model = tuner.hypermodel.build(best_hps)
 
-    history = model.fit(x_train, y_train, epochs=150, validation_data=(x_val, y_val))
+    history = model.fit(x_train, y_train, epochs=250, validation_data=(x_val, y_val))
 
     val_acc_per_epoch = history.history['val_accuracy']
     best_epoch = val_acc_per_epoch.index(max(val_acc_per_epoch)) + 1

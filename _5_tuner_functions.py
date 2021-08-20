@@ -16,16 +16,16 @@ def build_model(hp):
 
     model = keras.Sequential()
 
-    for i in range(hp.Choice('num_layers', [1, 2, 3, 4, 5, 6])):
+    for i in range(hp.Choice('num_layers', [1, 2, 3, 4, 5, 6, 10])):
         model.add(Dense(units=hp.Choice('layer_' + str(i) + '_width', [4, 8, 16, 32, 64, 128, 256]),
-                        kernel_initializer=hp.Choice('kernel_' + str(i), ['glorot_uniform', 'glorot_normal']),
+                        kernel_initializer=hp.Choice('kernel_' + str(i), ['glorot_uniform', 'glorot_normal', 'TruncatedNormal', 'Zeros', 'VarianceScaling']),
                         activation=hp.Choice('activation_' + str(i), ['relu', 'tanh'])))
         model.add(BatchNormalization())
-        model.add(Dropout(rate=hp.Choice('dropout_' + str(i), [0.0, 0.1, 0.2, 0.3, 0.5, 0.7])))
+        model.add(Dropout(rate=hp.Choice('dropout_' + str(i), [0.0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8])))
 
     # Add different optimizers
     model.add(Dense(1, activation='sigmoid'))
-    model.compile(optimizer=keras.optimizers.Adam(hp.Choice('learning_rate', [1.0, 0.1, 0.01, 0.001])),
+    model.compile(optimizer=keras.optimizers.Adam(hp.Choice('learning_rate', [10.0, 1.0, 0.1, 0.01, 0.001, 0.0001])),
                   loss='binary_crossentropy',
                   metrics=METRICS)
     return model
@@ -35,10 +35,10 @@ class CVTuner(kerastuner.engine.tuner.Tuner):
     def run_trial(self, trial, train, test, executions=3, *args, **kwargs):
         early_stop = tf.keras.callbacks.EarlyStopping(
             monitor='val_accuracy', min_delta=0, patience=10, verbose=0,
-            mode='max', baseline=None, restore_best_weights=False
+            mode='max', baseline=None, restore_best_weights=True
         )
 
-        kwargs['batch_size'] = trial.hyperparameters.Choice('batch_size', [8, 16, 32, 64, 128])
+        kwargs['batch_size'] = trial.hyperparameters.Choice('batch_size', [8, 16, 32, 64, 128, 256])
         print(kwargs)
         exec_store = []
         exec_store_loss = []
