@@ -16,7 +16,7 @@ with open('Users&Keywords/checked_users.txt', 'r') as x:
 
 for tense in files:
     df = pd.read_csv('Data/DataTest/FollowerGraphsProcessed/V1_NoFG_Prior_' + tense + '.csv')
-    threshold = len(df.index) * 0.6
+    threshold = len(df.index) * 0.5
     df.dropna(thresh=threshold, axis=1, inplace=True)
     df.dropna(axis=0, subset=['y'], inplace=True)
     df.ffill(inplace=True)
@@ -39,7 +39,7 @@ for tense in files:
     df.to_csv('Data/Cleaned/NoFG_Prior_' + tense + '.csv', index=False)
 
     df = pd.read_csv('Data/DataTest/FollowerGraphsProcessed/V1_NoFG_NoPrior_' + tense + '.csv')
-    threshold = len(df.index) * 0.6
+    threshold = len(df.index) * 0.5
     df.dropna(thresh=threshold, axis=1, inplace=True)
     df.dropna(axis=0, subset=['y'], inplace=True)
     df.ffill(inplace=True)
@@ -62,7 +62,7 @@ for tense in files:
     df.to_csv('Data/Cleaned/NoFG_NoPrior_' + tense + '.csv', index=False)
 
     df = pd.read_csv('Data/DataTest/FollowerGraphsProcessed/V1_FG_Prior_' + tense + '.csv')
-    threshold = len(df.index) * 0.6
+    threshold = len(df.index) * 0.5
     df.dropna(thresh=threshold, axis=1, inplace=True)
     df.dropna(axis=0, subset=['y'], inplace=True)
     df.ffill(inplace=True)

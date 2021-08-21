@@ -36,7 +36,7 @@ class CVTuner(kerastuner.engine.tuner.Tuner):
     def run_trial(self, trial, train, test, executions=3, *args, **kwargs):
         early_stop = tf.keras.callbacks.EarlyStopping(
             monitor='val_loss', min_delta=0, patience=25, verbose=0,
-            mode='max', baseline=None, restore_best_weights=True
+            mode='min', baseline=None, restore_best_weights=True
         )
 
         kwargs['batch_size'] = trial.hyperparameters.Choice('batch_size', [8, 16, 32, 64, 128, 256])

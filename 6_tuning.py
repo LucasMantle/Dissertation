@@ -28,11 +28,22 @@ for model, data, f_graph in zip(models, datas, fgs):
     else:
         f_graph_col = 0
 
-    params = {'epochs': 3,
-              'max_trials': 1,
-              'executions': 1,
+    params = {'epochs': 100,
+              'max_trials': 250,
+              'executions': 3,
               'f_graph': (f_graph, f_graph_col)}
     results[model] = tune(data, model, **params)
+
+    try:
+        os.remove("Results/6_Results_" + model + ".pkl")
+    except:
+        pass
+    # Save results
+    file = open("Results/6_Results_" + model + ".pkl", "wb")
+    pickle.dump(results, file)
+    file.close()
+
+
 print(results)
 
 try:

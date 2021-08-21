@@ -24,7 +24,7 @@ def build_model(hp):
                         activation=hp.Choice('activation_' + str(i), ['relu', 'tanh']),
                        return_sequences = True))
         model.add(BatchNormalization())
-        model.add(Dropout(rate=hp.Choice('dropout_' + str(i), [0.0, 0.1, 0.2, 0.3, 0.5, 0.7])))
+        model.add(Dropout(rate=hp.Choice('dropout_' + str(i), [0.0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9])))
 
     model.add(LSTM(units=hp.Choice('LSTM_layer_outside' + '_width', [4, 8, 16, 32, 64, 128, 256]),
                    kernel_initializer=hp.Choice('kernel_lstm_outside', ['glorot_uniform', 'glorot_normal']),
@@ -33,13 +33,13 @@ def build_model(hp):
     model.add(BatchNormalization())
     model.add(Dropout(rate=hp.Choice('dropout_outside', [0.0, 0.1, 0.2, 0.3, 0.5, 0.7])))
 
-    for j in range(hp.Choice('num_dense_layers', [1, 2, 3])):
+    for j in range(hp.Choice('num_dense_layers', [0, 1, 2, 3])):
         model.add(Dense(units=hp.Choice('layer_' + str(j) + '_width', [4, 8, 16, 32, 64, 128, 256]),
                         kernel_initializer=hp.Choice('kernel_' + str(j), ['glorot_uniform', 'glorot_normal']),
                         activation=hp.Choice('activation_' + str(j), ['relu', 'tanh']),
                         kernel_regularizer=tf.keras.regularizers.l1(hp.Choice('learning_rate' + str(j), [1.0,0.1, 0.01, 0.001]))))
         model.add(BatchNormalization())
-        model.add(Dropout(rate=hp.Choice('dropout_' + str(j), [0.0, 0.1, 0.2, 0.3, 0.5, 0.7])))
+        model.add(Dropout(rate=hp.Choice('dropout_' + str(j), [0.0, 0.1, 0.2, 0.3, 0.5, 6, 0.7, 0.8, 0.9])))
 
     # Add different optimizers
     model.add(Dense(1, activation='sigmoid'))
@@ -53,7 +53,7 @@ class CVTuner(kerastuner.engine.tuner.Tuner):
     def run_trial(self, trial, train, test, executions=3, *args, **kwargs):
         early_stop = tf.keras.callbacks.EarlyStopping(
             monitor='val_loss', min_delta=0, patience=25, verbose=0,
-            mode='max', baseline=None, restore_best_weights=True
+            mode='min', baseline=None, restore_best_weights=True
         )
 
         kwargs['batch_size'] = trial.hyperparameters.Choice('batch_size', [8, 16, 32, 64, 128])
@@ -62,7 +62,7 @@ class CVTuner(kerastuner.engine.tuner.Tuner):
         exec_store_loss = []
         for exe in range(executions):
 
-            cv = TimeSeriesSplit(n_splits=5)
+            cv = TimeSeriesSplit(n_splits=4)
             val_acc = []
             val_loss = []
             for train_indices, test_indices in cv.split(train):

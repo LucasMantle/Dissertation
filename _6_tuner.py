@@ -22,48 +22,45 @@ def tune(df, model_name, **params):
 
     x_train, y_train, x_val, y_val, x_test, y_test = processing_cv(train, val, test, seq=True, fg=params['f_graph'])
 
+    cms = []
+    ev_res = {}
+
     # Get the optimal hyperparameters
-    best_hps = tuner.get_best_hyperparameters(num_trials=10)[0]
+    best_hps_list = tuner.get_best_hyperparameters(num_trials=10)
+    for best_hps, count in zip(best_hps_list[:5], range(5)):
+        # Build the model with the optimal hyperparameters
+        #model = tuner.hypermodel.build(best_hps)
+        # history = model.fit(x_train, y_train, epochs=150, validation_data=(x_val, y_val))
+        # val_acc_per_epoch = history.history['val_accuracy']
+        # best_epoch = val_acc_per_epoch.index(max(val_acc_per_epoch)) + 1
+        early_stop = tf.keras.callbacks.EarlyStopping(
+            monitor='val_loss', min_delta=0, patience=25, verbose=0,
+            mode='min', baseline=None, restore_best_weights=True
+        )
+        hypermodel = tuner.hypermodel.build(best_hps)
+        # Retrain the model
+        hypermodel.fit(x_train, y_train, epochs=250, validation_data=(x_val, y_val), callbacks = [early_stop])
+        hypermodel.save('Models/' + model_name + str(count) + '.h5')
 
-    # Build the model with the optimal hyperparameters
-    model = tuner.hypermodel.build(best_hps)
+        cm = confusion_matrix(y_test, hypermodel.predict(x_test) > 0.5, normalize='true')
+        cm = np.round(cm, decimals=2)
 
-    history = model.fit(x_train, y_train, epochs=150, validation_data=(x_val, y_val))
+        plt.figure(figsize=(10, 7))
+        ax = plt.subplot()
+        sns.heatmap(cm, annot=True, fmt='g', ax=ax)
 
-    val_acc_per_epoch = history.history['val_accuracy']
-    best_epoch = val_acc_per_epoch.index(max(val_acc_per_epoch)) + 1
+        # labels, title and ticks
+        ax.set_xlabel('Predicted labels')
+        ax.set_ylabel('True labels')
+        ax.set_title('Confusion matrix: ' + model_name)
+        ax.xaxis.set_ticklabels(['Decrease', 'Increase'])
+        ax.yaxis.set_ticklabels(['Increase', 'Decrease'])
+        plt.savefig('Results/CM_LSTM_' + str(count) + model_name + '.png')
+        eval_result = hypermodel.evaluate(x_test, y_test)
+        ev_res[count] = eval_result[1]
 
-    hypermodel = tuner.hypermodel.build(best_hps)
-    # Retrain the model
-    hypermodel.fit(x_train, y_train, epochs=best_epoch, validation_data=(x_val, y_val))
-
-    hypermodel.save('Models/' + model_name + '.h5')
-
-    print('RNN --------')
-    print(model_name + ' done')
-    print('--------')
-
-    cm = confusion_matrix(y_test, hypermodel.predict(x_test) > 0.5, normalize='true')
-    print(cm)
-
-    cm = np.round(cm, decimals=2)
-
-    plt.figure(figsize=(10, 7))
-    ax = plt.subplot()
-    sns.heatmap(cm, annot=True, fmt='g', ax=ax)  # annot=True to annotate cells, ftm='g' to disable scientific notation
-
-    # labels, title and ticks
-    ax.set_xlabel('Predicted labels')
-    ax.set_ylabel('True labels')
-    ax.set_title('Confusion matrix: ' + model_name)
-    ax.xaxis.set_ticklabels(['Decrease', 'Increase'])
-    ax.yaxis.set_ticklabels(['Increase', 'Decrease'])
-
-    plt.savefig('Results/CM_LSTM' + model_name + '.png')
-
-    eval_result = hypermodel.evaluate(x_test, y_test)
     # Save the train, val, test sets
     # np.savetxt("Data/Train_Val_Test_Sets/_6_train_" + model_name + '.csv', train, delimiter=",")
     # np.savetxt("Data/Train_Val_Test_Sets/_6_train_" + model_name + '.csv', test, delimiter=",")
 
-    return eval_result[1]
+    return ev_res
