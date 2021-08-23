@@ -40,7 +40,7 @@ def tune(df, model_name, **params):
         hypermodel = tuner.hypermodel.build(best_hps)
         # Retrain the model
         hypermodel.fit(x_train, y_train, epochs=250, validation_data=(x_val, y_val), callbacks = [early_stop])
-        hypermodel.save('Models/' + model_name + str(count) + '.h5')
+        hypermodel.save('Models/LSTM_' + model_name + str(count) + '.h5')
 
         cm = confusion_matrix(y_test, hypermodel.predict(x_test) > 0.5, normalize='true')
         cm = np.round(cm, decimals=2)

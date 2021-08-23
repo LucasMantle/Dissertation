@@ -39,7 +39,7 @@ def build_model(hp):
                         activation=hp.Choice('activation_' + str(j), ['relu', 'tanh']),
                         kernel_regularizer=tf.keras.regularizers.l1(hp.Choice('learning_rate' + str(j), [1.0,0.1, 0.01, 0.001]))))
         model.add(BatchNormalization())
-        model.add(Dropout(rate=hp.Choice('dropout_' + str(j), [0.0, 0.1, 0.2, 0.3, 0.5, 6, 0.7, 0.8, 0.9])))
+        model.add(Dropout(rate=hp.Choice('dropout_' + str(j), [0.0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9])))
 
     # Add different optimizers
     model.add(Dense(1, activation='sigmoid'))

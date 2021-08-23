@@ -8,14 +8,6 @@ import seaborn as sns
 def tune(df, model_name, **params):
     train, test = train_test_split(df)
 
-    tuner = CVTuner(
-        hypermodel=build_model,
-        oracle=kerastuner.oracles.BayesianOptimization(
-            objective=kerastuner.Objective("val_accuracy", direction="max"),
-            max_trials=params['max_trials']),
-        directory='Tuning/' + model_name,
-        project_name=str(time.time()))
-
     tuner.search(train, test, epochs=params['epochs'], executions=params['executions'], f_graph=params['f_graph'])
 
     train, val = train_validation_split(train)
@@ -41,7 +33,7 @@ def tune(df, model_name, **params):
         hypermodel = tuner.hypermodel.build(best_hps)
         # Retrain the model
         hypermodel.fit(x_train, y_train, epochs=250, validation_data=(x_val, y_val), callbacks =[early_stop])
-        hypermodel.save('Models/' + model_name + str(count) + '.h5')
+        hypermodel.save('Models/NN' + model_name + str(count) + '.h5')
 
         cm = confusion_matrix(y_test, hypermodel.predict(x_test) > 0.5, normalize = 'true')
         cm = np.round(cm, decimals=2)
