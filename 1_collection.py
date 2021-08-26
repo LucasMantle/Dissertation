@@ -1,5 +1,9 @@
 import _1A_twint_function
 
+#From parts 1-5, uninstall numpy and install it.
+
+#However, running and tuning LSTM, you need pip install numpy==1.19.5
+
 # These dates outline the days which are collected for prior and testing data
 # y-m-d
 data_since = "2017-01-01"

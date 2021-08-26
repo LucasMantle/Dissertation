@@ -8,6 +8,14 @@ import seaborn as sns
 def tune(df, model_name, **params):
     train, test = train_test_split(df)
 
+    tuner = CVTuner(
+        hypermodel=build_model,
+        oracle=kerastuner.oracles.BayesianOptimization(
+            objective=kerastuner.Objective("val_accuracy", direction="max"),
+            max_trials=params['max_trials']),
+        directory='Tuning/' + model_name,
+        project_name=str(time.time()))
+
     tuner.search(train, test, epochs=params['epochs'], executions=params['executions'], f_graph=params['f_graph'])
 
     train, val = train_validation_split(train)

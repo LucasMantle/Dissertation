@@ -8,3 +8,6 @@ Keras_Tuning_Test
 **/*.ipynb_checkpoints/.ipynb_checkpoints
 __pycache__
 .idea
+Results
+Plots_Prior_Sentiment
+Plots_ModelOverfitting
