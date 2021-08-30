@@ -3,7 +3,7 @@
 This repo provides all the code and relevant files used within 
 my MSc Data Science Dissertation
 
-Breaking down relevant files: 
+Breaking down all relevant files: 
 
     Users&Keywords:
     
@@ -28,8 +28,15 @@ Breaking down relevant files:
         _#*_*.py files are functions which are imported in their respective 
         main files.
         
-        The numbers refer a given part which are mentioned below to go through
-        how to run the code.
+        The numbers in these file names refer to a part in the modelling pipeline. 
+        Specifically, parts 1-4 deal with the collecting, preprocessing and
+        wrangling of the data. Parts 5 and 6 do the tuning of ANNs and LSTMs, 
+        respectively. Part 7 just outputs the obtained results.
+        
+    requirements.txt: 
+        
+        This provides the librarires used. 'pip install -r requirements.txt' will
+        install all required libraries. 
 
 In-order to run the code end-to-end, 8_runner.py can be run. You need to 
 edit (uncomment) the specific files you want to run. 
