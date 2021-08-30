@@ -1,0 +1,81 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-02-23 15:40:00,Bofa very positive on $NVRO and expects 20-30% upside near term. Predicts Q1 and Q2 reports to be meaningful catalysts when Q1 seasonality passes.  Other houses supporting with positive commentary across the board too.,0,1,0,0,0,0,0.9236284,0.020850504,0.055521145,Pos,0.9027779,scalpideas
+1,2018-02-15 14:35:03,Hearing boutique house very negative on $VMW as believes negative outcome of Dell´s strategic review is just equally as likely as positive outcome.  Greater uncertainty will outweigh fundamentals until a decision is made.,1,1,1,0,0,0,0.011036553,0.96037513,0.028588297,Neg,-0.94933856,scalpideas
+2,2018-02-05 14:32:04,"RBC expects significant negative reaction in $KOS after negative Senegal Requin Tigre-1 exploration well drilling announcement (completely dry hole, no hydrocarbons found!!). PT lowered to $6.75 from $15",1,1,0,0,0,0,0.07531895,0.90810215,0.01657896,Neg,-0.8327832,scalpideas
+3,2018-02-01 14:35:01,"Northland initiates $AMRH with outperform. PT$6 FYI, blockchain stock. Should move nicely. $BTC",0,1,1,0,0,0,0.91105896,0.015862646,0.07307837,Pos,0.8951963,scalpideas
+5,2017-11-29 14:30:03,$CREE is ERRONEOUSLY down on wrong info out there on Bloomberg  and  on Williams Capital downgrade. Stock WAS NOT downgraded.,1,1,0,0,0,0,0.013992455,0.7291325,0.25687507,Neg,-0.71514004,scalpideas
+6,2017-10-20 17:47:03,Good enough run to consider exiting some of the longs here. $SSYS,0,1,0,0,0,0,0.17632318,0.21710062,0.6065762,Neu,-0.040777445,scalpideas
+7,2017-10-20 14:30:02,"Susquehanna pounding the table on $SSYS Upgrades to Posit.& sees takeout possible  premium ($1.5b): Siemens,$HPQ & $GE potential suitors",0,1,0,0,0,0,0.092816465,0.013485282,0.89369833,Neu,0.07933118,scalpideas
+10,2017-07-19 14:30:03,"Jefco positive also, saying 5% move up for the group is likely, as potential takeout candidates will trade even higher. $AMCX",0,1,1,0,0,0,0.94710034,0.01832825,0.03457135,Pos,0.9287721,scalpideas
+11,2017-07-19 14:30:03,"Goldman positive on $AMCX, sees $103 takeout value, after WSJ reported $SNI-$DISCA in merger talks",1,1,0,0,0,0,0.6196218,0.025180902,0.35519728,Pos,0.59444094,scalpideas
+14,2017-07-12 12:17:03,"Bofa neg $AAPL - checks indicate 3-4 weeks delay for OLED phone given various production issues, lowers unit estimates for Sep & Dec quart-s",1,1,0,0,1,0,0.020111699,0.95081025,0.029078085,Neg,-0.9306986,scalpideas
+15,2017-07-11 14:57:05,"$SM was NOT upgraded by Daiwa, moron algo bought it up 2%, expect stock to go back to 15.90 soon.",1,1,0,0,0,0,0.3138335,0.021497339,0.6646691,Neu,0.29233617,scalpideas
+16,2017-06-16 15:10:05,Suntrust thinks there is a lot of consolidation potential in this space and believes $SFM could be a target,0,1,1,0,0,0,0.8918688,0.008988016,0.09914314,Pos,0.8828808,scalpideas
+17,2017-06-09 14:33:03,"Several banks negative on $INXN, saying $INXN will see weakness today after DLR-DFT merger as DLR was widely believed to be a buyer of INXN",1,1,1,0,0,0,0.013898499,0.96528774,0.020813748,Neg,-0.95138925,scalpideas
+18,2017-06-06 13:58:01,Sidoti downgrading $CASY after EPS dissapoints and initial FY2018 below expectations,0,1,0,0,0,0,0.014940116,0.9704129,0.014646943,Neg,-0.95547277,scalpideas
+19,2017-05-26 14:32:04,"Street is underestimating the market op for Resolve, they say. $XENT",0,1,0,0,0,0,0.079185486,0.41431507,0.5064994,Neu,-0.3351296,scalpideas
+20,2017-05-26 14:32:03,"BofA pounding table on $XENT, calling it best idea in small cap, sees stock rallying to $72 from $24, if their Resolve product is successful",0,1,0,1,1,12,0.9474226,0.020862369,0.031714994,Pos,0.9265603,scalpideas
+21,2017-05-23 13:13:00,"Msco also saying Waymo or any of the ""Other Bets"" are currently not being reflected in $GOOGL share price",1,1,0,0,0,0,0.019352479,0.06701749,0.91363,Neu,-0.047665007,scalpideas
+22,2017-05-23 13:12:02,"Morgan Stanley out with huge call on $GOOGL, says Waymo potential spin-out worth $70 billion, adding 12% to $GOOGL value.",0,1,0,1,1,0,0.8957617,0.018719792,0.085518435,Pos,0.87704194,scalpideas
+23,2017-05-15 14:37:02,"Compass Point very negative on $ASPS, saying ""There Will Be Blood"", tgt lowered to new street-low $7 (from $14), implying 65% downside",1,1,1,0,0,0,0.11695875,0.8677696,0.015271666,Neg,-0.75081086,scalpideas
+24,2017-05-15 14:35:05,"$ASPS Compass has two DCF scenarios, in one of them equity is worth ZERO",0,1,0,0,0,0,0.05532601,0.030210197,0.9144638,Neu,0.025115814,scalpideas
+25,2017-05-12 10:43:02,Hearing tier I very negative on $GE,0,1,0,0,0,0,0.025527488,0.9379703,0.036502164,Neg,-0.9124428,scalpideas
+26,2017-05-11 13:32:03,"$MSLI Scotia saying no new offers coming, shareholders will accept 1.20 USD offer.",0,1,1,0,0,0,0.16329652,0.012070358,0.8246332,Neu,0.15122616,scalpideas
+27,2017-04-10 09:24:01,"$TSLA Piper: growth investors cannot ignore the stock, products have a captivating impact!",0,1,1,0,0,2,0.13232248,0.014155781,0.85352176,Neu,0.11816669,scalpideas
+28,2017-04-10 09:22:02,"$TSLA strong upgrade by Piper, target goes to $368. Expect to see 310 shortly.",0,1,0,0,0,2,0.9229063,0.023537362,0.053556345,Pos,0.89936894,scalpideas
+29,2017-04-05 13:39:05,"$AAPL negative - iPhone8 might be delayed    ""Apple may delay new iPhone launch to October-November, says paper""",1,1,1,0,0,0,0.010796037,0.8821041,0.10709981,Neg,-0.8713081,scalpideas
+30,2017-03-29 13:24:02,"$FFIV Deutsche out with killer note and $100 target.  Expecting stock under $140 today, maybe even $137.",0,1,0,0,0,0,0.105939925,0.02767851,0.8663816,Neu,0.07826141,scalpideas
+32,2017-03-27 11:48:04,"$AAPL JPM out with strong positive note, tgt to 165$ and saying supercycle coming.",0,1,0,0,0,0,0.93701476,0.030306442,0.032678775,Pos,0.9067083,scalpideas
+33,2017-03-23 15:48:04,Wells sceptical of $FLXN deal as recent CFO retirement doesn't seem likely with an offer on table,0,1,0,0,0,0,0.032621082,0.76367277,0.20370619,Neg,-0.7310517,scalpideas
+35,2017-03-23 13:30:02,Hearing Sell-side saying $ONDK takeout possibly the reason for Kabbage Inc capital raise,0,1,0,0,0,0,0.06361795,0.12583469,0.8105474,Neu,-0.062216736,scalpideas
+36,2017-03-23 13:16:04,hearing $WGO upgraded @ Northcoast on strong Feb checks,1,1,0,0,0,0,0.7406577,0.096263655,0.16307864,Pos,0.64439404,scalpideas
+39,2017-03-21 12:29:03,$WYNN 1) VIP and high-end premium mass segmentation leading a still early stage Macau recovery;,0,1,0,0,0,0,0.95343345,0.018985752,0.027580775,Pos,0.9344477,scalpideas
+41,2017-03-21 12:19:03,$WMGI expecting at least $36 price tag from SNN SYK ZBH or JNJ,0,1,0,0,2,1,0.3044731,0.016596884,0.67893,Neu,0.28787622,scalpideas
+44,2017-03-20 14:50:04,$CTMX  target raised to St high $32 from $21 @ Nomura on expanded deal as it validates  Probody Platform,1,1,0,0,1,1,0.94550955,0.020711329,0.03377906,Pos,0.92479825,scalpideas
+45,2017-03-20 12:07:03,"$NKTR: Janney says NKTR-181 is worth only $0.50, $4 move is BIG overreaction",0,1,0,0,0,1,0.038761556,0.47246358,0.48877484,Neu,-0.43370202,scalpideas
+46,2017-03-20 10:11:02,$ARRY Cowen views recent share weakness and the passing of this “risk” event as an especially attractive opportunity reits. OP rating,0,1,0,0,0,2,0.24851975,0.05367535,0.6978049,Neu,0.1948444,scalpideas
+47,2017-03-20 10:10:00,$ARRY: JPM says $ARRY should trade at $9.5 to $10 range today as NRAS melanoma is only &lt; $100M in peak sales and ~$1/share,1,1,1,0,0,2,0.6552307,0.06262588,0.28214347,Pos,0.5926048,scalpideas
+48,2017-03-17 13:53:04,MSCO pounding the table on $AMGN  expect stock to trade flat,0,1,0,0,0,0,0.15057243,0.08962132,0.7598062,Neu,0.060951114,scalpideas
+49,2017-03-17 13:33:05,"$SEAS very negative Citi downgrade, says street missing risks, target goes to 15, and bear case is $6 I expect 17.50 today",0,1,0,0,0,0,0.07711695,0.17958026,0.7433028,Neu,-0.102463305,scalpideas
+50,2017-03-16 13:31:02,"Raymond saying $DO should move up 10% on suprise Ocean Valor ruling, raising FY17 EBITDA estimate to $664M from $560M",0,1,1,0,0,0,0.95052606,0.022150759,0.027323252,Pos,0.9283753,scalpideas
+51,2017-03-14 13:30:00,"Suntrust expects $EEFT to be under significant pressure after it proposed to buy $MGI, Monness also negative on the stock",1,1,0,0,1,2,0.012654522,0.9463818,0.040963702,Neg,-0.93372726,scalpideas
+53,2017-03-13 11:14:00,$MBLY declines to comment on $INTC speculation,0,1,0,0,0,0,0.015842862,0.3740377,0.61011946,Neu,-0.35819486,scalpideas
+54,2017-03-13 10:14:00,$MBLY this makes the price around $70 per share,0,1,0,0,0,0,0.12112749,0.031191448,0.8476811,Neu,0.08993605,scalpideas
+55,2017-03-13 10:09:04,"$MBLY buyout coming today from $INTC, worth $15 billion  ",0,1,0,0,2,4,0.40892464,0.0150418645,0.5760335,Neu,0.39388278,scalpideas
+56,2017-03-08 14:40:00,"$TRIP rallying on Cowen commentary, they say Chairman's comments are actually a negative sign for company's fundamentals.",0,1,0,1,1,3,0.008910098,0.9631009,0.027989035,Neg,-0.9541908,scalpideas
+57,2017-03-07 10:22:04,"$ASNA Opco - ... inventories are elevated at down 1% ex-in transit (comp guidance down 4-5%), as Justice continues to move through clearance",1,1,0,0,0,0,0.35912293,0.6099194,0.030957613,Neg,-0.2507965,scalpideas
+59,2017-03-07 10:19:05,"$ASNA cut to SELL @ Citi $3 tgt: Co behind the curve on omnichannel investment, to be a contd drag on margins creating a structural headwind",1,1,0,0,0,0,0.013939017,0.9668199,0.01924111,Neg,-0.95288086,scalpideas
+60,2017-03-02 14:30:05,"$BOX ...but the news should be discounted today as the stock has made a decent run-up, should see weakness.",1,1,1,0,0,0,0.041904114,0.9361453,0.021950586,Neg,-0.8942412,scalpideas
+61,2017-03-02 14:30:04,"$BOX Weaker guidance, FCF for Q is positive but was totally expected. The co has been delivering what it said...",1,1,0,0,0,0,0.8428012,0.025358291,0.13184053,Pos,0.8174429,scalpideas
+62,2017-03-02 13:28:01,$PBYI Citi suggest buying the dip w/ $88 target,1,1,0,0,0,1,0.1724738,0.037076775,0.7904494,Neu,0.13539703,scalpideas
+63,2017-03-02 13:25:00,$PBYI Citi pounding the table Quality of APHINITY benefit unknown; see sig. upside as even bearish KOLs have said they would offer neratinib,1,1,1,0,0,0,0.4181381,0.15184623,0.43001565,Neu,0.26629186,scalpideas
+64,2017-03-01 14:49:01,"$BBY Retailers failing today, no way BBY is surviving this. Gonna drop more",0,1,0,0,0,1,0.0106030945,0.9659284,0.023468444,Neg,-0.9553253,scalpideas
+65,2017-03-01 14:10:05,"$BBY Any positives only thanks to buybacks, business still declining. $BBY call not a thesis changer.",0,1,0,0,0,1,0.04564988,0.88406116,0.07028895,Neg,-0.8384113,scalpideas
+66,2017-03-01 14:10:02,$BBY Raymond expects the stock to open sharply lower on below plan F4Q17 domestic comp sales of -0.9%.,0,1,0,0,0,0,0.008767744,0.97357947,0.017652784,Neg,-0.96481174,scalpideas
+67,2017-02-28 12:18:03,"$WDAY cut to Sell @ Citi and Evercore as they discontinue billings guide, decreasing visibility into a Co already notoriously hard to value",1,1,0,0,1,1,0.009695273,0.97390646,0.016398255,Neg,-0.96421117,scalpideas
+68,2017-02-27 14:37:05,"$STON comments by Raymond: Houston, We Have a Problem – 10-K Filing Delayed, could lead to delisting",0,1,1,0,0,0,0.009252767,0.95684624,0.03390103,Neg,-0.94759345,scalpideas
+69,2017-02-23 15:11:02,$BSX defended @ Stifel reiterates $28 target,1,1,0,0,0,0,0.03413863,0.070030764,0.89583063,Neu,-0.035892133,scalpideas
+70,2017-02-23 14:30:04,MSCO and Raymond expecting a sharp +ve reaction in $BIVV today as Roche ACE910 Patient Death Mutes Primary Competitive Threat,0,1,0,0,0,0,0.034461286,0.93834144,0.027197316,Neg,-0.9038802,scalpideas
+72,2017-02-22 18:36:01,ITC has voted to cancel tariffs and countervailing duties on imported Chinese Truck and Bus Radial Tires +++ very positive for $CTB Deutsche,1,1,0,0,1,1,0.8148056,0.11555175,0.069642626,Pos,0.69925386,scalpideas
+74,2017-02-15 14:31:00,"$SFM JPMorgan out negative on $SFM;says checks and industry data confirm period of heightened GM is upon us, sees greatest downside for $SFM",0,1,0,0,0,0,0.051112846,0.9333974,0.01548979,Neg,-0.8822846,scalpideas
+75,2017-02-15 13:15:04,$INXN They say acquisition valuation is $45.,0,1,0,0,0,0,0.022807913,0.036938794,0.9402533,Neu,-0.014130881,scalpideas
+76,2017-02-15 13:14:05,"$INXN Guggy upgrades to Buy on increasing M&A probability, says there's increased likelihood for that happening in the next 12 months",0,1,0,0,0,1,0.94445664,0.017004337,0.03853895,Pos,0.9274523,scalpideas
+77,2017-02-13 14:34:02,$X $NUE already running on the same headline,0,1,0,0,0,0,0.07890618,0.027132789,0.8939611,Neu,0.05177339,scalpideas
+78,2017-02-13 14:31:02,$CENX could rally seriously on Chinese reducing aluminum and steel output:  ,0,1,1,0,0,0,0.04858051,0.9401282,0.011291257,Neg,-0.8915477,scalpideas
+79,2017-02-09 14:21:00,$MU BofA upgrades the stock from Underperform to Buy and raises PT to a street high $35,0,1,0,0,1,1,0.9461456,0.017166067,0.036688387,Pos,0.9289795,scalpideas
+80,2017-02-09 12:51:05,$ACOR Leerink just in saying the data was expected and effect size was smaller than in phase ll,1,1,0,0,0,2,0.059860323,0.09146167,0.848678,Neu,-0.03160135,scalpideas
+81,2017-02-09 12:47:04,"$ACOR  also negative on the stock, the guy nailed $ACAD the last time",1,1,0,0,1,0,0.011487637,0.9310312,0.057481106,Neg,-0.91954356,scalpideas
+82,2017-02-09 12:45:03,$ACOR ...which they say has to be at least 5.2,0,1,0,0,0,0,0.03011152,0.038735483,0.93115294,Neu,-0.008623963,scalpideas
+83,2017-02-09 12:45:01,"$ACOR UPDRS III 84 mg dose change was 3.92, which according to Stifel is not even a moderate improvement...",1,1,0,0,0,0,0.5967371,0.27885616,0.124406695,Pos,0.31788093,scalpideas
+84,2017-02-08 12:24:05,$MCHP Needham upgrades the stock to Strong Buy after EPS and raises PT to a street high of $100.,0,1,0,0,0,1,0.9363178,0.019297175,0.044385042,Pos,0.9170206,scalpideas
+86,2017-02-07 20:08:03,$USG +++ Macquarie just now saying they spoke with large wallboard purchaser who indicates +5-10% price increase,1,1,0,0,0,1,0.13893846,0.010852531,0.85020906,Neu,0.12808593,scalpideas
+87,2017-02-03 12:12:04,$CLVS no terminal value beyond Rubraca as limited brain accumulation excludes its application in brain metastatic-positive cancers,0,1,0,0,0,0,0.04865963,0.034553614,0.91678673,Neu,0.014106017,scalpideas
+88,2017-02-03 12:12:03,$CLVS weakness of the Rubraca IP poses a fundamental risk as claims are highly exposed to invalidation for obviousness,1,1,0,0,0,1,0.035711516,0.9067349,0.057553623,Neg,-0.87102336,scalpideas
+90,2017-01-31 14:31:01,"$RRTS Stifel negative on the stock, sees downside as $0 and says would be a seller  today even if the stock is gapping down big",0,1,1,0,0,0,0.02232486,0.9395685,0.038106598,Neg,-0.91724366,scalpideas
+91,2017-01-31 12:02:03,$TEVA BofA upgrades to Buy,0,1,0,0,0,0,0.6316643,0.015717823,0.35261798,Pos,0.6159465,scalpideas
+92,2017-01-27 15:20:03,"Crisp Idea initiates $ADBE with Buy and $125PT, based on forward P/E multiple of 34x for FY18 and EPS of $2.95.",1,1,0,0,0,0,0.10851036,0.012070621,0.87941897,Neu,0.09643974,scalpideas
+93,2017-01-26 19:34:05,Hilliard Lyons downgrades $HBAN to neutral from buy (on valuation). Raises 12m price target by $0.5 to $15.,0,1,0,0,0,0,0.7388479,0.0717321,0.18942001,Pos,0.6671158,scalpideas
+94,2017-01-26 15:35:01,"$BMY Citi out positive this morning, expects M&A to be more important to BMY valuation and thinks $PFE is the most obvious acquirer",0,1,0,0,0,0,0.6512785,0.010227002,0.33849454,Pos,0.6410515,scalpideas
+95,2017-01-19 15:59:04,Stephens just now recommending buying $AAN (on $RCII preannouncement) as it is taking market share from RCII,0,1,0,0,0,0,0.43947634,0.009241137,0.5512825,Neu,0.4302352,scalpideas
+96,2017-01-17 11:35:04,UBS downgrading $TWTR to Neutral reflecting a mix of downside from operating  challenges against upside of the platform's asset value,0,1,0,0,0,0,0.044492383,0.90311974,0.052387793,Neg,-0.8586274,scalpideas
+98,2017-01-12 16:22:03,"Bucky negative on $AXL as it has most exposure to Fiat Chrysler, at ~20% will likely face severe pressure today",0,1,1,0,0,1,0.019513039,0.93268895,0.047798038,Neg,-0.91317594,scalpideas

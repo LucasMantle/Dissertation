@@ -1,0 +1,19 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+1,2021-08-03 15:25:00,Amazon will pay you $10 to scan your palm: report    ,0,0,1,0,0,1,0.040991843,0.0176008,0.9414074,Neu,0.023391042,nypostbiz
+16,2021-07-26 12:42:00,Bitcoin surges as Amazon hints it may embrace crypto    ,0,1,1,0,1,1,0.80689585,0.018644597,0.17445956,Pos,0.7882513,nypostbiz
+23,2021-07-19 16:23:01,Dow plunges more than 800 points on fears Delta variant could derail recovery    ,0,1,1,0,0,0,0.023207482,0.9265717,0.050220825,Neg,-0.90336424,nypostbiz
+40,2021-06-28 19:57:01,"Facebook must face sex-trafficking suit, Texas judge rules    ",0,0,1,0,0,0,0.028526613,0.47461024,0.49686316,Neu,-0.44608364,nypostbiz
+41,2021-06-26 00:10:03,"Facebook rejects talks with Australia publisher, may test online law    ",0,1,1,0,0,1,0.01900313,0.8373172,0.14367963,Neg,-0.8183141,nypostbiz
+54,2021-06-16 20:00:04,Google must face shareholder lawsuit claiming it hid security risks    ,0,1,1,0,1,0,0.012624409,0.9317698,0.0556058,Neg,-0.9191454,nypostbiz
+57,2021-06-14 18:56:00,Amazon tests warehouse robots it claims will reduce worker injuries    ,0,1,1,0,0,0,0.81852746,0.127689,0.05378359,Pos,0.69083846,nypostbiz
+60,2021-06-07 13:41:03,"Google fined $268M in French antitrust case, will change ad practices    ",1,0,1,0,0,0,0.04182988,0.17437609,0.78379405,Neu,-0.1325462,nypostbiz
+62,2021-06-04 18:04:00,Facebook says Trump ban won't end until at least 2023    ,0,1,1,1,0,0,0.018166369,0.21442235,0.7674113,Neu,-0.19625598,nypostbiz
+69,2021-05-26 22:56:05,Jeff Bezos says he will pass baton to new Amazon CEO on July 5    ,0,1,1,0,0,0,0.039904583,0.015408527,0.9446869,Neu,0.024496056,nypostbiz
+71,2021-05-26 20:01:00,Facebook and Instagram will let users hide likes on posts    ,0,0,1,0,0,0,0.027217519,0.026696725,0.9460858,Neu,0.0005207937,nypostbiz
+95,2019-04-26 16:31:03,Amazon may join Sinclair in bid for regional sports networks   via  via ,0,0,1,0,0,0,0.17115234,0.0073173298,0.82153034,Neu,0.163835,nypostbiz
+105,2019-01-05 14:46:02,Amazon details what it'll bring to Long Island City in open letter   via  via ,0,0,1,0,1,0,0.036786042,0.013411023,0.94980294,Neu,0.02337502,nypostbiz
+108,2018-11-18 13:38:04,"To save itself, Facebook must start charging users   via  via ",0,1,1,1,1,1,0.025856456,0.062147807,0.91199577,Neu,-0.036291353,nypostbiz
+109,2018-11-16 18:43:02,Jeff Bezos tells employees that Amazon 'is not too big to fail'   via  via ,0,1,1,0,0,0,0.1495139,0.019409971,0.8310761,Neu,0.13010393,nypostbiz
+120,2018-07-06 14:47:04,Amazon will print toy catalog to fill Toys 'R' Us void   via  via ,0,0,1,0,1,1,0.036773667,0.019953042,0.9432733,Neu,0.016820624,nypostbiz
+169,2018-04-15 02:24:01,Trump’s tweets could be behind the Dow’s volatility    ,0,0,1,0,2,2,0.058350116,0.2166953,0.72495455,Neu,-0.15834518,nypostbiz
+171,2018-04-14 00:29:03,Apple warns employees: Leaking iPhone info can land you in jail    ,0,1,1,0,1,1,0.010716109,0.9278027,0.061481267,Neg,-0.9170866,nypostbiz

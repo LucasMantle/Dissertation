@@ -1,0 +1,169 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-08-03 16:19:03,"Amazon's drone delivery team 'collapsing,' losing over 100 workers: report    ",0,1,0,0,0,0,0.007257884,0.9670989,0.025643224,Neg,-0.959841,nypostbiz
+1,2021-08-03 15:25:00,Amazon will pay you $10 to scan your palm: report    ,0,0,1,0,0,1,0.040991843,0.0176008,0.9414074,Neu,0.023391042,nypostbiz
+2,2021-08-03 12:27:03,Labor official calls for new vote in Amazon union election    ,0,1,0,0,1,0,0.12104703,0.22893904,0.65001386,Neu,-0.107892014,nypostbiz
+3,2021-08-02 20:14:03,Apple bans 'Tinder for anti-vaxxers' from App Store    ,0,1,0,0,1,6,0.01893257,0.78394336,0.19712408,Neg,-0.7650108,nypostbiz
+4,2021-07-30 21:30:03,"Musk says 'Epic is right,' takes sides in battle with Apple    ",0,1,0,0,0,0,0.08165079,0.025003154,0.8933461,Neu,0.05664764,nypostbiz
+5,2021-07-30 18:33:04,"Stocks slip on Amazon drop, but remain on track for 6th monthly gain    ",0,1,0,0,0,0,0.095818505,0.8590586,0.045122832,Neg,-0.7632401,nypostbiz
+6,2021-07-30 17:18:02,"Amazon stock tanks after weak earnings, massive EU privacy fine    ",0,0,0,0,0,0,0.009737551,0.9632981,0.026964359,Neg,-0.95356053,nypostbiz
+7,2021-07-30 00:49:05,FDA flags Amazon over sale of harmful sex enhancement goods    ,0,0,0,0,0,1,0.014300461,0.90808207,0.07761739,Neg,-0.8937816,nypostbiz
+8,2021-07-29 17:37:04,Google bans 'sugar daddy' apps from Android store    ,0,1,0,0,0,0,0.013268306,0.80713236,0.17959933,Neg,-0.7938641,nypostbiz
+9,2021-07-29 15:27:02,Facebook launching Ray-Ban 'smart glasses' as part of 'metaverse' plans    ,0,1,0,0,0,0,0.05197984,0.016218945,0.93180126,Neu,0.035760894,nypostbiz
+10,2021-07-28 19:09:01,"Google mandates vaccines, delays return to office until at least October    ",0,1,0,0,0,0,0.01993462,0.11796125,0.8621042,Neu,-0.09802663,nypostbiz
+11,2021-07-28 19:04:03,Facebook recalls 4M Oculus Quest 2 headset components over rash issue    ,0,1,0,0,0,0,0.32287174,0.009203453,0.6679248,Neu,0.31366828,nypostbiz
+12,2021-07-28 18:05:05,"New York, other states to fight dismissal of Facebook antitrust suit    ",0,0,0,0,0,0,0.030618628,0.7849163,0.18446518,Neg,-0.7542977,nypostbiz
+13,2021-07-28 16:55:03,Apple stock falls on chip shortage concerns despite blockbuster earnings    ,0,0,0,0,0,2,0.02166994,0.94619447,0.03213552,Neg,-0.92452455,nypostbiz
+14,2021-07-27 16:04:02,"Elon Musk bashes Apple, journalists and critics after Tesla reports record profits    ",0,1,0,0,0,0,0.016662093,0.8991174,0.08422059,Neg,-0.8824553,nypostbiz
+15,2021-07-26 14:48:01,EU pushes for changes to Google's flight and hotel search results    ,0,0,0,0,0,0,0.15973379,0.02256391,0.81770223,Neu,0.13716988,nypostbiz
+16,2021-07-26 12:42:00,Bitcoin surges as Amazon hints it may embrace crypto    ,0,1,1,0,1,1,0.80689585,0.018644597,0.17445956,Pos,0.7882513,nypostbiz
+18,2021-07-23 18:44:04,"White House calls YouTube, Facebook 'judge, jury, executioner' on bad COVID info    ",0,1,0,0,0,0,0.01578783,0.2741888,0.71002334,Neu,-0.25840095,nypostbiz
+19,2021-07-23 12:44:03,Reclusive Google co-founder Larry Page reportedly hiding out in Fiji    ,0,1,0,0,0,0,0.020466123,0.53843343,0.44110042,Neg,-0.5179673,nypostbiz
+20,2021-07-22 19:36:05,Amazon's mission: Getting a 'key' to your apartment building    ,0,1,0,0,0,0,0.04271769,0.016354106,0.94092816,Neu,0.026363585,nypostbiz
+21,2021-07-20 19:11:03,Dow rebounds more than 600 points after Monday's virus-driven rout    ,0,1,0,0,0,1,0.6447344,0.24737014,0.10789545,Pos,0.39736426,nypostbiz
+22,2021-07-20 15:55:02,Apple reportedly delays return to office amid COVID variant surge    ,0,1,0,0,0,0,0.009047385,0.93136656,0.059585985,Neg,-0.9223192,nypostbiz
+23,2021-07-19 16:23:01,Dow plunges more than 800 points on fears Delta variant could derail recovery    ,0,1,1,0,0,0,0.023207482,0.9265717,0.050220825,Neg,-0.90336424,nypostbiz
+24,2021-07-16 14:57:00,Chinese company Xiaomi now sells more smartphones than Apple    ,0,1,0,0,0,0,0.2892141,0.009097733,0.7016881,Neu,0.28011638,nypostbiz
+26,2021-07-14 16:35:05,Facebook wants FTC Chair Lina Khan to recuse herself from antitrust probe    ,0,1,0,0,0,0,0.03817122,0.21234003,0.7494888,Neu,-0.17416881,nypostbiz
+28,2021-07-12 16:17:02,"Facebook, Twitter criticized after England soccer players face racism    ",1,1,0,0,0,0,0.021060092,0.6837782,0.29516163,Neg,-0.6627181,nypostbiz
+29,2021-07-09 00:54:03,Amazon to offer Universal movies on Prime Video after they play on Peacock    ,0,1,0,0,1,2,0.06297891,0.010105906,0.92691517,Neu,0.052873,nypostbiz
+30,2021-07-08 17:31:03,Instacart taps Facebook app head Fidji Simo as CEO before expected IPO    ,1,1,0,0,0,0,0.0715195,0.017024957,0.9114555,Neu,0.054494545,nypostbiz
+31,2021-07-08 15:46:03,"Jeff Bezos openly embraces tax hikes, but Amazon lobbied against them    ",1,1,0,0,0,1,0.1868425,0.04854063,0.7646169,Neu,0.13830188,nypostbiz
+32,2021-07-08 01:02:02,Dozens of states sue Google alleging antitrust violations    ,0,1,0,0,0,1,0.0148752555,0.89056534,0.09455944,Neg,-0.8756901,nypostbiz
+34,2021-07-02 22:46:01,Amazon grants new CEO over $200M in stock    ,0,0,0,1,0,1,0.25515682,0.012671083,0.7321721,Neu,0.24248573,nypostbiz
+35,2021-07-02 21:51:04,Facebook under fire as US lawmakers press for new antitrust complaint    ,0,0,0,1,0,0,0.019200254,0.906335,0.074464776,Neg,-0.88713473,nypostbiz
+37,2021-07-01 17:29:03,Amazon reportedly discussed forming 'Rebel Alliance' to take on Microsoft    ,1,1,0,0,0,1,0.051088855,0.039313488,0.90959764,Neu,0.011775367,nypostbiz
+38,2021-06-30 19:02:03,Amazon wants FTC Chair Lina Khan to recuse herself in antitrust probe    ,0,1,0,0,0,0,0.023791451,0.55050045,0.42570806,Neg,-0.526709,nypostbiz
+39,2021-06-28 20:30:05,Federal judge dismisses FTC antitrust suit against Facebook    ,0,0,0,1,0,0,0.020470336,0.90374374,0.075785965,Neg,-0.8832734,nypostbiz
+40,2021-06-28 19:57:01,"Facebook must face sex-trafficking suit, Texas judge rules    ",0,0,1,0,0,0,0.028526613,0.47461024,0.49686316,Neu,-0.44608364,nypostbiz
+41,2021-06-26 00:10:03,"Facebook rejects talks with Australia publisher, may test online law    ",0,1,1,0,0,1,0.01900313,0.8373172,0.14367963,Neg,-0.8183141,nypostbiz
+42,2021-06-25 16:02:05,Amazon and Google face UK investigation over fake reviews    ,0,1,0,0,0,0,0.01009914,0.92323875,0.06666216,Neg,-0.91313964,nypostbiz
+43,2021-06-24 20:58:04,"Teamsters pass resolution to unionize Amazon drivers, warehouse workers    ",0,1,0,0,0,1,0.06602539,0.6640925,0.26988217,Neg,-0.5980671,nypostbiz
+44,2021-06-24 18:45:00,Google delays plan to phase out Chrome ad-tracking tech by 2 years    ,0,1,0,0,0,0,0.029829593,0.09986187,0.8703085,Neu,-0.070032276,nypostbiz
+45,2021-06-23 19:41:02,Amazon scooping up solar and wind energy projects around the world    ,0,1,0,0,1,1,0.079005465,0.012155728,0.90883887,Neu,0.06684974,nypostbiz
+46,2021-06-23 17:51:01,Microsoft becomes second US company to reach $2 trillion valuation    ,0,1,0,0,0,0,0.50524867,0.013291812,0.4814595,Pos,0.49195686,nypostbiz
+47,2021-06-23 16:49:01,Amazon is now facing a labor threat from the Teamsters union    ,0,1,0,0,0,1,0.011204346,0.9619586,0.026837055,Neg,-0.9507542,nypostbiz
+48,2021-06-23 16:10:05,"In the wake of the great Amazon flake, Target inks big deal in Queens    ",0,1,0,0,0,0,0.35831794,0.0108543625,0.6308277,Neu,0.34746358,nypostbiz
+49,2021-06-22 15:17:00,EU opens antitrust probe into Google's massive advertising business    ,0,1,0,0,0,0,0.04789299,0.69389457,0.25821245,Neg,-0.6460016,nypostbiz
+52,2021-06-18 18:20:02,Dow plunges 400 points as Fed official signals rate hike in 2022    ,0,1,0,0,0,0,0.06183653,0.78024656,0.15791687,Neg,-0.71841,nypostbiz
+53,2021-06-18 16:03:05,Google's ad business reportedly subject of new EU antitrust probe    ,0,0,0,0,0,0,0.022423422,0.72278947,0.2547871,Neg,-0.700366,nypostbiz
+54,2021-06-16 20:00:04,Google must face shareholder lawsuit claiming it hid security risks    ,0,1,1,0,1,0,0.012624409,0.9317698,0.0556058,Neg,-0.9191454,nypostbiz
+55,2021-06-16 16:11:03,Apple reportedly wants to run its own health care clinics    ,0,1,0,0,0,0,0.10119273,0.008678795,0.89012843,Neu,0.092513934,nypostbiz
+56,2021-06-16 13:56:05,"Google, LVMH unveil 'AI partnership' for luxury online shopping    ",0,0,0,0,0,0,0.77335316,0.007616074,0.21903075,Pos,0.76573706,nypostbiz
+57,2021-06-14 18:56:00,Amazon tests warehouse robots it claims will reduce worker injuries    ,0,1,1,0,0,0,0.81852746,0.127689,0.05378359,Pos,0.69083846,nypostbiz
+58,2021-06-14 16:49:03,Apple finally releases secret Beats Studio Buds headphones    ,0,1,0,0,0,0,0.070308164,0.028893385,0.90079844,Neu,0.04141478,nypostbiz
+59,2021-06-07 22:50:05,Mark Zuckerberg takes swipe at Apple over developer fees    ,0,1,0,0,0,0,0.03472394,0.6846616,0.28061444,Neg,-0.6499377,nypostbiz
+60,2021-06-07 13:41:03,"Google fined $268M in French antitrust case, will change ad practices    ",1,0,1,0,0,0,0.04182988,0.17437609,0.78379405,Neu,-0.1325462,nypostbiz
+61,2021-06-06 06:56:04,Apple employees bash new policy cutting work-from-home time    ,0,1,0,0,0,0,0.01994717,0.86902976,0.111023016,Neg,-0.8490826,nypostbiz
+62,2021-06-04 18:04:00,Facebook says Trump ban won't end until at least 2023    ,0,1,1,1,0,0,0.018166369,0.21442235,0.7674113,Neu,-0.19625598,nypostbiz
+64,2021-06-03 17:13:03,Amazon requiring police to publicly request Ring doorbell videos amid privacy outcry    ,0,1,0,0,0,0,0.021108296,0.34738114,0.63151056,Neu,-0.32627285,nypostbiz
+65,2021-06-03 12:56:03,Google reassigns diversity chief who wrote Jews have 'an insatiable appetite for war'    ,1,1,0,0,0,0,0.025089208,0.8864758,0.088435,Neg,-0.8613866,nypostbiz
+66,2021-06-02 19:19:04,"Amazon backs effort to legalize pot, drops weed testing for some jobs    ",0,1,0,0,0,0,0.039906327,0.7952345,0.16485916,Neg,-0.7553282,nypostbiz
+68,2021-05-28 18:23:03,"Google to pay fine, change ad business to settle French antitrust case: report    ",0,0,0,0,1,0,0.034977846,0.58315456,0.38186765,Neg,-0.5481767,nypostbiz
+69,2021-05-26 22:56:05,Jeff Bezos says he will pass baton to new Amazon CEO on July 5    ,0,1,1,0,0,0,0.039904583,0.015408527,0.9446869,Neu,0.024496056,nypostbiz
+70,2021-05-26 20:05:03,Amazon looking at opening pharmacy stores in US    ,0,1,0,0,1,1,0.07670473,0.011430622,0.9118647,Neu,0.06527411,nypostbiz
+71,2021-05-26 20:01:00,Facebook and Instagram will let users hide likes on posts    ,0,0,1,0,0,0,0.027217519,0.026696725,0.9460858,Neu,0.0005207937,nypostbiz
+72,2021-05-26 14:09:00,Google gets approval to build 80-acre megacampus in San Jose    ,0,1,0,0,0,1,0.8358437,0.011220656,0.15293565,Pos,0.82462305,nypostbiz
+73,2021-05-26 13:52:05,Amazon buys MGM Studios for $8.45B in Hollywood mega deal    ,0,1,0,0,0,0,0.05974169,0.014104751,0.92615354,Neu,0.04563694,nypostbiz
+75,2021-05-26 00:39:00,Facebook employees to return to NYC offices in July    ,0,0,0,1,0,1,0.016343359,0.515863,0.46779367,Neg,-0.49951965,nypostbiz
+76,2021-05-25 19:34:03,Amazon reopens Connecticut construction site where nooses were found    ,1,1,0,0,0,0,0.21934465,0.024225365,0.75643,Neu,0.19511928,nypostbiz
+77,2021-05-25 18:44:05,Amazon faces antitrust lawsuit over treatment of vendors    ,0,1,0,0,0,0,0.011760145,0.9517746,0.036465254,Neg,-0.9400145,nypostbiz
+78,2021-05-25 14:15:00,Facebook trying to censor posts from COVID-19 vaccine skeptics: report    ,0,1,0,0,0,1,0.01773988,0.80037737,0.1818828,Neg,-0.7826375,nypostbiz
+79,2021-05-24 16:02:01,Apple co-founder Steve Wozniak sued for allegedly stealing business idea    ,1,1,0,0,0,0,0.021543415,0.87274134,0.10571527,Neg,-0.8511979,nypostbiz
+80,2021-05-21 23:20:04,Barry Diller calls Apple's App Store fees 'disgusting'    ,0,1,0,0,1,0,0.016644947,0.9081496,0.07520543,Neg,-0.89150465,nypostbiz
+81,2021-05-21 19:21:01,Apple CEO Tim Cook takes stand in Epic fight over app store    ,0,1,0,0,1,1,0.035193536,0.5276698,0.43713674,Neg,-0.49247625,nypostbiz
+82,2021-05-21 18:36:00,"Microsoft CEO weighs in on Bill Gates affair, says company has changed    ",1,1,0,0,0,0,0.03658798,0.71641326,0.24699879,Neg,-0.6798253,nypostbiz
+83,2021-05-21 15:26:04,Amazon is retiring its quick-delivery app Prime Now    ,0,1,0,0,1,0,0.019641586,0.5745362,0.40582222,Neg,-0.5548946,nypostbiz
+84,2021-05-21 15:13:02,Amazon halts construction at Connecticut site after 7th 'noose' found    ,0,0,0,0,0,0,0.0087706065,0.93077606,0.060453314,Neg,-0.9220055,nypostbiz
+86,2021-05-20 15:54:05,Microsoft to finally kill web browser Internet Explorer    ,0,0,0,21,51,236,0.054158345,0.11080694,0.83503467,Neu,-0.056648597,nypostbiz
+87,2021-05-20 00:04:04,Facebook director Peter Thiel invests in conservative rival Rumble    ,0,1,0,1,0,1,0.06269516,0.016941259,0.9203636,Neu,0.045753904,nypostbiz
+88,2021-05-19 23:06:02,Apple CEO Tim Cook to testify Friday as Epic trial nears end    ,0,1,0,0,0,0,0.030278305,0.081644356,0.8880773,Neu,-0.051366054,nypostbiz
+89,2019-06-03 12:37:03,'Jaded' de Blasio has bungled NYC's relationship with Amazon   via  via ,1,1,0,0,1,5,0.019281121,0.8290141,0.15170486,Neg,-0.809733,nypostbiz
+90,2019-06-02 15:28:02,'Jaded' de Blasio has bungled NYC's relationship with Amazon   via  via ,1,1,0,0,1,1,0.019281121,0.8290141,0.15170486,Neg,-0.809733,nypostbiz
+91,2019-05-28 15:32:05,Great scoop by  for  ! Amazon is eyeing a return to New York City   via  via ,0,1,0,0,5,8,0.2942845,0.009672343,0.6960432,Neu,0.28461215,nypostbiz
+92,2019-05-28 14:54:02,Amazon is eyeing a return to New York City   via  via ,0,1,0,0,0,0,0.21356146,0.009561024,0.77687746,Neu,0.20400044,nypostbiz
+93,2019-05-13 15:44:03,Chris Hughes was almost right about breaking up Facebook   via  via ,1,1,0,0,1,3,0.04184982,0.030853575,0.92729664,Neu,0.010996247,nypostbiz
+94,2019-05-09 16:02:01,Dow tumbles again ahead of high-stakes US-China trade meeting   via  via ,0,0,0,0,0,0,0.020188732,0.9449702,0.034841105,Neg,-0.92478144,nypostbiz
+95,2019-04-26 16:31:03,Amazon may join Sinclair in bid for regional sports networks   via  via ,0,0,1,0,0,0,0.17115234,0.0073173298,0.82153034,Neu,0.163835,nypostbiz
+96,2019-04-26 13:25:00,Amazon teases one-day delivery for Prime customers   via  via ,0,1,0,0,0,0,0.07129476,0.01040711,0.9182982,Neu,0.060887653,nypostbiz
+97,2019-03-13 14:00:02,"Amazon's ad business is skyrocketing compared competitors, Google, Facebook   via  via ",1,1,0,0,1,0,0.03635589,0.9082336,0.055410504,Neg,-0.8718777,nypostbiz
+98,2019-02-27 17:05:05,Facebook boasted of buying Instagram to kill the competition: sources   via  via ,1,1,0,0,1,0,0.03662847,0.04089371,0.9224778,Neu,-0.0042652413,nypostbiz
+99,2019-02-26 13:35:01,Traumatized Facebook moderators turn to sex on the job   via  via ,1,1,0,0,2,1,0.02456271,0.5220375,0.45339978,Neg,-0.4974748,nypostbiz
+100,2019-02-15 14:46:01,Politicians aren't done targeting Amazon's NYC footprint   via  via ,1,1,0,0,0,0,0.041792434,0.02766012,0.9305475,Neu,0.014132313,nypostbiz
+101,2019-02-14 17:08:03,Amazon pulls out of $3 billion deal to bring HQ2 to NYC   via  via ,0,1,0,0,0,0,0.03486595,0.85816455,0.106969535,Neg,-0.8232986,nypostbiz
+102,2019-01-11 15:03:04,Bezos divorce has Amazon shareholders wondering what's next   via  via ,0,1,0,0,0,1,0.06013584,0.23568112,0.70418304,Neu,-0.17554528,nypostbiz
+103,2019-01-09 15:16:02,Amazon founder Jeff Bezos and wife MacKenzie announce divorce on Twitter   via  via ,0,0,0,0,2,2,0.019021437,0.08282288,0.8981557,Neu,-0.063801445,nypostbiz
+104,2019-01-05 14:47:05,Amazon removes 'offensive' products containing Islamic text   via  via ,0,1,0,0,0,0,0.020410214,0.5473544,0.43223536,Neg,-0.52694416,nypostbiz
+105,2019-01-05 14:46:02,Amazon details what it'll bring to Long Island City in open letter   via  via ,0,0,1,0,1,0,0.036786042,0.013411023,0.94980294,Neu,0.02337502,nypostbiz
+106,2018-12-27 17:56:04,"Dow loses 500 points after Wednesday's 1,000-point surge   via  via ",0,1,0,1,0,0,0.013001828,0.96216756,0.024830593,Neg,-0.94916576,nypostbiz
+107,2018-12-12 15:24:02,Amazon Go food store opens in Seattle   via  via ,0,1,0,0,0,0,0.076837175,0.01665316,0.90650964,Neu,0.060184017,nypostbiz
+108,2018-11-18 13:38:04,"To save itself, Facebook must start charging users   via  via ",0,1,1,1,1,1,0.025856456,0.062147807,0.91199577,Neu,-0.036291353,nypostbiz
+109,2018-11-16 18:43:02,Jeff Bezos tells employees that Amazon 'is not too big to fail'   via  via ,0,1,1,0,0,0,0.1495139,0.019409971,0.8310761,Neu,0.13010393,nypostbiz
+110,2018-10-09 15:48:01,Facebook's creepy new speakers are freaking people out   via  via ,0,1,0,0,1,1,0.034463506,0.50879335,0.4567431,Neg,-0.47432986,nypostbiz
+111,2018-09-12 14:17:04,Don't believe the hype about Amazon 'savings' at Whole Foods   via  via ,0,1,0,0,0,0,0.09551794,0.041382536,0.8630996,Neu,0.054135405,nypostbiz
+112,2018-09-12 03:25:04,Don't believe the hype about Amazon 'savings' at Whole Foods   via  via ,0,1,0,0,0,0,0.09551794,0.041382536,0.8630996,Neu,0.054135405,nypostbiz
+113,2018-09-11 19:22:01,Google's top AI scientist leaves after fracas over Pentagon deal   via  via ,0,0,0,0,0,0,0.01205624,0.9079367,0.08000701,Neg,-0.89588046,nypostbiz
+115,2018-08-02 17:10:03,Apple becomes world's first trillion-dollar company   via  via ,0,1,0,0,0,0,0.24766138,0.013079093,0.73925954,Neu,0.23458229,nypostbiz
+116,2018-07-31 14:47:04,Amazon exec invites scrutiny with comments on e-commerce responsibility   via  via ,0,1,0,0,1,1,0.06267392,0.03201452,0.9053116,Neu,0.0306594,nypostbiz
+118,2018-07-19 15:09:03,Amazon doesn't want you to compare Prime Day's results with last year's Prime Day with   via  via ,0,1,0,0,1,1,0.034498002,0.13439369,0.83110833,Neu,-0.099895686,nypostbiz
+119,2018-07-16 21:13:00,Amazon crashes just as Prime Day kicks off   via  via ,0,1,0,0,1,0,0.049863182,0.6756612,0.27447563,Neg,-0.62579805,nypostbiz
+120,2018-07-06 14:47:04,Amazon will print toy catalog to fill Toys 'R' Us void   via  via ,0,0,1,0,1,1,0.036773667,0.019953042,0.9432733,Neu,0.016820624,nypostbiz
+121,2018-06-25 15:01:05,Trump's Dow Jones rally no longer the best in history   via  via ,0,0,0,0,0,0,0.108372346,0.51104975,0.38057792,Neg,-0.40267742,nypostbiz
+122,2018-06-08 16:32:02,Apple shipping 20 percent fewer iPhones this year: report    ,0,1,0,0,0,0,0.062422715,0.45899582,0.47858143,Neu,-0.3965731,nypostbiz
+123,2018-06-07 21:58:04,Walmart sues to block former exec from joining Amazon    ,0,1,0,0,0,0,0.022052601,0.7806986,0.19724877,Neg,-0.758646,nypostbiz
+124,2018-06-07 18:36:05,Amazon to start streaming English Premier soccer games    ,0,1,0,0,0,1,0.08191138,0.012723001,0.9053656,Neu,0.06918838,nypostbiz
+125,2018-06-07 05:18:04,Apple accused of swiping company’s logo for iPhone feature    ,1,1,0,0,0,0,0.017966233,0.8604433,0.12159041,Neg,-0.8424771,nypostbiz
+126,2018-06-06 14:55:04,Chinese phone maker Huawei says it never collected Facebook user data    ,1,1,0,0,0,0,0.020701509,0.18134367,0.79795486,Neu,-0.16064216,nypostbiz
+128,2018-05-25 14:57:01,Amazon blames creepy Alexa incident on ‘unlikely’ string of events    ,0,1,0,0,0,0,0.016727673,0.87045115,0.1128212,Neg,-0.85372347,nypostbiz
+129,2018-05-22 23:15:03,Amazon banning customers for too many returns   via  via ,0,1,0,0,0,0,0.016456785,0.71359265,0.26995054,Neg,-0.69713587,nypostbiz
+130,2018-05-22 20:53:02,Amazon banning customers for too many returns    ,0,1,0,0,0,0,0.0122922305,0.8659245,0.12178329,Neg,-0.8536323,nypostbiz
+131,2018-05-20 03:17:05,Struggling with bogus Amazon charges    ,0,1,0,0,0,0,0.046617378,0.5906819,0.3627007,Neg,-0.5440645,nypostbiz
+132,2018-05-19 00:07:05,Trump pressured USPS to jack up shipping rates for Amazon    ,1,1,0,0,0,0,0.62497437,0.05095902,0.32406664,Pos,0.5740154,nypostbiz
+133,2018-05-16 06:34:02,Whole Foods discounts for Amazon Prime members coming this summer    ,0,1,0,0,1,1,0.10284035,0.016536146,0.88062346,Neu,0.0863042,nypostbiz
+134,2018-05-16 03:30:01,David Tepper sells $770M stake in Apple    ,0,1,0,0,1,1,0.041873824,0.017365662,0.9407605,Neu,0.024508161,nypostbiz
+135,2018-05-15 14:55:02,Amazon to open two more cashier-less stores in US   via  via ,0,0,0,0,1,1,0.6210295,0.012445097,0.36652544,Pos,0.6085844,nypostbiz
+136,2018-05-15 07:20:01,Amazon to open two more cashier-less stores in US    ,0,0,0,0,0,0,0.5186242,0.016323194,0.4650527,Pos,0.502301,nypostbiz
+137,2018-05-14 15:52:02,Google employees quit over controversial Pentagon work    ,0,1,0,2,1,0,0.009111346,0.93973136,0.051157355,Neg,-0.93062,nypostbiz
+138,2018-05-11 11:09:00,Blankfein closing in on deal to take over Apple’s credit business    ,0,0,0,0,0,0,0.13043842,0.011063147,0.85849845,Neu,0.11937527,nypostbiz
+139,2018-05-10 17:59:05,Apple and Goldman Sachs are launching a credit card    ,0,1,0,0,1,1,0.17022082,0.008462445,0.8213167,Neu,0.16175838,nypostbiz
+140,2018-05-10 15:28:02,Apple scraps plan to build $1 billion data center in Ireland    ,0,0,0,0,0,0,0.020142866,0.84001887,0.13983831,Neg,-0.819876,nypostbiz
+141,2018-05-09 22:58:02,Tinder owner’s CEO isn’t worried about Facebook competition    ,1,1,0,0,0,0,0.048911594,0.032691915,0.91839653,Neu,0.01621968,nypostbiz
+142,2018-05-09 20:22:05,Sears stock surges 25 percent on deal to install tires sold on Amazon    ,1,1,0,0,1,2,0.9257386,0.03275132,0.041510142,Pos,0.89298725,nypostbiz
+143,2018-05-09 20:19:00,Amazon is setting up model 'smart' homes to sell Alexa gadgets   via  via ,0,1,0,0,0,1,0.17183405,0.007838499,0.82032746,Neu,0.16399555,nypostbiz
+144,2018-05-09 20:17:05,Sears stock surges 25 percent on deal to install tires sold on Amazon   via  via ,1,1,0,0,1,0,0.92811626,0.035153706,0.036730025,Pos,0.8929626,nypostbiz
+145,2018-05-09 16:53:04,Amazon is setting up model ‘smart’ homes to sell Alexa gadgets    ,0,1,0,0,0,0,0.123709396,0.009276561,0.86701405,Neu,0.114432834,nypostbiz
+146,2018-05-06 16:20:03,Apple needs to get back in the innovation business   via  via ,0,1,0,0,1,1,0.2622377,0.011199122,0.7265632,Neu,0.25103858,nypostbiz
+147,2018-05-06 04:04:01,Apple needs to get back in the innovation business    ,0,1,0,0,0,1,0.26051155,0.0118255615,0.7276629,Neu,0.24868599,nypostbiz
+148,2018-05-05 03:12:00,Warren Buffett gives Apple shares boost after stake reveal    ,0,1,0,0,1,0,0.7468142,0.058871243,0.19431461,Pos,0.6879429,nypostbiz
+149,2018-05-04 21:30:01,Why we don’t really care that Facebook screwed us    ,1,1,0,0,0,0,0.041079365,0.12502389,0.83389676,Neu,-0.08394452,nypostbiz
+150,2018-05-04 15:01:04,Facebook weighs ad-free subscription service after data scandal    ,0,1,0,0,1,1,0.14033848,0.025985442,0.8336761,Neu,0.11435304,nypostbiz
+151,2018-05-02 16:09:05,Apple shares surge on relief about the iPhone X    ,0,1,0,0,0,0,0.7222269,0.18906327,0.08870975,Pos,0.53316367,nypostbiz
+152,2018-05-02 15:07:03,"Apple to buy back $100B in stock, insists iPhone X isn’t a flop    ",0,1,0,1,1,1,0.13992137,0.034468938,0.8256097,Neu,0.10545243,nypostbiz
+153,2018-05-01 19:57:05,Match shares plummet after Facebook reveals dating feature    ,1,1,0,0,0,0,0.010118997,0.9425405,0.04734047,Neg,-0.9324215,nypostbiz
+154,2018-05-01 04:40:03,WhatsApp CEO bails on Facebook over privacy concerns    ,0,1,0,0,0,0,0.013407189,0.9275878,0.05900505,Neg,-0.91418064,nypostbiz
+155,2018-04-27 16:39:00,"Amazon and NFL ink a 2-year, $130 million streaming deal    ",0,1,0,0,0,1,0.793216,0.012932358,0.1938517,Pos,0.78028363,nypostbiz
+157,2018-04-26 23:58:04,Amazon stock surges as quarterly profits double    ,0,0,0,0,0,1,0.5768853,0.38437274,0.038741976,Pos,0.19251254,nypostbiz
+159,2018-04-26 00:54:04,Facebook’s quarterly results easily beat expectations    ,1,1,0,0,1,1,0.91077524,0.016876625,0.072348125,Pos,0.8938986,nypostbiz
+160,2018-04-25 21:55:04,"NYSE glitch forces trading halt for Amazon, Alphabet    ",0,0,0,0,0,0,0.008294164,0.95169175,0.040014055,Neg,-0.9433976,nypostbiz
+161,2018-04-24 06:07:01,"Google parent’s revenues beat projections, but investors wary    ",0,1,0,0,0,0,0.909065,0.06734126,0.023593815,Pos,0.84172374,nypostbiz
+162,2018-04-19 17:42:02,Facebook dodges EU privacy law amid pledge to fix broken system    ,0,1,0,0,0,0,0.051975064,0.8858546,0.06217038,Neg,-0.83387953,nypostbiz
+164,2018-04-19 03:38:05,Amazon reveals there are over 100 million Prime subscribers    ,0,1,0,0,2,2,0.101298556,0.009868254,0.8888331,Neu,0.0914303,nypostbiz
+166,2018-04-17 18:29:03,Apple gets serious about hunting down peeping drones    ,0,1,0,0,1,0,0.0584342,0.025763942,0.9158019,Neu,0.03267026,nypostbiz
+167,2018-04-16 16:59:05,Amazon warehouse workers pee into bottles to avoid wasting time: undercover investigator    ,0,1,0,0,1,1,0.025923198,0.3081139,0.6659629,Neu,-0.2821907,nypostbiz
+168,2018-04-15 11:59:04,Trump's tweets churn the Dow's volatility in both directions   via  via ,0,1,0,0,1,1,0.14392984,0.59771556,0.25835457,Neg,-0.45378572,nypostbiz
+169,2018-04-15 02:24:01,Trump’s tweets could be behind the Dow’s volatility    ,0,0,1,0,2,2,0.058350116,0.2166953,0.72495455,Neu,-0.15834518,nypostbiz
+171,2018-04-14 00:29:03,Apple warns employees: Leaking iPhone info can land you in jail    ,0,1,1,0,1,1,0.010716109,0.9278027,0.061481267,Neg,-0.9170866,nypostbiz
+172,2018-04-12 22:06:05,Facebook is the least-trusted tech company by a country mile    ,0,1,0,0,0,0,0.053386863,0.28397432,0.6626388,Neu,-0.23058745,nypostbiz
+173,2018-04-12 17:16:00,Apple’s HomePod speaker looks like a flop    ,1,1,0,0,0,0,0.06608954,0.014879194,0.9190313,Neu,0.051210348,nypostbiz
+175,2018-04-11 19:42:03,Congressman shares ominous warning during Facebook hearing    ,0,1,0,0,0,0,0.031711373,0.8080016,0.16028704,Neg,-0.7762902,nypostbiz
+176,2018-04-11 16:14:03,"Zuckerberg says his data was exploited in Facebook scandal, too    ",1,1,0,0,0,0,0.016946746,0.75302863,0.23002458,Neg,-0.7360819,nypostbiz
+177,2018-04-11 03:21:04,Facebook stock soars as Congress grills Zuckerberg    ,0,1,0,0,1,2,0.06351574,0.5716076,0.36487663,Neg,-0.50809187,nypostbiz
+178,2018-04-10 20:23:04,Zuckerberg testifies before Congress on Facebook data breach    ,0,0,0,0,0,0,0.041128583,0.033348497,0.92552286,Neu,0.0077800862,nypostbiz
+179,2018-04-09 18:14:01,Zuckerberg says Facebook didn’t do enough to prevent privacy scandal    ,0,1,0,0,1,3,0.0432322,0.47070223,0.4860655,Neu,-0.42747003,nypostbiz
+180,2018-04-09 13:50:05,Steve Wozniak shuts down his Facebook account in protest    ,0,1,0,0,2,3,0.010134718,0.8882719,0.101593316,Neg,-0.87813723,nypostbiz
+181,2018-04-07 04:45:03,"Facebook exec: If you want privacy, expect to pay for it    ",0,1,0,0,2,1,0.030437944,0.03567724,0.9338848,Neu,-0.005239295,nypostbiz
+182,2018-04-06 17:11:02,Sandberg warns of more Facebook privacy scandals    ,0,1,0,0,0,0,0.01467043,0.88279533,0.10253429,Neg,-0.8681249,nypostbiz
+183,2018-04-06 03:06:05,Dow futures tank after Trump announces new China tariffs    ,0,1,0,0,0,0,0.076189615,0.8314169,0.09239348,Neg,-0.75522727,nypostbiz
+184,2018-04-05 15:24:01,Zuckerberg says Facebook ad sales unaffected by scandal    ,1,1,0,0,0,0,0.08831161,0.024684323,0.8870041,Neu,0.06362729,nypostbiz
+185,2018-04-05 00:31:02,How Amazon has cost Trump millions    ,1,1,0,0,0,0,0.054638438,0.2282389,0.7171226,Neu,-0.17360047,nypostbiz
+186,2018-04-04 20:21:05,Facebook now says privacy scandal affected up to 87 million    ,1,1,0,0,1,1,0.010012935,0.9104279,0.07955921,Neg,-0.900415,nypostbiz
+187,2018-04-04 15:12:04,Dow drops more than 400 points on fears of trade war with China   via  via ,0,1,0,0,0,0,0.019608406,0.9385038,0.04188783,Neg,-0.9188954,nypostbiz

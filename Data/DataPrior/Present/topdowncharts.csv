@@ -1,0 +1,882 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-04-01 21:47:01,Sentiment shifting on the bond market...    $TLT $IEF  ,0,1,0,0,5,10,0.20714957,0.1280334,0.66481704,Neu,0.079116166,topdowncharts
+1,2018-04-01 21:46:02,Fundamentals Sentiment: bonds vs equities... DIVERGENCE    $MACRO $SPX $TNX  ,0,1,0,1,11,10,0.13053325,0.11815143,0.7513153,Neu,0.012381822,topdowncharts
+3,2018-04-01 20:38:03,Friendly reminder to join the (free) email list for the weekly top 5 charts mail-out [goes out tomorrow]  ,0,1,0,0,2,1,0.051917277,0.02484723,0.9232355,Neu,0.027070047,topdowncharts
+5,2018-03-31 02:39:02,"China official PMIs rebound from a distorted shocker result in February, yet momentum has not improved:    ",1,1,0,0,15,20,0.8023591,0.17687239,0.020768536,Pos,0.62548673,topdowncharts
+10,2018-03-28 19:36:04,Institutional investors are buying the dip - here's why:    ,0,1,0,0,18,22,0.056662712,0.041343022,0.9019943,Neu,0.01531969,topdowncharts
+11,2018-03-28 18:51:00,Weekly freight cost indexes have been trending downwards...    ,1,1,0,0,19,30,0.010283086,0.96121603,0.028500954,Neg,-0.9509329,topdowncharts
+12,2018-03-27 19:51:01,"VIDEO: Top 5 Charts of the Week:    (US HY credit, the TED spread, emerging market imports, US Oil production, investor sentiment)",0,1,0,1,5,4,0.041880917,0.032792337,0.92532676,Neu,0.00908858,topdowncharts
+14,2018-03-26 22:45:00,"About to send out the free weekly newsletter ""top 5 charts of the week"" - get on the mail list if you want to receive:  ",0,1,0,0,0,2,0.034649186,0.029289896,0.9360609,Neu,0.00535929,topdowncharts
+16,2018-03-26 19:23:04,Global Equities Country Breadth: looking oversold at this point - question is does it get more oversold or does this cat still have 8 lives?    ,0,1,0,1,7,9,0.038642246,0.2292415,0.7321163,Neu,-0.19059926,topdowncharts
+17,2018-03-26 10:26:05,52-week New Highs minus New Lows for global equities:    ,0,1,0,1,0,10,0.07023404,0.8554591,0.074306846,Neg,-0.78522503,topdowncharts
+18,2018-03-26 10:21:04,"As of Friday, 9 countries were trading at a 52-week low:    ",1,1,0,0,12,9,0.009747206,0.9438847,0.046368066,Neg,-0.93413746,topdowncharts
+19,2018-03-25 21:21:01,"Is ""fundamentals"" sentiment the next shoe to drop?    $MACRO  ",0,1,0,0,7,12,0.013128768,0.891503,0.09536824,Neg,-0.8783742,topdowncharts
+21,2018-03-25 18:15:00,Meanwhile back in the real world - global trade is in the middle of a synchronized upturn:    ,0,1,0,1,22,19,0.014813122,0.95952106,0.025665786,Neg,-0.94470793,topdowncharts
+22,2018-03-25 03:09:00,Check out emerging market import volumes....     ,0,1,0,0,27,26,0.08367846,0.017646836,0.8986747,Neu,0.06603163,topdowncharts
+27,2018-03-22 18:18:00, problem is when you divide by near-zero,0,1,0,1,0,1,0.038351495,0.23874882,0.7228997,Neu,-0.20039733,topdowncharts
+28,2018-03-22 18:16:04,Corporate CDS Pressure Index remains elevated:    ,1,1,0,2,18,23,0.88420796,0.07289278,0.042899307,Pos,0.8113152,topdowncharts
+29,2018-03-22 18:10:02,Where things are sitting with the big bond yield breakout...    ,0,1,0,0,10,14,0.11378092,0.22269376,0.6635253,Neu,-0.10891283,topdowncharts
+30,2018-03-21 23:17:02,"History shows when the Fed tightens monetary policy, ultimately credit conditions end up tightening too:    $HYG $JNK  ",0,1,0,1,22,27,0.22501516,0.37413067,0.40085417,Neu,-0.1491155,topdowncharts
+34,2018-03-20 18:05:05,Global Equity Country Breadth: 49 out of 70 countries are trading below their respective 50-day moving averages...    ,0,1,0,2,12,21,0.013583431,0.9117841,0.074632466,Neg,-0.8982007,topdowncharts
+35,2018-03-19 23:31:00,"Will be sending out the free weekly email later today -- ""The Top 5 Charts of the Week""  ... get on the mailing list to receive:  ",0,1,1,0,0,2,0.033282828,0.027653813,0.9390634,Neu,0.005629014,topdowncharts
+37,2018-03-19 05:25:02,Some extremes starting to emerge in the bond market...    ,0,1,0,0,21,23,0.16480553,0.0399086,0.7952858,Neu,0.12489693,topdowncharts
+38,2018-03-18 22:47:03,Treasuries Sentiment Index at a bearish extreme - raises odds of a short term reversal in bond yields...    ,0,1,0,0,14,23,0.07679165,0.85190207,0.07130632,Neg,-0.7751104,topdowncharts
+39,2018-03-18 22:45:01,Still seeing some disagreement between bond market and equity market fundamentals sentiment:    $MACRO $BONDS $SPX  ,0,1,0,0,13,17,0.08465068,0.6268309,0.2885184,Neg,-0.5421802,topdowncharts
+41,2018-03-18 18:51:01,Bitcoin futures positioning:    $BTC.X $BTC_F HODL  ,0,1,0,0,2,2,0.029637715,0.02529856,0.94506377,Neu,0.004339155,topdowncharts
+42,2018-03-17 00:25:03, pleasure.  One thing I would point out is that dot com this line moved up over 30% vs about 15% so far from early 2017,1,1,1,1,0,0,0.95759314,0.021062339,0.021344539,Pos,0.9365308,topdowncharts
+52,2018-03-12 19:06:00,"Positive economic surprises and uptrending earnings revisions = fundamental support, at least short-term:    ",0,1,0,0,6,8,0.9460565,0.017989552,0.035954013,Pos,0.9280669,topdowncharts
+53,2018-03-11 22:40:01,"Still seeing some disagreement between bond investors and equity investors on ""fundamentals"" sentiment:    $MACRO  ",0,1,0,0,7,15,0.18445902,0.591271,0.22427,Neg,-0.40681195,topdowncharts
+56,2018-03-10 02:23:02,Latest OECD CLIs show DM tentatively topping out vs EM still ticking along...    ,0,1,0,0,7,13,0.78308785,0.058357146,0.15855506,Pos,0.72473073,topdowncharts
+59,2018-03-09 08:25:00,"Weekly report preview:    (Global equities, global cyclicals vs defensives, income asset tactics, energy stocks, European equities)",0,1,0,0,2,1,0.023288952,0.058366075,0.9183449,Neu,-0.035077125,topdowncharts
+60,2018-03-08 17:16:04,S&P500 returns have been all about Financials and IT .... FinTech?     ,1,1,0,0,7,6,0.04870332,0.09071259,0.8605841,Neu,-0.04200927,topdowncharts
+61,2018-03-07 23:56:02,Passive Investors Take Note: today's S&P500 is a very different one to that back in 1995...     ,0,1,0,4,22,25,0.07778261,0.11028553,0.81193185,Neu,-0.03250292,topdowncharts
+63,2018-03-07 23:53:02," mmm, I am with you on that - ""extremes in markets usually don't last""",0,1,0,1,0,0,0.046101168,0.084695555,0.86920327,Neu,-0.038594387,topdowncharts
+65,2018-03-07 17:40:03," ah yes, excel likes to screw up the way the years are displayed if the first day in the series is the last day of the previous year -- I have dropped off the first day (which was 31 dec 2001) and now it looks right  ",1,1,0,1,0,1,0.027337577,0.492407,0.48025542,Neg,-0.4650694,topdowncharts
+66,2018-03-06 17:57:00,Global Equity Factor Bandwagon goes Parabolic     $ACWI $STUDY  ,0,1,0,2,10,18,0.2880836,0.32710445,0.38481188,Neu,-0.039020836,topdowncharts
+67,2018-03-06 02:39:01,"VIDEO: ""New top 5 charts of the week email newsletter""  ",0,1,0,0,3,4,0.056347284,0.02561364,0.9180391,Neu,0.030733645,topdowncharts
+69,2018-03-04 22:35:03,Fundamentals Sentiment: what do bond investors know that equity investors don't?     ,0,1,0,0,8,13,0.03298561,0.05743735,0.9095771,Neu,-0.02445174,topdowncharts
+72,2018-03-03 22:08:02,"  Thanks! yeah mine looks at a few different search terms rather than just inflation (e.g. ""rising inflation"" ""why are prices so high"" etc  ",0,1,0,0,0,0,0.040074207,0.041070543,0.91885525,Neu,-0.0009963363,topdowncharts
+73,2018-03-03 03:01:02,"Remarkably, volatility has been ultra low across asset classes, and more synchronized across the major assets over the past 10 years    ",1,1,0,3,21,21,0.8135592,0.085409984,0.10103089,Pos,0.7281492,topdowncharts
+75,2018-03-02 20:25:00,"  Thanks for the heads up -- just checked, countries trading above 200dma sitting at 69% ...most, but not all, of the 31% are European countries  ",1,1,0,0,4,5,0.11539108,0.025881056,0.8587278,Neu,0.08951002,topdowncharts
+77,2018-03-01 05:52:00,Asian institutional investors were the most aggressive in raising exposure to risky assets     ,1,1,0,0,10,10,0.12825923,0.03487436,0.8368664,Neu,0.09338486,topdowncharts
+78,2018-02-28 20:35:04,ChartBrief no.192 - Institutional Investors Buy the Dip     ,0,1,0,0,7,10,0.121687435,0.019116154,0.8591964,Neu,0.10257128,topdowncharts
+81,2018-02-28 01:27:05,Weak China PMI data in Feb leave a few question marks hanging on the outlook for Copper ...    ,0,1,0,0,13,28,0.018008402,0.9283491,0.05364249,Neg,-0.91034067,topdowncharts
+83,2018-02-27 15:46:05,"Of the 70 countries we monitor, 0 have entered into a bear market:    ",1,1,0,3,15,25,0.036229655,0.5537514,0.41001898,Neg,-0.51752174,topdowncharts
+86,2018-02-25 22:06:05," but really tho, who is going to put that into google?",0,1,0,1,0,1,0.029607328,0.0461866,0.9242061,Neu,-0.016579272,topdowncharts
+88,2018-02-25 20:05:01,"Weekly Sentiment Survey: ""Technicals"" net-bulls still towards the bearish side, while ""fundamentals"" net-bulls are basically unshaken...  $MACRO $SPX  ",0,1,0,0,0,5,0.04938569,0.8487527,0.101861656,Neg,-0.799367,topdowncharts
+90,2018-02-24 04:44:00,Global Trade Update: shipping cost indexes much improved but looking more volatile lately...    ,1,1,0,0,5,4,0.8774166,0.091158226,0.031425197,Pos,0.7862584,topdowncharts
+91,2018-02-23 23:53:05,Global shipping container volumes running comfortably at an above-trend pace:    ,0,1,0,0,26,28,0.92059124,0.017068425,0.062340293,Pos,0.9035228,topdowncharts
+96,2018-02-20 22:20:03,Here's a snapshot of seasonality for the bond market (with stockmarket for context)    ,0,1,0,0,10,18,0.035275657,0.043859772,0.9208645,Neu,-0.008584116,topdowncharts
+98,2018-02-20 09:24:03,VIDEO: Implied Correlation Index flashes a buy signal...  ,1,1,0,0,2,4,0.184998,0.034878373,0.78012365,Neu,0.15011963,topdowncharts
+102,2018-02-12 08:37:05,Weekly survey sentiment says the $VIX has gone too far.     ,1,1,0,0,11,13,0.009970665,0.96661544,0.023413893,Neg,-0.9566448,topdowncharts
+103,2018-02-12 08:37:00,"Said it before, say it again: where this one goes next holds the key to how this correction plays out...    ",1,1,0,0,7,7,0.06539893,0.028197184,0.90640396,Neu,0.037201747,topdowncharts
+104,2018-02-12 08:36:01,KEY divergence: fundamentals vs technicals sentiment...    $SPX $SPY  ,0,1,0,0,3,5,0.094768785,0.059521418,0.8457098,Neu,0.035247367,topdowncharts
+105,2018-02-12 08:03:03,"US REITs have taken a hammering first by rising bond yields, and second by the broader equity market correction.  On the bright side, the dividend yield is moving higher...    $VNQ $IYR  ",1,1,0,1,12,15,0.90637004,0.06693359,0.026696358,Pos,0.8394365,topdowncharts
+108,2018-02-08 17:09:05,"Worth reviewing (especially if you missed it) the ""Active Asset Allocation in 2018"" presentation - talks about much of the issues that markets are digesting in recent weeks:  ",1,1,0,0,6,7,0.031269804,0.038446106,0.9302841,Neu,-0.0071763024,topdowncharts
+109,2018-02-08 17:04:01,Global Equity volatility remains elevated... featured this chart in this video earlier this year:    ,1,1,0,0,5,8,0.118446544,0.019987144,0.86156636,Neu,0.0984594,topdowncharts
+110,2018-02-07 18:10:04,Hard to see it on the chart but global equity volatility is starting to calm down.  Would say though that the bottom is in now.    ,0,1,1,0,8,11,0.07504741,0.804904,0.120048515,Neg,-0.72985655,topdowncharts
+111,2018-02-07 17:58:04,Updated chart - this alternative measure of volatility is now at the same level as Dec 1995...     $VIX $SPX  ,1,1,0,0,12,12,0.0473049,0.03022847,0.92246664,Neu,0.017076429,topdowncharts
+112,2018-02-06 04:43:05,This chart is looking a little different since when we first shared it back around the turn of the year...  ,1,1,0,1,4,8,0.11319195,0.044842344,0.84196573,Neu,0.0683496,topdowncharts
+114,2018-02-06 04:33:01," Yeah technicals sentiment swung right around, yet fundamentals sentiment is holding up - similar to my views actually!",0,1,0,0,0,1,0.7712046,0.04220902,0.18658642,Pos,0.72899556,topdowncharts
+116,2018-02-05 16:56:03,More context: selloff happening as earnings revisions at hottest pace on record...    $SPX $MACRO  ,0,1,0,0,12,14,0.18017368,0.6156274,0.20419891,Neg,-0.4354537,topdowncharts
+117,2018-02-05 16:54:04,Context: current market selloff happening with the backdrop of euphoric investor sentiment...    $SPX $SPY  ,0,1,0,1,3,14,0.081650585,0.12449526,0.7938542,Neu,-0.042844675,topdowncharts
+118,2018-02-05 03:19:01,Where this chart goes next will have a huge bearing on how the current correction/selloff plays out...    $MACRO $SPX  ,0,1,1,0,5,5,0.0379803,0.06865888,0.8933608,Neu,-0.030678581,topdowncharts
+119,2018-02-05 03:18:01,"The latest weekly survey on Twitter shows the melt-down in investor sentiment has been driven purely by the ""Technicals"" picture, whereas the ""Fundamentals"" outlook still seems solid...    ",1,1,0,0,16,14,0.046395604,0.8240976,0.1295068,Neg,-0.777702,topdowncharts
+120,2018-02-05 03:16:05,Is the market going from MeltUp to MeltDown ??   We take a look here:    $SPX $VIX  ,0,1,0,1,6,6,0.037432097,0.03509669,0.9274712,Neu,0.0023354068,topdowncharts
+121,2018-02-03 17:36:00,"Median EmergingMarkets country valuations are becoming expensive (similar to the same view for sectors), but so what? and what about relative value?     $EEM $VWO $IEMG  ",0,1,0,0,6,13,0.04901151,0.04538116,0.90560734,Neu,0.0036303513,topdowncharts
+122,2018-02-02 22:08:04,"Preview of the latest weekly report:   (global economy, China consumer, bond market tactics, EM equity valuations, Commodities outlook [the GSCI])",0,1,0,0,1,0,0.025564132,0.040871244,0.9335646,Neu,-0.015307112,topdowncharts
+123,2018-02-01 16:00:05,China rail freight growth rolling over:    ,0,1,0,1,11,10,0.32728058,0.016175825,0.65654355,Neu,0.31110474,topdowncharts
+124,2018-02-01 03:13:05,"As we get into February it's worth reviewing The 10 Charts To Watch For 2018 -- in case you missed it, here's the link:  ",1,1,0,0,6,12,0.037614156,0.045659892,0.91672593,Neu,-0.008045737,topdowncharts
+125,2018-02-01 01:11:00,Gold volatility is starting to stir... the $1350 question is does the tentative breakout hold? (or does it fail?)  I think either way the next move is going to be something to talk about!   $GLD $GDX $VIX $GVX  ,0,1,0,0,15,22,0.058716033,0.02892663,0.9123574,Neu,0.029789403,topdowncharts
+126,2018-01-31 20:15:05,Consumer Confidence is at the highest point since 1993 in China - but there's more to the story than that...    ,0,1,0,0,6,8,0.18735823,0.07996597,0.73267585,Neu,0.10739226,topdowncharts
+127,2018-01-31 18:14:01,Risk watch for 2018 - China manufacturing rolling over:    $MACRO $FXI $ASHR  ,0,1,0,0,9,14,0.1519436,0.090739615,0.75731677,Neu,0.06120398,topdowncharts
+128,2018-01-30 20:07:02,EM equities expensive vs history?  YES = if you look at the period 2000-2018 NO = if you look at now vs the 1990's    ,0,1,0,0,13,21,0.055280462,0.033737205,0.9109824,Neu,0.021543257,topdowncharts
+129,2018-01-29 21:58:04,Global sovereign bond selloff continues - US and Germany leading the charge. UK looks set to breakout from an ascending triangle...  ,1,1,0,1,20,20,0.7709806,0.14802775,0.08099167,Pos,0.6229528,topdowncharts
+132,2018-01-28 23:13:01,"After blistering share price gains, and a surge in ETF assets, Emerging Market Equities are not the cheap absolute value play they used to be...     $EEM $VWO  ",1,1,0,0,14,23,0.048051108,0.70392627,0.24802259,Neg,-0.65587515,topdowncharts
+133,2018-01-28 20:33:00,Technicals vs Fundamentals net-bullish sentiment for equities  ,0,1,0,0,3,12,0.66711974,0.17683476,0.15604545,Pos,0.49028498,topdowncharts
+134,2018-01-28 20:32:01,"equity investors are bullish on fundamentals, bond investors are bearish on fundamentals...  $MACRO  ",0,1,0,2,13,14,0.20715585,0.17724803,0.6155961,Neu,0.029907823,topdowncharts
+135,2018-01-26 18:18:05,"Weekly report (preview)   This week it's the US Dollar Index, the EURUSD, Crude Oil, Gold, and Grains... Currencies and Commodities!",0,1,0,0,5,2,0.039758276,0.03505837,0.92518336,Neu,0.0046999045,topdowncharts
+139,2018-01-25 07:57:05,Bond market sentiment has moved back to neutral from extreme bullishness - next step = overshoot?     ,1,1,0,0,5,7,0.23185109,0.59063756,0.17751136,Neg,-0.35878646,topdowncharts
+140,2018-01-25 07:55:03," Thanks, just replied.  PMI rolling over is a possibility, but the weight of DM growth indicators still solid at this point...",1,1,0,1,0,0,0.89905196,0.026292095,0.074655995,Pos,0.8727599,topdowncharts
+141,2018-01-24 21:53:04,US 10-Year bond yields are sticking to the seasonal script so far this year...     ,0,1,0,2,10,15,0.23315634,0.27300256,0.49384108,Neu,-0.039846227,topdowncharts
+143,2018-01-24 16:44:05," Interesting, thanks - good spotting and yes the catalyst may be tax cuts but it also seems to line up with that chart. Looking forward to the next SLOOS release!",0,1,1,0,0,1,0.61172265,0.014089344,0.3741881,Pos,0.5976333,topdowncharts
+146,2018-01-23 03:39:05,  My bad.  It is PE10 across 45 countries - from this article (for context):  ,0,1,0,0,0,1,0.048373155,0.032689355,0.91893744,Neu,0.0156838,topdowncharts
+147,2018-01-22 22:31:00,"A gap has opened up between copper prices and copper stock relative performance... who is right? ""Dr Copper"" or the resource sector analysts      ",1,1,0,0,6,13,0.03513732,0.35852292,0.6063398,Neu,-0.3233856,topdowncharts
+148,2018-01-22 20:33:01,"  Also, (sorry to be splitting hairs like this!) while the big 3 QE balance sheets are sitting at over US$14.6 trillion, the net change since 2008 was ""only"" about US$10t  ",1,1,0,0,0,3,0.107758194,0.18916425,0.70307755,Neu,-0.08140606,topdowncharts
+149,2018-01-22 20:30:03," Thanks Tiho, appreciate the mention, and really good points.",0,1,0,0,0,1,0.84341717,0.012484116,0.14409865,Pos,0.83093303,topdowncharts
+150,2018-01-22 20:29:03,  Yep. Cheap/reasonable valuations + easy monetary policy... what more can you ask for?,0,1,1,0,0,1,0.11417613,0.014601221,0.8712226,Neu,0.09957491,topdowncharts
+154,2018-01-22 01:51:04,"Weekly Survey: ""Fundamentals"" sentiment tapering off?     ",0,1,0,0,3,0,0.016680498,0.9546703,0.028649185,Neg,-0.93798983,topdowncharts
+156,2018-01-22 01:37:04,"ChartBrief no.181 - Country Valuations Follow-up (PE10 part 3)     [the full valuations ranking table, as requested by a few readers]  ",1,1,0,0,16,18,0.030234288,0.028349824,0.9414159,Neu,0.0018844642,topdowncharts
+157,2018-01-19 19:23:05,"Latest weekly report sent to clients:    (US cyclicals vs defensives, global equity relativities, US HY credit, European HY credit, and Aussie credit)  ...basically global equities and global credit spreads this week!",1,1,0,0,3,2,0.061044753,0.14234519,0.79661006,Neu,-0.08130044,topdowncharts
+159,2018-01-18 00:43:05,Check out this stat-attack on S&P500 forward earnings from the weekly:    ,0,1,0,0,9,8,0.03328821,0.04542936,0.9212824,Neu,-0.0121411495,topdowncharts
+162,2018-01-17 20:28:01,Bullish and bearish sentiment readings have reached extreme levels:     ,1,1,0,2,36,33,0.018686172,0.9535436,0.02777027,Neg,-0.9348574,topdowncharts
+165,2018-01-17 17:09:02, remarked in the blog post that Greece is one case where PE10 may not be appropriate because it might be difficult (!) to get back to the average earnings of the past 10 years...,1,1,1,1,0,0,0.060251154,0.56354815,0.3762007,Neg,-0.503297,topdowncharts
+166,2018-01-16 22:54:00," Indeed.  Also, by the way EM is not looking so cheap any more (in absolute terms)",0,1,0,1,0,1,0.22600468,0.019742863,0.75425243,Neu,0.20626181,topdowncharts
+167,2018-01-16 22:48:05,Where in the world are the cheapest and most expensive markets right now?   $ACWI $SPY  ,0,1,0,0,20,23,0.06246985,0.025532978,0.91199714,Neu,0.03693687,topdowncharts
+169,2018-01-16 04:04:05,"Speculators remain significantly net-long equities, albeit slight pullback in positioning in the last couple of weeks...     ",0,1,0,1,8,7,0.2190594,0.7521182,0.028822383,Neg,-0.53305876,topdowncharts
+170,2018-01-16 03:10:00," Not sure - that one looks like a major outlier, but then again it did come as credit conditions started to turn down in the lead up to the commodity flareup in credit spreads...",1,1,0,0,0,1,0.09189958,0.83361787,0.074482515,Neg,-0.7417183,topdowncharts
+171,2018-01-16 00:52:03,Something Strange in a Strange Credit Indicator     $LQD $JNK $HYG $MACRO  ,0,1,0,1,7,12,0.053387027,0.110793665,0.83581936,Neu,-0.057406638,topdowncharts
+174,2018-01-15 16:57:05,"   I don't have exact numbers but you are right, many insto may not be allowed to buy these or simply can use any number of products to obtain a leveraged position.  If I had to guess it would be generally more sophisticated traders (or at least I hope! - leverage can be dangerous)",1,1,1,0,0,0,0.038287986,0.13154666,0.8301653,Neu,-0.09325868,topdowncharts
+175,2018-01-15 16:56:00,  Doesn't compare... pales - it's a unique subset of ETF product  ,0,1,0,0,1,1,0.088592544,0.016389865,0.8950176,Neu,0.07220268,topdowncharts
+177,2018-01-13 18:57:00, using yields,0,1,0,0,0,0,0.042109855,0.04201377,0.9158764,Neu,9.608269e-05,topdowncharts
+178,2018-01-13 18:56:05, It is global sovereign bond market breadth... global being 25 countries (mostly DM),0,1,0,1,0,0,0.07319197,0.010928482,0.9158796,Neu,0.06226349,topdowncharts
+179,2018-01-12 07:24:03,Just published the first weekly report of 2018 - talk in depth and show you the key charts about what I consider the 3 major themes for asset allocators this year and beyond:    (ping me for a trial/copy),1,1,0,0,2,3,0.051635113,0.0151726995,0.93319213,Neu,0.03646241,topdowncharts
+180,2018-01-11 17:57:03,Interesting AF chart of the day...  S&P500 Earnings Revisions Ratio (Thomson Reuters I/B/E/S data) at an all time high this week.  NB: Earnings Revisions Ratio = (Estimates Up - Estimates Down)/(Estimates Up + Estimates Down)  ,0,1,0,0,17,13,0.022894336,0.926953,0.05015264,Neg,-0.9040587,topdowncharts
+181,2018-01-11 17:42:02,Yep - all the hallmarks of a major turning point:    ,0,1,0,0,3,6,0.24617895,0.016350659,0.7374703,Neu,0.2298283,topdowncharts
+182,2018-01-11 15:41:00,Another seasonal chart - gold prices tend to do well in the early part of the year    $GLD $SPX  ,0,1,0,0,1,3,0.8625565,0.08072013,0.056723338,Pos,0.7818364,topdowncharts
+183,2018-01-11 01:45:05,The historical averages show the US Dollar Index often sees a period of strength in Q1... this would be a surprise for all the dollar bears out there!     $DXY  ,0,1,1,0,22,21,0.31756872,0.119996466,0.56243485,Neu,0.19757226,topdowncharts
+186,2018-01-10 17:28:02,Reminder: risks are to the upside for bond yields    $MACRO $BONDS  ,0,1,0,0,9,10,0.11268142,0.3124177,0.5749009,Neu,-0.19973627,topdowncharts
+187,2018-01-10 01:21:04,Bond market implied volatility has crunched down to record lows -- looks eerily similar to the period just prior to the 2013 tantrum...     ,1,1,0,0,7,16,0.0152714895,0.95069945,0.034029,Neg,-0.93542796,topdowncharts
+188,2018-01-10 01:17:03,Our composite treasury sentiment indicator has moved from extreme bullish (a contrarian bearish signal) to neutral (momentum is now in play...)     ,1,1,0,0,9,14,0.46669295,0.37126866,0.1620384,Pos,0.095424294,topdowncharts
+190,2018-01-10 00:17:00,Will be putting out the (free) weekly brief later today - sign up and see what this week's ChartOfTheWeek will be:  ,0,1,1,0,4,0,0.028330013,0.026608737,0.9450613,Neu,0.001721276,topdowncharts
+191,2018-01-09 17:30:04,Property prices were again boosted in the SCANNZ economies by a further round of monetary policy easing (basically an unintended consequence of falling commodity prices)  ,1,1,0,0,2,11,0.95087576,0.023874335,0.02524988,Pos,0.9270014,topdowncharts
+192,2018-01-08 20:08:03,You've heard about BRICS and PIIGS -- but what about the SCANNZ economies?     ,1,1,0,1,22,21,0.049167622,0.027679522,0.92315286,Neu,0.0214881,topdowncharts
+195,2018-01-07 21:30:01,Survey data appear to show that it has been fundamentals driving the bull move of the last 6 months:    ,1,1,0,0,4,7,0.24777074,0.04102628,0.711203,Neu,0.20674446,topdowncharts
+196,2018-01-07 21:28:03,Latest survey results show a continuation of the big reassessment of the Fundamentals outlook for stocks and bonds:    ,0,1,0,0,0,3,0.120411046,0.07722701,0.8023619,Neu,0.043184035,topdowncharts
+197,2018-01-07 21:25:05,Weekly Sentiment Survey: Furious Bulls...    Highest equal net-bullishness on stocks + most extreme net-bearish reading on bonds... VERY INTERESTING.  ,0,1,0,1,13,8,0.5983447,0.029407939,0.37224743,Pos,0.56893677,topdowncharts
+199,2018-01-07 03:28:02,  Real money - SS global custodian business (they are either no.1 or 2 in world... billions and billions):  ,0,1,0,0,0,1,0.06142854,0.014384912,0.9241865,Neu,0.04704363,topdowncharts
+200,2018-01-06 03:31:01,"Topdown Charts head of research  will be presenting on ""Active Asset Allocation in 2018"" at the Wealth365 Summit in 2 weeks time, click through to register:  ",0,1,1,0,3,5,0.03642178,0.01978025,0.943798,Neu,0.01664153,topdowncharts
+201,2018-01-05 18:49:05,Emerging Market equities relative performance (vs Developed Markets) looks to have put in a long-cycle bottom - here's how the policy and cycle metrics stack up:    $EEM $VWO  ,1,1,0,0,20,27,0.11141648,0.08211377,0.80646974,Neu,0.029302709,topdowncharts
+202,2018-01-05 18:48:04,EM vs DM economic surprise indexes - which one has the greatest scope for upside?     $MACRO $EEM $VWO  ,0,1,0,1,8,12,0.116470106,0.037483077,0.8460468,Neu,0.07898703,topdowncharts
+207,2018-01-02 02:00:00,Fundamentals sentiment: about as good as it gets (or as bad as it gets for bonds!)  ...already seen a big reassessment on the fundamentals outlook since June last year - so where do we go from here?     $MACRO $BONDS $SPX  ,1,1,0,0,7,6,0.11428737,0.05462091,0.83109176,Neu,0.05966646,topdowncharts
+208,2018-01-02 01:57:00,Looks like something stirring in the $VIX and equity sentiment...  ,0,1,0,0,2,12,0.371577,0.0477292,0.5806938,Neu,0.3238478,topdowncharts
+210,2018-01-02 01:54:04,"   fair call, important to ask what if it doesn't work, and always a concern... But what if it works?",0,1,0,1,0,0,0.033106647,0.09117496,0.8757184,Neu,-0.058068313,topdowncharts
+212,2017-12-31 20:19:01," awesome, Milford sound is great!",0,1,0,1,0,0,0.38503516,0.018494535,0.5964703,Neu,0.3665406,topdowncharts
+213,2017-12-31 20:17:00,Momentum of stimulus induced cyclical upturn in China looks to be fading...  very important to keep on top of: China will likely drive a lot of the risk/reward at a global cross-asset level this year.  ,0,1,1,0,1,11,0.3819966,0.33136547,0.2866379,Pos,0.050631136,topdowncharts
+217,2017-12-28 03:49:02,"5/5. And finally, a similar chart, but a big contrast, emerging market equities account for around 15% of global equity market cap, which is interesting compared to ~55% for GDP share.     ",1,1,0,1,9,14,0.46862033,0.030895147,0.5004846,Neu,0.4377252,topdowncharts
+218,2017-12-28 03:48:01,4/5.  One of the classics (could have easily put this in the favourites section) IMF PPP measures show Emerging & Developing economies now account for the dominant share of world GDP.  ,1,1,1,0,10,14,0.27903843,0.010443534,0.710518,Neu,0.2685949,topdowncharts
+219,2017-12-28 03:47:01,"3/5. S&P again, this time the 600 (small caps) and the 100 (large caps). By this, small caps look expensive in both absolute and relative terms.     ",0,1,0,0,8,16,0.052692734,0.16965489,0.7776524,Neu,-0.11696216,topdowncharts
+220,2017-12-28 03:45:05,2/5. Next is a look at S&P500 seasonality – that red line actually managed to defy gravity and avoid the Sep/Oct lull with a close-to straight-line rally through much of the year.  ,1,1,0,0,6,5,0.83601624,0.05699366,0.10699004,Pos,0.7790226,topdowncharts
+221,2017-12-28 03:45:00,"1/5. First is the alternative volatility metric for the S&P500 (rolling 252-day count of daily moves greater than +/-1%), punchline is this measure of volatility has fallen to a 50-year low!  ",1,1,0,0,23,15,0.012030778,0.94968796,0.038281295,Neg,-0.9376572,topdowncharts
+222,2017-12-28 03:42:05,It would only make sense for us to tweet these out... so following are the top 5 charts we posted on Twitter this year (based on views and retweets)  ,1,1,1,0,2,2,0.020595582,0.049796212,0.9296082,Neu,-0.02920063,topdowncharts
+225,2017-12-25 18:44:02,"Technicals sentiment ranging, Fundamentals sentiment trending...  $SPX $SPY  ",0,1,0,1,1,4,0.48436138,0.0575278,0.45811093,Pos,0.42683357,topdowncharts
+226,2017-12-25 18:42:00,"WEEKLY SURVEY: ""Fundamentals"" sentiment improving for stocks -- consistent with the more bearish view on bond fundamentals (improving macro = higher bond yields)  $MACRO $BONDS  ",0,1,0,0,3,12,0.94272196,0.03786082,0.01941717,Pos,0.90486115,topdowncharts
+227,2017-12-25 18:27:04,   higher bond yields don't automatically mean lower stock prices IF bond yields are driven up by higher nominal growth outcomes,1,1,0,0,0,0,0.4919326,0.32729894,0.18076837,Pos,0.16463366,topdowncharts
+229,2017-12-22 22:41:04,  THanks!  Yes an important chart this one in that it is an example where the logic of lower bond yields = higher stock valuations falls short (for good reason in this case),1,1,0,0,0,1,0.52722317,0.106775016,0.36600187,Pos,0.42044815,topdowncharts
+230,2017-12-22 22:40:03,   blame it on global QE?  (plausible to make an argument that the gap in that chart is because of ECB/BoJ bond buying - tho IMO they are not far behind following in the Fed's footsteps... very big theme for 2018 and beyond!),0,1,0,1,1,2,0.4188987,0.15659265,0.42450863,Neu,0.26230603,topdowncharts
+231,2017-12-22 22:39:01,   Good point - macro data is getting better and better than expected (and hard data is starting to catch up with the very optimistic survey data),1,1,0,1,0,0,0.93351823,0.01882592,0.04765586,Pos,0.9146923,topdowncharts
+232,2017-12-22 22:37:04,"   even if the signal from the PMI is coincident it still tells you there is an inconsistency between where the data is tracking vs bond yields (same conclusion... but you can easily reconcile the gap by saying 1 or both of them are ""wrong"")",0,1,1,0,0,3,0.051651508,0.36093733,0.5874112,Neu,-0.30928582,topdowncharts
+233,2017-12-22 22:36:01,   Here's a publicly accessible piece we did on it recently (for more detail):  ,1,1,0,0,0,0,0.032804947,0.022044394,0.9451507,Neu,0.010760553,topdowncharts
+234,2017-12-22 22:35:03,   bonds usually trade closely to the macro data (growth/inflation)... better growth and inflation outcomes + outlook generally consistent with higher bond yields.  So if the improvement seen in the PMI persists then risk of higher bond yields rises,1,1,0,0,0,2,0.9514022,0.021387378,0.027210442,Pos,0.9300148,topdowncharts
+236,2017-12-21 20:33:04,  lol... yeah kind of surprising to see anything anywhere these days that doesn't have some political agenda or slant behind it,0,1,0,0,0,1,0.08312104,0.03554122,0.88133776,Neu,0.047579817,topdowncharts
+237,2017-12-21 20:06:01,"  oh... I'm not a policy/politics guy, I'm an investment strategist... so basically yeah to me ""it is what it is"" and I'll run my research accordingly",0,1,1,1,0,0,0.05445156,0.02599445,0.91955394,Neu,0.028457109,topdowncharts
+238,2017-12-21 19:48:05,"  deficits and debt get ignored until the next recession.  Like the Eurozone debt sustainability issues - completely under the rug right now, but will come out in force when the next slowdown comes",1,1,1,1,0,0,0.032768514,0.22244869,0.7447828,Neu,-0.18968017,topdowncharts
+239,2017-12-21 17:02:04,   Thank you sir!,0,1,0,0,0,0,0.76480645,0.017649153,0.21754436,Pos,0.7471573,topdowncharts
+240,2017-12-21 16:54:04,  Accompanying chart from the piece:  (interesting side note - divergence of the 2 series post-GFC surely a reflection of ZIRP)  ,0,1,0,0,1,2,0.04758092,0.02965866,0.92276037,Neu,0.01792226,topdowncharts
+241,2017-12-21 16:52:02,  THanks Konrad. I get your angle - I certainly look at population growth as input/conceptual building block of potential GDP growth (a key variable for capital market assumptions/expected returns). Still think this is an interesting observation - it also reflects rising debt..,1,1,0,2,0,0,0.5587374,0.02850772,0.41275486,Pos,0.5302297,topdowncharts
+242,2017-12-21 16:46:03," FYI, the report this chart is from:   (making it available as a one-off free download as a holiday treat!)",0,1,0,1,0,1,0.040824633,0.021540195,0.93763524,Neu,0.019284438,topdowncharts
+243,2017-12-21 16:45:03,"SPECIAL ANNOUNCEMENT: Hi folks, as a holiday treat we're making the 2017 End of Year Special Edition available as a free download -    Happy Holidays!!",0,1,0,1,8,14,0.24397768,0.01163772,0.7443845,Neu,0.23233996,topdowncharts
+246,2017-12-20 17:07:05,Bond volatility has crunched down to an extreme low... this is actually a familiar sign usually seen around turning points:    $BONDS $IEF $TLT  ,1,1,0,0,17,17,0.07937046,0.35187268,0.5687569,Neu,-0.2725022,topdowncharts
+247,2017-12-20 06:23:03,Weekly brief being sent out soon... be sure to sign up to the email list:   also to check out the ChartOfTheWeek,1,1,0,0,1,0,0.0447404,0.015864566,0.93939507,Neu,0.028875835,topdowncharts
+248,2017-12-20 06:21:02,US 10-Year Bond Yields are on the move... next stop 3.5%?     $MACRO $BONDS $IEF $TNX  ,0,1,0,0,20,25,0.11952922,0.06277917,0.81769156,Neu,0.056750044,topdowncharts
+249,2017-12-20 01:03:03,Exports were 1 of 3 key tailwinds that helped turnaround the cyclical macro picture in China over the past 12-18 months... here's the other 2:    $MACRO $FXI $EEM  ,1,1,0,0,11,13,0.12595293,0.06221292,0.8118342,Neu,0.06374001,topdowncharts
+251,2017-12-18 02:52:05,November property price data out of China confirm what the leading indicators been telling us about the outlook.  This will likely be a key $MACRO theme for 2018...    ,1,1,1,1,13,30,0.22429399,0.016663825,0.7590422,Neu,0.20763017,topdowncharts
+253,2017-12-17 20:49:04,"""Fundamentals"" and ""Technicals"" net bullish equity sentiment... there's a clear standout there.  ",0,1,0,1,3,5,0.5748276,0.042171564,0.3830008,Pos,0.5326561,topdowncharts
+255,2017-12-17 20:47:03,Latest survey results show increasing bullishness on fundamentals  ,0,1,0,0,3,4,0.8013181,0.17345797,0.025223888,Pos,0.6278601,topdowncharts
+256,2017-12-15 18:38:03,ChartOfTheWeek from the free weekly brief sent on Wednesday:    GlobalEquities $MACRO $ACWI  ,1,1,0,0,5,7,0.048530784,0.03539576,0.91607344,Neu,0.013135023,topdowncharts
+258,2017-12-14 15:59:04,Flash reading of the Euphoriameter shows a new high in December    $SPX $SPY  ,0,1,0,0,10,11,0.8851712,0.027913496,0.08691534,Pos,0.85725766,topdowncharts
+259,2017-12-13 23:11:03,"ChartBrief no.173 - Fed Hikes, What's Next      $MACRO $FED $SPX  ",0,1,0,0,8,9,0.07335998,0.030542085,0.89609796,Neu,0.042817898,topdowncharts
+261,2017-12-13 00:44:04,Keep an eye on those cyclicals vs defensives:      $SPX $SPY  ,0,1,0,2,17,15,0.049277797,0.030126432,0.9205958,Neu,0.019151365,topdowncharts
+262,2017-12-12 23:17:03,"NOTE: will be sending out the (free) weekly brief later today, sign up to receive it here:      ChartOfTheWeek $MACRO",0,1,1,0,1,0,0.035186395,0.021848463,0.9429652,Neu,0.0133379325,topdowncharts
+263,2017-12-12 18:17:02,VIDEO: US Cyclicals vs Defensives and the new Bull Market   ,0,1,0,0,2,4,0.12627459,0.16398765,0.7097378,Neu,-0.037713066,topdowncharts
+264,2017-12-12 17:23:05,Can the Bank of Japan continue QE in the face of rising economic optimism?   $USDJPY $MACRO  ,0,1,1,1,0,9,0.37039787,0.036590844,0.5930113,Neu,0.33380702,topdowncharts
+265,2017-12-12 17:21:01,Europhoria: times are changing in Euro-land... will the $ECB and $EURUSD keep up?    $MACRO  ,0,1,1,0,5,4,0.16947076,0.1515552,0.6789741,Neu,0.017915562,topdowncharts
+266,2017-12-11 03:18:04,Something to think about --&gt; tech sector accounts for almost 1/4 of $SPX earnings:    ,0,1,0,0,18,21,0.057243053,0.015213516,0.9275434,Neu,0.042029537,topdowncharts
+267,2017-12-11 03:17:05,S&P500 tech sector valuations look nothing like that seen at the height of the tech bubble    ,1,1,0,1,23,34,0.05490287,0.16669725,0.7783998,Neu,-0.11179438,topdowncharts
+269,2017-12-10 20:44:02,Weekly survey - fundamentals vs technicals net bulls  ,0,1,0,0,4,5,0.15265371,0.13008793,0.7172584,Neu,0.022565782,topdowncharts
+271,2017-12-07 16:02:01,"ChartOfTheWeek Global equities, earnings, economy: turns out fundamentals matter...   $ACWI  ",0,1,0,2,7,12,0.11311608,0.030583356,0.85630053,Neu,0.08253272,topdowncharts
+274,2017-12-06 02:31:03,Sending out the free weekly brief shortly:    join the mail list to get a copy --&gt; very interesting chart of the week!,0,1,0,0,3,0,0.108043104,0.014427314,0.87752956,Neu,0.09361579,topdowncharts
+275,2017-12-05 20:00:02,(2/2) yet the Fed loan officer survey also points to an acceleration in C&I loan growth:    ,0,1,0,1,12,14,0.954055,0.022616824,0.023328189,Pos,0.9314382,topdowncharts
+277,2017-12-05 19:42:03,VIDEO: SLOOS Scrutiny - 2 Charts which say Boom or Doom for the US economy      $SPX $JNK $VIX $MACRO,0,1,0,0,1,4,0.06946095,0.03404146,0.8964976,Neu,0.03541949,topdowncharts
+280,2017-12-04 02:30:02,Sentiment on fundamentals has seen a big reassessment for both stocks and bonds...  $MACRO  ,1,1,0,0,0,5,0.7933039,0.0870201,0.11967596,Pos,0.7062838,topdowncharts
+281,2017-12-04 01:55:04,Judging by the  Twitter polls the $SPX rally is being driven by a reassessment of fundamentals  $MACRO  ,1,1,0,0,4,8,0.13795462,0.02550343,0.836542,Neu,0.112451196,topdowncharts
+284,2017-11-29 17:17:05,"Along with tight credit spreads, Bank CDS pricing has been more relaxed lately...   $XLF $HYG  ",1,1,0,0,4,11,0.3109173,0.0592411,0.6298417,Neu,0.2516762,topdowncharts
+285,2017-11-29 17:14:03,In this video I talk about the next steps + charts to watch for HY Credit Spreads   $JNK $HYG  ,0,1,0,1,5,10,0.043953452,0.023466958,0.93257964,Neu,0.020486495,topdowncharts
+286,2017-11-29 01:01:05,Sending out the (free) weekly brief soon - get on the mail list to receive:  ,0,1,0,0,1,5,0.03353058,0.026116794,0.94035256,Neu,0.007413788,topdowncharts
+288,2017-11-28 23:04:01," Thanks for the mention, and congrats on reaching the 100k mark!",0,1,0,1,0,1,0.6331939,0.015313322,0.3514928,Pos,0.6178806,topdowncharts
+289,2017-11-28 21:06:04,European institutional investors and Asian funds have change in heart on risk appetite:    ,0,1,0,1,5,7,0.21125174,0.31368694,0.47506133,Neu,-0.1024352,topdowncharts
+290,2017-11-28 21:05:04,ChartBrief no.168 - Institutional investors are selling global equities into strength   $ACWI  ,0,1,0,0,5,9,0.67831624,0.042373158,0.2793106,Pos,0.63594306,topdowncharts
+291,2017-11-28 17:44:05,Replay of webinar with Options Trading IQ - talked through slides on S&P500 volatility regimes:    $SPX $SPY $VIX $XIV,1,1,0,0,3,4,0.06983656,0.032704398,0.89745903,Neu,0.03713216,topdowncharts
+292,2017-11-27 02:59:02,This alternative measure of stockmarket volatility has fallen to a 50-year low     $SPX $VIX  ,1,1,0,3,31,39,0.0092568975,0.96723783,0.023505278,Neg,-0.95798093,topdowncharts
+294,2017-11-26 18:16:02,"""Fundamentals"" sentiment rolling over from very optimistic levels for both $BONDS and stocks...  $MACRO  ",0,1,0,0,11,12,0.92285794,0.022735104,0.054406937,Pos,0.9001228,topdowncharts
+296,2017-11-26 08:02:03,"Weekly Report   DM inflation outlook, bond yields, Eurozone economics, Eurozone equities, China macro risks",0,1,0,0,1,6,0.034829017,0.036794808,0.92837614,Neu,-0.001965791,topdowncharts
+297,2017-11-24 16:51:02," Thanks Gavin, looking forward to it!",0,1,0,0,0,1,0.5680015,0.022262909,0.4097356,Pos,0.5457386,topdowncharts
+298,2017-11-24 16:50:04," Thanks Chris, yes it's a ""sign of strength""... until it goes too far (not yet)",0,1,0,1,0,1,0.8250985,0.017329816,0.1575717,Pos,0.8077687,topdowncharts
+300,2017-11-16 09:24:03,Bond volatility typically increases in the final stage of the cycle. Currently = record lows    ,0,1,0,2,16,26,0.00868056,0.95514894,0.036170475,Neg,-0.94646835,topdowncharts
+301,2017-11-16 09:22:04, thank you sir,0,1,0,0,0,0,0.2825632,0.012897366,0.7045394,Neu,0.26966584,topdowncharts
+303,2017-11-15 03:48:01,Just about to send out the (free) Weekly Brief -   - get yourself on the email list if you want a copy  $MACRO $STUDY,0,1,0,0,3,0,0.039833203,0.024081375,0.93608546,Neu,0.015751828,topdowncharts
+304,2017-11-15 03:38:03,When real Copper gets to these levels there's good news and bad news...    $JJC $HG_F  ,0,1,0,0,7,10,0.09558034,0.09798824,0.8064315,Neu,-0.002407901,topdowncharts
+307,2017-11-14 16:13:02,  rule of thumb yes - correlations particularly fall during dot-com style bulls where a single sector is driving it (i.e. tech),0,1,0,1,1,0,0.037634697,0.21284012,0.7495252,Neu,-0.17520542,topdowncharts
+308,2017-11-10 22:30:03,Global equities vs Global consumer confidence... coincidence??     $ACWI $MACRO  ,0,1,0,0,6,13,0.0906408,0.04053631,0.8688229,Neu,0.050104488,topdowncharts
+311,2017-11-09 15:17:02, A pleasure - truly appreciate the feedback,0,1,0,0,0,0,0.27242464,0.0126685565,0.7149068,Neu,0.2597561,topdowncharts
+313,2017-11-09 04:05:03,"   Thanks, good point - our indicators still saying no imminent warning signs for HY credit spreads:  ",0,1,0,0,0,3,0.5338637,0.28013575,0.18600057,Pos,0.25372797,topdowncharts
+314,2017-11-08 21:45:01,(a heads up for the next edition of the Weekly Macro Themes report)  ,0,1,0,0,0,1,0.025218267,0.055120274,0.9196614,Neu,-0.029902007,topdowncharts
+315,2017-11-08 17:04:04,More countries showing up as expensive:    GlobalEquities $ACWI  ,0,1,0,0,8,16,0.25826114,0.14324316,0.5984957,Neu,0.11501798,topdowncharts
+319,2017-11-07 20:14:04,Implied correlation index at 2007 levels - and that's probably not a good thing...   $SPX $SPY  ,0,1,0,1,18,28,0.05361704,0.60754913,0.3388339,Neg,-0.5539321,topdowncharts
+321,2017-11-06 22:58:01,Are you missing out on the charts & comments we post on LinkedIn?   click through to follow...,0,1,0,0,3,0,0.019735364,0.075051725,0.9052129,Neu,-0.05531636,topdowncharts
+322,2017-11-05 23:06:01,Weekly Survey: last couple of months have seen a dramatic reassessment of fundamentals by investors... $MACRO $BONDS  ,1,1,0,0,4,9,0.8802624,0.0533914,0.06634624,Pos,0.826871,topdowncharts
+329,2017-10-27 05:41:02," Thanks for sharing - indeed, one to keep a very close eye on!",0,1,0,1,0,2,0.20991196,0.010598539,0.7794895,Neu,0.19931342,topdowncharts
+331,2017-10-27 05:25:04,Euphoria has become the dominant mood of the market...    $SPX $SPY $VIX Euphoriameter  ,1,1,0,1,22,28,0.06694815,0.14920203,0.78384984,Neu,-0.08225388,topdowncharts
+333,2017-10-26 18:48:02,When seasonality is on your side... (along with a few other factors):    $DXY $UUP  ,0,1,0,0,9,9,0.0309165,0.031246543,0.93783695,Neu,-0.0003300421,topdowncharts
+335,2017-10-26 10:19:00,chart of the week is about copper and global trade... very interesting one!,0,1,0,0,0,1,0.10386022,0.020086942,0.87605286,Neu,0.08377328,topdowncharts
+336,2017-10-26 10:17:00,Explained in this video how steadily reducing spare capacity across DM will impact the $FED    ,1,1,1,0,4,4,0.029769426,0.9031054,0.06712525,Neg,-0.87333596,topdowncharts
+337,2017-10-26 10:12:04,"An oldie but a goodie: ""Is Technical Analysis BS?""    ",0,1,0,0,3,5,0.06816966,0.05989089,0.8719395,Neu,0.008278772,topdowncharts
+338,2017-10-26 03:48:03,  Uk and EU not that far behind - will put a chart up soon which illustrates...,0,1,1,1,0,0,0.33066517,0.014859599,0.6544752,Neu,0.31580558,topdowncharts
+339,2017-10-26 03:48:00,"  (because banks are limited in lending on second/third home in China, and no self-respecting offshore bank would take it as collateral)",1,1,1,0,0,1,0.023372801,0.15740547,0.81922174,Neu,-0.13403267,topdowncharts
+340,2017-10-26 03:46:04,  more likely that they just sell and use cash... or just avoid Chinese property.  Illustrative e.g. is stocks vs property in 2014  ,0,1,0,0,0,0,0.031124666,0.093634695,0.8752406,Neu,-0.06251003,topdowncharts
+341,2017-10-26 02:11:04,Will be sending out a belated weekly brief later today -- any requests for the ChartOfTheWeek??   Subscribe (free):  ,0,1,1,1,2,0,0.035040885,0.022383979,0.94257516,Neu,0.012656907,topdowncharts
+342,2017-10-25 23:04:04,"  indeed, question then rises for CANZeconomies is: does Chinese speculative $$ shun China property and double down on offshore property?",0,1,0,1,0,0,0.020286886,0.7531358,0.22657734,Neg,-0.73284894,topdowncharts
+345,2017-10-25 23:01:04, thanks for sharing!,0,1,0,1,0,1,0.30854166,0.023146322,0.6683121,Neu,0.28539532,topdowncharts
+346,2017-10-25 23:00:04," there's no need to do that, plenty of other options at their disposal - presently though the policy bias is tightening for property",0,1,0,0,0,0,0.22575727,0.015845107,0.7583977,Neu,0.20991217,topdowncharts
+347,2017-10-25 22:59:03,  still carries the same signal. see:  ,0,1,0,0,0,0,0.034340248,0.028293524,0.9373662,Neu,0.0060467236,topdowncharts
+348,2017-10-25 17:54:02,Don't believe the unemployment rate? do you believe consumers + small business?   $MACRO $FED  ,0,1,0,0,8,11,0.042219505,0.079711854,0.8780687,Neu,-0.03749235,topdowncharts
+349,2017-10-25 17:48:05,US Unemployment Rate has been below NAIRU for 17 months now...    $FED $MACRO  ,1,1,0,1,14,6,0.035051465,0.9199758,0.044972733,Neg,-0.88492435,topdowncharts
+351,2017-10-24 18:30:01,Global trade is looking better than ever...     $MACRO  ,0,1,0,0,9,20,0.9488961,0.018491717,0.03261216,Pos,0.93040437,topdowncharts
+352,2017-10-23 19:12:05,Chinese property price growth is rapidly cooling off - a key topic in our view:    $FXI $ASHR  ,0,1,0,2,32,33,0.057644527,0.24197768,0.70037776,Neu,-0.18433315,topdowncharts
+354,2017-10-23 03:53:03,Sentiment is bullish and the $VIX is low...      ,0,1,0,0,4,9,0.013964113,0.9597967,0.026239213,Neg,-0.9458326,topdowncharts
+355,2017-10-23 03:50:04,"Equities: rising ""fundamentals"" bullishness    ",0,1,0,0,4,9,0.9297223,0.037686795,0.032590877,Pos,0.8920355,topdowncharts
+358,2017-10-19 17:59:03,If you like our stuff then be sure to follow the Topdown Charts company page on LinkedIn -  ,0,1,0,0,2,1,0.049347844,0.016564094,0.9340881,Neu,0.03278375,topdowncharts
+359,2017-10-19 16:29:05,ICYMI: Discussion on the outlook for Japanese equities + some views on the next steps for the $USDJPY   ,0,1,0,0,2,0,0.057404604,0.016486539,0.9261089,Neu,0.040918067,topdowncharts
+361,2017-10-18 22:44:04,"Japanese stocks are decoupling from the Yen, is this time really different?     $USDJPY $DXJ  ",0,1,0,1,26,30,0.067713626,0.08048507,0.8518013,Neu,-0.0127714425,topdowncharts
+362,2017-10-18 22:37:00, you have to rotate them... current is ICJ. The maturing index falls significantly as it runs off - messes with the signal.,0,1,0,0,0,0,0.008109313,0.9715801,0.020310504,Neg,-0.96347076,topdowncharts
+363,2017-10-18 17:28:01,Sending the (free) Weekly Brief out soon + ChartOfTheWeek -- sign on to the mail list here:  ,0,1,0,0,1,2,0.035254378,0.025915409,0.93883026,Neu,0.009338969,topdowncharts
+364,2017-10-18 05:13:05,Implied correlations have crunched down to levels last seen around the 2007 market top:    ,1,1,0,3,27,37,0.012205964,0.9699885,0.017805481,Neg,-0.95778257,topdowncharts
+365,2017-10-18 05:13:03,Notice the uptrend in the $SKEW -- rising demand for tail risk hedges...    $SPX $VIX  ,0,1,0,2,20,30,0.48646036,0.18035816,0.3331814,Pos,0.30610222,topdowncharts
+367,2017-10-17 09:59:03, all goes in cycles,0,1,0,0,0,0,0.074689634,0.020385722,0.90492463,Neu,0.054303914,topdowncharts
+369,2017-10-16 19:17:05,China is at the epicenter of the global reflation theme...     $MACRO $FXI $ASHR  ,0,1,0,1,11,16,0.12166464,0.1355667,0.74276865,Neu,-0.013902053,topdowncharts
+370,2017-10-16 03:24:01,Both bond and equity guys agree that fundamentals are looking better...     $MACRO $SPX $BONDS  ,0,1,0,1,9,5,0.9433866,0.019483939,0.037129443,Pos,0.9239027,topdowncharts
+371,2017-10-16 03:23:02,A gap opening up between sentiment and the $VIX ...    $UVXY $TVIX  ,0,1,0,0,7,11,0.11934694,0.32574293,0.5549101,Neu,-0.20639598,topdowncharts
+372,2017-10-15 22:32:01,Seasonal stars aligning for the US Dollar Index:    $DXY $EURUSD  ,0,1,0,1,13,10,0.05860427,0.044884164,0.8965115,Neu,0.013720106,topdowncharts
+376,2017-10-12 16:21:04,The Euphoriameter has reached the highest level since 2000!    $SPX $SPY,1,1,0,1,6,5,0.58320343,0.053381518,0.3634151,Pos,0.52982193,topdowncharts
+378,2017-10-11 21:21:05,ChartBrief no.159 - Emerging Economies go from Doom to Boom     $EEM $VWO $MACRO  ,0,1,0,0,2,4,0.2680826,0.066042356,0.6658751,Neu,0.20204023,topdowncharts
+379,2017-10-11 18:17:01,US Dollar Index heading into what has historically been a strong patch of the year...   $DXY  ,1,1,0,0,16,12,0.9201705,0.043509863,0.036319688,Pos,0.87666065,topdowncharts
+380,2017-10-11 04:38:00,Short USD is a CrowdedTrade -- here's a discussion on the big risk for the US Dollar Index:    ,0,1,0,0,12,20,0.034267392,0.036157355,0.92957526,Neu,-0.0018899627,topdowncharts
+381,2017-10-11 04:34:03,US Dollar Index - market breadth bouncing from extreme oversold levels:    $DXY $UUP  ,0,1,0,0,11,14,0.08373194,0.89477587,0.021492187,Neg,-0.8110439,topdowncharts
+383,2017-10-10 23:15:05,Putting out the (free) Weekly Brief soon + ChartOfTheWeek --&gt; get your email on the list if you want a copy:  ,1,1,0,0,1,6,0.031728484,0.027991911,0.94027966,Neu,0.0037365723,topdowncharts
+386,2017-10-10 20:30:00,Bond market volatility has hit rock bottom...    $TNX $VIX $BONDS  ,1,1,0,1,17,15,0.012382104,0.946699,0.040918864,Neg,-0.93431693,topdowncharts
+387,2017-10-10 17:25:02,"   though, I can understand the appeal of borrowing longer when rates are this low...",0,1,1,1,0,1,0.14728722,0.13075742,0.72195536,Neu,0.016529799,topdowncharts
+388,2017-10-10 17:22:01,"   unfortunately the TR bond indexes only go back to 1980 (and only some go back that far), will have to try find another source...",0,1,1,0,0,1,0.03812014,0.10972578,0.8521541,Neu,-0.07160564,topdowncharts
+389,2017-10-09 17:23:01,"Global equities ""golden cross"" breadth (countries) is rolling over...     ",0,1,0,1,6,24,0.6016784,0.048659436,0.34966218,Pos,0.5530189,topdowncharts
+392,2017-10-09 02:48:04,"Global Equities DEATH WATCH: proportion of countries with a ""death cross"" quietly rising...    ",0,1,0,1,32,45,0.14893293,0.8176027,0.033464357,Neg,-0.66866976,topdowncharts
+393,2017-10-08 21:56:02,"Investors are bullish, the VIX  is complacent - what comes next?     $SPX $VIX  ",0,1,0,1,8,7,0.049052212,0.028465722,0.9224821,Neu,0.02058649,topdowncharts
+394,2017-10-08 21:55:00,"Both ""fundamentals"" & ""technicals"" net-bullish sentiment running at the top of the range...    ",0,1,0,0,1,9,0.29124203,0.049413513,0.6593444,Neu,0.24182852,topdowncharts
+395,2017-10-08 21:54:02,What do the bond bears know that the equity bulls don't?      $SPX $MACRO $BONDS  ,0,1,0,0,4,5,0.034760997,0.022997571,0.94224143,Neu,0.011763426,topdowncharts
+398,2017-10-05 16:56:04,"The various $VIX models have moved lower, but the VIX itself is lower yet:    $VXX $UVXY $XIV  ",1,1,0,0,7,10,0.116310954,0.47267863,0.41101038,Neg,-0.35636768,topdowncharts
+399,2017-10-05 16:49:04,US small caps earnings momentum looks to be rolling over...    $IWM $RUT  ,0,1,0,3,13,20,0.9251206,0.03941295,0.035466474,Pos,0.8857076,topdowncharts
+400,2017-10-05 09:24:03, Thank you sir,0,1,0,0,0,0,0.2825632,0.012897366,0.7045394,Neu,0.26966584,topdowncharts
+404,2017-10-04 09:09:02,"ISM manufacturing PMI pointing to booming growth, Markit to bumbling growth...    $MACRO $FED  ",0,1,0,0,19,20,0.85981154,0.014958407,0.12523001,Pos,0.84485316,topdowncharts
+407,2017-10-03 18:54:05,Anyone still interested in the TED Spread? It's stirring again...    ,0,1,0,4,17,24,0.16487968,0.022476664,0.8126436,Neu,0.14240302,topdowncharts
+409,2017-10-02 22:14:01,  The CANZeconomies would surely all do QE were their economies to come unstuck and rates go to the ZLB. but a drop in the water vs EZ/US/Jp,1,1,1,0,0,0,0.046920937,0.9338109,0.019268163,Neg,-0.88688993,topdowncharts
+411,2017-10-02 02:49:01,Typically when you see equity sentiment get this optimistic it lines up with $VIX troughs    ,0,1,0,1,13,19,0.115167186,0.6556771,0.22915573,Neg,-0.5405099,topdowncharts
+412,2017-10-02 02:48:02,Bond bears are getting aggressively bearish on fundamentals...     $BONDS $MACRO $TLT  ,0,1,0,1,5,13,0.051101822,0.8159595,0.13293862,Neg,-0.7648577,topdowncharts
+417,2017-09-29 04:55:00,"Weekly report:   Global trade, Global property prices, HY Credit, Emerging Market Risks, US Dollar tactical outlook",0,1,0,0,2,3,0.04200106,0.073714614,0.8842844,Neu,-0.031713553,topdowncharts
+418,2017-09-28 16:19:01,Both $DXY and $SPX tend to get their second wind about this time of the year:    ,0,1,0,1,8,8,0.117518306,0.11442186,0.7680598,Neu,0.0030964464,topdowncharts
+419,2017-09-28 09:50:03,ChartBrief no.154 - Seasonality update: What doesn't go down must go up...     $SPX $DXY  ,0,1,1,1,8,13,0.1815956,0.10745671,0.7109477,Neu,0.07413889,topdowncharts
+421,2017-09-27 02:10:02,Overly optimistic gold sentiment a key driver of the current pullback - what's next?      ,0,1,0,0,6,11,0.035111636,0.6483619,0.3165264,Neg,-0.61325026,topdowncharts
+422,2017-09-27 02:07:02,Gold breakout looks in trouble - here's a discussion of the key issues:    $GLD $GDX  ,0,1,0,1,17,10,0.030546812,0.28651872,0.6829345,Neu,-0.2559719,topdowncharts
+424,2017-09-26 20:32:00,Sending the (free) Weekly Brief out soon - be sure to sign on to the mailing list if you want a copy:  ,0,1,0,0,1,0,0.046381567,0.020894533,0.9327239,Neu,0.025487034,topdowncharts
+425,2017-09-26 18:53:05,"The latest SSICI shows North American institutional investors remain ""Reluctant Bulls""    $SPX  ",0,1,0,0,5,4,0.018851465,0.9157558,0.06539271,Neg,-0.89690435,topdowncharts
+427,2017-09-25 21:19:03, well it's PMI is booming territory... it's about as good as it gets,0,1,0,0,0,0,0.86589205,0.01670014,0.11740783,Pos,0.8491919,topdowncharts
+428,2017-09-25 19:02:02,A treat for my Spanish speaking followers - the guys at  will be translating some of our articles into Spanish  ,0,1,1,0,5,6,0.10368285,0.011625646,0.88469154,Neu,0.092057206,topdowncharts
+429,2017-09-25 17:33:05,Eurozone PMI: increasingly harder for the ECB to justify continuing with QE as economy booms    ,0,1,0,1,5,10,0.08268499,0.7379186,0.17939639,Neg,-0.6552336,topdowncharts
+430,2017-09-25 02:45:03,ChartBrief no.152 - Is the bond market wrong about the global economy?     $MACRO $BONDS  ,0,1,0,0,14,21,0.049485147,0.34884122,0.60167366,Neu,-0.29935607,topdowncharts
+432,2017-09-24 22:45:01,Weekly survey: bonds bearish (fundamentals) at a record high following QT announcement    ,0,1,0,1,2,2,0.28225774,0.687415,0.030327208,Neg,-0.40515727,topdowncharts
+433,2017-09-24 22:37:01,"Technical and Fundamental net-bullish sentiment down on the week, in a holding pattern...    ",0,1,0,0,5,9,0.011896392,0.96393603,0.024167502,Neg,-0.95203966,topdowncharts
+434,2017-09-23 11:21:04,Emerging market equity ETFs have seen near-vertical growth in AUM:    $VWO $EEM  ,1,1,0,1,16,21,0.9468766,0.013906508,0.039216917,Pos,0.9329701,topdowncharts
+435,2017-09-23 11:20:04,ChartBrief no.151 - These 2 incredible ETF AUM charts show what's at stake with QT1...     ,0,1,0,0,3,6,0.064324185,0.030422201,0.90525365,Neu,0.033901982,topdowncharts
+437,2017-09-21 18:03:02,What's going on with global monetary policy?    $MACRO $FED $ECB  ,0,1,0,0,1,4,0.03245543,0.17759533,0.7899493,Neu,-0.1451399,topdowncharts
+438,2017-09-21 06:35:00,Speculators are extremely bearish on US small caps... Contrarian signal or warning sign?  $RUT $IWM  ,0,1,0,5,24,31,0.020641627,0.89391506,0.085443296,Neg,-0.87327343,topdowncharts
+439,2017-09-20 19:58:04,There is a chance that the medium term impact of passiveQT on bond yields is lower...    $TNX  ,0,1,0,0,21,12,0.6469277,0.2582545,0.0948179,Pos,0.38867322,topdowncharts
+441,2017-09-20 19:53:04,ChartBrief no.150 - Passive Quantitative Tightening       $MACRO $FED $TLT  ,0,1,0,0,2,3,0.09466687,0.027240388,0.87809277,Neu,0.06742648,topdowncharts
+442,2017-09-20 18:22:01, Thanks! I have to admit I enjoyed putting that one together,1,1,0,0,0,0,0.6589343,0.015339143,0.3257266,Pos,0.64359516,topdowncharts
+443,2017-09-20 10:16:05,Probing the deep horizons of S&P500 volatility...     $SPX $VIX  ,0,1,0,0,6,13,0.09035837,0.01651607,0.8931255,Neu,0.0738423,topdowncharts
+445,2017-09-20 00:35:05,Sending out the Weekly Brief email today - get your name on the list if you want to receive a copy:  ,0,1,0,0,1,1,0.022787958,0.04275068,0.93446136,Neu,-0.01996272,topdowncharts
+446,2017-09-19 23:03:04,ICYMI: This chart is kind of a big deal....  ,0,1,0,0,2,6,0.06283253,0.051482506,0.8856849,Neu,0.011350021,topdowncharts
+447,2017-09-19 22:54:03,What's going on with emerging vs developed economy monetary policy?     $MACRO $EEM $VWO  ,1,1,0,0,8,16,0.033386733,0.2158326,0.75078064,Neu,-0.18244587,topdowncharts
+450,2017-09-19 05:32:05,Key Global $MACRO Risk = whether China's property market goes into a slowdown or downturn:    ,0,1,0,1,19,27,0.016491985,0.8230096,0.16049841,Neg,-0.8065176,topdowncharts
+451,2017-09-19 05:30:05,ChartBrief no.148 - Chinese property price boom has topped out...     $MACRO $FXI $ASHR  ,1,1,0,0,3,9,0.7375876,0.038558893,0.22385345,Pos,0.6990287,topdowncharts
+452,2017-09-18 00:50:00,Sentiment on bond fundamentals getting more bearish - a bullish sign for equities?   $MACRO  ,0,1,0,0,5,8,0.38644677,0.46840766,0.14514554,Neg,-0.08196089,topdowncharts
+453,2017-09-18 00:48:01,Bond and equity sentiment from the surveys - moving consistently: Risk On...     $SPX $TNX  ,0,1,0,1,7,6,0.65984,0.065621674,0.27453834,Pos,0.5942183,topdowncharts
+455,2017-09-17 20:12:05,Will rising global consumer optimism show up in higher PMIs?     $MACRO  ,0,1,1,1,7,6,0.66161555,0.03359059,0.30479383,Pos,0.62802494,topdowncharts
+456,2017-09-17 20:11:03,ChartBrief no.147 - Global consumer sentiment rises as global equities hit new highs    ,1,1,0,1,13,8,0.91152996,0.05939784,0.029072173,Pos,0.85213214,topdowncharts
+460,2017-09-14 22:10:00,Is Technical Analysis BS?   ,0,1,0,2,7,16,0.0390356,0.05829123,0.9026732,Neu,-0.01925563,topdowncharts
+461,2017-09-14 17:20:03,Here's your crowded trade: long treasuries  ,0,1,0,0,2,4,0.03274163,0.047682602,0.91957575,Neu,-0.014940973,topdowncharts
+463,2017-09-13 20:40:02,Bond market volatility is looking very complacent ahead of the FOMC meeting next week...    ,0,1,0,0,12,16,0.16647835,0.18054202,0.6529796,Neu,-0.014063671,topdowncharts
+468,2017-09-13 03:52:04,About to send out the free WeeklyBrief -- the chart of the week in this one is a doozy!   ,0,1,0,0,2,3,0.025560636,0.16599329,0.8084461,Neu,-0.14043266,topdowncharts
+472,2017-09-12 22:12:00, Here you go  ,0,1,0,1,0,0,0.06238356,0.034113064,0.9035034,Neu,0.028270494,topdowncharts
+474,2017-09-12 20:09:02,"Bitcoin a crowded trade? 1/10 institutional, 1/3 individual have an allocation...   $BTC.X  ",0,1,0,0,0,3,0.085951805,0.014935764,0.89911246,Neu,0.07101604,topdowncharts
+480,2017-09-10 23:33:01,Notice how overall sentiment trend has moved similarly for bonds and stocks:    $MACRO $BONDS  ,1,1,0,0,1,3,0.24196774,0.0908181,0.66721416,Neu,0.15114963,topdowncharts
+481,2017-09-10 23:32:00,"Fundamentals sentiment holding up so far, technicals all over the place:    $SPX $SPYG  ",1,1,0,0,1,2,0.76112974,0.050390046,0.18848018,Pos,0.7107397,topdowncharts
+482,2017-09-10 23:31:00,Seems like it's taking smaller moves in price to drive bigger shifts in sentiment lately...    ,0,1,0,0,0,5,0.1298883,0.51352507,0.35658658,Neg,-0.38363677,topdowncharts
+483,2017-09-09 19:23:00,Here's the thing about rising PPI inflation in China...    $MACRO $EEM $VWO  ,0,1,0,0,1,7,0.13240644,0.5913831,0.27621058,Neg,-0.45897666,topdowncharts
+488,2017-09-09 04:26:01,"As a reminder - we also put updates, and charts + comments on the Topdown Charts LinkedIn page:   be sure to follow :)",1,1,0,0,2,3,0.03495735,0.028098973,0.9369436,Neu,0.006858377,topdowncharts
+489,2017-09-08 20:39:03,"GlobalEquities volatility has bottomed, but the bottoming process can take some time    $VIX  ",1,1,1,0,10,8,0.09613888,0.2431909,0.66067016,Neu,-0.14705202,topdowncharts
+490,2017-09-08 20:37:04,ChartBrief no.144 - Global policy uncertainty peaks and volatility troughs     $ACWI $VIX  ,0,1,0,0,3,2,0.0140187,0.9461803,0.0398011,Neg,-0.93216157,topdowncharts
+494,2017-09-08 08:08:00,$VIX $VXX is the VIX undervalued? maybe  ,1,1,0,1,0,0,0.11666391,0.05706073,0.8262754,Neu,0.05960318,topdowncharts
+495,2017-09-08 08:07:04,chart 2 - breadth don't just a stockmarket thing  ,0,1,0,0,0,1,0.040368654,0.0319794,0.92765194,Neu,0.008389253,topdowncharts
+497,2017-09-06 20:13:00,The CANZeconomies face a common vulnerability...    $EWC $EWA $ENZL  ,0,1,0,0,1,10,0.05108125,0.51384985,0.4350689,Neg,-0.4627686,topdowncharts
+498,2017-09-06 20:05:03,ChartBrief no.143 - Canada hikes again - what does it mean for the CANZeconomies ?     ,0,1,0,2,4,6,0.10887094,0.118644044,0.772485,Neu,-0.009773105,topdowncharts
+499,2017-09-06 19:41:01, don't leave me hanging...,0,1,0,1,0,0,0.08245861,0.10694068,0.81060064,Neu,-0.024482071,topdowncharts
+500,2017-09-06 18:28:00,Global equities vs median profit margin across 40 countries:    ,0,1,0,0,6,7,0.88673735,0.044527493,0.06873508,Pos,0.8422099,topdowncharts
+510,2017-09-04 03:50:02,US GDP growth 2% or 4%? Depends if you ask ISM or Markit...    $MACRO $FED  ,0,1,0,3,22,25,0.054183584,0.018090822,0.9277256,Neu,0.036092762,topdowncharts
+513,2017-09-03 20:14:05,Fundamentals net-bullish sentiment has rebounded to a YTD high:    $MACRO $SPX  ,1,1,0,0,4,3,0.94990915,0.03099291,0.019097902,Pos,0.9189162,topdowncharts
+518,2017-08-31 04:52:03,"Copper is running ahead of the combined China PMI --  so which one is ""right""?     ",0,1,0,2,14,26,0.04679565,0.04848099,0.9047234,Neu,-0.00168534,topdowncharts
+524,2017-08-30 00:20:00,VIDEO: Is a QT-Tantrum on the way for bond yields?        $MACRO $BONDS $FED,0,1,0,0,2,0,0.07924303,0.081305526,0.83945143,Neu,-0.0020624995,topdowncharts
+525,2017-08-29 20:07:05,"Inflation has been MIA in recent months, but that could quickly change...    $FED $TLT $IEF  ",1,1,1,0,6,11,0.1617526,0.104808435,0.7334389,Neu,0.05694416,topdowncharts
+528,2017-08-28 00:51:01,Big divergence has opened up between the $VIX and equity sentiment...   $VXX $SIV $UVXY  ,1,1,0,0,14,13,0.24865751,0.15095976,0.60038275,Neu,0.09769775,topdowncharts
+532,2017-08-24 18:17:01,Like clockwork the $VIX is picking up - as it historically tends to around this time of year    ,0,1,0,2,15,12,0.30314,0.019686965,0.677173,Neu,0.28345305,topdowncharts
+534,2017-08-24 03:40:00, in certain situations $ can act as a safe haven.... or at least head in the opposite direction of various other assets if sharply moving,1,1,1,0,0,1,0.08187613,0.021567382,0.89655656,Neu,0.060308747,topdowncharts
+535,2017-08-23 20:21:03,Europe is in the driving seat of global bond markets as its mfg PMI races ahead:    $TLT $IEF  ,0,1,0,0,4,7,0.5758536,0.017051896,0.4070945,Pos,0.5588017,topdowncharts
+537,2017-08-23 04:32:02,Going to be sending out the Weekly Brief to those on the mail list shortly -- be sure to sign on if interested:  ,0,1,0,0,1,2,0.034845732,0.023107814,0.94204646,Neu,0.0117379185,topdowncharts
+538,2017-08-23 03:08:04," haha yeah, recorded it around sun-up, various birds singing good morning, not sure if kiwis tho, too far from the bush here",1,1,0,0,0,0,0.06209239,0.025893245,0.91201437,Neu,0.036199145,topdowncharts
+540,2017-08-23 02:29:04,US Dollar 200dma Breadth looking oversold:    $UUP $DXY  ,0,1,0,1,11,13,0.05778176,0.8944184,0.047799844,Neg,-0.83663666,topdowncharts
+544,2017-08-22 10:42:03,Remember the taper tantrum? Conditions are set for a possible QT-Tantrum   $MACRO $FED $BONDS  ,1,1,0,0,1,8,0.07717057,0.057199143,0.86563027,Neu,0.01997143,topdowncharts
+547,2017-08-22 03:05:04,"ANNOUNCEMENT: The Monthly Chartbook - as part of the official launch, the August edition is up as a free download:  ",0,1,0,1,11,23,0.035680834,0.015821416,0.9484978,Neu,0.019859418,topdowncharts
+550,2017-08-22 02:25:01," Interesting, thanks, gives me a few ideas....",0,1,0,1,0,1,0.15344475,0.017656088,0.82889915,Neu,0.13578866,topdowncharts
+551,2017-08-21 23:15:03," Also as a New Zealander, ouch.  J/k - though it does matter for NZ'rs as tax system encourages home bias, and the mkt is indeed overvalued",1,1,0,0,0,0,0.4278658,0.044777613,0.52735656,Neu,0.3830882,topdowncharts
+552,2017-08-21 23:14:04, The universe for that is all DM and EM countries - and yes there is a long tail after the US in terms of market cap.,0,1,0,1,0,0,0.17887846,0.015855338,0.8052662,Neu,0.16302311,topdowncharts
+553,2017-08-21 23:12:05, it's a growth stock ;-),0,1,0,0,0,1,0.10721206,0.011989639,0.88079834,Neu,0.09522242,topdowncharts
+557,2017-08-21 05:29:03,US Dollar speculative futures positioning: indicative of a bull market correction?   $DXY $UUP  ,0,1,0,0,19,23,0.03364376,0.7909112,0.17544508,Neg,-0.7572674,topdowncharts
+558,2017-08-21 05:19:05,  indeed - seasonality is only one of many factors... arguably would have been overwhelmed by other signals!,1,1,1,1,0,1,0.05698523,0.33630607,0.60670877,Neu,-0.27932084,topdowncharts
+559,2017-08-20 23:54:03,Move in bond (more bullish) and equity (more bearish) sentiment is consistent...   $BONDS $SPX  ,0,1,0,0,2,9,0.6076746,0.14634424,0.24598119,Pos,0.46133035,topdowncharts
+560,2017-08-20 23:53:04,Reaction in sentiment and $VIX shows an element of fear moving into the market:   $VXX $UVXY  ,0,1,0,0,13,11,0.14736003,0.09724259,0.7553974,Neu,0.05011744,topdowncharts
+561,2017-08-20 23:53:00,"Equity sentiment survey: Fundamentals sentiment holding up, Technicals plunging   $SPX $SPY  ",1,1,0,0,4,11,0.06495455,0.9166999,0.01834557,Neg,-0.85174537,topdowncharts
+562,2017-08-19 19:16:04,Fed loan officer survey points to a rebound in loan growth - believe it or not?   $FED $MACRO  ,0,1,0,0,11,16,0.9468468,0.021901105,0.03125212,Pos,0.92494565,topdowncharts
+563,2017-08-19 04:38:00,Take Notice: these measures of volatility have hit an extreme...   $SPX $VIX  ,1,1,0,1,18,22,0.09703775,0.5648874,0.3380748,Neg,-0.46784967,topdowncharts
+566,2017-08-18 05:16:01,If you like us on Twitter then you should follow us on LinkedIn:  ,0,1,1,0,2,0,0.053143516,0.019255968,0.92760056,Neu,0.03388755,topdowncharts
+569,2017-08-17 19:00:01,Credit conditions have improved significantly for the growth engine of the US economy:    ,1,1,0,0,6,10,0.95680404,0.020158973,0.023036985,Pos,0.9366451,topdowncharts
+570,2017-08-17 10:12:05,"VolatilityIsLow it's becoming a cliché, but here's the view for commodities   $VIX $OVX $GVZ  ",0,1,0,0,9,10,0.027888304,0.0941613,0.87795043,Neu,-0.066273,topdowncharts
+571,2017-08-17 10:08:04, yeah the OECD leading indicators are supposed to get at the cycle and identify peaks/troughs,1,1,0,0,0,1,0.05878163,0.060600597,0.88061774,Neu,-0.0018189661,topdowncharts
+572,2017-08-17 10:06:05,ChartBrief no.133 - Commodities a little too quiet...     $DBC $GSG $DJP  ,0,1,0,0,8,11,0.059786297,0.05876125,0.8814524,Neu,0.0010250472,topdowncharts
+575,2017-08-17 05:49:04, ... they get averaged out - because seasoanlity is just an average.,1,1,0,0,0,0,0.039228257,0.19285706,0.7679147,Neu,-0.1536288,topdowncharts
+576,2017-08-17 05:47:04, This includes only broad EM ETF assets e.g. $EEM $VWO etc,0,1,0,0,0,0,0.024712266,0.02207959,0.95320815,Neu,0.0026326757,topdowncharts
+577,2017-08-16 21:11:03,The rolling over of this Diffusion Index gives some cause for caution on GlobalEquities      ,0,1,0,1,8,10,0.16227074,0.034640327,0.80308896,Neu,0.12763041,topdowncharts
+578,2017-08-16 21:09:03,ChartBrief no.132 - OECD Leading Indicators: Good or Bad?     $MACRO $ACWI  ,0,1,0,1,3,5,0.16810492,0.09239042,0.73950464,Neu,0.0757145,topdowncharts
+580,2017-08-16 10:41:03,"Maybe it's just a coincidence, but the $VIX spike last week coincided with a seasonal upturn    ",1,1,0,1,14,15,0.15036477,0.5651767,0.28445858,Neg,-0.41481197,topdowncharts
+581,2017-08-16 10:40:04,Here's how the S&P500 is tracking against its seasonal pattern...    $SPX $SPY  ,0,1,0,1,24,23,0.13813643,0.10032756,0.76153594,Neu,0.037808873,topdowncharts
+582,2017-08-16 00:32:04,Will be putting the weekly digest out later today -- click through to sign up if you're not already:  ,0,1,1,0,2,0,0.02489924,0.039959066,0.9351417,Neu,-0.015059825,topdowncharts
+583,2017-08-15 23:38:04,Emerging Market Equity ETF assets under management: &gt;doubled over the past year   $EEM $VWO  ,1,1,0,0,10,9,0.94352454,0.022603506,0.033871986,Pos,0.920921,topdowncharts
+586,2017-08-15 20:18:00,China Total Social Finance growth has been accelerating on a rolling 12-month basis:   $MACRO  ,1,1,0,0,3,5,0.9142059,0.012519414,0.073274665,Pos,0.9016865,topdowncharts
+589,2017-08-15 10:56:03,The South Korean $VIX is likely to remain elevated given the apparent shift in risks...   $EWY  ,1,1,0,2,3,7,0.8839901,0.059690904,0.056318935,Pos,0.8242992,topdowncharts
+593,2017-08-14 20:16:03,China's budget deficit remains around historical lows - where to from here?   $SSEC $MACRO  ,0,1,0,0,8,13,0.041273855,0.6465345,0.31219164,Neg,-0.60526067,topdowncharts
+596,2017-08-14 11:00:05,State driven fixed asset investment is tapering off in China - what's the context?    $MACRO  ,1,1,0,0,11,9,0.035159294,0.44463542,0.52020526,Neu,-0.40947613,topdowncharts
+598,2017-08-14 03:54:04,Fundamentals sentiment seems to be turning... something to keep an eye on:    $MACRO $SPX  ,0,1,0,0,10,6,0.12215874,0.05940635,0.81843495,Neu,0.062752396,topdowncharts
+600,2017-08-14 03:14:04,Weekly Sentiment Survey - this time $VIX has spiked consistent with the reaction in surveyed sentiment...  ,1,1,0,0,8,9,0.9427241,0.031749222,0.02552666,Pos,0.91097486,topdowncharts
+601,2017-08-12 19:46:05,"NOTE: we also put out a weekly brief - it includes the most popular blog posts and a ""Chart of the Week"" -- see:  ",1,1,0,0,1,2,0.029153647,0.02751943,0.9433269,Neu,0.0016342178,topdowncharts
+603,2017-08-12 01:10:03,"  the red line is credit standards, when the line moves down banks are tightening up. there's a bit of explain in the article link...",0,1,0,1,0,1,0.06350377,0.2723326,0.66416365,Neu,-0.20882884,topdowncharts
+604,2017-08-11 20:59:02,"With wobbles in global consumer sentiment, maybe the market was just looking for an excuse    ",1,1,0,0,8,5,0.05909813,0.57669103,0.36421084,Neg,-0.5175929,topdowncharts
+606,2017-08-11 20:24:01,Is This the Best Bear-Market Warning Indicator?     $SPX $SPY  ,0,1,0,1,11,21,0.094479084,0.031722423,0.8737985,Neu,0.06275666,topdowncharts
+609,2017-08-10 04:57:00, yep - will be doing another piece on that next week,0,1,1,0,0,0,0.049977668,0.0179427,0.9320797,Neu,0.032034967,topdowncharts
+610,2017-08-09 23:12:00, heh - it seems just when a frontier market starts getting good it will get bumped up to EM,1,1,1,1,0,0,0.10491482,0.02314856,0.8719367,Neu,0.08176626,topdowncharts
+611,2017-08-09 20:23:00,Property prices are rising in the world's major economies -  that's important:   $MACRO  ,0,1,0,2,9,18,0.37973905,0.019344889,0.6009161,Neu,0.36039415,topdowncharts
+612,2017-08-09 20:22:02,Here's the rolling 10-year price change for $SPX and Gold   ChartCritic  ,0,1,0,0,8,13,0.034543652,0.03409381,0.9313625,Neu,0.0004498437,topdowncharts
+613,2017-08-09 18:43:05," I'll have a look, frontier is harder as the data is typically poorer quality, the composition changes so often too, but will see...",0,1,1,1,0,1,0.047695212,0.105947144,0.84635764,Neu,-0.058251932,topdowncharts
+614,2017-08-09 10:23:05,"That same gold vs S&P500 chart, but starting in 1990 instead...    $SPX $SPY $GLD $GC_F  ",0,1,0,3,25,19,0.102572724,0.025398642,0.87202865,Neu,0.07717408,topdowncharts
+618,2017-08-08 23:11:02,VIDEO: Why look at global property prices?  ,0,1,0,0,2,2,0.026933659,0.14966793,0.8233985,Neu,-0.12273428,topdowncharts
+619,2017-08-08 17:32:00, A big driver for the smoothing in EM is increasing leverage across the period (talked about this in the report...),1,1,0,1,0,1,0.5121945,0.016464222,0.47134128,Pos,0.49573028,topdowncharts
+620,2017-08-08 17:29:04, I think it's more surprising that the Yale survey found that almost 0% expected stocks to be down,1,1,0,0,0,0,0.1803499,0.12769161,0.6919584,Neu,0.05265829,topdowncharts
+622,2017-08-07 10:49:05,"ChartBrief no.127 - India cuts interest rates, what's next?     $INDA $EPI $MACRO  ",0,1,0,0,8,1,0.070299946,0.1364207,0.79327935,Neu,-0.06612075,topdowncharts
+623,2017-08-07 04:49:03,Valuation confidence is perhaps the key to reconciling investor surveys:   ChartCritic $SPX  ,0,1,0,1,2,6,0.1483528,0.016443674,0.8352035,Neu,0.13190913,topdowncharts
+624,2017-08-07 04:48:01,We ran our own survey and it showed only about half of investors expect higher prices...    ,1,1,0,1,13,20,0.31271052,0.05166287,0.6356266,Neu,0.26104766,topdowncharts
+625,2017-08-07 04:43:01,ChartCritic no.4 - Is this weird? 100% of investors expect higher stock prices...   $SPX $SPY  ,0,1,0,0,7,7,0.5579536,0.15642078,0.28562558,Pos,0.40153283,topdowncharts
+626,2017-08-07 04:38:03,"More macro than technicals, but hey we're multi-factor... why limit your toolbox? Anyway be sure to tune in.  ",0,1,0,0,1,1,0.05752938,0.024425404,0.9180452,Neu,0.033103973,topdowncharts
+627,2017-08-04 20:55:02,Consumer and small business surveys confirm strength seen in the US jobs market   $FED $MACRO  ,1,1,0,0,3,6,0.9156972,0.061911356,0.022391384,Pos,0.8537859,topdowncharts
+628,2017-08-04 20:50:04,ChartBrief no.126 - Tight labor market makes policy normalization a done-deal   $BONDS $MACRO  ,0,1,0,1,6,4,0.09519614,0.288141,0.6166628,Neu,-0.19294487,topdowncharts
+632,2017-08-02 10:21:00,NYSE margin debt acceleration is yet to show any of the important signals...    $SPX $SPY  ,0,1,0,1,9,12,0.33257583,0.02740331,0.64002085,Neu,0.3051725,topdowncharts
+635,2017-07-31 19:57:01,Check out the upside case for inflation in the Eurozone and what it means for global $BONDS    ,0,1,0,0,4,6,0.079337016,0.019851957,0.900811,Neu,0.05948506,topdowncharts
+638,2017-07-31 02:36:01,"China July official manufacturing PMI down to 51.4 (51.5 exp, 51.7 prev), but breadth up:    ",0,1,0,0,16,8,0.015425473,0.95982397,0.02475056,Neg,-0.9443985,topdowncharts
+640,2017-07-30 23:11:03,Gap between sentiment and the $VIX has opened up again - keep an eye on this:   $VXX $XIV  ,1,1,0,1,6,12,0.28081828,0.03915639,0.6800254,Neu,0.24166189,topdowncharts
+643,2017-07-30 10:11:01,"Where the ""neutrals"" go next could have a huge bearing on where stocks go next...    $SPX $SPY  ",0,1,1,1,14,11,0.03730505,0.05541335,0.90728164,Neu,-0.0181083,topdowncharts
+644,2017-07-30 10:07:01,ChartBrief no.121 - Euphoriameter moves into a new phase    $SPX $SPY  ,0,1,0,0,18,18,0.28121537,0.01231983,0.70646477,Neu,0.26889554,topdowncharts
+647,2017-07-29 19:25:04,"  I would too, but unfortunately that data series is only available to that period",0,1,1,0,0,1,0.02264066,0.09942186,0.87793744,Neu,-0.0767812,topdowncharts
+648,2017-07-29 11:01:03,Credit Managers are Zig-Zagging...    $MACRO $XLF $KBE  ,0,1,0,0,1,4,0.03029476,0.8318387,0.13786651,Neg,-0.80154395,topdowncharts
+649,2017-07-29 11:00:04,The NACM CMI data appear consistent with ongoing demand for credit...    $XLF $KBE  ,0,1,0,0,1,5,0.8158055,0.023564793,0.16062964,Pos,0.7922407,topdowncharts
+654,2017-07-27 11:27:04,Cross asset implied volatility getting low like $VIX    ,1,1,0,0,11,9,0.2619055,0.25953418,0.4785603,Neu,0.0023713112,topdowncharts
+655,2017-07-27 11:22:03,ChartBrief no.118 - Volatility bets hanging on...    $VXX $VIXY $VIX  ,0,1,0,0,3,5,0.074546345,0.033290625,0.892163,Neu,0.04125572,topdowncharts
+662,2017-07-26 02:42:03,VIDEO: Emerging markets vs Developed markets    $EEM $VWO $ACWI,0,1,0,0,3,8,0.1357404,0.015861647,0.848398,Neu,0.119878754,topdowncharts
+665,2017-07-25 10:44:05,Surge in $EURUSD has left speculative futures positioning stretched to the long side...    ,1,1,0,1,6,12,0.02368037,0.9395143,0.036805425,Neg,-0.9158339,topdowncharts
+667,2017-07-25 02:24:03,"In case you literally missed it, EmergingMarkets became the dominant share of world GDP:    ",1,1,0,1,28,30,0.12040728,0.020356867,0.8592359,Neu,0.10005042,topdowncharts
+668,2017-07-25 02:20:05,EM equities account for about 15% of global equity market cap vs over 55% of world GDP:    ,0,1,0,2,30,38,0.0659205,0.015387731,0.9186918,Neu,0.050532773,topdowncharts
+669,2017-07-24 23:40:02,A friendly reminder that we're also on LinkedIn:    -- more charts and comments can be found on our company page there,1,1,1,0,3,1,0.041990846,0.017034853,0.9409743,Neu,0.024955994,topdowncharts
+670,2017-07-24 19:36:01,Acceleration matters for the manufacturing PMIs vs bond yields - follow through critical:    ,0,1,0,0,9,19,0.028900053,0.02615567,0.9449443,Neu,0.002744384,topdowncharts
+671,2017-07-24 19:35:01,Global flash manufacturing PMI ticks up in July:    $MACRO $BONDS  ,0,1,0,0,12,19,0.9205191,0.03363067,0.045850232,Pos,0.88688844,topdowncharts
+672,2017-07-24 18:59:01,Here's how equity and bond sentiment have been tracking - notice the synchronized turn...  ,1,1,0,0,2,6,0.08230385,0.054162864,0.8635333,Neu,0.028140988,topdowncharts
+673,2017-07-24 18:40:05,Whether it's net-bulls in the survey or the $VIX - investor sentiment is looking complacent...  ,0,1,0,0,9,8,0.24387655,0.20647898,0.5496444,Neu,0.037397563,topdowncharts
+675,2017-07-24 17:52:02,  thank you sir,0,1,0,0,0,0,0.2825632,0.012897366,0.7045394,Neu,0.26966584,topdowncharts
+676,2017-07-24 11:35:00,Checkout the 0.50% threshold for $SPX - have to go back to the 60's to find lower readings    ,0,1,0,0,8,16,0.05499468,0.09793475,0.84707063,Neu,-0.042940073,topdowncharts
+677,2017-07-24 11:33:02,ChartBrief no.113 - This measure of US equity volatility is at a 22-year low    $SPX $VIX  ,0,1,0,0,8,8,0.008904231,0.9481606,0.042935178,Neg,-0.93925637,topdowncharts
+679,2017-07-20 06:46:04,Intriguing evolution of the $SPX Information Technology sector through time:    $XLK $VGT  ,0,1,0,0,12,13,0.11147396,0.008756719,0.87976927,Neu,0.10271724,topdowncharts
+681,2017-07-19 18:48:01,ChartBrief no.112 - The stockmarket season is changing    $SPX $SPY  ,0,1,0,0,3,1,0.096761905,0.19754183,0.7056963,Neu,-0.10077993,topdowncharts
+683,2017-07-19 18:21:02,  thanks - that's earnings weight... or earnings share - they had negative earnings then,1,1,0,0,0,0,0.0096914545,0.9578628,0.032445792,Neg,-0.9481713,topdowncharts
+684,2017-07-19 18:20:04, yes I explain in the article - about to post the second chart up which has them on one axis,0,1,0,0,0,0,0.058367684,0.020026004,0.9216063,Neu,0.03834168,topdowncharts
+685,2017-07-19 11:04:01,S&P500 YTD vs the historical seasonal pattern -- the seasons are changing...    $SPX $SPY  ,1,1,0,2,23,30,0.22672185,0.10737953,0.6658986,Neu,0.11934232,topdowncharts
+689,2017-07-19 02:16:00,Latest monthly Chartbook was sent to clients yesterday. Includes the key charts to watch & asset allocation positioning.  ,1,1,0,0,4,3,0.027067622,0.026519697,0.9464126,Neu,0.000547925,topdowncharts
+691,2017-07-18 19:35:00,What has the BOJ achieved after buying almost half of all the Japanese government debt?    ,1,1,0,1,4,5,0.16914356,0.0131109385,0.81774557,Neu,0.15603262,topdowncharts
+693,2017-07-16 20:13:02,Inflation expectations remain below average: mean reversion = upside for bond yields?     ,0,1,0,0,8,11,0.048317555,0.6526548,0.29902765,Neg,-0.6043373,topdowncharts
+694,2017-07-16 20:08:04,ChartBrief no.110 - Global inflation trends    $MACRO $BONDS  ,0,1,0,0,6,10,0.056153037,0.07313292,0.87071407,Neu,-0.01697988,topdowncharts
+695,2017-07-15 19:24:01,Big swing in Gold futures positioning - becoming stretched to the downside...    $GLD $GC_F  ,1,1,0,1,33,47,0.20187238,0.7250165,0.073111124,Neg,-0.5231441,topdowncharts
+696,2017-07-15 19:23:03,ChartBrief no.109 - The big swings in commodity futures positioning     $JJG $DBA $DBC  ,0,1,0,0,5,11,0.27275643,0.42243734,0.30480623,Neg,-0.14968091,topdowncharts
+702,2017-07-14 06:20:01,Thanks to  for sharing the chart and  for the suggestion... ChartCritic    ,0,1,0,0,4,5,0.20159228,0.0091522485,0.78925544,Neu,0.19244003,topdowncharts
+703,2017-07-14 06:18:03,ChartCritic no.3 - Is this the most irrelevant chart you've ever seen?    $SPX $SPY,1,1,0,3,1,4,0.032239884,0.04798311,0.919777,Neu,-0.015743226,topdowncharts
+705,2017-07-13 23:34:02, the next crash might not actually be too bad if this new found QE tool is deployed quickly enough ;-),1,1,1,1,1,1,0.54732245,0.016126556,0.43655092,Pos,0.5311959,topdowncharts
+706,2017-07-13 23:32:04, Thanks - I've been thinking about doing something in this area... thanks for the encouragement! might be a good friday afternoon project,1,1,1,0,0,1,0.7438264,0.014189643,0.2419839,Pos,0.7296367,topdowncharts
+707,2017-07-13 11:03:03,Latest money supply growth numbers from China confirm our concerns about property...    ,0,1,0,1,18,23,0.40259597,0.37368083,0.22372317,Pos,0.028915137,topdowncharts
+708,2017-07-13 11:02:04,ChartBrief no.107 - China money growth monitor: credit spigots remain open    ,0,1,0,0,7,12,0.100164354,0.69435585,0.20547986,Neg,-0.5941915,topdowncharts
+709,2017-07-13 05:24:04,Just working on the weekly report - some good stuff in there this week. Make sure you're on for a trial subscription to check it out...,0,1,0,0,0,3,0.104467414,0.019903973,0.87562865,Neu,0.08456344,topdowncharts
+710,2017-07-13 05:22:04,ChartBrief 105 - The $VIX is at a Seasonal Turning Point  ,0,1,0,1,9,12,0.21456039,0.48086417,0.30457538,Neg,-0.26630378,topdowncharts
+712,2017-07-12 20:06:00,Bank of Canada joins the Fed on the journey to policy normalization as housing bubble grows    ,0,1,0,0,5,5,0.3389309,0.032985434,0.6280836,Neu,0.30594546,topdowncharts
+713,2017-07-12 20:05:00,Bank of Canada hikes rates +25bps to 0.75% --  what does that mean for the risk outlook:    ,0,1,0,0,0,1,0.076119244,0.1027433,0.8211374,Neu,-0.026624054,topdowncharts
+716,2017-07-12 18:42:03,"   but anyway, there it is",0,1,0,0,0,0,0.08876634,0.041090313,0.8701433,Neu,0.047676023,topdowncharts
+717,2017-07-12 18:42:02,   point of putting them on one axis is that the average level 1990-2016 is so much higher than the average YTD - you lose the signal/pattern,0,1,0,1,0,1,0.05078521,0.255934,0.69328076,Neu,-0.20514879,topdowncharts
+718,2017-07-12 18:41:00,  yeah the signal is a turn in this indicator (from bottom to buy or from top to sell),0,1,0,0,0,1,0.09761147,0.027603282,0.87478524,Neu,0.07000819,topdowncharts
+720,2017-07-12 10:18:04,Speculative futures positioning in the $VIX remains significantly short...    ,0,1,0,0,7,9,0.018896101,0.95098865,0.030115327,Neg,-0.93209255,topdowncharts
+721,2017-07-12 06:27:05,ChartBrief no.105 - The $VIX is at a Seasonal Turning Point      ,0,1,0,0,13,17,0.16507669,0.3337944,0.501129,Neu,-0.1687177,topdowncharts
+722,2017-07-12 06:27:01,Here's how the $VIX is trading vs its historical seasonal pattern...    $VXX $TVIX $UVXY  ,0,1,0,2,33,28,0.06347351,0.042511806,0.8940147,Neu,0.020961702,topdowncharts
+723,2017-07-12 02:49:00," ex-China, EM generally has a faster population growth than DM (some exceptions)",0,1,0,0,0,1,0.19683123,0.019157706,0.78401107,Neu,0.17767352,topdowncharts
+724,2017-07-12 02:47:03, Chinese PPI yoy has definitely peaked for now,1,1,0,0,0,0,0.46809602,0.5075749,0.02432915,Neg,-0.039478898,topdowncharts
+726,2017-07-11 20:18:05,Tightening labor market means $FED monetary policy normalization continues:    ,0,1,0,0,6,18,0.7984002,0.08096793,0.12063186,Pos,0.71743226,topdowncharts
+727,2017-07-11 20:16:03,ChartBrief no.104 - Optimism running high on the US economy    $MACRO $FED  ,0,1,0,0,4,7,0.85838133,0.068814434,0.07280421,Pos,0.7895669,topdowncharts
+728,2017-07-11 10:50:00,"Latest OECD CLIs show the global economic upturn is intact, albeit momentum is easing...    ",0,1,0,1,4,8,0.7469206,0.22508362,0.027995823,Pos,0.521837,topdowncharts
+730,2017-07-10 19:34:00,Positive PPI inflation is generally a positive signal for emerging market equities   $EEM $VWO  ,0,1,0,1,7,12,0.8961068,0.014619176,0.08927398,Pos,0.8814876,topdowncharts
+732,2017-07-10 18:15:04,"Thanks  for the mention in their latest ""best of"" note:   -- well worth signing up to their updates",0,1,0,0,1,1,0.49593478,0.014639406,0.48942572,Pos,0.48129538,topdowncharts
+733,2017-07-10 10:44:04,   Possibly. Anyway my original point with this chart was that the market cap % stands in contrast vs GDP %  ,1,1,0,0,0,0,0.17028882,0.0965277,0.7331835,Neu,0.07376111,topdowncharts
+735,2017-07-10 09:57:04,"  Chart is to June 2017, monthly.",0,1,0,1,0,1,0.018592753,0.06486896,0.91653824,Neu,-0.046276204,topdowncharts
+736,2017-07-10 00:22:01,Equity Fundamentals Sentiment is at its strongest level YTD...    $SPX $SPY  ,0,1,0,0,8,7,0.8672445,0.09603884,0.03671665,Pos,0.77120566,topdowncharts
+738,2017-07-09 20:51:02,"   most have very scalable business models (fixed/semi-fixed cost base), some enjoy quasi-monopoly benefits, negligible capex requirements, etc",0,1,0,0,0,2,0.16174641,0.009445673,0.82880783,Neu,0.15230075,topdowncharts
+739,2017-07-09 20:49:01,ChartBrief no.100 - Emerging Markets vs Developed Markets      $EEM $VWO  ,0,1,0,0,14,12,0.43924168,0.024621306,0.53613704,Neu,0.41462037,topdowncharts
+740,2017-07-09 20:46:05,Emerging Markets have already become the dominant force in the global economy   $MACRO $STUDY  ,1,1,0,1,13,23,0.54656714,0.017680787,0.43575203,Pos,0.5288864,topdowncharts
+741,2017-07-08 20:38:02," Thanks, yeah if China's property market rolls over like our indicators suggest then yeah as night turns to day",0,1,0,0,0,0,0.36036795,0.017105747,0.6225263,Neu,0.3432622,topdowncharts
+742,2017-07-08 19:34:05,ChartBrief no.99 - Reflation Futures Positioning Resets    $MACRO $BONDS  ,0,1,0,0,2,9,0.01938983,0.9189786,0.06163167,Neg,-0.89958876,topdowncharts
+744,2017-07-08 18:34:05, nailed it - and offshore (at least from Fed) there is further pressure for interest rates to rise,1,1,0,0,0,0,0.45458344,0.23634675,0.3090699,Pos,0.21823668,topdowncharts
+745,2017-07-07 20:30:00,Perspective: taking a longer term view of copper it still looks like it's in an uptrend...    ,0,1,0,1,12,12,0.073319525,0.80167586,0.12500459,Neg,-0.72835636,topdowncharts
+747,2017-07-07 06:42:05,Market Cap weighting across $SPX sectors    ,0,1,0,1,17,20,0.4841242,0.08619598,0.42967984,Pos,0.39792824,topdowncharts
+748,2017-07-07 06:40:01,The gap between the larger and smaller sectors of the S&P500 is widening...   $SPX $SPY $STUDY  ,0,1,0,0,4,4,0.6223477,0.2900408,0.08761147,Pos,0.33230692,topdowncharts
+749,2017-07-07 04:52:02," Thanks, yeah well we'll have to keep watching the indicators...",0,1,1,0,0,0,0.1160864,0.061236862,0.8226768,Neu,0.05484954,topdowncharts
+750,2017-07-07 04:51:05, Thanks Michael - yes in many ways it's one of the key global variables...,0,1,0,0,0,0,0.19701323,0.014514951,0.78847176,Neu,0.18249828,topdowncharts
+751,2017-07-06 17:32:02," Thanks, will see what I can do - mean time, here's the flows indicator vs EM bond ETF price:  ",0,1,1,0,0,1,0.050148048,0.017890142,0.93196183,Neu,0.032257907,topdowncharts
+753,2017-07-06 17:30:01,"US HY Credit Spreads face a couple headwinds, yet the cycle is still supportive:    $HYG $JNK  ",0,1,0,2,5,14,0.39072233,0.57375413,0.035523627,Neg,-0.1830318,topdowncharts
+754,2017-07-06 10:54:03,   Yeah fair point. No doubt these things will get smoked in a crisis/crash - first thought is the $$ isn't material...  but I could be wrong.,1,1,1,0,0,0,0.05249377,0.44563264,0.50187355,Neu,-0.39313886,topdowncharts
+755,2017-07-06 07:02:00,China's property market is the main global engine for commodity demand -- the outlook:    ,0,1,0,0,10,10,0.050769787,0.01693739,0.9322929,Neu,0.033832397,topdowncharts
+756,2017-07-06 06:23:02," Thanks, definitely worth tracking as credit is a very important variable for China - I will have a look if there's any link vs propty prices",0,1,1,0,0,1,0.2142839,0.011784006,0.7739321,Neu,0.2024999,topdowncharts
+757,2017-07-06 02:56:04,China property price boom looks to be in the mature phase -- what's the next step?    ,0,1,0,1,6,6,0.05736664,0.01533433,0.92729896,Neu,0.04203231,topdowncharts
+760,2017-07-05 22:15:02,"   Thanks, great chart - are you concerned about a ""blow-up"" in short-VIX plays?",1,1,0,1,0,0,0.06437283,0.42998195,0.5056452,Neu,-0.3656091,topdowncharts
+761,2017-07-05 22:14:00,"ChartBrief no.96 The ""Euphoriameter"" Hits a Post-crisis High    $SPX $VIX $STUDY  ",0,1,0,0,15,14,0.7403281,0.04589777,0.2137741,Pos,0.6944303,topdowncharts
+762,2017-07-05 19:53:02,Here's the level of AUM in $VIX long and short ETFs   $VXX $XIV $UVXY $TVIX ChartCritic  ,0,1,0,0,10,9,0.033501368,0.022887433,0.94361115,Neu,0.010613935,topdowncharts
+764,2017-07-05 19:42:05,Latest ChartCritic blog looks at a chart by  shared by  which appeared in      ,1,1,0,1,2,3,0.043647587,0.029200435,0.927152,Neu,0.014447153,topdowncharts
+765,2017-07-05 03:30:03,"  Thanks, yes extraordinary moves - best guess is it's a classic whipsaw, macro picture is much different now vs mid-2016...",0,1,0,0,0,0,0.22348236,0.067489706,0.70902795,Neu,0.15599266,topdowncharts
+768,2017-07-04 22:53:05," but looking at China experience of MacPru, it's quite possible to just end up pushing the market over and actually precipitating finsys risk",0,1,0,1,0,0,0.034450937,0.5903545,0.37519458,Neg,-0.55590355,topdowncharts
+769,2017-07-04 22:52:05, here in NZ the RBNZ has put a procession of macro-prudential measures on to slow it down - it's VERY hard to get &gt;80% LVR lending,1,1,0,1,0,1,0.032616995,0.7656575,0.20172547,Neg,-0.7330405,topdowncharts
+770,2017-07-04 22:49:03,Watch out for the new ChartCritic series - we'll be calling out the best and worst in charts   -- got a submission?,1,1,1,0,0,2,0.08002888,0.024136316,0.8958348,Neu,0.05589256,topdowncharts
+773,2017-07-04 22:45:01," China is certainly A factor in Aus & NZ, but it's still only at the margin. domestic dynamics e.g. fascination with housing + low rates key",0,1,0,1,0,0,0.10556659,0.040722035,0.85371137,Neu,0.064844556,topdowncharts
+774,2017-07-04 19:52:04,US Treasuries - speculative positioning: The crowd has run from one extreme to the other    ,1,1,0,0,9,16,0.058759004,0.102679335,0.8385616,Neu,-0.04392033,topdowncharts
+776,2017-07-04 18:27:01, As noted in the article US valuations are neutral,1,1,0,0,0,0,0.029599696,0.041295968,0.9291043,Neu,-0.011696272,topdowncharts
+777,2017-07-04 10:53:05,  Here's the chart we added to the mix in the very first edition of the ChartCritic series:  ,1,1,0,0,6,8,0.035243683,0.0241994,0.94055694,Neu,0.0110442825,topdowncharts
+778,2017-07-04 10:49:04,Issue one of the ChartCritic blog series features a chart from  in an article on      ,0,1,0,1,12,15,0.021474712,0.040975504,0.9375498,Neu,-0.019500792,topdowncharts
+779,2017-07-04 06:39:00,The KOSPI $VIX is starting to launch... wonder if Kim Jong Un bought some options before the missile test!  ,1,1,0,0,4,4,0.09143161,0.023455886,0.8851125,Neu,0.06797572,topdowncharts
+780,2017-07-04 03:31:04,Crude Oil seasonality is about to switch from neutral to positive:    $USO $OIL $XLE  ,0,1,0,1,5,12,0.13526848,0.032650877,0.83208066,Neu,0.10261761,topdowncharts
+781,2017-07-04 03:24:05,"Crude Oil futures positioning: a reset has occurred, but is it enough?    $OIL $CL_F OOTT  ",1,1,0,0,7,6,0.048948884,0.33852667,0.61252445,Neu,-0.28957778,topdowncharts
+783,2017-07-03 20:00:05,Is Chimerica about to regain momentum?    ,0,1,0,0,6,8,0.19182341,0.023270248,0.7849063,Neu,0.16855316,topdowncharts
+786,2017-07-03 04:57:04,Sentiment Divergence 1: Bearish sentiment on bonds *and* equities - who's right?     ,0,1,0,0,1,5,0.065424435,0.13429888,0.80027664,Neu,-0.06887444,topdowncharts
+787,2017-07-03 04:55:03," Well I guess it's just like when the commodity-driven surge in PPI ""took everyone by surprise""",1,1,0,0,0,1,0.2582668,0.11050688,0.6312263,Neu,0.14775993,topdowncharts
+790,2017-07-02 19:45:04,The China Containerized Freight Index has been in an uptrend since the bottom in early 2016    ,1,1,0,0,22,26,0.010946428,0.96851605,0.020537594,Neg,-0.9575696,topdowncharts
+794,2017-06-27 23:52:01,Things that make you go (a)UMmmm....    ,0,1,0,3,15,25,0.03922652,0.155365,0.8054085,Neu,-0.11613849,topdowncharts
+796,2017-06-27 22:51:05,When will the $FED cause a market crash? Here's the charts and indicators you need to be monitoring:   $SPX $SPY,0,1,1,0,5,8,0.022656046,0.08246316,0.8948808,Neu,-0.059807114,topdowncharts
+797,2017-06-27 22:37:00,IronOre Price = Chinese Fixed Asset Investment (and there's a problem with that)   $AUDUSD  ,0,1,0,0,12,25,0.049129985,0.2587707,0.6920993,Neu,-0.20964071,topdowncharts
+798,2017-06-26 19:50:01,When looking at the impact of rate hikes on $SPX look at rate of change as well as level:    ,0,1,0,2,4,6,0.030159716,0.026902605,0.9429376,Neu,0.0032571107,topdowncharts
+799,2017-06-26 19:48:05,"How many Fed rate hikes does it take to change a lightbulb? er, I mean a market    $SPX $FED  ",0,1,0,1,6,11,0.04465805,0.029258478,0.9260834,Neu,0.0153995715,topdowncharts
+801,2017-06-26 00:44:00,VIDEO: Fed rate hikes vs the S&P500 -  when is enough enough?   $FED $SPX,0,1,0,0,2,1,0.07836808,0.03609791,0.88553405,Neu,0.042270172,topdowncharts
+804,2017-06-24 19:58:00, correct - well volatility compressions in gold appear to precede large moves...,0,1,0,0,1,1,0.15054852,0.17167692,0.6777746,Neu,-0.021128401,topdowncharts
+806,2017-06-24 18:41:05,Still seeing little reaction from crude oil implied volatility $OVX to recent price falls..    ,1,1,0,0,7,10,0.04360271,0.8676431,0.08875419,Neg,-0.8240404,topdowncharts
+809,2017-06-23 19:27:05,"Here's where the ""global flash manufacturing PMI"" is tracking through June    $MACRO $BONDS  ",0,1,0,2,7,7,0.040655907,0.041613474,0.91773057,Neu,-0.00095756724,topdowncharts
+810,2017-06-23 06:38:05,"Weekly Macro Themes:   China property, Chinese equities, US small caps, Breadth alerts, Governance risk premiums",0,1,0,0,3,2,0.027298806,0.042606544,0.9300946,Neu,-0.0153077375,topdowncharts
+812,2017-06-22 09:41:02,China Property Prices: higher interest rates = property downturn?    $MACRO $FXI $SSEC  ,0,1,0,0,10,12,0.13166246,0.3650494,0.50328815,Neu,-0.23338693,topdowncharts
+813,2017-06-22 03:14:03,We're also now on  -- see latest:    ,0,1,0,0,1,5,0.038304582,0.02585748,0.9358379,Neu,0.012447102,topdowncharts
+814,2017-06-21 19:46:05,Crude oil implied volatility has not yet spiked -  no contrarian buy signal here yet...    ,1,1,0,1,6,17,0.16388492,0.07441278,0.76170236,Neu,0.089472145,topdowncharts
+818,2017-06-20 17:59:05,The spread between the $FED funds rate and wage growth is still supportive for stocks   $SPX  ,0,1,0,1,9,12,0.89006907,0.01237416,0.09755685,Pos,0.8776949,topdowncharts
+819,2017-06-20 10:47:05," hmm, don't have reliable data back to then",0,1,0,1,0,1,0.035493862,0.099241026,0.86526513,Neu,-0.06374717,topdowncharts
+822,2017-06-19 20:03:03, this chart shows what would happen if they hit the cap each and every month,0,1,1,1,0,0,0.019178241,0.09332407,0.8874976,Neu,-0.07414583,topdowncharts
+824,2017-06-19 19:54:03,On a cyclical basis both EM and DM composite consumer sentiment readings looking better    ,0,1,0,0,1,3,0.63357633,0.102543645,0.26387995,Pos,0.5310327,topdowncharts
+827,2017-06-19 03:03:04,ChartBrief no.86  The rise of consumer sentiment:    ,0,1,0,0,10,10,0.07185347,0.037121028,0.89102554,Neu,0.03473244,topdowncharts
+829,2017-06-18 23:06:00,"  Yes. It's from the ICI stats, unfortunately there is no breakdown to country level in their data. I do have some ETF flow data on that tho",0,1,0,1,0,0,0.044151008,0.050838318,0.90501064,Neu,-0.0066873096,topdowncharts
+830,2017-06-17 18:11:05,Here's what QT will look like if all goes to the Fed's plans    $FED $BONDS $MACRO  ,0,1,1,1,5,9,0.044243973,0.016528774,0.9392273,Neu,0.027715199,topdowncharts
+831,2017-06-17 18:04:05,Emerging market mutual fund flows are becoming short-term euphoric:    $EEM $VWO  ,0,1,0,2,22,16,0.39326483,0.36695054,0.23978457,Pos,0.026314288,topdowncharts
+832,2017-06-16 05:28:03,"Weekly Macro Themes   Fed QT, Rates vs SPX, China rates and risks, Crude oil outlook, Emerging market equities",0,1,0,0,1,1,0.035406053,0.040597215,0.92399675,Neu,-0.005191162,topdowncharts
+834,2017-06-15 22:46:00,"What if I told you that policy uncertainty doesn't lead volatility, but the other way round?    ",1,1,0,2,13,14,0.036570877,0.1143338,0.8490953,Neu,-0.077762924,topdowncharts
+836,2017-06-15 06:45:05, Thanks - not a perma-bear on China.  Just as comfortable being bullish or bearish depending where we are in the cycle. Were bullish ~12m ago,0,1,0,1,0,1,0.1400736,0.031045042,0.8288814,Neu,0.109028555,topdowncharts
+837,2017-06-15 06:43:00, Yep. More influenced by commodities... and people getting it way wrong on forecasts  ,0,1,0,0,1,2,0.03139565,0.70041966,0.2681848,Neg,-0.669024,topdowncharts
+838,2017-06-15 06:33:00,China is in a sticky situation on monetary policy as underlying inflationary pressures are building.  $USDCNY $SSEC  ,0,1,0,0,3,10,0.018740548,0.9188306,0.062428832,Neg,-0.90009004,topdowncharts
+839,2017-06-15 00:24:01,"Today's +25bp rate hike places the Fed Funds rate +100bps off the low, (shadow rate &gt;650bps off the low):  ",1,1,0,0,10,13,0.10503186,0.21762182,0.67734635,Neu,-0.112589955,topdowncharts
+841,2017-06-14 23:28:00,ICYMI: Check out the PDF version of the weekly - edition no. 20 is being made available for free!  ,1,1,0,0,1,5,0.056827333,0.012938859,0.9302338,Neu,0.043888472,topdowncharts
+842,2017-06-13 19:43:00,"As the Fed looks set to hike rates, the US dollar index has just undergone a correction...    ",1,1,0,0,9,16,0.6316018,0.24853197,0.1198662,Pos,0.38306984,topdowncharts
+843,2017-06-13 19:41:02,"In shadow terms, it looks like the longest and largest $FED hiking cycle in recent history    ",0,1,0,1,10,15,0.053701587,0.06643043,0.8798679,Neu,-0.01272884,topdowncharts
+844,2017-06-13 19:16:02,"ChartBrief 84 - Know this chart, know the Fed    $FED $MACRO $BONDS  ",0,1,0,0,5,9,0.06404584,0.017403912,0.91855025,Neu,0.046641927,topdowncharts
+845,2017-06-13 03:01:02,Stretched valuations make allocation decisions harder: Researcher - Good Returns  ,0,1,0,0,1,3,0.03209911,0.8719113,0.0959896,Neg,-0.83981216,topdowncharts
+850,2017-06-12 23:41:04,NZX valuations are looking stretched to the upside...    $NZDUSD $ENZL  ,1,1,0,0,2,2,0.63869,0.2550622,0.1062478,Pos,0.3836278,topdowncharts
+851,2017-06-12 23:40:05,RBNZ macro prudential policies have been effective in slowing house price gains:    ,1,1,0,0,1,4,0.9447435,0.021756014,0.03350044,Pos,0.9229875,topdowncharts
+854,2017-06-12 05:39:05,  Here it is on 1 axis - the point of 2 axes is to better show it in context as a given single year will have a much wider range vs hist avg  ,1,1,1,0,0,0,0.17883621,0.015119509,0.80604434,Neu,0.1637167,topdowncharts
+855,2017-06-12 05:37:05,"  Thanks, but seasonal patterns aren't my story - it's the market's (hi)story...",0,1,0,0,0,0,0.056524742,0.07928692,0.8641884,Neu,-0.022762176,topdowncharts
+856,2017-06-12 05:34:00,  here it is on same axis - 'massaging the scales' is a better way of showing where it has been tracking vs seasonal pattern  ,1,1,0,0,0,0,0.13512734,0.030801093,0.8340716,Neu,0.10432624,topdowncharts
+857,2017-06-12 05:29:04,  Depends whether you are interested in the seasonal pattern vs the absolute % moves. Most single year ranges will swamp the average,0,1,1,1,0,0,0.02933549,0.07264749,0.89801705,Neu,-0.043312,topdowncharts
+860,2017-06-11 19:52:04,Here's what an average year in the life of $SPX and $VIX looks like:    ,0,1,0,0,22,24,0.027295895,0.05194014,0.92076397,Neu,-0.024644244,topdowncharts
+861,2017-06-10 20:37:04," yes indeed - did the FX adjusted/USD hedged terms view in last week's edition of  the weekly, lines up with what you mention",1,1,0,1,0,1,0.07899738,0.020634474,0.9003681,Neu,0.05836291,topdowncharts
+863,2017-06-10 18:58:05,Most countries' expected future returns are lower than their historical return experience:    ,1,1,0,2,3,8,0.009798408,0.9626446,0.027556999,Neg,-0.95284617,topdowncharts
+864,2017-06-10 18:51:02,Falling Eurozone unemployment rate points to rising wage growth...    $ECB $EURUSD  ,0,1,0,1,6,6,0.6939314,0.27349553,0.03257303,Pos,0.42043588,topdowncharts
+865,2017-06-09 19:45:05,The Deflatometer - tracking economic deflation (corporate earnings & IP) across the globe    ,0,1,0,0,4,17,0.06114957,0.35317758,0.58567286,Neu,-0.292028,topdowncharts
+866,2017-06-09 19:41:05,Rising property prices in all of the world's major economies is a key support to growth:    ,0,1,0,0,9,7,0.93322754,0.0140985595,0.052673966,Pos,0.91912895,topdowncharts
+869,2017-06-08 18:45:04,Something very important is going on with Consumer Sentiment in both EM and DM economies    ,0,1,0,0,6,8,0.1021481,0.064316615,0.83353525,Neu,0.037831485,topdowncharts
+870,2017-06-08 18:43:02,To celebrate the launch of the new PDF format the WMT report is being made available as a one-off Free Download:  ,1,1,0,2,3,1,0.09139891,0.00904429,0.89955676,Neu,0.08235462,topdowncharts
+871,2017-06-08 18:35:04,Here's one reason to expect global growth to hold up over the medium term:    $MACRO $ACWI  ,0,1,0,0,2,10,0.6384861,0.021365833,0.34014803,Pos,0.61712027,topdowncharts
+872,2017-06-08 18:22:04,"The DM composite manufacturing PMI has topped out along with bond yields, so what?    $MACRO  ",1,1,0,0,2,3,0.3196594,0.030653208,0.6496873,Neu,0.2890062,topdowncharts
+875,2017-06-06 18:44:04,The global prices indicator from the PMIs has rolled over along with commodities    ,1,1,0,0,13,16,0.71752465,0.055775084,0.22670019,Pos,0.66174954,topdowncharts
+878,2017-06-06 03:44:05,Thanks Steve!  ,0,1,0,0,0,1,0.68711,0.021193087,0.29169688,Pos,0.6659169,topdowncharts
+880,2017-06-05 19:06:02,Gap between the $VIX and equity sentiment remains - be afraid if it moves down (more bullish) to meet the VIX!  ,0,1,0,0,6,10,0.039544147,0.8640493,0.096406534,Neg,-0.82450515,topdowncharts
+881,2017-06-01 19:19:02,North American institutional investor confidence index showing signs of capitulation...   $SPX  ,0,1,0,0,2,6,0.123547204,0.84341574,0.033037014,Neg,-0.71986854,topdowncharts
+882,2017-06-01 19:18:00,ChartBrief 82 - Institutional investor confidence indicates capitulation     $ACWI $SPX $VIX  ,0,1,0,2,4,8,0.049032144,0.6121098,0.3388581,Neg,-0.5630776,topdowncharts
+885,2017-05-31 00:51:05,How long can the Kiwi keep flying?    $NZDUSD $6N_F $ENZL RBNZ  ,0,1,1,0,2,2,0.07729311,0.033130042,0.8895768,Neu,0.04416307,topdowncharts
+887,2017-05-30 03:53:05, Close... ish (we still have the union jack in our flag),0,1,0,0,0,1,0.0941109,0.019005992,0.88688314,Neu,0.07510491,topdowncharts
+889,2017-05-29 19:20:05,US Commercial Real Estate prices have moved to pre-crisis highs in real terms:    ,1,1,0,0,14,16,0.92727035,0.028934754,0.043794833,Pos,0.8983356,topdowncharts
+891,2017-05-28 22:52:01,The $VIX continues to trade lower vs net-bullish investor sentiment in the weekly survey  ,0,1,0,0,6,11,0.011063002,0.9706759,0.018261118,Neg,-0.9596129,topdowncharts
+892,2017-05-28 22:51:01,Net-bullish sentiment on both technicals and fundamentals is just chopping about...  $SPX $SPY  ,0,1,0,0,8,5,0.1771877,0.41531742,0.4074949,Neg,-0.23812972,topdowncharts
+893,2017-05-28 22:49:03," *make that first time since Feb (... it's rare, at least).",0,1,0,0,0,0,0.1343042,0.058227856,0.8074679,Neu,0.07607634,topdowncharts
+894,2017-05-28 22:48:05," Interestingly, the weekly survey for $BONDS showed ""fundamentals"" sentiment moving over into net-bullish territory for the first time...  ",1,1,0,1,1,5,0.7898754,0.06401291,0.14611161,Pos,0.7258625,topdowncharts
+895,2017-05-27 18:57:02,S&P500 Earnings Revisions Ratio has surged to a 6-year high...    $SPX $SPY  ,1,1,0,0,5,10,0.9485561,0.022960182,0.028483683,Pos,0.92559594,topdowncharts
+899,2017-05-25 18:09:03,Emerging market import volumes are breaking out:    $MACRO $EEM $VWO  ,0,1,0,0,7,10,0.8825305,0.031837266,0.08563218,Pos,0.8506932,topdowncharts
+900,2017-05-25 18:07:01,Here's some thoughts on that rebound in global container throughput:   $MACRO GlobalTrade  ,0,1,0,0,3,4,0.13527946,0.05850613,0.80621433,Neu,0.07677333,topdowncharts
+901,2017-05-25 03:25:00,"The DM flash manufacturing PMI has capped out, so what's next?    $MACRO  ",1,1,0,0,4,16,0.047531348,0.05477823,0.8976904,Neu,-0.0072468817,topdowncharts
+902,2017-05-24 04:28:03,Global container throughput index (through to April) -- basically at trend after recovering from the 2015 slowdown.  ,0,1,0,0,12,15,0.8995138,0.07931042,0.021175899,Pos,0.82020336,topdowncharts
+904,2017-05-23 22:21:05,"From surging synchronized growth, to boring de-synchronized growth...    $MACRO  ",0,1,0,0,4,9,0.2116027,0.026898667,0.76149863,Neu,0.18470404,topdowncharts
+906,2017-05-23 18:48:02,"A composite view of bond market sentiment (flows, positioning, IV, breadth)  ",0,1,0,0,1,2,0.037922025,0.024626434,0.93745154,Neu,0.013295591,topdowncharts
+907,2017-05-23 18:45:04,Big swings in speculative futures positioning across US treasuries:   $BONDS $TNX $TLT  ,0,1,0,0,3,5,0.5868772,0.31465378,0.098468944,Pos,0.27222344,topdowncharts
+910,2017-05-23 05:00:03,US Dollar Index speculative futures positioning cleanout in process... This is going to be a key chart in the coming weeks.  $DXY $MACRO  ,0,1,0,1,16,24,0.19328348,0.028452173,0.77826434,Neu,0.16483131,topdowncharts
+913,2017-05-22 19:35:00,Bond sentiment indicator has flipped from extreme bearish to bullish:    $BONDS $TLT $IEF  ,1,1,0,0,13,18,0.78259575,0.08350078,0.13390346,Pos,0.69909495,topdowncharts
+915,2017-05-21 20:13:05,"Interesting divergence between ""fundamentals"" vs ""technicals"" sentiment spreads vs $SPX  ",0,1,0,0,19,13,0.055741407,0.146411,0.7978476,Neu,-0.090669595,topdowncharts
+916,2017-05-21 20:13:01,The $VIX vs investor sentiment gap is closing...  ,0,1,0,0,12,8,0.18068703,0.6791388,0.14017421,Neg,-0.49845177,topdowncharts
+917,2017-05-20 18:55:05,"I guess you could call this a ""WTF Chart"" - real commercial property prices vs LT avg      ",0,1,1,0,9,11,0.039270908,0.061670486,0.89905864,Neu,-0.022399578,topdowncharts
+919,2017-05-18 20:07:02,Have we reached a low point in cross-asset volatility?      ,1,1,0,0,5,8,0.10147015,0.68718785,0.21134193,Neg,-0.5857177,topdowncharts
+920,2017-05-17 20:10:05,Commodities futures positioning has collapsed from a 12-year high...    ,1,1,0,0,10,6,0.011834967,0.9676472,0.02051783,Neg,-0.9558122,topdowncharts
+921,2017-05-17 20:04:04,Commodities are at a crossroads   Commodities $DBC $DJP $GSG $MACRO  ,0,1,0,1,5,5,0.20911929,0.082014695,0.708866,Neu,0.1271046,topdowncharts
+923,2017-05-16 19:56:02,Bond sentiment reset raises the odds of a push higher in bond yields:   $BONDS $TNX $TLT $IEF  ,0,1,0,0,5,9,0.90759593,0.03495961,0.05744449,Pos,0.8726363,topdowncharts
+924,2017-05-16 18:41:04,This early warning indicator suggests the global economic upturn may be losing steam:    ,0,1,1,0,5,10,0.010775736,0.9649456,0.024278678,Neg,-0.95416987,topdowncharts
+926,2017-05-16 01:11:03,   I find the strength in the NACM to be curious and at odds with falling loan growth (approvals and applications sub-indexes up)  ,0,1,0,0,0,1,0.7947719,0.16008265,0.04514546,Pos,0.6346893,topdowncharts
+927,2017-05-16 01:10:04,"  Yes, I am intrigued/concerned by the CRE tightening - will be looking closer at that...",1,1,1,0,0,1,0.21489607,0.03823812,0.74686575,Neu,0.17665794,topdowncharts
+928,2017-05-16 01:09:01,   From the weekly report - supporting NACM chart: I find it odd that approvals and applications would be up and loan growth down...  ,0,1,1,0,0,1,0.0141013125,0.9645247,0.02137398,Neg,-0.95042336,topdowncharts
+929,2017-05-15 17:58:00,Shadow policy rate differentials (adjusted for QE) illustrate potential upside risk for $DXY    ,1,1,0,0,5,6,0.11833959,0.82490075,0.056759626,Neg,-0.70656115,topdowncharts
+931,2017-05-15 17:40:00,  true. commercial real estate was also tightening... still will be interesting to see if it rebounds - the NACM survey tends to confirm idea,1,1,1,0,0,1,0.2673961,0.50580984,0.22679403,Neg,-0.23841375,topdowncharts
+933,2017-05-14 20:23:00, Here's the bond sentiment survey response trends - gradual but steady shift towards more bullish readings  ,0,1,0,0,0,1,0.14577465,0.047530953,0.8066943,Neu,0.0982437,topdowncharts
+935,2017-05-14 20:20:01,Weekly Sentiment Poll: Fundamentals vs Technicals bull/bear spreads  ,0,1,0,0,3,2,0.04130377,0.09454238,0.8641539,Neu,-0.053238608,topdowncharts
+937,2017-05-13 18:43:03,Bond sentiment has been reset:    ,1,1,0,1,17,21,0.01872746,0.95474344,0.026529087,Neg,-0.93601596,topdowncharts
+938,2017-05-13 18:39:04,"By request, that valuation breadth chart with a 12m moving average overlay on the indicator...    ",1,1,0,0,10,14,0.100354604,0.013038394,0.886607,Neu,0.08731621,topdowncharts
+939,2017-05-13 03:50:03,"Weekly Report:   US Credit growth, VIX models, Cross-Asset volatility, Bond strategy charts, emerging markets risks",0,1,0,0,1,2,0.04186817,0.023160908,0.934971,Neu,0.01870726,topdowncharts
+940,2017-05-13 03:32:01,Ominous and Unusual indicator points to rising risk of a global equity correction:    ,0,1,0,1,10,18,0.07047869,0.89286286,0.036658503,Neg,-0.8223842,topdowncharts
+942,2017-05-11 23:24:02,"The base-effects boost to US CPI from oil has come and gone, but it's impact is now neutral - *not* negative. $FED  ",1,1,0,0,1,3,0.14992571,0.5502179,0.29985633,Neg,-0.40029222,topdowncharts
+943,2017-05-11 19:40:01,"The ""deflatometer"" -- something has changed:    $MACRO  ",1,1,0,0,13,12,0.10483725,0.19443104,0.7007317,Neu,-0.08959378,topdowncharts
+944,2017-05-10 20:13:04,Shadow policy rate differentials show where the directional risk lies for $DXY    $UUP $FED  ,0,1,0,1,6,7,0.07001836,0.066202745,0.86377895,Neu,0.0038156137,topdowncharts
+945,2017-05-09 22:20:02,What do you think is more meaningful? That it went so high or that it's rolling over?    ,1,1,0,0,2,9,0.06217871,0.18905441,0.74876684,Neu,-0.1268757,topdowncharts
+946,2017-05-09 22:15:03,The historical seasonal tendency is for $VIX levels to trend lower until around July  ,0,1,0,2,26,26,0.011053007,0.93205875,0.05688829,Neg,-0.9210057,topdowncharts
+947,2017-05-08 21:54:03,Global equity volatility is looking complacent...   $ACWI $VIX  ,0,1,0,1,14,15,0.48281515,0.16011693,0.35706794,Pos,0.32269824,topdowncharts
+949,2017-05-06 19:36:00,"The ""Nominal Surprise Index"" has rolled over from extreme highs...   Reflation $MACRO  ",1,1,0,0,13,12,0.68513626,0.20173916,0.11312466,Pos,0.4833971,topdowncharts
+950,2017-05-05 20:36:05,"The ""Deflatometer"" shows the rapid onset of the deflation dissipation...     $MACRO  ",0,1,0,0,6,13,0.107995875,0.051588178,0.8404159,Neu,0.056407697,topdowncharts
+951,2017-05-05 20:33:02,"Latest weekly report   The deflation dissipation, China macro map, reconciling $SPX, $DXY drivers, global equity risks",0,1,0,0,3,4,0.12488419,0.1214781,0.75363773,Neu,0.003406085,topdowncharts
+952,2017-05-05 02:41:01,Either the correlation has broken or there is one tightly coiled spring in the $USDCNY !    ,1,1,0,5,12,15,0.068800755,0.39736322,0.533836,Neu,-0.32856247,topdowncharts
+953,2017-05-04 19:17:04,"So, what's your pick? Will this $FED rate hike cycle be like the mid-2000's?   $HYG $JNK  ",0,1,1,2,9,11,0.04524025,0.026138477,0.92862123,Neu,0.019101772,topdowncharts
+954,2017-05-04 19:11:04,Is it reasonable to expect mean reversion in real yields?     ,0,1,0,0,1,6,0.048420522,0.48094907,0.47063044,Neg,-0.43252856,topdowncharts
+956,2017-05-04 04:29:00,"Speaking of the new 4x ETF, here's a chart of existing 2x & 3x ETF AUM:    4xETF Leverage  ",0,1,0,1,5,10,0.03995353,0.021420965,0.9386255,Neu,0.018532565,topdowncharts
+958,2017-05-03 19:03:04,Our weekly insto report delivers:  -investment ideas -identify downside risks -inform your macro view  ,0,1,0,0,0,1,0.06076767,0.015063375,0.924169,Neu,0.045704294,topdowncharts
+959,2017-05-03 18:45:05,"After the great rebound the global manufacturing PMIs have leveled-off, what's next?     ",0,1,0,0,5,4,0.06051921,0.30683243,0.63264835,Neu,-0.24631321,topdowncharts
+962,2017-05-02 22:34:01, thank you sir,0,1,0,0,0,1,0.2825632,0.012897366,0.7045394,Neu,0.26966584,topdowncharts
+964,2017-05-02 20:11:05,US high yield credit spreads are at rock bottom:   $HYG $JNK  ,0,1,0,0,17,19,0.016622363,0.9347512,0.048626423,Neg,-0.91812885,topdowncharts
+965,2017-05-02 20:07:03,Global shipping costs - trend is up vs early 2016    $MACRO GlobalTrade  ,0,1,0,0,3,5,0.9469354,0.019776572,0.033288,Pos,0.92715883,topdowncharts
+967,2017-05-01 20:08:01,"  the biggest pushback you will get from AA'rs is that the correlation to equity risk is too high, IG credit sure, but HY credit a harder ask",0,1,1,1,0,0,0.17594099,0.22388466,0.60017437,Neu,-0.047943667,topdowncharts
+969,2017-05-01 20:05:02,  I could see going that high on a tactical or medium term basis if there was ample valuation etc justification...,1,1,1,1,0,0,0.31821328,0.018431786,0.6633549,Neu,0.2997815,topdowncharts
+971,2017-05-01 19:52:02,  guess it depends on your view of HY credit as an alt-asset. I've rarely seen HY credit get much more than a 5% alloc except tactically...,1,1,0,1,0,0,0.11113177,0.040455967,0.8484122,Neu,0.070675805,topdowncharts
+974,2017-04-30 22:50:02,Fear levels are coming down...  $VIX $VXX $XIV  ,0,1,0,1,14,9,0.011874395,0.95138276,0.0367428,Neg,-0.9395084,topdowncharts
+975,2017-04-30 22:48:01,Survey respondents are feeling better about the fundamentals...  ,0,1,0,0,3,4,0.92981017,0.032189526,0.03800031,Pos,0.8976206,topdowncharts
+978,2017-04-30 19:49:00,"  That's AUM - price wise it was a BIG dip, and since 2008/09 after the rebound EM equities have gone more or less sideways",1,1,0,1,0,0,0.12935224,0.7646141,0.10603363,Neg,-0.6352619,topdowncharts
+979,2017-04-29 18:57:01,"Global Trade Growth:  ""it's probably nothing...""     $MACRO $EEM  ",0,1,0,0,18,15,0.06883365,0.06608837,0.86507803,Neu,0.0027452782,topdowncharts
+980,2017-04-29 18:54:05,As the US Federal Reserve continues to remove stimulus gold prices could go as low as $1000    ,0,1,1,0,12,21,0.0153609775,0.9185432,0.06609579,Neg,-0.90318227,topdowncharts
+982,2017-04-29 05:32:01,Commodity breadth has deteriorated to soft levels on a 50-day moving average time frame    ,1,1,0,0,2,2,0.021327378,0.9577647,0.020907925,Neg,-0.9364373,topdowncharts
+985,2017-04-28 00:39:01,    this one is going in the weekly - EM regions (CPB data only goes down to region) YOY growth (3m avg). Note EM Asia & LatAm  ,0,1,0,2,0,1,0.08912779,0.014629223,0.89624304,Neu,0.074498564,topdowncharts
+986,2017-04-27 22:58:00,Emerging Markets ETF assets under management have doubled since February 2016    $EEM $VWO  ,1,1,0,2,23,24,0.918082,0.022853117,0.059064925,Pos,0.89522886,topdowncharts
+989,2017-04-26 06:21:02,Interesting...  ,0,1,0,0,17,16,0.1812684,0.02655874,0.7921729,Neu,0.15470965,topdowncharts
+990,2017-04-26 00:29:01,"US economic surveys are booming, but have they gone too far, too fast?    $MACRO $FED  ",1,1,0,0,5,13,0.066125534,0.2522155,0.6816589,Neu,-0.18608996,topdowncharts
+991,2017-04-26 00:27:05,The Eurozone economy is looking the best it's been in 10 years:    $MACRO $ECB  ,1,1,0,1,10,10,0.8902949,0.020828353,0.08887664,Pos,0.86946654,topdowncharts
+993,2017-04-25 20:32:00,European equities are still solid on a relative value basis:    $STOXX $SPX $HEDJ $FEZ  ,0,1,0,2,5,12,0.8986314,0.025868207,0.07550046,Pos,0.87276316,topdowncharts
+994,2017-04-25 19:37:00,Bitcoin seems to be showing how the market really feels about where the $USDCNY should be:    ,0,1,1,0,6,13,0.07817197,0.016433638,0.90539443,Neu,0.06173833,topdowncharts
+997,2017-04-25 04:44:02,FX market risk metrics looking increasingly complacent on the Renmnibi    $USDCNY $CYB $CNY  ,1,1,0,0,7,6,0.36846444,0.54080683,0.090728804,Neg,-0.17234239,topdowncharts
+999,2017-04-24 19:27:02,Is a bubble brewing in income assets?    ,0,1,0,1,15,20,0.035466198,0.44642892,0.5181049,Neu,-0.41096273,topdowncharts
+1000,2017-04-24 11:09:00,Anyone else noticed the $USDCNY has been quiet lately? ...a little too quiet maybe?    ,1,1,0,0,11,13,0.030490514,0.5759358,0.39357367,Neg,-0.54544526,topdowncharts
+1001,2017-04-24 11:06:01,Is this the peak in political risk for the Eurozone?    ,0,1,0,0,3,4,0.0477395,0.35728732,0.5949731,Neu,-0.3095478,topdowncharts
+1003,2017-04-23 22:38:00,Fear levels are coming down - looks like we had a correction in sentiment if not price...  $VIX $SPX $VXX  ,1,1,0,1,5,11,0.13113743,0.82498807,0.04387449,Neg,-0.69385064,topdowncharts
+1004,2017-04-23 22:36:03,Both technical driven and fundamentals driven sentiment is rebounding...  $SPX $STUDY  ,1,1,0,0,2,5,0.9575032,0.020577034,0.021919753,Pos,0.9369262,topdowncharts
+1006,2017-04-22 19:24:01,   this poll is the one I do weekly on Twitter:  will be doing this week's soon,0,1,1,1,0,1,0.034663837,0.024886886,0.94044924,Neu,0.009776952,topdowncharts
+1008,2017-04-21 19:02:02,"About that synchronized economic upturn... ""it's complicated""     ",1,1,0,0,7,6,0.041375544,0.3578664,0.600758,Neu,-0.31649086,topdowncharts
+1009,2017-04-21 19:01:04,A divergence is opening up between bond yields and the DM composite flash PMI:   $MACRO $BONDS  ,0,1,0,1,5,7,0.047407128,0.10484798,0.84774494,Neu,-0.057440855,topdowncharts
+1010,2017-04-21 09:17:00," indeed, with great risk comes great opportunity",0,1,0,0,0,0,0.11838008,0.01730582,0.8643141,Neu,0.101074256,topdowncharts
+1011,2017-04-21 04:24:03,"""We have nothing to fear but fear itself""    $VIX vs equity sentiment...  ",0,1,0,0,10,10,0.11568147,0.20485197,0.67946655,Neu,-0.0891705,topdowncharts
+1012,2017-04-20 23:31:02,Doing some work on European equities -- very important juncture right here...  $STOXX  ,0,1,0,0,23,30,0.17359403,0.011140567,0.8152654,Neu,0.16245346,topdowncharts
+1013,2017-04-20 22:34:01,Here's how European vs US bank CDS are trading...     ,0,1,0,0,5,6,0.049452513,0.034679655,0.91586787,Neu,0.0147728585,topdowncharts
+1014,2017-04-20 05:11:01,Something very important happened in 2008:     $MACRO $EEM $VWO  ,1,1,0,1,13,10,0.15486208,0.02114774,0.82399017,Neu,0.13371433,topdowncharts
+1015,2017-04-19 20:08:00,"The US ""Housing Market Fuel Indicator"" is flagging downside risks:    $FED $MACRO  ",0,1,0,0,2,6,0.33052987,0.60274816,0.06672194,Neg,-0.2722183,topdowncharts
+1016,2017-04-19 20:03:02,"The NAHB Index slipped slightly in April, but is still tracking at solid levels:   $XHB $ITB  ",1,1,0,0,0,3,0.0878804,0.85581344,0.056306127,Neg,-0.767933,topdowncharts
+1018,2017-04-18 22:47:00,Consumer confidence turning up in both EM and DM:    $MACRO $EEM  ,0,1,0,0,7,10,0.9269239,0.013184978,0.05989121,Pos,0.9137389,topdowncharts
+1024,2017-04-18 06:35:02,"Chinese property price gains are losing steam in the big cities, but broadening out to smaller cities  ",0,1,0,0,9,11,0.016276214,0.9529295,0.030794326,Neg,-0.93665326,topdowncharts
+1026,2017-04-17 05:53:01,Weekly sentiment poll charts - net bulls/bears for technical and fundamental rationale  ,0,1,0,0,3,4,0.031038651,0.030614438,0.93834686,Neu,0.0004242137,topdowncharts
+1027,2017-04-13 07:04:05,"Drilling in to China's PPI stats you can see the commodity kick starting to wane, but note general manufacturing...  ",0,1,1,0,10,10,0.42588836,0.12675522,0.44735643,Neu,0.29913312,topdowncharts
+1030,2017-04-13 03:05:02,"Important to remember that most of the time people will act rationally - according to the world as they see it. This may appear ""irrational""",0,1,1,0,3,8,0.024629874,0.5234148,0.4519553,Neg,-0.49878493,topdowncharts
+1032,2017-04-11 22:40:04,Spare capacity running out in Developed Economies:   $BONDS $MACRO inflation  ,0,1,0,1,8,12,0.043116257,0.04430056,0.9125832,Neu,-0.0011843033,topdowncharts
+1033,2017-04-11 22:05:05,"VIDEO: Interview - an intro to Topdown Charts, my thoughts on charts, US margin debt, global inflation  ",0,1,0,0,2,7,0.041455254,0.022645427,0.9358993,Neu,0.018809827,topdowncharts
+1034,2017-04-11 00:58:00,"By request, here's a chart of NYSE Margin Debt in absolute terms vs $SPX  re this article:    ",0,1,0,1,10,11,0.022579806,0.039982375,0.93743783,Neu,-0.017402569,topdowncharts
+1035,2017-04-10 20:02:05,Here's the aggregated notional value of net speculative equity index futures positioning:    ,0,1,0,0,4,9,0.025492325,0.03472604,0.9397816,Neu,-0.009233713,topdowncharts
+1037,2017-04-10 10:27:05,Leveraged long equity ETF AUM tops US$15 Billion (includes 2x and 3x levered)   $SPX $STUDY  ,1,1,0,0,7,3,0.76385796,0.015113904,0.22102815,Pos,0.7487441,topdowncharts
+1038,2017-04-10 10:24:02,"As mentioned in this video on stockmarket leverage, expect a blogpost on Margin Debt soon over at   ",1,1,0,0,0,6,0.025970941,0.054278813,0.9197503,Neu,-0.028307872,topdowncharts
+1040,2017-04-10 05:36:01, you're welcome,0,1,0,0,0,0,0.24194519,0.015269657,0.7427851,Neu,0.22667554,topdowncharts
+1042,2017-04-09 20:17:01,Interesting: seems to be a decent correlation emerging between the equity sentiment poll and the $SKEW index  ,0,1,0,0,3,1,0.8041774,0.017293915,0.17852864,Pos,0.7868835,topdowncharts
+1044,2017-04-09 20:09:00,The $VIX vs the equity sentiment bulls-bears spread -- gap remains and a clear trend seems to be emerging...  ,0,1,0,0,17,17,0.57715744,0.061806943,0.36103565,Pos,0.5153505,topdowncharts
+1045,2017-04-09 20:06:05,"Weekly equity sentiment poll: the bulls vs bears spread for both ""technicals"" and ""fundamentals"" rationale  ",0,1,0,0,9,15,0.06789005,0.030998193,0.9011118,Neu,0.036891855,topdowncharts
+1046,2017-04-08 18:05:00, average daily price change. Average level only makes sense for things like VIX,0,1,0,0,0,0,0.028389728,0.056929268,0.914681,Neu,-0.02853954,topdowncharts
+1047,2017-04-07 22:38:00,"Weekly Macro Themes:   Global inflation, economic noise, India, institutional investor confidence, US margin debt...",0,1,0,0,3,2,0.052454133,0.020576455,0.9269694,Neu,0.031877678,topdowncharts
+1048,2017-04-07 22:25:02,Crude oil popping on gpol risk at the same time as seasonal tendency is positive    OOTT $OIL  ,0,1,0,3,12,14,0.23959309,0.07183373,0.6885732,Neu,0.16775936,topdowncharts
+1049,2017-04-07 22:21:00,"The seasons are changing, and here's the seasonal tendency for $SPX     ",0,1,0,0,5,8,0.032640748,0.058991857,0.90836746,Neu,-0.02635111,topdowncharts
+1050,2017-04-06 18:44:05,"Just a reminder to follow the  company page over on LinkedIn for charts, updates + some ""mini-blogs""  ",0,1,0,0,1,4,0.021341562,0.033292644,0.9453658,Neu,-0.011951081,topdowncharts
+1051,2017-04-06 18:15:03,"WTI Crude Oil: History doesn't repeat, but it often rhymes...    $OIL OOTT $CL_F  ",0,1,0,0,2,7,0.041840106,0.030354101,0.92780584,Neu,0.011486005,topdowncharts
+1052,2017-04-06 18:07:01,Potential double top pattern forming in US 10-Year bond yields:    $BONDS $IEF  ,0,1,0,2,6,9,0.102454334,0.13028985,0.7672559,Neu,-0.027835518,topdowncharts
+1054,2017-04-06 06:13:00,Did you know?  ...we also publish a Macro Technicals Report - check it out here:  ,0,1,0,0,0,1,0.03220685,0.02734988,0.9404433,Neu,0.0048569683,topdowncharts
+1055,2017-04-06 06:13:00,Bit of a reset in WTI Crude Oil speculative futures positioning - but is it enough?    ,0,1,0,0,15,10,0.06342944,0.34508577,0.59148484,Neu,-0.28165632,topdowncharts
+1057,2017-04-06 02:14:02," It won't last forever, but it can continue short-term. I still find most people are bearish or at least very skeptical on China",0,1,1,1,0,0,0.08321006,0.27720997,0.63957995,Neu,-0.19399992,topdowncharts
+1059,2017-04-06 02:09:02, don't count your chickens before they breakout,0,1,0,0,0,0,0.030681223,0.072305165,0.89701355,Neu,-0.041623943,topdowncharts
+1060,2017-04-05 19:20:00,Here's that global trade chart updated with March data (for the leading indicator)    $MACRO  ,1,1,0,0,25,29,0.039923925,0.030225484,0.9298506,Neu,0.009698441,topdowncharts
+1061,2017-04-05 19:14:03,"Early days, but looks like an upside breakout from the Bullish Flag on the S&P500:   $SPX $SPY  ",0,1,0,0,9,16,0.8036264,0.04916123,0.14721234,Pos,0.75446516,topdowncharts
+1062,2017-04-05 18:53:02,Is Silver On The Cusp Of A New Bull Market?    $SLV $SI_F  ,0,1,0,0,5,12,0.094455935,0.04039911,0.86514497,Neu,0.054056823,topdowncharts
+1064,2017-04-05 05:57:00, indeed looks like it - have you noticed it with your business?,1,1,0,1,0,0,0.06613595,0.026891861,0.9069722,Neu,0.03924409,topdowncharts
+1065,2017-04-05 05:56:03," fair - it won't grow at such a rapid pace for very long, but the turnaround is very interesting",0,1,1,0,0,0,0.7719665,0.013799377,0.21423405,Pos,0.75816715,topdowncharts
+1068,2017-04-05 05:53:04,"  My pleasure, glad you enjoyed it!",0,1,0,0,0,0,0.72645557,0.023814198,0.24973014,Pos,0.70264137,topdowncharts
+1069,2017-04-05 02:12:00,Seasonality may be the thing that makes or breaks the S&P500 on the next move:    $SPX $SPY  ,0,1,1,1,23,31,0.037248302,0.076519124,0.8862326,Neu,-0.039270822,topdowncharts
+1070,2017-04-05 00:53:00,VIDEO: S&P500 Bull flag is waving...    $SPX $SPY,0,1,0,0,1,2,0.17970541,0.018523026,0.8017716,Neu,0.16118239,topdowncharts
+1071,2017-04-04 22:53:03,What's next for copper? Just ask China...    ,0,1,0,0,15,15,0.048070677,0.025545914,0.9263834,Neu,0.022524763,topdowncharts
+1072,2017-04-04 09:38:04,Protectionist Headwinds? Global Trade Is Accelerating!     $MACRO  ,0,1,0,0,10,14,0.137807,0.6849448,0.17724818,Neg,-0.5471378,topdowncharts
+1074,2017-04-04 09:34:04," correct, need a breakout to confirm the pattern",0,1,0,0,0,0,0.083749264,0.016535008,0.89971566,Neu,0.06721426,topdowncharts
+1075,2017-04-04 03:59:03,"To make matters worse for South Africa, there's a clear bearish setup on $EZA     ",0,1,0,0,4,4,0.03534551,0.91129065,0.05336393,Neg,-0.87594515,topdowncharts
+1079,2017-04-02 22:53:01,"The gap is narrowing, but there's still a divergence between the $VIX and equity sentiment  ",0,1,0,0,1,4,0.267219,0.33741257,0.3953684,Neu,-0.07019356,topdowncharts
+1080,2017-04-02 22:52:01,Both fundamentals and technicals bull-bear equity sentiment spreads look like they may have bottomed  ,1,1,1,0,1,0,0.012794212,0.9633915,0.023814317,Neg,-0.9505973,topdowncharts
+1083,2017-03-31 02:11:05,Solid March China PMI results:  -Manufacturing 51.8 (51.6 previous) -Non-manufacturing 55.1 (54.2) $MACRO $FXI  ,0,1,0,0,14,15,0.7201564,0.11929087,0.16055274,Pos,0.6008655,topdowncharts
+1084,2017-03-30 21:34:01,US dollar implied volatility suggests we could be at the start of a big move:    $DXY $VIX  ,1,1,1,0,15,22,0.49153262,0.03743681,0.4710305,Pos,0.4540958,topdowncharts
+1085,2017-03-30 17:54:01,Global shipping cost indexes - note the Baltic Dry Index...  $BDI $MACRO  ,0,1,0,1,11,11,0.096567065,0.025299713,0.8781332,Neu,0.07126735,topdowncharts
+1087,2017-03-29 22:03:02,"Excuse me sir, do you have a moment to talk about crude oil seasonality?  $OIL $CL_F OOTT  ",0,1,0,5,44,61,0.03816448,0.0472265,0.914609,Neu,-0.009062018,topdowncharts
+1089,2017-03-29 17:58:04,Thank you everyone for the retweets and for following us - truly appreciate your support for my new company! 😀,0,1,0,0,0,4,0.8538907,0.011846271,0.13426298,Pos,0.8420445,topdowncharts
+1090,2017-03-29 17:56:05," indeed, yields could go lower short-term but medium term the case remains - talked about that in the latest weekly report...",1,1,1,0,0,0,0.16114366,0.38160476,0.45725155,Neu,-0.2204611,topdowncharts
+1091,2017-03-29 17:55:00," it simply reflects a tight labor market i.e. ""full employment"" and will lead to wage growth and inflation sooner or later",0,1,1,0,0,0,0.015382328,0.8137003,0.17091736,Neg,-0.79831797,topdowncharts
+1092,2017-03-29 10:18:05,EURUSD charts show a potential major turning point in the works:    $ECB $EURUSD $MACRO  ,0,1,0,1,9,13,0.6987295,0.030911453,0.27035898,Pos,0.66781807,topdowncharts
+1093,2017-03-28 22:23:05,$EURUSD - The turning tides:     $6E_F $MACRO,0,1,0,0,1,0,0.038455974,0.04094777,0.9205963,Neu,-0.0024917945,topdowncharts
+1094,2017-03-28 19:07:02, great! opposite end of the country though - I'm down in Queenstown,0,1,0,0,0,1,0.04736872,0.08846023,0.8641711,Neu,-0.04109151,topdowncharts
+1095,2017-03-28 18:56:02,Latest numbers reaffirm my previous assertion that this chart matters most for the $FED    ,0,1,0,1,4,12,0.29014307,0.062475827,0.6473811,Neu,0.22766724,topdowncharts
+1096,2017-03-28 17:52:04,"The ""flash"" global PMI has weakened for the second month in a row...    $BONDS $MACRO $TLT  ",1,1,0,0,12,13,0.012066836,0.97032833,0.01760481,Neg,-0.9582615,topdowncharts
+1097,2017-03-28 09:49:04," indeed, Europe's PMI is eating US PMIs lunch",0,1,0,0,2,0,0.040148985,0.07564286,0.88420814,Neu,-0.035493877,topdowncharts
+1098,2017-03-28 09:49:00, talked about this in the report - basically compressions in IV tend to come before a sizable move,1,1,0,1,0,1,0.039674476,0.37720305,0.58312243,Neu,-0.3375286,topdowncharts
+1099,2017-03-28 03:15:00,US dollar index - very close to putting in a H&S top...   $DXY $UUP $UDN $MACRO  ,0,1,0,0,15,20,0.62332976,0.028346278,0.34832394,Pos,0.59498346,topdowncharts
+1100,2017-03-28 02:46:03,The tides are turning for the $EURUSD     ,0,1,0,0,14,14,0.21069087,0.11711021,0.6721989,Neu,0.09358066,topdowncharts
+1103,2017-03-27 02:51:01,VIDEO: Global Equities - What comes next...    $ACWI $SPX $MACRO,0,1,0,0,4,5,0.056096133,0.019911533,0.9239924,Neu,0.0361846,topdowncharts
+1104,2017-03-27 02:46:05,Something starting to happen on that $VIX vs investor sentiment chart...  ,0,1,0,0,8,10,0.14517653,0.06565966,0.7891638,Neu,0.07951687,topdowncharts
+1105,2017-03-27 02:46:01,"Here's the ""fundamentals"" and ""technicals"" bulls vs bears spread from the latest equity sentiment survey  ",0,1,0,0,1,3,0.04669216,0.030520212,0.9227876,Neu,0.016171947,topdowncharts
+1106,2017-03-26 18:44:02,The DM composite flash mfg PMI looks to be rolling over (driven by US and Japan)  ,1,1,0,0,4,16,0.8461103,0.027052592,0.12683715,Pos,0.8190577,topdowncharts
+1110,2017-03-23 22:41:00,Looks like Ruble traders think the fall in the oil price is fake news...  ,0,1,0,1,13,20,0.026828667,0.9215067,0.05166472,Neg,-0.89467806,topdowncharts
+1111,2017-03-23 17:07:02,Shipping cost indexes: BDIY ~= Commodities CCFI ~= General trade    ,0,1,0,0,7,10,0.026445467,0.026814999,0.9467395,Neu,-0.00036953203,topdowncharts
+1112,2017-03-23 17:05:00,Global Container Throughput Index shows global trade steady through Feb    ,0,1,0,0,10,6,0.5788958,0.057655927,0.36344823,Pos,0.5212399,topdowncharts
+1114,2017-03-23 16:53:03,  but thanks for highlighting the chart!,0,1,0,0,0,0,0.60210073,0.032044336,0.36585492,Pos,0.5700564,topdowncharts
+1115,2017-03-23 16:53:00,  analog charts are quite subjective so there's no one true answer,0,1,0,1,0,0,0.02642586,0.08248656,0.89108753,Neu,-0.0560607,topdowncharts
+1116,2017-03-23 03:56:02,Something to think about -- the late 90's analog chart of $DXY working alright... so far!  $MACRO $UUP  ,0,1,0,3,35,45,0.10317926,0.022612985,0.87420774,Neu,0.08056627,topdowncharts
+1117,2017-03-23 03:51:04, indeed! (sometimes the line between technical and fundamental gets quite blurry...),0,1,0,0,0,0,0.042994045,0.40191746,0.55508846,Neu,-0.3589234,topdowncharts
+1118,2017-03-23 03:50:02, It's our own indicator - happy to provide indicators or charts as a service in addition to the reports:  ,0,1,0,0,0,0,0.03351451,0.017069029,0.94941646,Neu,0.016445482,topdowncharts
+1120,2017-03-22 17:27:02,"This chart says China property prices are on borrowed time, see:    $MACRO $FXI $SSEC $ASHR  ",0,1,0,0,8,10,0.025455218,0.07079774,0.903747,Neu,-0.045342524,topdowncharts
+1121,2017-03-22 17:21:05,Bond market sentiment is undergoing a reset:   $TLT $IEF $BONDS $MACRO  ,0,1,0,0,12,17,0.10149402,0.11150847,0.7869975,Neu,-0.010014445,topdowncharts
+1122,2017-03-21 22:20:01,NEW VIDEO: Global Equities - Correction risks rising...    $ACWI $SPX $VIX,0,1,0,0,4,2,0.5970132,0.08812321,0.31486356,Pos,0.50889,topdowncharts
+1125,2017-03-21 01:29:04,Japan 10-Year Government bond yields look to be putting in a head and shoulders top pattern...   $BONDS $MACRO  ,0,1,0,0,2,4,0.42216617,0.05875992,0.5190739,Neu,0.36340624,topdowncharts
+1126,2017-03-21 01:18:04,"Gold volatility continues to trade around record lows, here's our take:    $GVZ $GLD $GC_F $GDX  ",0,1,0,1,13,13,0.047364358,0.11287608,0.8397595,Neu,-0.06551172,topdowncharts
+1129,2017-03-20 17:32:04,Interest Rate Hikes Don’t Matter Until They Do…    $FED $SPX $STUDY $SPY $MACRO  ,0,1,0,0,11,21,0.081639074,0.028921803,0.8894391,Neu,0.05271727,topdowncharts
+1130,2017-03-20 17:32:00," interesting... I wonder if we're capturing a similar type of sentiment with ""strategic bias"" and ""fundamentals"" view",0,1,0,1,0,0,0.08702146,0.016916594,0.896062,Neu,0.07010487,topdowncharts
+1132,2017-03-19 21:21:01,"Speaking of Price vs Sentiment, respondents remain more bearish than $VIX market pricing -- will there ever be convergence?  ",0,1,1,1,4,5,0.07923091,0.39853936,0.52222973,Neu,-0.31930846,topdowncharts
+1133,2017-03-19 21:19:02,"If there are any fans of the StealthCorrection idea out there, they may like these charts (price & sentiment going in different directions)  ",0,1,1,1,2,2,0.061147224,0.021400768,0.91745204,Neu,0.039746456,topdowncharts
+1134,2017-03-19 21:16:02,The 4-week moving average chart makes the trends more clear - remarkable how bearish fundamentals has moved  ,1,1,0,2,5,7,0.09779829,0.14506237,0.7571393,Neu,-0.047264084,topdowncharts
+1137,2017-03-17 18:04:00,Happy StPatricksDay - here's a bonus chart: $SPX trading before/after the day:    ,0,1,0,0,3,3,0.028602395,0.032104347,0.9392932,Neu,-0.0035019517,topdowncharts
+1139,2017-03-15 18:01:04,US $FED hikes fed funds rate +25bps to 1%  ,1,1,0,0,18,7,0.4137342,0.18943727,0.3968286,Pos,0.22429693,topdowncharts
+1143,2017-03-15 17:40:04,Here's a chart to keep in mind ahead of today's $FED meeting:    ,0,1,0,1,2,4,0.02896836,0.033913262,0.9371184,Neu,-0.004944902,topdowncharts
+1145,2017-03-15 17:34:03,In this video:   I talk about the chart that appeared in today's article on   ,1,1,0,0,3,4,0.031604137,0.03654559,0.9318503,Neu,-0.0049414523,topdowncharts
+1148,2017-03-14 17:50:04,"As noted in the Macro Technicals report, US 10 year bond yields could keep going   $BONDS $TLT  ",1,1,1,0,4,2,0.1610679,0.30720064,0.5317314,Neu,-0.14613274,topdowncharts
+1151,2017-03-14 17:43:03,"  ""low $VIX "" is more of a mathematical thing - the VIX is basically backward looking",0,1,0,2,0,1,0.025149412,0.28237084,0.6924797,Neu,-0.25722143,topdowncharts
+1152,2017-03-14 17:41:00,"  I use thomson reuters. It is the ""non-commercial"" positioning (I use longs, shorts, and open interest to calc)",0,1,0,0,0,0,0.021986807,0.02362319,0.95439,Neu,-0.001636384,topdowncharts
+1154,2017-03-13 17:50:04,"When  asked us what is the one chart investors should be watching, this is what we responded with:    ",1,1,1,0,11,14,0.035933487,0.028339336,0.9357272,Neu,0.0075941514,topdowncharts
+1156,2017-03-13 05:15:02,VIDEO: Charting the Reflation     $MACRO,0,1,0,0,2,2,0.08175621,0.071267225,0.8469765,Neu,0.010488987,topdowncharts
+1157,2017-03-13 00:55:03,   Used the same approach but with the 500 (large cap) vs the 1500 (all cap) - there's something there...  ,1,1,0,1,4,4,0.11894304,0.025140533,0.8559165,Neu,0.09380251,topdowncharts
+1158,2017-03-12 20:49:03,The ongoing disconnect between sentiment and the $VIX  ,0,1,0,0,11,12,0.020903207,0.905017,0.074079745,Neg,-0.8841138,topdowncharts
+1159,2017-03-12 20:48:05,Here's the weekly equity sentiment poll bull-bear spreads by fundamentals vs technicals  ,0,1,0,0,4,5,0.030775085,0.043066304,0.92615855,Neu,-0.012291219,topdowncharts
+1160,2017-03-08 20:41:02,US wage growth is still well above the $FED funds rate - here's why that matters for $SPX    ,0,1,0,0,8,7,0.09840701,0.03161915,0.86997384,Neu,0.066787854,topdowncharts
+1164,2017-03-06 21:24:04,"Thanks  for the mention in their daily email newsletter (a ""best-of"" brief covering macro research):  ",0,1,0,0,1,1,0.07168505,0.018424591,0.9098904,Neu,0.05326046,topdowncharts
+1165,2017-03-06 21:18:04, it's one of those situations where if/when we get a correction it will be a very widely anticipated correction...,1,1,1,0,0,0,0.038599603,0.4673504,0.49405003,Neu,-0.42875078,topdowncharts
+1166,2017-03-06 17:22:03, that's all the history there - only started the survey last year,1,1,0,0,0,1,0.032045145,0.034781665,0.9331732,Neu,-0.00273652,topdowncharts
+1167,2017-03-06 01:37:04,Still find this chart of (inverted) equity sentiment vs the $VIX simply fascinating...  ,1,1,0,2,7,15,0.0631295,0.6890004,0.24787003,Neg,-0.62587094,topdowncharts
+1168,2017-03-06 01:36:05,Weekly equity sentiment poll - Fundamentals bulls vs bears spread and Technicals spread compared to $SPX  ,1,1,0,0,2,2,0.47985348,0.4823555,0.037790984,Neg,-0.0025020242,topdowncharts
+1169,2017-03-06 01:18:02, Here's the latest charts for the equity sentiment poll:  ,0,1,0,0,1,2,0.027296098,0.03728607,0.93541783,Neu,-0.009989971,topdowncharts
+1173,2017-03-01 04:08:03,Chinese manufacturing PMI rebounded in February:    $FXI $ASHR $SSEC $MACRO  ,1,1,0,1,2,6,0.94304377,0.03606194,0.02089436,Pos,0.9069818,topdowncharts
+1175,2017-03-01 01:52:01,"In addition to the surge in commodities speculative futures positioning, implied volatility is also acting unusual:    ",0,1,0,0,6,5,0.15767592,0.44934404,0.3929801,Neg,-0.29166812,topdowncharts
+1176,2017-03-01 01:49:03,"In addition to the broadening top pattern in the Euro Stoxx 50 - a ""line in the sand"" is also approaching...    ",0,1,0,0,3,2,0.47029877,0.03177004,0.49793112,Neu,0.43852872,topdowncharts
+1177,2017-03-01 01:47:01,"Further to that chart of financials looking stretched vs trend, here's the longer term, monthly view:   $XLF $VFH $KRE  ",1,1,0,0,3,2,0.047894344,0.115954354,0.83615136,Neu,-0.06806001,topdowncharts
+1178,2017-03-01 01:36:01, but as for $VIX vs $SPX the rule of thumb is that $VIX works well as a standalone for bottoming better than topping signals,0,1,0,0,0,1,0.15063286,0.03228766,0.8170794,Neu,0.1183452,topdowncharts
+1179,2017-03-01 01:35:02, interestingly enough using implied volatility as a signal differs slightly for some assets...,1,1,0,0,0,0,0.11290224,0.061084185,0.82601357,Neu,0.051818054,topdowncharts
+1180,2017-02-28 18:01:01,"As gold vol looks complacent, gold is facing a couple of key tests...    ",0,1,0,0,4,6,0.2674748,0.03523052,0.69729465,Neu,0.23224428,topdowncharts
+1181,2017-02-28 17:58:03,TuesdayTechnicals - Broadening top formation for Euro Stoxx points to heightened risk of a correction    $FEZ $HEDJ  ,1,1,0,1,9,16,0.9032711,0.07538128,0.021347657,Pos,0.8278898,topdowncharts
+1183,2017-02-28 09:18:05,TuesdayTechnicals - Gold volatility looks way too complacent:    $GLD $GDX  ,0,1,0,2,5,6,0.016201178,0.8851454,0.09865345,Neg,-0.8689442,topdowncharts
+1184,2017-02-28 09:14:02,TuesdayTechnicals - Financials are starting to look stretched vs trend:    $XLF $VFH  ,0,1,0,1,1,4,0.19605881,0.7379032,0.06603797,Neg,-0.54184437,topdowncharts
+1185,2017-02-28 09:12:00,TuesdayTechnicals - Commodities speculative futures positioning at a 12-year high   $DBC $GSC  ,0,1,0,1,7,8,0.83978695,0.06438696,0.09582609,Pos,0.7754,topdowncharts
+1188,2017-02-26 21:45:01,Big divergence between sentiment and the $VIX - impending volatility event coming soon?    ,0,1,0,2,18,18,0.06136756,0.30637354,0.63225883,Neu,-0.24500598,topdowncharts
+1189,2017-02-26 21:42:00,Does the fundamental vs technical view matter in investor sentiment? YES:    $STUDY $SPX  ,0,1,0,0,2,4,0.05292407,0.0175113,0.92956465,Neu,0.03541277,topdowncharts
+1191,2017-02-22 16:53:02,"Surprisingly enough, the data keeps surprising to the upside...     $MACRO  ",0,1,0,0,7,3,0.6592376,0.092252724,0.24850968,Pos,0.5669849,topdowncharts
+1194,2017-02-21 16:30:01,The $VIX of Crude Oil $OVX continues to crunch lower - what does that mean?    $OIL $CL_F $USO  ,0,1,0,0,12,13,0.02834708,0.8604982,0.11115474,Neg,-0.8321511,topdowncharts
+1195,2017-02-21 16:24:04,"Russell 2000 speculative futures positioning stretched long, but does it matter?    $RUT $IWM  ",1,1,0,0,5,7,0.050635125,0.033773974,0.9155909,Neu,0.016861152,topdowncharts
+1196,2017-02-21 16:24:01,US 10 year treasuries continue to see stretched short futures positioning:    $BONDS $TLT  ,0,1,0,0,5,4,0.09837207,0.84683716,0.054790735,Neg,-0.74846506,topdowncharts
+1197,2017-02-20 21:36:03,TuesdayTechnicals - US small caps breaking out from a bull flag formation   $IWM $RUT  ,0,1,0,0,1,4,0.79248714,0.061547972,0.14596479,Pos,0.73093915,topdowncharts
+1198,2017-02-20 21:33:01,TuesdayTechnicals - Biotech stocks have broken up out of a symmetrical triangle   $XBI $IBB  ,1,1,0,0,10,13,0.16123708,0.763102,0.075660914,Neg,-0.60186493,topdowncharts
+1200,2017-02-20 21:29:04,"TuesdayTechnicals - Crude oil trading in an ascending triangle pattern, when will it break?    ",0,1,1,0,9,10,0.044463187,0.04729442,0.90824246,Neu,-0.0028312318,topdowncharts
+1202,2017-02-20 17:31:01,Latest reading says 53% of the world's stock markets are in a bull market    $ACWI  ,0,1,0,0,13,10,0.03977449,0.45998445,0.500241,Neu,-0.42020997,topdowncharts
+1204,2017-02-19 19:11:05,The $VIX vs sentiment divergence remains - what will it take to close the gap?    $VXX $SPX  ,0,1,1,0,11,5,0.04521174,0.03891043,0.91587776,Neu,0.00630131,topdowncharts
+1205,2017-02-19 19:11:04,Weekly equity sentiment poll results: Technicals vs Fundamentals bull/bear spreads   $SPX  ,0,1,0,0,5,5,0.08581917,0.6252241,0.28895682,Neg,-0.5394049,topdowncharts
+1211,2017-02-15 17:25:01,SLOOS is saying something about US High Yield Credit:    $HYG $JNK $LQD  ,0,1,0,0,11,13,0.07309612,0.026842998,0.9000609,Neu,0.046253122,topdowncharts
+1215,2017-02-14 17:45:05,"Just working out how to ""film"" my desktop, but I plan to put up some commentary on the latest Tuesday Macro Technicals report today  ",0,1,0,0,0,1,0.039429903,0.03077089,0.92979926,Neu,0.008659013,topdowncharts
+1217,2017-02-14 17:43:02, still very much range-bound.. but my indicators show rising odds of a breakout (most likely upside),0,1,0,0,0,0,0.9324753,0.04117695,0.026347697,Pos,0.89129835,topdowncharts
+1219,2017-02-14 17:41:00, interesting... property prices also key,0,1,0,1,0,0,0.115106925,0.01908571,0.8658074,Neu,0.09602121,topdowncharts
+1220,2017-02-14 17:40:04, I think the rebound in PPI inflation is more bullish...,0,1,0,0,0,0,0.5702148,0.25122216,0.17856298,Pos,0.31899264,topdowncharts
+1221,2017-02-14 17:40:01, BOJ have already gone into stealth taper mode,1,1,0,0,0,0,0.012965653,0.935863,0.051171362,Neg,-0.92289734,topdowncharts
+1223,2017-02-14 16:53:01,Medium term sentiment souring on European equities    $STOXX $HEDJ  ,0,1,0,0,5,3,0.012407338,0.9527955,0.034797154,Neg,-0.94038814,topdowncharts
+1224,2017-02-14 10:10:01,China is seeing rising consumer price inflation  ,0,1,0,1,17,11,0.054161593,0.9070862,0.038752183,Neg,-0.8529246,topdowncharts
+1225,2017-02-13 21:16:05,TuesdayTechnicals - Crude Oil is undergoing an extreme compression in volatility   OOTT $OIL  ,0,1,0,2,6,12,0.25338352,0.27203065,0.4745858,Neu,-0.018647134,topdowncharts
+1227,2017-02-13 21:14:02,TuesdayTechnicals - Japanese government bond yields face continued upward pressure    $BONDS  ,1,1,0,0,1,4,0.1595586,0.8202954,0.020146,Neg,-0.6607368,topdowncharts
+1228,2017-02-13 21:12:04,TuesdayTechnicals - Emerging market equities have broken out!!  What's next?     $EEM $VWO  ,1,1,0,0,5,9,0.1054688,0.104289025,0.7902421,Neu,0.0011797771,topdowncharts
+1231,2017-02-12 18:32:02,"The $SPX sentiment vs $VIX divergence is slowly closing, but the VIX ain't helping...    ",0,1,0,0,7,3,0.040398207,0.8447218,0.11488002,Neg,-0.8043236,topdowncharts
+1232,2017-02-12 18:31:01,The latest poll shows the bulls vs bears spread improving for both technicals & fundamentals    ,0,1,0,0,2,2,0.95185214,0.0241288,0.024019191,Pos,0.92772335,topdowncharts
+1234,2017-02-10 19:18:02,"Weekly Macro Themes - 10 Feb 2017   (global economy, SLOS warning signs, Indian equities, the VIX, and ""ZTRP"")",0,1,0,0,1,2,0.025527569,0.041890174,0.93258226,Neu,-0.016362606,topdowncharts
+1235,2017-02-10 09:19:05,"New post at  --&gt; Commodity longs at a 10-year high (and ""so what?"")   $CRB $DBC  ",0,1,0,2,5,11,0.6941547,0.043738347,0.26210698,Pos,0.6504163,topdowncharts
+1236,2017-02-08 20:46:03,Commodities positioning the most stretched 10 years! here's why that might be a good thing:    ,0,1,1,0,5,7,0.11930392,0.029250111,0.85144603,Neu,0.09005381,topdowncharts
+1238,2017-02-07 16:42:05,Gold speculative futures positioning heading higher after putting in a higher low   $GLD $GDX  ,0,1,0,1,5,5,0.86047965,0.10236261,0.037157707,Pos,0.758117,topdowncharts
+1239,2017-02-07 16:41:05,"Copper speculative futures positioning extreme, but looks reminiscent of the early 2000's    ",0,1,0,0,6,6,0.3687589,0.13735999,0.49388117,Neu,0.2313989,topdowncharts
+1242,2017-02-06 21:58:05,TuesdayTechnicals - The $VIX is a little too quiet and these signals say so:    $VXX $SPX  ,0,1,0,0,12,11,0.033302028,0.0631821,0.9035159,Neu,-0.029880073,topdowncharts
+1243,2017-02-06 21:57:05,TuesdayTechnicals - Gold is in the process of breaking out:    $GLD $GDX $GDXJ  ,0,1,0,0,5,6,0.106636845,0.029094739,0.86426836,Neu,0.077542104,topdowncharts
+1245,2017-02-06 21:48:03,TuesdayTechnicals - Bond yields look like they're lost in a Bermuda triangle    $TLT $BONDS  ,1,1,0,0,7,4,0.07353897,0.3129979,0.61346316,Neu,-0.23945895,topdowncharts
+1248,2017-02-06 18:32:05,Here's that sentiment vs $VIX chart - still a gap:    ,0,1,0,1,6,6,0.13956918,0.35864428,0.50178653,Neu,-0.2190751,topdowncharts
+1250,2017-02-02 04:52:04,  the topdown is in.,0,1,0,0,0,1,0.12737909,0.017600933,0.85502,Neu,0.10977816,topdowncharts
+1253,2017-02-01 23:36:04,"Be sure to follow Topdown Charts on LinkedIn:    We post charts there too, but with a little bit more comment/context",0,1,0,0,3,2,0.04688889,0.018258406,0.93485266,Neu,0.028630486,topdowncharts
+1254,2017-02-01 19:20:03,A look under the hood shows underlying strength in China's manufacturing PMI:    $ASHR $FXI  ,0,1,0,0,3,3,0.9252553,0.01811123,0.056633476,Pos,0.90714407,topdowncharts
+1256,2017-02-01 01:09:03,The historical seasonal pattern is that enthusiasm wanes from here...     ,0,1,0,1,6,7,0.019739611,0.9033407,0.07691964,Neg,-0.88360107,topdowncharts
+1258,2017-01-31 18:12:04,Median bond yield across global sovereign bonds has put in a head & shoulders pattern   $BONDS  ,1,1,0,0,5,5,0.78388655,0.07637871,0.13973479,Pos,0.70750785,topdowncharts
+1260,2017-01-31 16:32:05,Russell2000 speculative futures positioning remains stretched (but...):   $IWM $RUT  ,1,1,0,0,1,4,0.1873325,0.651894,0.16077359,Neg,-0.46456146,topdowncharts
+1263,2017-01-31 02:51:00,TuesdayTechnicals - Emerging market equities face a key test...    $EEM $VWO  ,0,1,0,0,0,4,0.89428073,0.036044754,0.069674514,Pos,0.85823596,topdowncharts
+1265,2017-01-31 02:47:02,"TuesdayTechnicals - Crude oil volatility compression, get ready for a big move   OOTT $OIL  ",0,1,0,0,11,6,0.26815283,0.020463442,0.71138376,Neu,0.2476894,topdowncharts
+1267,2017-01-30 17:36:04,Global monetary policy map - a turning point?     ,0,1,0,0,7,7,0.120135345,0.038707424,0.84115726,Neu,0.08142792,topdowncharts
+1269,2017-01-27 18:54:01,This is one of the most important charts in the latest edition of the Weekly Macro Themes:    ,0,1,0,0,14,16,0.040914293,0.020869799,0.9382159,Neu,0.020044494,topdowncharts
+1271,2017-01-26 15:54:01,Good flash PMI numbers on services and manufacturing for the US in January -- extending the rebound.  $MACRO $FED  ,0,1,0,0,6,5,0.94989645,0.02729204,0.022811433,Pos,0.92260444,topdowncharts
+1274,2017-01-25 17:29:02,Global shipping cost indexes have made a remarkable turnaround:    $MACRO $BDI  ,1,1,0,0,4,4,0.94782555,0.018497363,0.033676993,Pos,0.9293282,topdowncharts
+1275,2017-01-24 18:13:03,The rebound in DM manufacturing PMIs is driving the push higher in bond yields:    $TLT $IEF  ,0,1,0,1,7,9,0.921367,0.045435466,0.03319752,Pos,0.8759315,topdowncharts
+1277,2017-01-24 17:41:03,What is the implied correlation index implying?    $JCJ $KCJ $SPX  ,0,1,0,0,6,3,0.028348409,0.0331055,0.9385461,Neu,-0.0047570914,topdowncharts
+1278,2017-01-24 17:40:04,Looking at the $DXY bull market of the 90's there were numerous circa-7 point corrections:    ,1,1,0,2,11,19,0.06360484,0.37221894,0.5641762,Neu,-0.3086141,topdowncharts
+1279,2017-01-24 10:00:04,Similarly $AUDUSD speculative futures positioning is making higher lows:    ,0,1,0,0,1,2,0.031490244,0.95268905,0.015820645,Neg,-0.9211988,topdowncharts
+1280,2017-01-24 09:59:04,Bullish signal as gold speculative futures positioning puts in a higher low:    $GLD $GDX  ,0,1,0,0,2,5,0.5414931,0.41238555,0.046121337,Pos,0.12910756,topdowncharts
+1281,2017-01-24 04:09:04, call me back when it comes to Queenstown,0,1,0,0,0,0,0.04053409,0.031431835,0.9280341,Neu,0.009102255,topdowncharts
+1283,2017-01-24 02:44:00," troublesome indicator - sometimes spikes at a market bottom, sometimes at a top, but does provide another view of sentiment",0,1,0,1,0,0,0.045832526,0.14044479,0.8137226,Neu,-0.094612256,topdowncharts
+1284,2017-01-24 00:02:04,TuesdayTechnicals - Playing the ranges with an Aussie     $AUDUSD  ,0,1,0,0,2,3,0.12807181,0.014780234,0.857148,Neu,0.113291584,topdowncharts
+1288,2017-01-23 23:56:01,TuesdayTechnicals - Bull flag continuation pattern spotted on the UST10Y yield   $IEF $TLT  ,1,1,0,0,2,1,0.11706751,0.6679201,0.21501231,Neg,-0.5508526,topdowncharts
+1289,2017-01-23 17:54:03,China A-shares have seen a big league turnaround in earnings momentum:    $ASHR $FXI  ,1,1,0,0,2,9,0.9512919,0.016840942,0.031867255,Pos,0.934451,topdowncharts
+1290,2017-01-23 17:52:02,Here's a key reason why today's flash manufacturing PMIs matter:    $BONDS $MACRO $TLT $IEF  ,0,1,0,0,2,4,0.04121546,0.022327855,0.93645674,Neu,0.018887606,topdowncharts
+1291,2017-01-23 17:45:04,What's your view on TechnicalAnalysis?  ,0,1,0,0,5,4,0.034264743,0.057065334,0.9086699,Neu,-0.02280059,topdowncharts
+1292,2017-01-23 09:29:03,"A key part of China's ""One Belt One Road"" or OBOR is up and running now:    $MACRO $ASHR $FXI  ",0,1,0,0,10,7,0.23270012,0.012502008,0.7547979,Neu,0.22019811,topdowncharts
+1293,2017-01-23 01:47:03,Thought piece: Is Technical Analysis BS?  ,1,1,0,0,4,8,0.03607438,0.08723491,0.8766907,Neu,-0.051160526,topdowncharts
+1294,2017-01-23 00:16:02," well the thing is I've only been running the survey for 30 weeks, so that's all the history right there",1,1,0,0,0,0,0.044447944,0.072009765,0.88354224,Neu,-0.027561821,topdowncharts
+1295,2017-01-22 21:21:04, yes there is essentially disagreement between the two indicators,0,1,0,0,0,0,0.13551903,0.24091268,0.62356824,Neu,-0.10539365,topdowncharts
+1296,2017-01-22 20:08:02,A divergence has opened up between equity sentiment and the $VIX    $VXX $UVXY $VIXY $TVIX  ,1,1,0,0,9,16,0.22542758,0.40558836,0.36898407,Neg,-0.18016078,topdowncharts
+1298,2017-01-22 17:35:02,"Jan Flash PMIs for US, Europe, Japan this week, here's where things stand as of December:    ",0,1,0,1,5,9,0.025849594,0.05237555,0.9217748,Neu,-0.026525958,topdowncharts
+1299,2017-01-22 17:18:05,ChartBrief 50 China's rail freight turnover is rebounding rapidly:    $MACRO  ,0,1,0,0,7,12,0.9482298,0.025801638,0.025968539,Pos,0.92242813,topdowncharts
+1300,2017-01-22 16:23:03," thanks, good chart - I would suggest tightening up the axis to accentuate the signals",0,1,1,2,0,0,0.66068906,0.025767453,0.31354344,Pos,0.6349216,topdowncharts
+1301,2017-01-21 21:10:04, thank you sir,0,1,0,0,0,0,0.2825632,0.012897366,0.7045394,Neu,0.26966584,topdowncharts
+1302,2017-01-21 07:15:02,Here's a chart tracking the prevalence of various magnitude moves in the S&P500    $SPX $VIX  ,0,1,0,1,4,6,0.032693706,0.06643764,0.90086865,Neu,-0.033743933,topdowncharts
+1303,2017-01-21 03:20:01,Here's an alternative view on volatility for the S&P500:    $SPX $VIX  ,0,1,0,1,16,20,0.022709131,0.05494667,0.9223442,Neu,-0.032237537,topdowncharts
+1305,2017-01-20 18:07:01,Here's some key takeaways from the Q4 China data and thoughts on the outlook for 2017    ,0,1,0,0,2,5,0.06643339,0.020315176,0.91325146,Neu,0.046118215,topdowncharts
+1306,2017-01-20 17:53:00,Weekly Macro Themes - China Special   (let me know if you want a copy or a trial)  ,0,1,0,1,11,9,0.035584047,0.024037404,0.9403785,Neu,0.011546643,topdowncharts
+1308,2017-01-19 16:40:03,"Just reached 2000 followers!!  Thank you for your support, I truly appreciate your help as I get this business up and running.",1,1,0,1,0,8,0.7583212,0.01093298,0.23074584,Pos,0.74738824,topdowncharts
+1311,2017-01-19 03:31:03,Here's a couple of follow up charts for the Deflation vs Inflation vs hyperinflation visualization -- this time it's mentions in books.  ,0,1,0,1,3,5,0.03416622,0.033011686,0.9328221,Neu,0.0011545345,topdowncharts
+1312,2017-01-19 02:00:03,Got an interesting chart to share? Come join the Global Macro Charts group on LinkedIn:  ,0,1,0,0,3,4,0.06039791,0.0160931,0.923509,Neu,0.04430481,topdowncharts
+1313,2017-01-19 01:01:00,"Here's the monthly view of property price changes in China (secondary market) - still expanding, but clear slowing...  ",0,1,0,0,4,3,0.12906426,0.12602615,0.7449096,Neu,0.0030381083,topdowncharts
+1314,2017-01-19 00:54:03,  but there is a cyclical story around that structural view,0,1,0,0,0,1,0.03713757,0.18767981,0.77518266,Neu,-0.15054224,topdowncharts
+1315,2017-01-19 00:54:01,  housing investment will fall in China because they've already done a huge amount of building...,1,1,1,1,0,1,0.013470818,0.95023596,0.03629329,Neg,-0.93676513,topdowncharts
+1318,2017-01-18 20:56:04,$ECB meeting coming up - this chart will make things awkward:     $EURUSD $MACRO  ,0,1,1,1,16,15,0.025209315,0.71241283,0.2623778,Neg,-0.6872035,topdowncharts
+1319,2017-01-18 20:14:03,"On the topic of inflation, here's inflation expectations making a synchronized upturn    ",0,1,0,0,4,5,0.08036636,0.04201557,0.8776181,Neu,0.038350787,topdowncharts
+1323,2017-01-18 16:31:03,The rebound in China's property prices has helped PPI go from deflation to inflation   $MACRO  ,1,1,0,1,4,3,0.93803835,0.022303822,0.0396578,Pos,0.9157345,topdowncharts
+1324,2017-01-18 08:51:05," indeed, suspect the next one will be deeper",0,1,1,0,0,1,0.10474936,0.01877463,0.876476,Neu,0.08597473,topdowncharts
+1326,2017-01-18 04:16:04,China Property prices rise an average 10.5% in December (NBS)     ,0,1,0,1,7,9,0.13933387,0.032913726,0.8277525,Neu,0.106420144,topdowncharts
+1327,2017-01-17 18:46:03,"Aside from high valuations, monetary support is quickly drying up for the NZX   $ENZL $NZDUSD  ",0,1,0,0,2,2,0.011341586,0.96339744,0.025260884,Neg,-0.9520559,topdowncharts
+1329,2017-01-17 08:44:04,Surprised by rising inflation? You're not the only one...    $MACRO $BONDS  ,1,1,0,0,4,3,0.10487093,0.14203873,0.7530904,Neu,-0.037167802,topdowncharts
+1331,2017-01-17 08:27:01,Something very surprising is going on in the global economy right now...    $MACRO  ,0,1,0,1,18,20,0.034250945,0.71402127,0.2517278,Neg,-0.67977035,topdowncharts
+1332,2017-01-16 23:23:03,TuesdayTechnicals - Korean equities: Ascending the triangles...    $EWY $DBKO  ,0,1,0,0,2,4,0.4344838,0.028272942,0.53724325,Neu,0.40621084,topdowncharts
+1333,2017-01-16 23:21:02,TuesdayTechnicals - Coffee is starting to perk up again - but is it decaf or the real deal?    ,0,1,0,1,3,6,0.08833645,0.018398063,0.8932655,Neu,0.06993839,topdowncharts
+1334,2017-01-16 23:19:02, it's going to be one of the big calls to get wrong or right for active asset allocators this year,0,1,0,1,0,0,0.12093017,0.045473747,0.83359617,Neu,0.075456426,topdowncharts
+1335,2017-01-16 23:17:01,"TuesdayTechnicals - $GBPUSD undergoing a big Brexitdown ... oops, I mean Breakdown!     ",0,1,0,0,2,4,0.026973147,0.8910911,0.08193575,Neg,-0.864118,topdowncharts
+1336,2017-01-16 23:15:03,TuesdayTechnicals - This simple chart pattern is the key for a BIG trend change in Copper     ,0,1,0,0,4,4,0.124929935,0.013739622,0.8613305,Neu,0.11119031,topdowncharts
+1338,2017-01-16 17:50:04,"Euro Stoxx 50 trend line coming in to play again, will this time be different?     $VGK $HEDJ  ",0,1,1,0,5,9,0.077065885,0.0240798,0.8988543,Neu,0.052986085,topdowncharts
+1340,2017-01-16 16:52:01, here you go:   it's quite normal and rational for big shorts at the start of a hiking cycle,0,1,0,0,0,0,0.049360268,0.04795445,0.9026852,Neu,0.0014058165,topdowncharts
+1341,2017-01-16 16:51:02,"By request, here's that 10Y treasury speculative futures positioning chart with the Fed Funds Target Rate added    ",1,1,0,1,6,5,0.032733858,0.029306455,0.93795973,Neu,0.003427403,topdowncharts
+1344,2017-01-16 08:48:02,Technicals look bad for $GBPUSD despite undervaluation as discussed here:    ,1,1,0,1,2,3,0.032143783,0.9462556,0.021600649,Neg,-0.91411185,topdowncharts
+1345,2017-01-16 08:43:00,The $GBPUSD is increasingly undervalued and increasingly a crowded short:    ,1,1,0,0,8,6,0.012135265,0.94395775,0.043906912,Neg,-0.9318225,topdowncharts
+1348,2017-01-15 21:03:05, hmmmm are you calling for a 3rd line in the chart?,0,1,0,1,0,0,0.038437653,0.08592007,0.87564224,Neu,-0.04748242,topdowncharts
+1350,2017-01-15 17:32:01,Is speculative futures positioning in US Treasuries really that extreme?    $BONDS  ,0,1,0,1,9,7,0.077344194,0.11319752,0.80945826,Neu,-0.035853326,topdowncharts
+1351,2017-01-15 17:31:05,Here's a look at the absolute level of futures positioning in US treasuries:    $TLT $IEF  ,0,1,0,0,1,4,0.043602407,0.026439086,0.9299585,Neu,0.017163321,topdowncharts
+1352,2017-01-14 19:42:02, agree re yields aspect:  ,0,1,0,0,1,1,0.022122588,0.045366563,0.9325108,Neu,-0.023243975,topdowncharts
+1353,2017-01-14 01:01:05,"  indeed, in the report there's 2 charts based on yields/policy that would suggest a rally towards 115",1,1,1,0,0,0,0.22946362,0.07418956,0.6963468,Neu,0.15527406,topdowncharts
+1354,2017-01-14 01:00:02, analog charts work great (until you update them)...  what's your pick for DXY outlook?,0,1,0,1,0,0,0.042006254,0.03026097,0.92773277,Neu,0.011745283,topdowncharts
+1355,2017-01-14 00:58:04," thanks, yes I think so - there is a compelling yield support case",0,1,0,0,0,1,0.92164516,0.012682088,0.065672725,Pos,0.9089631,topdowncharts
+1356,2017-01-14 00:57:05,"   thanks, albeit - this chart takes the average of several markets/countries (not just US/VIX)...",0,1,0,0,0,2,0.07641251,0.018091898,0.9054956,Neu,0.058320608,topdowncharts
+1357,2017-01-14 00:56:05,"   no. If anything, I would suggest it's an element of political risk exhaustion, maybe even a peak...",0,1,1,0,0,0,0.16622846,0.038344726,0.79542685,Neu,0.12788373,topdowncharts
+1361,2017-01-13 02:27:04,"     sounds good, planning a trip to Queenstown?",0,1,0,0,0,0,0.06430198,0.022544967,0.9131531,Neu,0.041757017,topdowncharts
+1362,2017-01-13 00:57:03,"Following on from that bull market chart, here's the global ""Bearmarketometer""    $ACWI $STUDY  ",0,1,0,0,7,5,0.052593473,0.022789001,0.9246175,Neu,0.029804472,topdowncharts
+1363,2017-01-12 17:20:03,Go time for the $VIX? Or is it simply a case that political risk has peaked:    ,1,1,0,0,5,8,0.033354983,0.669573,0.29707202,Neg,-0.636218,topdowncharts
+1364,2017-01-12 09:08:01," interesting chart, thanks",0,1,0,0,0,0,0.1192179,0.022812951,0.85796916,Neu,0.096404955,topdowncharts
+1365,2017-01-12 03:26:04,Half the world's equity markets are now in a bull market:    $ACWI $STUDY  ,0,1,0,0,15,10,0.04310927,0.4427223,0.5141684,Neu,-0.39961302,topdowncharts
+1366,2017-01-12 03:15:03,ChartBrief no.39 - Long Live the Bull Market: Half the World's Stock markets are now in a Bull Market:  ,0,1,0,0,2,3,0.038531993,0.03607489,0.9253931,Neu,0.002457101,topdowncharts
+1368,2017-01-11 21:28:05,  here you go  ,0,1,0,0,1,1,0.06238356,0.034113064,0.9035034,Neu,0.028270494,topdowncharts
+1369,2017-01-11 18:02:05,Reminder: 2016 End of Year Special edition of the Weekly Macro Themes is still available as a free download here:  ,0,1,0,0,3,1,0.035185203,0.025884572,0.9389302,Neu,0.009300631,topdowncharts
+1371,2017-01-11 17:42:01,China inflation starting to stir -- Will it force the PBOC to do the unthinkable?    ,0,1,0,0,6,8,0.026422516,0.7398376,0.23373991,Neg,-0.7134151,topdowncharts
+1372,2017-01-11 17:21:04,Notice the % of countries with contracting industrial production (the red line)     ,0,1,0,0,3,5,0.11552309,0.14982447,0.7346524,Neu,-0.034301378,topdowncharts
+1374,2017-01-11 17:09:03," interestingly though, this is one of those indicators like VIX where the time to be fearful is when the index is 'too low'...",0,1,0,0,0,1,0.04337029,0.20341061,0.75321907,Neu,-0.16004032,topdowncharts
+1375,2017-01-11 03:06:05,China economic policy uncertainty index - how do you say parabolic in Chinese?  ,0,1,0,2,8,5,0.026790923,0.11846043,0.8547486,Neu,-0.09166951,topdowncharts
+1376,2017-01-11 02:16:03,US economic confidence is suddenly surging after what's been a long recovery...  $MACRO $FED  ,1,1,0,1,7,0,0.9064306,0.05960409,0.033965353,Pos,0.8468265,topdowncharts
+1377,2017-01-10 22:56:05, and has taken most by surprise:  ,1,1,0,1,0,0,0.096833415,0.030361023,0.8728056,Neu,0.066472396,topdowncharts
+1378,2017-01-10 22:50:05," Interesting chart, thanks!",0,1,0,0,0,0,0.20590244,0.021808214,0.7722894,Neu,0.18409422,topdowncharts
+1380,2017-01-10 18:34:04,Rising PPI inflation likely to mean a surge in China's nominal GDP  ,0,1,0,3,6,9,0.8887416,0.08632923,0.024929106,Pos,0.8024124,topdowncharts
+1381,2017-01-10 17:29:02,"  Thanks, this is what happens when you try to draw charts before your morning coffee!  ",0,1,0,1,0,1,0.035557754,0.052593935,0.9118483,Neu,-0.017036181,topdowncharts
+1382,2017-01-10 17:27:05,"CORRECTION: Axes labeling was wrong, thanks to  for spotting  ",1,1,0,1,3,2,0.2608453,0.11727478,0.62187994,Neu,0.14357051,topdowncharts
+1383,2017-01-10 17:17:01,Rising PPI inflation has been positive for emerging market equities in the past...   $EEM $VWO  ,1,1,0,1,9,18,0.93587583,0.031658277,0.032465883,Pos,0.90421754,topdowncharts
+1384,2017-01-10 17:12:04,TuesdayTechnicals - Crude Oil seasonality says expect a choppy start to the year   OOTT $OIL  ,0,1,0,0,1,2,0.050488845,0.888966,0.06054517,Neg,-0.8384772,topdowncharts
+1385,2017-01-10 17:11:05,TuesdayTechnicals - Gold sitting around support - will this be the bottom?    $GLD $GDX  ,0,1,1,0,2,2,0.0387287,0.19013861,0.7711327,Neu,-0.15140991,topdowncharts
+1387,2017-01-10 08:58:05,  thanks Evan - yes I mention in the article it's not a H&S top (not at the top) but a likely continuation pattern,0,1,0,0,0,0,0.06269637,0.022018677,0.915285,Neu,0.04067769,topdowncharts
+1388,2017-01-10 02:06:00,"China PPI inflation continues to surprise to the upside, here's why that matters:    $MACRO  ",0,1,0,0,11,8,0.08891765,0.09989391,0.8111884,Neu,-0.010976262,topdowncharts
+1393,2017-01-09 22:26:02,TuesdayTechnicals - Gold up off support as futures positioning looks washed out    $GLD $GDX  ,1,1,0,0,9,6,0.4572928,0.4832981,0.059409074,Neg,-0.026005298,topdowncharts
+1394,2017-01-09 22:24:03,TuesdayTechnicals - Head & Shoulders pattern spotted on Mexican equities    $EWW  ,1,1,0,1,4,11,0.50057155,0.17547724,0.3239512,Pos,0.3250943,topdowncharts
+1395,2017-01-09 22:23:00,TuesdayTechnicals - Crude Oil speculative futures positioning short term Bearish   OOTT $OIL  ,0,1,0,0,8,4,0.2397967,0.69742775,0.06277559,Neg,-0.45763105,topdowncharts
+1396,2017-01-09 22:22:00,TuesdayTechnicals - JGB still have space to go before touching the longer term trend line:    ,0,1,0,0,2,3,0.17689182,0.041762076,0.7813461,Neu,0.13512975,topdowncharts
+1397,2017-01-09 22:21:01,"TuesdayTechnicals - US treasuries looking oversold, time for some consolidation...    $BONDS  ",0,1,0,0,2,4,0.349924,0.5655554,0.08452069,Neg,-0.2156314,topdowncharts
+1398,2017-01-09 17:19:05,The old $TED spread is just moseying about its long term average...  ,0,1,0,0,3,6,0.069073506,0.46935567,0.46157086,Neg,-0.40028217,topdowncharts
+1399,2017-01-09 17:14:01,S&P500 earnings outlook continues to improve:    ,0,1,0,1,11,10,0.95477724,0.025481675,0.019741075,Pos,0.92929554,topdowncharts
+1400,2017-01-09 17:07:01,S&P500 valuations are pushing towards the top end of the range:    $SPX $SPY  ,0,1,0,1,9,12,0.7135946,0.025649857,0.2607555,Pos,0.68794477,topdowncharts
+1401,2017-01-09 17:06:02,China December PPI due out today - here's how it's been tracking so far...    $MACRO $FXI  ,1,1,0,0,1,1,0.08583239,0.028998815,0.88516873,Neu,0.056833573,topdowncharts
+1403,2017-01-08 19:47:02,Sentiment on Fundamentals vs Technicals heading in opposite directions:    $SPX $QUANT  ,0,1,0,0,11,9,0.112303235,0.26572743,0.6219694,Neu,-0.1534242,topdowncharts
+1405,2017-01-08 17:48:00," thanks, wonder how much of that is immigration (imported labor force could be a potential offset to structural decline in DM)",1,1,1,0,0,2,0.048111886,0.8564829,0.09540521,Neg,-0.80837107,topdowncharts
+1406,2017-01-08 17:45:05,Check out our 2016 End of Year Special Edition:    Note: The weekly report starts back up this week -- want a trial?,0,1,0,0,2,1,0.041247867,0.028333887,0.93041825,Neu,0.01291398,topdowncharts
+1407,2017-01-08 17:40:03, great chart - looks like things have gone full circle,1,1,0,1,0,0,0.8700384,0.026099596,0.10386208,Pos,0.84393877,topdowncharts
+1409,2017-01-08 17:22:01,Emerging market equities remain vulnerable to a surge in the US dollar:    $EEM $VWO $DXY  ,0,1,0,0,7,12,0.10575045,0.87544423,0.018805306,Neg,-0.7696938,topdowncharts
+1412,2017-01-08 02:46:03,"  Me? No, independent research: trading would remove my independence & introduce bias, I let my clients take positions",0,1,1,1,0,1,0.04205438,0.11814151,0.83980405,Neu,-0.07608713,topdowncharts
+1413,2017-01-07 01:34:05,The Rise Of Emerging Markets - The New Reality And What Investors Need To Know    $EEM $VWO EmergingMarkets $MACRO,0,1,0,0,0,4,0.08601184,0.013173746,0.9008144,Neu,0.0728381,topdowncharts
+1414,2017-01-06 21:37:03,Heads up: it's usually about now that investor sentiment peaks & the economic surprise index rolls over seasonality    ,0,1,0,0,9,8,0.048241038,0.5241404,0.4276186,Neg,-0.47589937,topdowncharts
+1416,2017-01-06 21:31:05,"Biggest lesson of 2016 for investors comes from the election - watch your biases ""trade what you see...""    ",0,1,0,0,2,4,0.06128584,0.03577217,0.90294194,Neu,0.025513668,topdowncharts
+1420,2017-01-06 04:47:02,8. That fun old $SPX vs $USDCNY chart - the Renminbi stopped mattering for the S&P500...  ,1,1,0,6,9,10,0.13582687,0.06714174,0.7970314,Neu,0.06868513,topdowncharts
+1421,2017-01-06 04:45:04,"7. It really is a  thing: unless the PBOC hikes rates, more FOMC rate hikes mean the $USDCNY will be heading in one direction  ",0,1,1,0,8,8,0.08124137,0.22142705,0.6973315,Neu,-0.14018568,topdowncharts
+1422,2017-01-06 04:41:02,"6. It's a $FED thang... it's only really $USDCNY that's on the move, i.e. it's not a broad-based devaluation of the Renminbi at this stage.  ",0,1,0,1,4,7,0.060326364,0.04455632,0.8951173,Neu,0.015770044,topdowncharts
+1423,2017-01-06 04:39:03,5. People are starting to pay more attention to the $USDCNY according to  data...  ,0,1,0,0,4,3,0.16557007,0.03587108,0.79855883,Neu,0.12969899,topdowncharts
+1425,2017-01-06 04:25:02,3. Renminbi HIBOR vs SHIBOR interest rates - differences clearer on the less volatile 1-month series.  $USDCNY $USDCNH  ,0,1,0,0,9,16,0.3516546,0.4144486,0.2338968,Neg,-0.062794,topdowncharts
+1426,2017-01-06 04:12:04,"2. When interest rates move, currency markets listen...  ",0,1,0,0,5,3,0.054030713,0.093414806,0.85255456,Neu,-0.039384093,topdowncharts
+1427,2017-01-06 04:01:02,"1. Big moves in $USDCNH as the authorities step in - in the past big variances look like exhaustion, so maybe it's not a turning point.  ",0,1,0,0,4,1,0.1755869,0.11112396,0.7132891,Neu,0.06446294,topdowncharts
+1428,2017-01-06 03:55:03,Given recent fun and games with the Chinese Yuan or Renminbi it's only appropriate that we do a quick $USDCNY CNYChartStorm,1,1,0,0,2,6,0.059092008,0.016641477,0.9242665,Neu,0.042450532,topdowncharts
+1429,2017-01-06 01:35:03,Commodity volatility is trending down... $DBC $GSC  ,0,1,0,1,4,3,0.023517206,0.94243616,0.034046654,Neg,-0.91891897,topdowncharts
+1431,2017-01-05 17:03:00,Gold ETF flows looking increasingly washed out - bullish contrarian signal?   $GLD $GDX $GC_F  ,1,1,0,0,10,12,0.099857785,0.57915145,0.32099077,Neg,-0.47929367,topdowncharts
+1432,2017-01-05 16:53:04,"Despite improving cycle, US dollar strength continues to pose threat to EM    $EEM $VWO $MACRO  ",0,1,0,0,2,4,0.12344785,0.84831285,0.028239232,Neg,-0.724865,topdowncharts
+1433,2017-01-05 16:42:02,There has been a significant turnaround in the global PMIs (manufacturing and services) over the past few months.  ,1,1,0,0,6,10,0.95361036,0.02127768,0.02511192,Pos,0.9323327,topdowncharts
+1435,2017-01-05 05:34:04," true, very divergent of late (India's monetary reforms driving a lot of it):  ",0,1,0,0,0,0,0.09871938,0.07019444,0.83108616,Neu,0.028524943,topdowncharts
+1436,2017-01-05 05:29:02, if nothing else it's re-inflated the property bubble and kept the marginal speculative dollar occupied...,1,1,0,0,0,0,0.33349994,0.42390892,0.24259113,Neg,-0.09040898,topdowncharts
+1437,2017-01-05 03:04:03,"(on the other hand) ""fundamentals"" bull-bear spread may be signalling a short-term bottom    ",0,1,1,0,0,2,0.039744083,0.6493149,0.31094104,Neg,-0.6095708,topdowncharts
+1438,2017-01-05 02:53:00,Interesting chart from the weekly sentiment poll -- $VIX spike on the cards?    $VXX $TVIX  ,0,1,0,0,7,2,0.07966238,0.018467782,0.90186983,Neu,0.0611946,topdowncharts
+1439,2017-01-04 17:10:04,"$SPX earnings outlook continues to improve - one of the ""charts that worked in 2017"" - see:    ",1,1,0,0,12,9,0.9220965,0.016706137,0.061197404,Pos,0.9053904,topdowncharts
+1443,2017-01-04 08:12:04, here's an article that discussed this chart and the broader issues for $USDCNY (and $SPX)  ,1,1,0,0,3,3,0.028109416,0.02303823,0.94885236,Neu,0.0050711855,topdowncharts
+1446,2017-01-04 08:09:02,"  I thought data mining requires some statistical thing, this is just playing with axes - fun with charts (but...)",1,1,0,1,0,0,0.034825005,0.061252683,0.9039223,Neu,-0.026427679,topdowncharts
+1447,2017-01-04 08:08:01, could be - especially if it's a result of broad-based significant USD strength or something goin down in China on the CNY side,0,1,1,1,0,0,0.068467386,0.4700226,0.46150997,Neg,-0.4015552,topdowncharts
+1449,2017-01-03 18:48:01,"Interestingly, the same charts for bonds show a distinct turnaround in sentiment - time for a bounce in $BONDS?  ",0,1,0,0,1,1,0.9253776,0.029874772,0.044747643,Pos,0.8955028,topdowncharts
+1450,2017-01-03 18:43:00,Supplementary charts for the weekly equity sentiment survey - note the bulls vs bears spread for technicals vs fundamentals  ,0,1,0,1,1,1,0.033605967,0.058178492,0.9082156,Neu,-0.024572525,topdowncharts
+1451,2017-01-03 17:10:04,"China official PMIs ticked down slightly in December, but remain on an improving path (on the 3 month averages)  ",1,1,0,0,14,17,0.21292561,0.749995,0.037079416,Neg,-0.5370694,topdowncharts
+1452,2017-01-03 17:04:00,"The BalticDryIndex has come off the boil somewhat, but the China Containerized Freight Index remains on an upward trend...  $MACRO  ",1,1,0,0,5,4,0.69488364,0.2512734,0.053843014,Pos,0.44361025,topdowncharts
+1453,2017-01-03 16:59:02,"The latest round of PMI data continue to point to a mild upturn in GlobalTrade growth, as previously flagged:    ",1,1,0,1,6,2,0.89670855,0.08249002,0.020801477,Pos,0.8142185,topdowncharts
+1454,2017-01-03 16:47:05," by the way, for argument's sake here's what the Chart looks like if you exclude China from EM & developing  ",0,1,0,0,0,1,0.032937948,0.024499694,0.94256234,Neu,0.008438254,topdowncharts
+1455,2017-01-03 16:43:03, yes China is still an emerging market - I certainly would not call it developed. GDP per capita still far below DM average,0,1,1,0,0,1,0.023750832,0.9153531,0.06089603,Neg,-0.8916023,topdowncharts
+1456,2017-01-03 09:39:04,India sees short-term negative reaction in PMI following the demonetisation monetary reforms - look to Jan earliest for any rebound  ,0,1,0,1,3,2,0.012778703,0.9112757,0.07594567,Neg,-0.898497,topdowncharts
+1457,2017-01-03 09:37:00,Markit China mfg PMI +1.0 to 51.9 & Taiwan +1.5 to 56.2 -economic upturn on the mainland mirrored/confirmed in Taiwan  ,1,1,0,0,6,3,0.028637642,0.9462972,0.025065131,Neg,-0.9176596,topdowncharts

@@ -1,0 +1,98 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+3,2018-04-02 15:35:01,Where will the S&P 500 go from here?  ,0,0,1,0,0,1,0.03008447,0.09454599,0.8753695,Neu,-0.06446152,marketclub
+6,2018-03-30 16:15:02,"Rebalancing may not be something all investors want to do because it will increase transaction costs and tax liabilities at the end of the year. But, it is a simple, easy way to reduce risk.   Trading Investing Stocks",0,1,1,0,0,0,0.07029758,0.022194665,0.9075078,Neu,0.04810291,marketclub
+16,2018-03-27 17:16:01,"“Like Starbucks is to coffee, we believe Chalice will be to cannabis,” said William Simpson, Golden Leaf’s chief executive officer.    Canada Marijuana Potstocks CannabisCommunity",1,1,1,0,0,0,0.036393702,0.019371638,0.94423467,Neu,0.017022064,marketclub
+18,2018-03-27 13:15:01,"“Raising rates too slowly would raise the risk that monetary policy would need to tighten abruptly down the road, which could jeopardize the economic expansion.” - Jerome Powell   Fed FOMC",0,1,1,0,0,0,0.07140578,0.5958742,0.33271998,Neg,-0.5244684,marketclub
+50,2018-03-15 16:01:05,This one word can protect your portfolio from the pending TradeWar   Trump Trading ThursdayThoughts,0,1,1,0,0,0,0.06609343,0.023102993,0.91080356,Neu,0.04299044,marketclub
+65,2018-03-12 15:00:04,I would like to give you some insight about the global map for the pair of the single currency against the king currency (EUR/USD) to let you know where other opportunities could emerge as time goes by.   Forex EURUSD Euro Dollar,0,1,1,0,0,0,0.121314354,0.012007861,0.86667776,Neu,0.10930649,marketclub
+85,2018-03-03 15:36:01,Trump announced on Thursday that the U.S. would implement a 25 percent tariff on steel imports and a 10 percent tariff on aluminum imports next week.   SaturdayMorning,1,1,1,0,0,0,0.21393038,0.026077274,0.7599923,Neu,0.18785311,marketclub
+89,2018-03-01 16:56:01,"In a volatile marketplace, you can place your trust in this stock   SOTW Stocks",0,0,1,0,0,1,0.15067893,0.008874725,0.8404464,Neu,0.1418042,marketclub
+115,2018-02-20 16:55:01,Will this robust recovery continue further or are we setting up to head lower?   Stocks,0,1,1,0,1,2,0.41341516,0.15567616,0.4309086,Neu,0.257739,marketclub
+121,2018-02-15 16:45:01,It's green as far as the eye can see on the TopStocks list this morning   Stocks  ,0,1,1,0,1,1,0.11475578,0.02412279,0.8611214,Neu,0.09063299,marketclub
+138,2018-02-07 15:35:02,Happy Humpday! It's green as far as the eye can see on the TopStocks list   Stocks  ,0,1,1,0,0,0,0.103072025,0.015865298,0.8810626,Neu,0.08720673,marketclub
+140,2018-02-06 18:14:04, Please send and email to support and we'll get you fixed up straight away. Thx,1,0,1,0,0,0,0.065242,0.021796813,0.9129612,Neu,0.043445185,marketclub
+145,2018-02-05 17:05:01,Will a stronger dollar put even more downward pressure on oil prices in the coming years?   Oil Dollar,1,1,1,0,0,0,0.022957595,0.80716735,0.16987509,Neg,-0.7842097,marketclub
+153,2018-02-01 15:20:04,Even on a down day in the markets the TopStocks list will find the winners for you   Stocks  ,0,0,1,0,0,1,0.22709231,0.016899003,0.75600874,Neu,0.2101933,marketclub
+161,2018-01-29 17:49:01,Will Jerome Powell be a little more hawkish in raising interest rates?  Fed FOMC Interest Rates,0,1,1,0,0,0,0.064645156,0.090549305,0.84480554,Neu,-0.025904149,marketclub
+173,2018-01-23 16:54:01,Some ETF's saw their investments nearly disappear during what will be referred to as an “up” year for investors and the stock market.   Trading Investing,1,1,1,0,0,0,0.0108868,0.9397198,0.049393382,Neg,-0.928833,marketclub
+180,2018-01-19 16:55:01,"Disruptions can drive oil prices up in the short-term, ample strategic petroleum reserves exist in the U.S., Europe, and China to take care of any major, unexpected shortfall.   OPEC",0,1,1,0,0,0,0.25015327,0.6362593,0.11358736,Neg,-0.38610604,marketclub
+187,2018-01-17 13:43:05,Heating oil will beat wheat in our next pendulum experiment?   Futures Wheat HeatingOil,0,1,1,0,0,0,0.20941575,0.012456124,0.77812815,Neu,0.19695963,marketclub
+202,2018-01-09 19:04:02,"Based on the 2018 outlook for the oil industry and guidance for the next year, this stock could be fairly valued at around $75 per share - a gain of about 9.5% not considering the additional gains the dividend adds. SOTW Stocks Investing   ",1,1,1,0,0,0,0.3462583,0.013424982,0.6403168,Neu,0.33283332,marketclub
+206,2018-01-08 17:05:02,"As HealthEquity rolls out additional products such as the launch of its 401k offerings paired with HSA accounts, revenue will continue to accelerate with stock appreciation.   HQY Healthcare",1,1,1,0,0,0,0.9381508,0.010552078,0.051297113,Pos,0.9275988,marketclub
+213,2018-01-04 19:17:05,Will the DOW hit 30k before then end of 2018 as President Trump predicts?   DOW30K,1,1,1,0,0,0,0.09611211,0.021990096,0.88189775,Neu,0.07412201,marketclub
+230,2017-12-26 19:50:01,Check out the TopStocks list on the DayAfterChristmas. You just might find a gift for yourself!   Stocks  ,0,0,1,0,0,0,0.10241977,0.014962334,0.8826179,Neu,0.08745743,marketclub
+231,2017-12-26 16:57:04,Can McKesson beat earnings for a second consecutive quarter?   $MCK Stocks,0,0,1,0,0,0,0.81715375,0.018149085,0.16469717,Pos,0.7990047,marketclub
+236,2017-12-22 19:07:03,"As a homeowner in a high-tax Blue state, I’m not sure I have a whole lot to be personally happy about in the Trump tax reform bill. However, I’m happy that the measure passed   TaxReformBill Trump Taxes",1,1,1,0,0,0,0.4076746,0.020396462,0.571929,Neu,0.38727814,marketclub
+237,2017-12-22 15:55:04,Check out these 6 stocks that could benefit from California's recreational cannabis market PotStocks  ,0,0,1,0,0,1,0.29920653,0.007800275,0.6929932,Neu,0.29140624,marketclub
+242,2017-12-20 20:56:03,Check out these 6 stocks that could benefit from California's recreational cannabis market PotStocks  ,0,0,1,0,0,0,0.29920653,0.007800275,0.6929932,Neu,0.29140624,marketclub
+248,2017-12-18 16:28:00,Where will the price of Oil head in 2018? Higher or lower?   OPEC,0,0,1,0,0,0,0.06395526,0.10915014,0.82689464,Neu,-0.04519488,marketclub
+260,2017-12-13 13:15:01,"It doesn't happen often on Wall Street, but sometimes a good deal can be found right in front of you   SOTW",1,1,1,0,1,0,0.049463708,0.023185477,0.9273508,Neu,0.026278231,marketclub
+262,2017-12-12 18:27:03,"If rising home prices continue to occur, REIT’s will continue to benefit   RealEstate Investing",0,1,1,0,1,1,0.927637,0.011416562,0.060946424,Pos,0.9162204,marketclub
+276,2017-12-06 17:10:02,Will Bitcoin futures trading drive the price down?   Crypto BlockChain,0,1,1,0,1,0,0.04998634,0.18691272,0.7631009,Neu,-0.13692638,marketclub
+284,2017-12-04 16:55:01,Will the recent OPEC deal lead to higher U.S. shale production?   Oil Russia,0,0,1,0,1,0,0.1605708,0.02153381,0.81789535,Neu,0.13903698,marketclub
+285,2017-12-04 15:57:05,Green as far as the TopStocks list can see today!   Stocks  ,0,0,1,0,1,0,0.098706424,0.014404623,0.8868889,Neu,0.0843018,marketclub
+291,2017-11-30 16:37:00,It turns out that I grossly underestimated just how devious and cynical Richard Cordray - the former director of the CFPB - could be.   ThursdayThoughts,1,1,1,0,2,1,0.050818767,0.24545741,0.7037238,Neu,-0.19463864,marketclub
+297,2017-11-28 17:04:04,Square is trying to make a little extra money by allowing customers to partake in what could be reckless investment behavior and this experiment could end up costing both parties a lot of money in the long run.   Bitcoin Crypto Blockchain,0,1,1,0,1,0,0.02946014,0.119165815,0.85137403,Neu,-0.089705676,marketclub
+304,2017-11-24 17:10:02,Will Facebook break $200 a share this year?   $FB,0,0,1,0,1,0,0.056706306,0.08352855,0.8597651,Neu,-0.026822243,marketclub
+311,2017-11-21 20:09:05,"With ETF's you can easily purchase a small or large basket of retail stocks right before the holiday shopping season, benefit from the winners while not getting crushed by the losers.   BlackFriday Retail ETFs Trading",1,1,1,0,1,0,0.066521585,0.019944584,0.9135338,Neu,0.046577,marketclub
+328,2017-11-11 16:50:03,"We would like to acknowledge all of our veterans, fallen and living, and thank you for all that you do for this great nation! VeteransDay VeteransDay2017",1,1,1,0,1,1,0.20766804,0.013860227,0.7784717,Neu,0.19380781,marketclub
+331,2017-11-10 15:30:04,Happy Friday! Even on a down day in the markets the TopStocks list can find winners   Stocks  ,0,0,1,0,0,0,0.3921026,0.034377426,0.57351995,Neu,0.35772517,marketclub
+342,2017-11-06 16:21:00,Today I discuss why I think crypto-mining is a modern day gold rush and how you can profit from it.   Bitcoin Stocks,0,1,1,0,1,1,0.036914546,0.025298875,0.9377866,Neu,0.011615671,marketclub
+351,2017-11-02 14:24:00,Will the oil market face a new test when the seasonal slowdown in demand gets underway?   OPEC,0,1,1,0,1,0,0.032179084,0.58573693,0.38208398,Neg,-0.5535579,marketclub
+355,2017-11-01 12:58:03,Covered calls and covered put options can be very valuable regardless of your investing objective  ,1,1,1,0,1,1,0.09809532,0.011233082,0.8906716,Neu,0.086862236,marketclub
+358,2017-10-31 15:15:02,So what would actually cause a Bitcoin collapse?  ,0,0,1,0,1,0,0.026353778,0.28860348,0.6850427,Neu,-0.2622497,marketclub
+363,2017-10-28 16:18:03,"The housing market looks strong today, but as we saw in 2007-2008, it can turn nasty   Housing ETFs",1,1,1,0,1,0,0.041733958,0.8637508,0.09451522,Neg,-0.82201684,marketclub
+367,2017-10-26 23:05:01,This major Oil company could be your portfolio's best dividend payer for the foreseeable future   SOTW,0,0,1,0,1,0,0.77193743,0.008676592,0.21938594,Pos,0.76326084,marketclub
+370,2017-10-26 16:45:02,Will President Trump retain Yellen or will he go with someone new?    Fed,0,1,1,0,1,0,0.04997999,0.022852555,0.9271675,Neu,0.027127434,marketclub
+377,2017-10-24 16:01:01,"Global demand is going into a seasonal decline, inventory will likely end only modestly lower at end-2017   OPEC Oil",0,1,1,1,1,0,0.010785376,0.96734136,0.0218733,Neg,-0.95655596,marketclub
+384,2017-10-20 17:05:03,Who will our next Fed chair be?   Trump FOMC,0,0,1,0,1,0,0.028562034,0.0309268,0.94051117,Neu,-0.0023647659,marketclub
+398,2017-10-12 17:46:04,I feel that HealthEquity will continue to post strong growth as it services the HSA market   Healthcare Trump $HQY,0,1,1,0,1,0,0.94279534,0.010750013,0.046454694,Pos,0.93204534,marketclub
+404,2017-10-10 17:02:01,Will the Fed drop the hammer on Wells Fargo?   $WFC,0,0,1,0,1,1,0.040160052,0.40796667,0.5518733,Neu,-0.3678066,marketclub
+408,2017-10-09 15:41:03,"Long-term investors, should be patient when it comes to gold  ",0,1,1,0,0,1,0.059396744,0.019364929,0.9212383,Neu,0.040031813,marketclub
+418,2017-10-03 19:55:01,A small company that could make a big difference   SOTW Stocks,0,0,1,0,1,1,0.20162122,0.009545271,0.78883344,Neu,0.19207595,marketclub
+425,2017-09-30 15:26:03,Should you be investing in Marijuana   Cannabis,0,1,1,0,1,0,0.04425889,0.022658907,0.9330822,Neu,0.021599982,marketclub
+436,2017-09-27 15:57:04,The Fed’s decision could have a double impact on US interest rates as falling US Treasury notes increase the yields  ,0,1,1,0,1,0,0.040467907,0.9233015,0.036230527,Neg,-0.8828336,marketclub
+457,2017-09-19 17:05:02,"For investors looking for a value buy, gold miners could be the way to go.  ",0,1,1,0,1,0,0.07029325,0.029566767,0.90014,Neu,0.040726483,marketclub
+475,2017-09-12 16:47:00,"For value investors, this retailer could be a surprise breakout stock for the latter half of 2017   SOTW Investing",0,1,1,0,1,0,0.16933876,0.15485528,0.675806,Neu,0.014483482,marketclub
+477,2017-09-11 22:56:00,We will never forget those who lost their lives on 9/11 & honor the brave men and women who responded NeverForget 911Day  ,1,0,1,0,1,1,0.1660659,0.024718946,0.8092152,Neu,0.14134696,marketclub
+481,2017-09-11 14:10:01,Limiting one’s options trades to large-cap dividend paying household names can mitigate risk   Options $NKE $CVS $DIS,0,1,1,0,1,0,0.26382333,0.01973431,0.71644235,Neu,0.24408902,marketclub
+491,2017-09-06 15:30:00,After a tough opening day it's green as far as the eye can see on the TopStocks list   HumpDay  ,0,1,1,0,2,1,0.13559458,0.0366629,0.8277426,Neu,0.09893168,marketclub
+493,2017-09-05 21:44:04,These stocks could be bargain buys is Silver continues to rise  ,1,1,1,0,1,0,0.3368056,0.024564529,0.6386299,Neu,0.31224108,marketclub
+520,2017-08-24 16:20:05,Green as far as the eye can see on the TopStocks list today    ,0,0,1,0,1,0,0.058830816,0.018059542,0.9231097,Neu,0.040771276,marketclub
+526,2017-08-22 15:22:01,Crude investors who have a knack for predicting big moves can make a lot of money trading the $VIX   ETFs Investing,0,1,1,0,1,0,0.0663808,0.024908124,0.9087111,Neu,0.041472673,marketclub
+538,2017-08-16 18:39:04,"The stock market may end the year where it is today, but you can still make money   ETF Stocks Investing",0,1,1,0,1,0,0.08691135,0.027222099,0.8858666,Neu,0.059689254,marketclub
+553,2017-08-10 16:03:04,Even on a down day in the markets the TopStocks list can produce winners    ,0,0,1,0,0,0,0.29257226,0.09716143,0.6102663,Neu,0.19541083,marketclub
+558,2017-08-08 16:14:01,The best thing the U.S. govt can do for the American people and economy may be nothing   Gridlock Congress Trump,0,0,1,0,0,0,0.11680092,0.013403581,0.8697955,Neu,0.10339734,marketclub
+567,2017-08-03 19:23:01,I want to share a cannabis stock that I believe Warren Buffett would love   $IVITF PotStocks Marijuana,0,1,1,0,0,0,0.16225208,0.007876652,0.8298713,Neu,0.15437543,marketclub
+618,2017-07-13 17:05:02,OPEC may have learned the folly of “talking up” the market. They have been unusually quiet in recent weeks   Oil,1,1,1,0,0,0,0.02766433,0.6537659,0.31856975,Neg,-0.6261016,marketclub
+633,2017-07-06 19:01:02,Which commodity will prevail?   OrangeJuice Palladium,0,0,1,0,0,0,0.06298807,0.016551314,0.92046064,Neu,0.046436757,marketclub
+642,2017-07-01 16:03:04,Currency Hedging ETF's; Why You Would Buy Them   Investing,0,1,1,0,0,0,0.054234732,0.022263471,0.9235018,Neu,0.03197126,marketclub
+658,2017-06-26 19:09:01,Could the Nikkei 225 could be heading for another long bullish cycle?   Forex Yen USDJPY  ,0,1,1,0,0,0,0.044669606,0.6079862,0.34734413,Neg,-0.5633166,marketclub
+665,2017-06-23 15:56:02,Today's TopStocks list should help you with that FridayFeeling    ,0,1,1,0,0,0,0.17143673,0.011476457,0.8170868,Neu,0.15996027,marketclub
+683,2017-06-15 19:50:00,Can Corbus Pharmaceuticals (NASDAQ:CRBP) deliver Anabasum to big profits? $CRBP   PotStocks Cannabis,0,0,1,0,0,0,0.15260173,0.008556791,0.8388415,Neu,0.14404494,marketclub
+716,2017-06-01 15:19:04,Consumer protection shouldn't be a partisan issue   Trump CFPB,0,0,1,0,0,0,0.055629373,0.022523114,0.9218475,Neu,0.03310626,marketclub
+723,2017-05-27 16:08:03,Should you be involved in crude oil?   Oil OPEC,1,0,1,0,0,0,0.037425704,0.021654623,0.94091976,Neu,0.015771082,marketclub
+746,2017-05-18 16:00:05,This fund could be a perfectly good way to invest in cannabis   ETFs Marijuana,0,0,1,0,0,1,0.38169596,0.008007023,0.610297,Neu,0.37368894,marketclub
+753,2017-05-16 13:50:00,Will global oil inventories continue to increase as production cuts are being extended? OPEC  ,1,1,1,0,0,0,0.3274271,0.027849192,0.64472365,Neu,0.2995779,marketclub
+790,2017-05-01 18:06:02,Copper could face strong headwinds from China and Australia   Copper,0,0,1,0,0,0,0.020268194,0.95844865,0.021283122,Neg,-0.93818045,marketclub
+813,2017-04-21 01:25:00,"Honey my head hurts, can you please pass me the hemp oil?   Cannabis PotStocks Happy420",0,0,1,0,0,1,0.047367018,0.041455187,0.9111778,Neu,0.005911831,marketclub
+815,2017-04-20 21:25:00,The cannabis industry has been waiting to see how the Trump admin will handle it   WeedWeek PotStocks Happy420,1,1,1,0,0,1,0.049681164,0.016168946,0.93414986,Neu,0.03351222,marketclub
+845,2017-04-10 16:55:01,History often repeats itself. Will that be case for Gold and Silver? ,0,1,1,0,0,0,0.044137105,0.04107222,0.9147907,Neu,0.0030648857,marketclub
+847,2017-04-08 15:53:03,The only way I would play the IPO market   Stocks  ,0,0,1,0,0,0,0.035588738,0.024927545,0.93948376,Neu,0.010661192,marketclub
+861,2017-04-04 19:05:01,"If you're looking for a great play outside the US, this European energy company will fill the role nicely   SOTW",0,1,1,0,0,0,0.16652219,0.00951464,0.8239632,Neu,0.15700755,marketclub
+868,2017-04-01 15:41:01,Could growing the U.S. oil inventory lower international inventory?   OPEC,0,1,1,0,0,0,0.15276079,0.6644161,0.18282309,Neg,-0.5116553,marketclub
+903,2017-03-21 15:35:00,This tool-maker could be the right fit for your portfolio   SOTW,0,0,1,0,0,0,0.22751956,0.0072054155,0.765275,Neu,0.22031415,marketclub
+920,2017-03-15 14:29:05,Now may be the time to buy Retail ETF's  ,0,0,1,0,0,0,0.095329076,0.010610858,0.8940601,Neu,0.08471822,marketclub
+945,2017-03-06 14:55:02,"Where will OPEC's cuts affect imports, inventories?   Oil",0,1,1,0,0,0,0.031206023,0.07194782,0.89684623,Neu,-0.040741798,marketclub
+949,2017-03-02 21:30:05,"If the Bitcoin ETF is approved, should you buy it?  ",1,1,1,0,0,0,0.08256058,0.012388284,0.9050512,Neu,0.070172295,marketclub
+978,2017-02-16 17:17:01,"As you can see, there is plenty to feel good about in the cannabis industry   Marijuana PotStocks WeedStocks",0,1,1,1,0,0,0.055296782,0.014515966,0.9301872,Neu,0.040780816,marketclub
+1004,2017-02-06 15:44:00,Niche ETF's you may want to look into   ETFs Stocks,0,0,1,0,0,0,0.048978858,0.014233207,0.9367879,Neu,0.03474565,marketclub
+1005,2017-02-04 14:39:05,Why U.S. Crude imports might not drop despite OPEC cuts Oil  ,0,0,1,0,0,0,0.02656459,0.89118534,0.08225009,Neg,-0.86462075,marketclub
+1014,2017-02-01 19:12:02,"Fed votes to leave rates unchanged, offers no hint about when the next increase may come FOMC  ",0,1,1,0,0,0,0.051930465,0.044457108,0.9036124,Neu,0.007473357,marketclub
+1016,2017-02-01 15:31:03,Would you buy a Bitcoin ETF?   $GBTC,0,0,1,0,0,0,0.047904022,0.017234914,0.934861,Neu,0.030669108,marketclub
+1029,2017-01-26 19:33:01,"In the early days of the Trump administration, what should investors be focusing on?   Trumponomics Gold  ",1,1,1,0,0,0,0.029494783,0.049639698,0.92086554,Neu,-0.020144915,marketclub
+1059,2017-01-17 15:14:02,Will Bitcoin be the leading currency in 2017?    ,0,0,1,0,0,0,0.12522016,0.011219562,0.86356026,Neu,0.1140006,marketclub
+1071,2017-01-10 15:59:00,Here's another fine mess Obama will dump on Trump  ,0,1,1,0,0,0,0.03096132,0.110492654,0.8585461,Neu,-0.079531334,marketclub
+1076,2017-01-07 16:50:00,Will the Nikkei continue to outpace silver in 2017?    ,0,1,1,0,0,0,0.42471817,0.21067029,0.36461148,Pos,0.21404788,marketclub
+1083,2017-01-04 18:16:01,Will Brazil turn the corner in 2017?    ,0,0,1,0,0,0,0.12118333,0.01824966,0.86056703,Neu,0.10293367,marketclub
+1088,2017-01-03 19:24:04," You're welcome, we're glad we can help",0,1,1,0,0,1,0.795158,0.014210145,0.19063175,Pos,0.78094786,marketclub

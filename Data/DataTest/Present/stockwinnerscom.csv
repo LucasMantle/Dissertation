@@ -1,0 +1,15 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+9,2020-03-27 13:51:04,I hear rumors that $MSFT is looking to buy $DBX. Note DBX co-founder Ferdousi resigned. Meg Whitman quit as director. $DBX takeover is coming.,1,1,0,0,0,0,0.017854733,0.72038895,0.2617564,Neg,-0.7025342,stockwinnerscom
+12,2019-03-13 16:22:03,   5G Service coming to Chicago and Minneapolis  $VZ $T $GOOG,0,1,0,0,0,0,0.13267624,0.013520732,0.85380304,Neu,0.11915551,stockwinnerscom
+27,2018-05-11 13:03:04,"Alcoa, Rio Tinto, Apple  announce 'world's first' carbon-free aluminum smelting process  Alcoa (AA) and Rio Tinto (RIO) announced what the companies called ""a revolutionary...  ",1,1,0,0,0,0,0.67401093,0.010638418,0.3153506,Pos,0.6633725,stockwinnerscom
+29,2018-05-06 03:13:01,Barron's is bullish on Apple and Exxon   via   $AAPL $XOM $BA Barrons,0,1,0,0,0,0,0.7534402,0.029116904,0.21744291,Pos,0.7243233,stockwinnerscom
+30,2018-05-06 03:12:01,"Barron’s, the weekly publication owned by the Wall Street Journal, in its latest issue mentions several names: BULLISH   MENTIONS Apple reaffirms position as tech's 'undisputed' leader - In a...  ",1,1,0,0,0,0,0.36165273,0.020536594,0.6178106,Neu,0.34111613,stockwinnerscom
+31,2018-05-06 03:12:00,Barron’s is bullish on Apple and Exxon    ,0,1,0,0,0,0,0.51247156,0.08924901,0.39827952,Pos,0.42322254,stockwinnerscom
+32,2018-05-02 13:41:05,"Apple announces new $100B buyback program, boosts dividend by 16%   via  $AAPL",0,1,0,0,0,0,0.94588375,0.021210706,0.032905575,Pos,0.924673,stockwinnerscom
+33,2018-05-02 13:41:02,"Apple announces new $100B buyback program, boosts dividend by 16% Apple (AAPL) said it will complete the execution of the previous $210B share repurchase authorization...  ",1,1,1,0,0,0,0.9483021,0.0180694,0.03362854,Pos,0.9302327,stockwinnerscom
+34,2018-05-02 13:41:01,"Apple announces new $100B buyback program, boosts dividend by 16%    ",0,1,0,0,0,0,0.9199514,0.039403543,0.040644996,Pos,0.8805478,stockwinnerscom
+35,2018-04-21 21:45:00,Barron's is bullish on GM and Delta   via   $AMZN  $MYL $DAL $GM,0,1,0,0,0,0,0.68144584,0.12446521,0.194089,Pos,0.5569806,stockwinnerscom
+37,2018-04-19 18:37:03,Amazon rises as Prime reaches 100M paid members Amazon's (AMZN) CEO Jeff Bezos told investors that the company has exceeded 100M paid members globally and has shipped more than 5B items with Prime...  ,1,1,0,0,0,0,0.9453463,0.019359337,0.035294265,Pos,0.92598695,stockwinnerscom
+39,2018-04-08 17:58:01,Barron's is bullish on Google   via   $GOOG  $FB $SPOT,0,1,0,0,0,0,0.75649834,0.07857238,0.16492929,Pos,0.67792594,stockwinnerscom
+40,2018-04-08 17:57:03,"Barron’s, the weekly publication owned by the Wall Street Journal, in its latest issue mentions several names: BULLISH   MENTIONS: Alphabet a 'bargain' in big tech - Alphabet (GOOG; GOOGL) has the...  ",1,1,0,0,0,0,0.09031728,0.017817592,0.89186513,Neu,0.072499685,stockwinnerscom
+41,2018-04-08 17:57:02,Barron’s is bullish on Google    ,0,1,0,0,0,0,0.4501682,0.04331442,0.5065174,Neu,0.40685377,stockwinnerscom

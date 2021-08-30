@@ -1,0 +1,337 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-07-29 12:41:00,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+1,2021-07-26 22:07:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,1,2,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+2,2021-07-21 22:22:04,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+3,2021-07-09 13:39:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+4,2021-07-02 07:56:02,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+5,2021-07-01 13:45:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+6,2021-06-29 13:26:01,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+7,2021-06-24 07:17:04,Apple $AAPL breakout stats  ,0,0,0,0,1,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+9,2021-06-22 22:09:02,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+10,2021-06-18 07:27:05,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+11,2021-06-18 02:21:03,Apple $AAPL breakout stats  ,0,0,0,1,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+12,2021-06-16 08:10:01,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+13,2021-06-10 22:20:02,Facebook $FB breakout stats  ,0,0,0,1,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+14,2021-06-07 22:09:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+15,2021-06-05 13:04:01,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+16,2021-06-03 01:56:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,1,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+17,2021-06-02 13:24:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+18,2021-05-29 02:18:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+19,2021-05-28 22:09:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+20,2021-05-27 13:57:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+21,2021-05-22 03:28:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+22,2021-05-19 22:06:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+23,2021-05-15 08:12:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+24,2021-05-13 05:25:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+25,2021-05-07 08:16:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+26,2021-05-04 08:11:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+27,2021-04-30 07:26:04,Facebook $FB breakout stats  ,0,0,0,0,1,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+28,2021-04-29 02:35:05,Apple $AAPL breakout stats  ,0,0,0,0,1,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+29,2021-04-23 22:10:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+30,2021-04-20 22:10:04,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,1,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+31,2021-04-20 02:39:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+32,2021-04-19 20:01:01,Big volume breakouts   $MANU $AAPL,0,1,0,0,1,1,0.14563005,0.019850101,0.83451986,Neu,0.12577994,breakoutstocks
+33,2021-04-14 13:04:00,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+34,2021-04-10 07:44:00,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+35,2021-04-05 22:07:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+36,2021-03-30 12:11:03,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+37,2021-03-26 04:18:03,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+38,2021-03-24 21:24:01,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+39,2021-03-23 21:10:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+40,2021-03-23 06:28:02,Facebook $FB breakout stats  ,0,0,0,0,0,4,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+41,2021-03-17 11:30:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+42,2021-03-12 22:11:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+43,2021-03-09 22:31:00,Apple $AAPL breakout stats  ,0,0,0,0,0,3,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+44,2021-03-09 07:49:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+45,2021-03-04 13:02:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+46,2021-03-04 01:48:00,Facebook $FB breakout stats  ,0,0,0,0,1,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+47,2021-02-25 22:05:02,"$VZ, $CLF, $EEM, $MSFT, $AUY breaking down to new lows  ",0,1,0,0,0,0,0.026246572,0.92609066,0.04766274,Neg,-0.8998441,breakoutstocks
+48,2021-02-24 14:25:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,2,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+49,2021-02-22 22:03:04,"$VALE, $QQQ, $NNDM, $AAPL, $PBR breaking down to new lows  ",0,1,0,1,0,2,0.07413947,0.84642786,0.07943267,Neg,-0.7722884,breakoutstocks
+50,2021-02-19 04:51:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,2,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+51,2021-02-18 07:47:03,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+52,2021-02-17 12:35:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,2,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+53,2021-02-12 13:21:03,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+54,2021-02-09 12:56:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+55,2021-02-06 02:27:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+56,2021-01-23 02:11:03,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+57,2021-01-21 22:04:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+58,2021-01-16 07:24:04,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+59,2021-01-15 06:10:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,3,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+60,2021-01-14 07:16:04,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+61,2021-01-09 07:26:02,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+62,2021-01-08 12:24:04,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+63,2021-01-06 20:00:03,"New breakout highs for $SPY, $SNDL, $ACB, $OGI, $GILD  ",0,0,0,0,0,1,0.8630836,0.026248217,0.11066819,Pos,0.8368354,breakoutstocks
+64,2021-01-05 02:09:04,"$AAPL, $IWM, $FUBO, $F, $GNW breaking down to new lows  ",0,1,0,0,0,3,0.024827994,0.92953694,0.045635093,Neg,-0.9047089,breakoutstocks
+65,2021-01-01 07:25:02,"$MSFT, $CRM, $DKNG, $PFE, $SPXS, $CMCM breaking down to new lows  ",0,1,0,0,0,4,0.02490368,0.93175364,0.043342628,Neg,-0.90685,breakoutstocks
+66,2020-12-31 13:30:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+67,2020-12-23 22:05:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+68,2020-12-23 07:42:01,Apple $AAPL breakout stats  ,0,0,0,0,0,4,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+69,2020-12-16 18:04:01,"New breakout highs for $AEMD, $MDXG, $MSFT, $SLV, $DT, $PHUN  ",0,0,0,0,0,1,0.7992581,0.026616907,0.17412496,Pos,0.7726412,breakoutstocks
+70,2020-12-12 07:33:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+71,2020-12-04 22:06:03,What usually happens after Facebook $FB breaks out?  ,0,1,0,1,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+72,2020-12-02 02:28:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+73,2020-12-01 07:07:04,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+74,2020-11-28 04:41:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+75,2020-11-26 08:15:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+76,2020-11-18 22:05:03,"$MSFT, $YY breaking down to new lows  ",0,1,0,0,0,1,0.072191425,0.8741246,0.05368406,Neg,-0.80193317,breakoutstocks
+77,2020-11-14 12:50:04,Apple $AAPL breakout stats  ,0,0,0,0,2,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+78,2020-11-10 12:49:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+79,2020-11-06 07:28:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+81,2020-11-04 20:00:02,"New breakout highs for $SPY, $UBER, $LYFT, $ZNGA  ",0,0,0,0,1,2,0.79976034,0.016268292,0.18397132,Pos,0.783492,breakoutstocks
+82,2020-11-04 08:44:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+83,2020-10-29 11:52:02,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+84,2020-10-24 07:58:03,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+86,2020-10-05 22:06:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+87,2020-10-02 22:05:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+88,2020-10-01 20:01:00,"New breakout highs for $JWN, $SPY, $AMD, $AMAG, $SLDB  ",0,0,0,0,0,1,0.7788513,0.025323607,0.19582514,Pos,0.75352764,breakoutstocks
+90,2020-09-30 12:56:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+91,2020-09-29 07:15:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+92,2020-09-24 04:50:01,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+93,2020-09-17 22:03:00,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+94,2020-09-14 22:03:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+95,2020-09-11 13:03:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+96,2020-09-10 02:23:02,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+97,2020-09-09 07:00:03,Apple $AAPL breakout stats  ,0,0,0,0,2,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+98,2020-09-08 22:05:03,"$XLF, $CRBP, $QQQ, $MSFT, $NOK breaking down to new lows  ",0,1,0,0,0,2,0.030392522,0.9238551,0.04575241,Neg,-0.8934626,breakoutstocks
+99,2020-09-05 12:55:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+100,2020-08-21 04:54:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,3,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+101,2020-08-19 13:01:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+102,2020-08-19 05:22:04,Apple $AAPL breakout stats  ,0,0,0,0,0,4,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+103,2020-08-08 07:19:01,Facebook $FB breakout stats  ,0,0,0,0,1,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+104,2020-08-06 18:03:05,"New breakout highs for $FB, $JAGX, $LEDS, $ZNGA, $OUT, $COMM  ",0,0,0,0,0,1,0.88004863,0.022204839,0.09774649,Pos,0.8578438,breakoutstocks
+105,2020-08-06 07:53:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+106,2020-07-31 02:08:00,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,1,2,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+107,2020-07-24 13:07:04,Apple $AAPL breakout stats  ,0,0,0,1,1,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+108,2020-07-23 02:38:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+109,2020-07-22 07:07:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+110,2020-07-10 07:19:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+111,2020-06-27 05:45:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+112,2020-06-26 12:51:05,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+113,2020-06-25 12:58:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+114,2020-06-17 02:16:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+115,2020-06-10 12:52:03,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+116,2020-06-10 09:11:05,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+117,2020-06-09 02:27:01,Apple $AAPL breakout stats  ,0,0,0,0,3,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+118,2020-06-05 22:03:02,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+119,2020-06-05 12:57:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+120,2020-06-02 07:46:00,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+121,2020-05-29 07:15:05,Apple $AAPL breakout stats  ,0,0,0,0,1,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+122,2020-05-27 05:56:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+123,2020-05-22 03:15:00,Apple $AAPL breakout stats  ,0,0,0,0,2,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+124,2020-05-16 02:12:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+125,2020-05-14 22:03:05,Facebook $FB breakout stats  ,0,0,0,0,1,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+126,2020-05-09 13:11:03,Apple $AAPL breakout stats  ,0,0,0,0,2,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+127,2020-05-08 13:06:01,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+128,2020-05-07 12:22:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+129,2020-05-05 12:20:00,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,1,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+130,2020-04-29 02:27:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+131,2020-04-27 19:48:00,"New breakout highs for $F, $LVS, $PENN, $BBBY, $IWM, $SPY, $YTEN  ",0,0,0,0,0,0,0.8172671,0.024602544,0.15813033,Pos,0.7926646,breakoutstocks
+132,2020-04-25 02:34:03,Apple $AAPL breakout stats  ,0,0,0,0,1,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+133,2020-04-23 22:03:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+134,2020-04-22 07:52:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+135,2020-04-17 12:25:01,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+137,2020-04-09 20:00:03,"New breakout highs for $VAL, $F, $MRO, $SPY, $AMD, $NEM  ",0,0,0,0,0,0,0.8723043,0.019587794,0.10810792,Pos,0.8527165,breakoutstocks
+138,2020-04-08 22:07:00,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+139,2020-04-03 12:53:01,Apple $AAPL breakout stats  ,0,0,0,0,0,3,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+140,2020-04-02 06:56:02,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+141,2020-03-31 13:29:05,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+142,2020-03-30 22:06:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+143,2020-03-30 19:38:00,"New breakout highs for $OMI, $MSFT, $AMD, $TOPS, $PSTV  ",0,0,0,0,0,2,0.8045796,0.0149806,0.18043977,Pos,0.789599,breakoutstocks
+144,2020-03-28 11:56:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+146,2020-03-25 19:00:04,"New breakout highs for $SPY, $TTOO, $ASTC  ",0,0,0,0,0,2,0.69817024,0.04209709,0.2597326,Pos,0.65607315,breakoutstocks
+147,2020-03-25 12:28:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+148,2020-03-24 12:32:00,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+149,2020-03-17 11:47:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+150,2020-03-13 01:37:04,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+151,2020-03-10 01:26:04,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+152,2020-03-07 06:47:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+153,2020-03-05 13:18:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+154,2020-02-27 07:26:03,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+155,2020-02-25 23:02:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+156,2020-02-24 22:02:00,"$SIRI, $BAC, $AAPL, $EEM breaking down to new lows  ",0,1,0,0,0,1,0.05233229,0.87513334,0.072534405,Neg,-0.82280105,breakoutstocks
+157,2020-02-22 06:39:05,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+158,2020-02-19 07:45:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+159,2020-02-15 12:33:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+160,2020-02-12 22:08:02,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+161,2020-02-12 17:41:04,"New breakout highs for $AAPL, $EEM, $PBR, $GM, $AMAT, $UNH  ",0,0,0,0,0,0,0.8069875,0.021685561,0.17132692,Pos,0.785302,breakoutstocks
+162,2020-02-07 22:32:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+163,2020-02-05 02:34:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+164,2020-01-31 04:59:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+165,2020-01-29 06:28:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+166,2020-01-25 13:24:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+167,2020-01-14 23:00:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+168,2020-01-14 12:16:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+169,2020-01-11 13:03:00,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,2,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+170,2020-01-09 23:00:04,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+171,2020-01-03 22:00:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+172,2020-01-02 22:00:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+173,2019-12-31 22:01:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,1,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+174,2019-12-28 07:36:03,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+175,2019-12-27 06:07:01,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+176,2019-12-24 12:57:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+178,2019-12-18 02:08:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+179,2019-12-14 12:59:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+180,2019-12-12 22:03:02,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+181,2019-11-28 07:01:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+182,2019-11-26 02:08:01,Small caps break out to new high for the year in positive sign for the whole stock market   $RUT $QQQ $SPY $DJI,0,0,0,0,0,3,0.9016994,0.024575928,0.0737246,Pos,0.8771235,breakoutstocks
+183,2019-11-25 22:02:03,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+184,2019-11-14 12:53:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+185,2019-11-13 08:15:02,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+186,2019-11-05 04:36:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+187,2019-11-02 11:27:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+188,2019-10-29 06:41:00,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+189,2019-10-26 02:23:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+190,2019-10-23 07:24:00,"$FB, $MDR, $GNW, $MRK, $HAS breaking down to new lows  ",0,1,0,0,0,0,0.0153837865,0.94646657,0.03814963,Neg,-0.9310828,breakoutstocks
+191,2019-10-15 22:03:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+192,2019-10-10 07:22:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+193,2019-10-03 01:08:00,Reflection on markets and life · Larry Hite (Market Wizard)   $SPY $SPX $QQQ $DJI stocks,0,0,0,0,1,0,0.06133701,0.019873774,0.9187892,Neu,0.041463234,breakoutstocks
+194,2019-09-27 02:22:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+195,2019-09-24 00:45:04,"Stocks may be poised for dramatic surge, technical analysts say   $SPY $SPX $RUT $QQQ breakout",1,1,1,0,0,0,0.8255506,0.100407146,0.074042276,Pos,0.7251435,breakoutstocks
+196,2019-09-19 05:18:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+199,2019-09-11 07:12:03,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,2,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+200,2019-09-11 01:53:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+201,2019-09-06 21:59:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+202,2019-09-05 01:46:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+203,2019-08-30 17:12:03,"New breakout highs for $GE, $SPY, $JASN  ",0,0,0,0,0,1,0.8815383,0.021248618,0.09721314,Pos,0.86028963,breakoutstocks
+204,2019-08-29 21:59:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+205,2019-08-26 21:39:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+207,2019-08-22 19:14:03,"New breakout highs for $SPY, $GME, $KEYS  ",0,0,0,0,2,0,0.75737375,0.037254762,0.20537145,Pos,0.720119,breakoutstocks
+208,2019-08-22 07:57:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+209,2019-08-19 19:50:00,"New breakout highs for $MSFT, $AAPL, $YUMA  ",0,0,0,0,0,1,0.87881315,0.022976909,0.09820996,Pos,0.8558362,breakoutstocks
+210,2019-08-16 06:58:05,"$SPY, $MNKD, $NOK, $GRPN, $ABEV, $NLY breaking down to new lows  ",0,1,0,0,0,2,0.03612078,0.9173159,0.046563257,Neg,-0.8811951,breakoutstocks
+211,2019-08-14 21:45:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+212,2019-08-09 12:46:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+213,2019-08-08 08:12:01,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+214,2019-07-30 06:51:02,Facebook $FB breakout stats  ,0,0,0,0,1,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+215,2019-07-25 12:03:01,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+216,2019-07-25 04:33:05,"$JCP, $FB, $UGAZ, $IRBT, $NSC breaking down to new lows  ",0,1,0,0,0,0,0.024447422,0.9259076,0.049644947,Neg,-0.9014602,breakoutstocks
+217,2019-07-24 21:33:02,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+218,2019-07-20 12:02:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+219,2019-07-18 12:34:00,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+220,2019-07-13 11:31:05,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+221,2019-07-12 06:21:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,2,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+222,2019-07-11 07:00:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+223,2019-07-10 02:20:00,"Momentum Investing: It Works, But Why?   $SPY $QQQ $DJI stocks trading",0,1,0,0,0,2,0.04641711,0.019321438,0.9342614,Neu,0.027095672,breakoutstocks
+224,2019-07-07 22:01:01,"If everyone else is worried about stocks, capitalize on the fear and make a fortune   $SPY $QQQ $DIA stocks",1,1,0,0,0,1,0.08721118,0.015020747,0.897768,Neu,0.072190434,breakoutstocks
+225,2019-07-06 01:29:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+226,2019-07-04 09:59:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+227,2019-07-02 21:52:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+228,2019-06-28 07:01:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+229,2019-06-21 07:17:04,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+230,2019-06-20 02:47:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+231,2019-06-15 01:55:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+232,2019-06-12 02:16:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+233,2019-06-06 07:10:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+234,2019-06-05 21:53:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+235,2019-06-05 06:30:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+236,2019-06-01 13:01:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+237,2019-05-31 02:05:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+238,2019-05-29 03:36:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+239,2019-05-21 06:55:01,Apple $AAPL breakout stats  ,0,0,0,1,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+240,2019-05-14 07:59:05,"$X, $F, $ABEV, $BAC, $SPY, $AAPL breaking down to new lows  ",0,1,0,0,0,2,0.034109507,0.8795217,0.08636883,Neg,-0.8454122,breakoutstocks
+241,2019-05-11 07:04:04,"$TRXC, $YELP, $AAPL, $SNAP, $HK breaking down to new lows  ",0,1,0,0,0,0,0.051263444,0.8573148,0.091421664,Neg,-0.8060514,breakoutstocks
+242,2019-05-08 12:49:05,"$SIRI, $QQQ, $SPY, $EEM, $CPRX, $FXI breaking down to new lows  ",0,1,0,0,0,0,0.031873543,0.9171473,0.050979104,Neg,-0.88527375,breakoutstocks
+243,2019-05-07 13:36:05,What usually happens after Facebook $FB breaks out?  ,0,1,0,1,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+244,2019-05-03 07:35:01,"$SPY, $NLY, $USO, $AMD breaking down to new lows  ",0,1,0,0,0,1,0.05233967,0.8470945,0.100565866,Neg,-0.7947548,breakoutstocks
+245,2019-05-01 07:35:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+246,2019-04-26 21:52:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+247,2019-04-12 12:13:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+248,2019-04-08 21:53:03,Facebook $FB breakout stats  ,0,0,0,1,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+249,2019-04-06 02:38:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+250,2019-03-28 07:29:05,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+251,2019-03-28 02:07:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+252,2019-03-23 01:15:02,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+253,2019-03-22 12:10:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+254,2019-03-16 06:39:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+255,2019-03-15 01:10:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,1,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+256,2019-03-12 06:00:02,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+257,2019-03-07 05:37:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+258,2019-03-05 12:49:00,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+259,2019-03-01 18:53:03,"New breakout highs for $AEO, $AMZN, $GPS, $CHK  ",0,0,0,0,0,2,0.8591412,0.024652112,0.11620665,Pos,0.83448905,breakoutstocks
+260,2019-02-20 12:55:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+261,2019-02-15 22:50:03,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+262,2019-02-12 21:51:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+264,2019-02-06 05:25:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+265,2019-02-02 01:44:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,1,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+266,2019-01-31 21:53:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+267,2019-01-26 01:43:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+268,2019-01-23 21:52:03,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+269,2019-01-19 12:42:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+270,2019-01-16 19:20:02,"New breakout highs for $AAPL, $UAL, $DB, $FDC  ",0,0,0,0,0,0,0.85121274,0.026302407,0.122484915,Pos,0.82491034,breakoutstocks
+271,2019-01-16 01:44:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+272,2019-01-15 19:32:01,"New breakout highs for $KO, $UGAZ, $MSFT, $NVDA, $BAC, $FB, $KTOV  ",0,0,0,0,0,0,0.85359156,0.028362863,0.11804557,Pos,0.8252287,breakoutstocks
+273,2019-01-11 07:21:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+274,2019-01-10 06:42:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+276,2018-12-31 21:50:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+277,2018-12-21 13:40:00,"$CHK, $T, $FB, $ESRX, $TWTR, $VZ breaking down to new lows  ",0,1,0,0,0,0,0.042789504,0.8996105,0.05759995,Neg,-0.856821,breakoutstocks
+278,2018-12-19 21:52:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+279,2018-12-19 12:14:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+280,2018-12-12 21:52:05,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+281,2018-12-11 21:50:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+282,2018-12-07 21:51:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+283,2018-12-04 05:10:05,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+284,2018-11-29 06:57:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,1,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+285,2018-11-20 07:09:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+286,2018-11-17 12:47:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+287,2018-11-16 03:24:05,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+288,2018-11-13 21:51:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+289,2018-11-12 21:52:03,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+290,2018-11-10 02:53:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+291,2018-11-08 21:55:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+292,2018-10-23 06:37:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+293,2018-10-12 12:00:04,"$PFE, $T, $AAPL, $MSFT breaking down to new lows  ",0,1,0,0,0,0,0.039648462,0.87432855,0.08602294,Neg,-0.8346801,breakoutstocks
+294,2018-10-12 01:36:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+295,2018-10-11 21:52:05,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+296,2018-10-05 07:19:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+297,2018-09-29 05:06:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+298,2018-09-28 07:15:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+299,2018-09-25 11:45:04,Facebook $FB breakout stats  ,0,0,0,0,0,2,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+301,2018-09-14 12:28:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+303,2018-09-06 12:20:05,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+304,2018-08-27 19:06:04,"New breakout highs for $FB, $XLF, $TWTR, $RGSE, $PAH  ",0,0,0,0,0,0,0.9135654,0.027607346,0.058827214,Pos,0.8859581,breakoutstocks
+305,2018-08-23 03:24:01,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+306,2018-08-18 05:14:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+307,2018-08-16 06:24:02,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,0,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+308,2018-08-14 12:25:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+309,2018-08-11 04:39:02,Facebook $FB breakout stats  ,0,0,0,0,1,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+310,2018-08-10 07:49:02,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+311,2018-08-07 06:51:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+312,2018-08-02 07:09:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+313,2018-07-31 07:24:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+314,2018-07-26 21:52:04,"$FB, $NOK breaking down to new lows  ",0,1,0,0,0,0,0.047054537,0.9084257,0.04451976,Neg,-0.86137116,breakoutstocks
+315,2018-07-20 07:12:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+316,2018-07-19 06:39:03,Facebook $FB breakout stats  ,0,0,0,0,0,1,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+317,2018-07-18 21:52:02,Apple $AAPL breakout stats  ,0,0,0,0,0,2,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+318,2018-07-18 06:30:02,Apple $AAPL breakout stats  ,0,0,0,0,0,3,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+319,2018-07-07 07:16:01,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+320,2018-07-02 21:51:04,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+321,2018-06-28 07:59:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+322,2018-06-26 12:44:01,"$QQQ, $AMD, $SPY, $XLF, $INTC breaking down to new lows  ",0,1,0,0,0,0,0.029574448,0.92072624,0.049699232,Neg,-0.8911518,breakoutstocks
+323,2018-06-22 12:56:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+324,2018-06-21 07:19:00,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+325,2018-06-19 05:04:00,"$KO, $MSFT, $INTC, $CZR, $BTE breaking down to new lows  ",0,1,0,0,0,0,0.03125497,0.91170096,0.057043973,Neg,-0.880446,breakoutstocks
+326,2018-06-15 07:32:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+327,2018-06-13 19:38:05,"New breakout highs for $FB, $SEII, $NOK, $EXK, $S, $TWX  ",0,0,0,0,0,1,0.8939469,0.03045942,0.075593725,Pos,0.8634875,breakoutstocks
+328,2018-06-12 02:19:00,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+329,2018-06-07 12:40:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+330,2018-06-06 13:03:05,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+331,2018-05-25 22:54:01,What usually happens after Facebook $FB breaks out?  ,0,1,0,0,0,1,0.025029182,0.23424469,0.7407261,Neu,-0.2092155,breakoutstocks
+332,2018-05-22 07:08:04,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+333,2018-05-19 04:59:02,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+334,2018-05-11 07:13:00,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+335,2018-05-10 07:16:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+336,2018-05-08 05:39:02,Apple $AAPL breakout stats  ,0,0,0,0,0,3,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+337,2018-05-04 19:34:03,"New breakout highs for $IWM, $PE, $BSPM, $BABA, $AAPL  ",0,0,0,0,0,1,0.8129719,0.024807954,0.16222014,Pos,0.78816396,breakoutstocks
+338,2018-05-02 19:26:01,"New breakout highs for $YNDX, $TSLA, $BABA, $AVGR, $FB  ",0,0,0,0,0,0,0.87990874,0.03260757,0.08748371,Pos,0.8473012,breakoutstocks
+339,2018-04-28 12:55:05,Apple $AAPL breakout stats  ,0,0,0,0,1,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+340,2018-04-27 07:38:01,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+341,2018-04-24 05:28:03,"$SPY, $EEM, $AAPL, $PRTA breaking down to new lows  ",0,1,0,0,0,0,0.046096962,0.87476647,0.07913658,Neg,-0.8286695,breakoutstocks
+344,2018-04-12 21:52:04,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,0,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+345,2018-04-11 19:37:00,"New breakout highs for $GLD, $FB, $AUY, $GDX, $OIH  ",0,0,0,0,0,0,0.8995965,0.031865083,0.068538375,Pos,0.86773145,breakoutstocks
+346,2018-04-10 21:53:01,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+347,2018-04-09 21:52:03,Facebook $FB breakout stats  ,0,0,0,0,0,0,0.13357757,0.03233723,0.83408517,Neu,0.10124034,breakoutstocks
+348,2018-04-07 02:24:01,Apple $AAPL breakout stats  ,0,0,0,0,0,1,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks
+349,2018-04-06 07:49:03,What usually happens after Apple $AAPL breaks out?  ,0,1,0,0,0,1,0.02286356,0.2938744,0.683262,Neu,-0.27101085,breakoutstocks
+350,2018-04-05 19:46:01,"New breakout highs for $SPY, $ABEV, $XOM, $MRO, $PHM  ",0,0,0,0,0,0,0.8514176,0.01878195,0.12980038,Pos,0.83263564,breakoutstocks
+351,2018-04-05 06:53:03,Apple $AAPL breakout stats  ,0,0,0,0,0,0,0.14057982,0.030626088,0.8287941,Neu,0.10995373,breakoutstocks

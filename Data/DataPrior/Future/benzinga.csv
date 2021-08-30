@@ -1,0 +1,866 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+19,2018-03-29 20:20:00,A High Credit Score Can Save You Thousands Per Year  ,0,0,1,0,0,0,0.4266829,0.050748732,0.52256835,Neu,0.37593415,benzinga
+63,2018-03-28 20:35:00,Should Investors Be Worried About Apple's Declining ROE?   $AAPL,1,1,1,0,0,0,0.062774904,0.68767774,0.24954732,Neg,-0.62490284,benzinga
+102,2018-03-27 20:45:04,"Correction: The analyst said the fine could reach up to $1-2 billion, a record fine from the FTC.",1,0,1,2,0,1,0.03274042,0.95054144,0.016718173,Neg,-0.917801,benzinga
+186,2018-03-23 18:25:00,Here's Why It Could Be A Big Year For Nike   $NKE,0,1,1,0,0,0,0.096796446,0.03841059,0.864793,Neu,0.058385856,benzinga
+424,2018-03-15 23:31:00,Why Investors Can Be Optimistic Following Chipotle's CMO Resignation   $CMG,0,0,1,0,0,0,0.09907317,0.027328776,0.87359804,Neu,0.0717444,benzinga
+484,2018-03-14 18:25:00,Raymond James Upgrades RH With A Disclaimer: Stock 'Not For The Faint Of Heart'   $RH,0,0,1,0,0,1,0.044275247,0.026625277,0.9290995,Neu,0.01764997,benzinga
+513,2018-03-13 21:01:00,Elections Could Test Colombia ETFs   $ICOL $GXG,0,0,1,0,1,0,0.106957726,0.025380652,0.8676616,Neu,0.08157708,benzinga
+527,2018-03-13 17:45:00,How You Can Make A Difference With Impact Investing  ,0,1,1,0,0,1,0.15944897,0.015131359,0.82541966,Neu,0.14431761,benzinga
+530,2018-03-13 16:50:00,KeyBanc: Mixed Responses From Tesla Salespeople 'Do Not Bode Well' For Long-Term Demand   $TSLA,0,0,1,0,0,0,0.012537734,0.9683404,0.019121883,Neg,-0.9558027,benzinga
+538,2018-03-13 14:25:00,Elections Could Test Colombia ETFs   $GXG $ICOL,0,0,1,0,0,2,0.11983058,0.024428207,0.85574126,Neu,0.095402375,benzinga
+594,2018-03-11 20:28:03,Helios And Matheson CEO: MoviePass 'Will Be The Biggest Theater Company Without Owning Any Theaters'   $HMNY $FB $NFLX,0,0,1,2,4,8,0.08072545,0.011261132,0.90801346,Neu,0.06946431,benzinga
+657,2018-03-08 19:10:00,Thor's 'Solid Quarter' Not Strong Enough For This Analyst To Turn Bullish   $THO,0,0,1,0,0,0,0.15515274,0.6369331,0.20791422,Neg,-0.48178035,benzinga
+663,2018-03-08 17:15:00,Should Amazon Buy Wayfair? Loop Capital Makes The Case   $AMZN $W,0,0,1,0,0,0,0.050795086,0.015093714,0.9341112,Neu,0.03570137,benzinga
+730,2018-03-07 00:31:00,Dear Activists: Buying Stock Can Effect More Change Than Selling It   $RGR $AOBC $VSTO,0,1,1,0,1,0,0.066672385,0.018696021,0.9146316,Neu,0.047976363,benzinga
+743,2018-03-06 20:30:00,Dear Activists: Buying Stock Can Effect More Change Than Selling It   $AOBC $RGR $VSTO $SEAS $LLY,0,1,1,0,3,2,0.08195945,0.015442877,0.90259767,Neu,0.06651657,benzinga
+791,2018-03-05 19:35:00,BofA: Should Apple Cut iPhone Prices This Year?   $AAPL,0,0,1,0,1,0,0.079268694,0.23040286,0.6903285,Neu,-0.15113416,benzinga
+794,2018-03-05 18:50:00,"Afraid Of The Robot Apocalypse? At Least For Now, Robots Can Make You Some Money   $FB $SCHW",0,0,1,0,0,0,0.07281046,0.019443914,0.9077456,Neu,0.05336655,benzinga
+797,2018-03-05 18:05:00,Should You Limit Your Insurance Claims?  ,0,0,1,0,0,0,0.03374081,0.047141097,0.9191181,Neu,-0.013400286,benzinga
+826,2018-03-04 17:01:00,"On May 15 & 16, the leading minds in FINTECH will celebrate innovation across the world. Get your tickets now! BZAwards      ",0,1,1,0,1,0,0.13181509,0.012432389,0.8557525,Neu,0.1193827,benzinga
+866,2018-03-01 22:10:00,Under Armour CEO Explains Why 2018 Will Be The Most Important Year For The Brand   $UAA,0,0,1,1,0,2,0.15433276,0.012022437,0.83364475,Neu,0.14231032,benzinga
+908,2018-02-28 23:31:00,Q4 Retail Earnings: Will The Results Reflect High Consumer Confidence?   $AMZN $COST $DDS $WMT $HD $M $DECK $TGT $KSS $SHLD $JCP,0,0,1,0,0,1,0.54557776,0.03920564,0.41521662,Pos,0.5063721,benzinga
+927,2018-02-28 19:15:00,Feeling blue this winter? The BZWomensWealth Forum might be the ray of sunshine you need to get back on track. Grab your FREE ticket here using the code WINTERBLUES    ,0,1,1,0,0,1,0.06297364,0.019447599,0.91757876,Neu,0.043526042,benzinga
+955,2018-02-28 01:01:00,Can Small Businesses Still Afford To Be At SXSW? This Startup Has A Solution   $AAPL $GOOG,0,1,1,0,0,1,0.16716552,0.0116616925,0.8211727,Neu,0.15550382,benzinga
+998,2018-02-27 15:10:00,Can Small Businesses Still Afford To Be At SXSW? This Startup Has A Solution  ,0,1,1,0,1,0,0.22589013,0.011312221,0.76279765,Neu,0.21457791,benzinga
+1068,2018-02-24 16:15:00,How Long Will The Cryptocurrency GPU Boom Last?   $AMD $NVDA $BTC $ETH,0,0,1,0,1,0,0.07018102,0.013455034,0.91636395,Neu,0.056725986,benzinga
+1073,2018-02-23 20:50:00,"Wells Fargo: AT&T, Time Warner Ought To Beware The Ides Of March   $T $TWX",0,0,1,0,0,0,0.055327017,0.023449408,0.9212235,Neu,0.031877607,benzinga
+1094,2018-02-23 14:03:00,How Long Will The Cryptocurrency GPU Boom Last?   $AMD $NVDA $GBTC $BTC $ETH $LTC,0,0,1,0,0,0,0.08885206,0.015128925,0.89601904,Neu,0.07372314,benzinga
+1104,2018-02-23 00:01:00,How Long Will The Cryptocurrency GPU Boom Last?   $AMD $NVDA  ,0,0,1,1,1,1,0.046256956,0.015721463,0.9380216,Neu,0.030535493,benzinga
+1131,2018-02-22 18:30:00,Should Couples File Taxes Jointly Or Separately?   via ,0,0,1,0,2,1,0.029975457,0.023725484,0.9462991,Neu,0.0062499736,benzinga
+1134,2018-02-22 17:30:00,How Long Will The Cryptocurrency GPU Boom Last?   $AMD $NVDA $BTC $ETH $LTC,0,0,1,0,0,1,0.07760848,0.013945763,0.9084457,Neu,0.063662715,benzinga
+1185,2018-02-21 18:07:01,"In anticipation of its release,  will be hosting a BitcoinPrivate sponsored miner meet up in Detroit, MI with  this Thursday, Feb 22 at 6 pm! Learn about the emerging mining community in Detroit. Register here:    ",1,1,1,0,2,2,0.053672418,0.015025769,0.93130183,Neu,0.03864665,benzinga
+1217,2018-02-20 20:05:00,Most Americans Haven't Decided How Much Money They'll Need To Retire    via ,1,1,1,0,0,1,0.027117215,0.13973665,0.83314615,Neu,-0.11261944,benzinga
+1225,2018-02-20 18:08:00,"In anticipation of its release,  will be hosting a BitcoinPrivate sponsored miner meet up in Detroit, MI with Benzinga this Thursday, Feb 22 at 6 pm! Learn about the emerging mining community in Detroit. Register here:    ",1,1,1,0,3,0,0.05731954,0.014047227,0.9286333,Neu,0.043272313,benzinga
+1300,2018-02-16 02:01:00,Can Bitcoin Be Used As A Safe Haven During Stock Market Volatility?   $GBTC $BTC,1,0,1,0,1,0,0.08743417,0.014209908,0.89835596,Neu,0.07322426,benzinga
+1322,2018-02-15 19:40:01,Can Bitcoin Be Used As A Safe Haven During Stock Market Volatility?   $GBTC $GLD $SPY $VXX $USO $TLT  ,1,0,1,0,1,1,0.13442414,0.013870942,0.85170496,Neu,0.120553195,benzinga
+1408,2018-02-13 22:01:00,"Analyst: ICE Arrests Should Continue Through Trump Presidency, Boost Private Prisons   $CXW $GEO",0,0,1,0,0,0,0.9388451,0.019561706,0.041593313,Pos,0.9192834,benzinga
+1487,2018-02-11 22:01:00,Analyst: Perry Ellis Takeout Offer Will 'Most Likely Be Consummated'   $PERY,0,0,1,0,0,0,0.05283945,0.01597715,0.93118334,Neu,0.0368623,benzinga
+1555,2018-02-08 20:15:00,Strategist: Every Portfolio Can Benefit From Gold   $GLD $VXX,0,0,1,0,1,0,0.60681194,0.00858477,0.38460335,Pos,0.59822714,benzinga
+1564,2018-02-08 17:11:01,". talking about how entrepreneurs can use Facebook $FB to optimize and grow their businesses at the first SharkTankSymposium  ""We now know how sharp the weapon of Shark Tank is—and I’m going to use all of my energy to getting you on TV as often as possible.""  ",0,1,1,0,0,1,0.19863091,0.010322011,0.7910471,Neu,0.18830891,benzinga
+1602,2018-02-07 19:40:00,"Analyst: Amid Low Expectations, Investors Should Be Encouraged By Snap's Execution   $SNAP",1,0,1,0,0,2,0.94155127,0.019656183,0.03879246,Pos,0.9218951,benzinga
+1657,2018-02-06 19:30:00,Need To Know More About Mortgages? Now You Can Ask A Lender   BZAwards ,0,0,1,0,0,0,0.03652555,0.033651978,0.92982244,Neu,0.0028735735,benzinga
+1662,2018-02-06 18:01:00,"Carl Icahn concludes CNBC interview with a laugh: ""Good luck. You might need it.""  ",0,1,1,0,2,1,0.25853288,0.026762234,0.71470493,Neu,0.23177065,benzinga
+1709,2018-02-05 17:15:00,Can Blockchain Help Artists? It's All About Protecting Their Work  ,0,1,1,0,0,0,0.080455594,0.018950721,0.9005937,Neu,0.06150487,benzinga
+1714,2018-02-05 15:25:00,State Street: Bank Stocks Can Run Higher In 2018   $KBE $XLF,0,0,1,0,0,0,0.86992776,0.017030027,0.11304225,Pos,0.85289776,benzinga
+1764,2018-02-02 21:07:02,Dow Jones Industrial Average fell over 660 points (2.5%). S&P 500 fell 60 points (2.1%). Nasdaq composite fell 144 points (1.9%).  Where will the markets open on Monday?  $SPY $DJIA $QQQ,1,1,1,2,2,1,0.008781066,0.93266094,0.05855804,Neg,-0.92387986,benzinga
+1772,2018-02-02 17:52:00,"In just a few minutes, Gene Munster will be on a special edition of PreMarket Prep to break down earnings from Apple, Amazon, and Google. Click the link to join the chat and ask your questions! $AAPL $AMZN $GOOGL    ",0,0,1,0,0,0,0.031665634,0.03693991,0.93139446,Neu,-0.005274277,benzinga
+1798,2018-02-02 01:01:00,"Gene Munster will be on a special 1 p.m. ET edition of PreMarket Prep tomorrow to break down earnings from Apple, Amazon, and Google!  $AAPL $AMZN $GOOGL    ",0,0,1,0,0,0,0.052571163,0.25555894,0.6918699,Neu,-0.20298778,benzinga
+1824,2018-02-01 19:00:00,Self-Directed Traders Can Spot Market Trends With VantagePoint's Artificial Intelligence Tools   BZAwards,0,0,1,0,0,0,0.07672468,0.012132437,0.9111429,Neu,0.06459224,benzinga
+1872,2018-01-31 20:10:00,What Will Janet Yellen's Legacy Be? Economists Weigh In  ,0,1,1,1,0,0,0.029388444,0.14029823,0.8303133,Neu,-0.11090979,benzinga
+1984,2018-01-29 14:16:00,"Former UFC megastar  debuts with WWE.  ""First priority on my timeline for the next several years. There are other things I can do with my time that'll make way more money, but I won't enjoy nearly as much,"" she told ESPN.  RoyalRumble $WWE   ",1,1,1,0,1,0,0.094118826,0.01347783,0.8924033,Neu,0.080640994,benzinga
+2002,2018-01-26 17:50:00,Seed Fundraising: 10 Traits Of Successful Founders   via ,0,1,1,0,0,1,0.11634783,0.010764841,0.8728874,Neu,0.10558298,benzinga
+2008,2018-01-26 15:42:00,Trump Says GDP Growth Will Be 'Much Higher' Than 4% In CNBC Interview   Davos18,0,0,1,1,0,1,0.94238913,0.012181949,0.045428883,Pos,0.9302072,benzinga
+2043,2018-01-25 20:04:02,"The XFL will return in 2020. 8 teams, 40-man rosters. 10 regular season games.  ""What would you do if you could re-imagine the game of professional football?"" asks   Approach will be multi-platform. Games will be shorter. $WWE  ",0,1,1,0,1,0,0.04913298,0.012962701,0.93790436,Neu,0.03617028,benzinga
+2057,2018-01-25 15:22:00,"Alpha Entertainment tweets that WWE Chairman and CEO Vince McMahon will make a major ""sports announcement"" at 3 p.m. ET. $WWE  ",0,0,1,0,1,2,0.030855995,0.022159368,0.94698465,Neu,0.008696627,benzinga
+2105,2018-01-24 16:05:00,"from   ""Reading 'I am Albert Einstein' to the class today. Lessons from it: it’s okay to think different, be different & create the future while most people will say you’re crazy or that’s not possible.""     ",0,1,1,0,0,2,0.048625,0.048421137,0.9029538,Neu,0.00020386279,benzinga
+2115,2018-01-24 13:24:00,Here are the earnings release you might have missed this morning  $GE $UTX $CMCSA $SWK $ABT     ,1,1,1,0,0,1,0.023652928,0.12244761,0.8538995,Neu,-0.098794684,benzinga
+2126,2018-01-24 00:01:00,What Will Janet Yellen's Legacy Be?     ,0,0,1,1,0,0,0.029854951,0.044214763,0.92593026,Neu,-0.014359811,benzinga
+2151,2018-01-23 16:20:00,"OTD 86 years ago, President Herbert Hoover created the Reconstruction Finance Corp.  RFC loans insured that bank depositors could withdraw their money and kept the railroad transportation system functioning.",1,0,1,0,0,1,0.07037681,0.023798622,0.9058245,Neu,0.04657819,benzinga
+2157,2018-01-23 14:20:00,Analyst: It Will Be 'Difficult' For Twitter To Replace Anthony Noto   $TWTR,0,0,1,0,2,1,0.026195468,0.49901792,0.4747866,Neg,-0.47282246,benzinga
+2191,2018-01-22 18:10:00,Analyst: It Will Be 'Difficult' For Twitter To Replace Anthony Noto If He Leaves   $TWTR,0,1,1,0,0,0,0.013012211,0.80682975,0.18015802,Neg,-0.7938175,benzinga
+2242,2018-01-19 20:59:00,Analyst: Why Choose Between Sirius XM And Liberty SiriusXM When You Can Buy Both?   $AMZN $LSXMA $SIRI,0,0,1,0,0,0,0.042246047,0.015495589,0.9422584,Neu,0.026750458,benzinga
+2315,2018-01-18 00:31:00,"Come hear from experts in blockchain and cryptocurrencies about what 2018 will hold for bitcoin, altcoins, and blockchain, as well as how various traders approach trading and analyzing various cryptos!   $BTC $ETH $XRP",1,1,1,1,0,3,0.061997045,0.011726011,0.926277,Neu,0.050271034,benzinga
+2411,2018-01-15 23:06:05,"“We may have all come on different ships, but we're in the same boat now."" - Martin Luther King, Jr., January 15, 1929 – April 4, 1968 MLKJrDay  ",1,1,1,0,6,9,0.029671608,0.04776311,0.92256534,Neu,-0.018091502,benzinga
+2416,2018-01-15 16:54:03,Fiat Chrysler's Sergio Marchionne says he thinks electrification will become mandatory in Europe in order to meet environmental goals. NAIAS $FCAU,0,1,1,0,1,2,0.16333893,0.009178446,0.8274826,Neu,0.15416048,benzinga
+2419,2018-01-15 15:17:00,"""We must and we will make up for it,"" Dr. Herbert Deiss, chairman of the Volkswagen board, says in a reference to the diesel emissions scandal. NAIAS2018",0,1,1,0,0,0,0.045883138,0.10492083,0.849196,Neu,-0.05903769,benzinga
+2429,2018-01-14 20:58:03,"""The self-driving car will become a new canvas for content creators,"" says Intel's Jack Weast, discussing a partnership with Warner Bros. for in-car entertainment. NAIAS2018 $INTC",0,1,1,0,2,3,0.17343962,0.008556569,0.81800383,Neu,0.16488305,benzinga
+2431,2018-01-14 20:07:00,"""For us, it's important to design our autonomous vehicles so they can operate in a fleet with a significant up-time,"" leading Ford to a hybrid drivetrain, says  NAIAS2018 $F",0,1,1,0,0,0,0.6656628,0.007280453,0.3270568,Pos,0.65838236,benzinga
+2433,2018-01-14 19:47:02,"""Guardian angel"" AI technology will become common in vehicles before fully driverless technology, says Danny Shapiro of  NAIAS2018 $NVDA",0,1,1,0,3,2,0.13183844,0.00926428,0.8588973,Neu,0.12257416,benzinga
+2434,2018-01-14 19:46:02,"""We can do a much better job of socializing and connecting with society"" and explaining what AI means, says  of  NAIAS2018 $F",0,1,1,0,2,1,0.23123333,0.008908713,0.7598579,Neu,0.22232461,benzinga
+2436,2018-01-14 18:54:03,The  kicks off today!  Have any questions or looking for updates? Follow  and  who will be on the ground at Cobo Hall the next three days.  NAIAS2018 $F $GM $FCAU $TM $HM,0,1,1,0,3,2,0.03533372,0.026927816,0.9377385,Neu,0.008405903,benzinga
+2518,2018-01-11 19:50:00,High-Yield Dividend ETFs: 2018 Could Be Better   $DVY $SPHD,0,0,1,0,0,0,0.29085627,0.019643703,0.68950003,Neu,0.27121258,benzinga
+2532,2018-01-11 16:20:00,"Expedia's Investments Will Pay Off In 2019, Morgan Stanley Says In Upgrade   $EXPE $PCLN",0,0,1,0,0,1,0.51060784,0.23184142,0.25755078,Pos,0.27876642,benzinga
+2569,2018-01-10 19:52:00,The lights went out at CES2018? That could only mean one thing...  ,1,0,1,2,3,4,0.036298957,0.16381536,0.79988575,Neu,-0.1275164,benzinga
+2617,2018-01-09 21:19:00,"Steve Bannon has stepped down from Breitbart News Network, where he served as Executive Chairman since 2012.  Breitbart CEO Larry Solov: “Steve is a valued part of our legacy, and we will always be grateful for his contributions, and what he has helped us to accomplish.”",1,1,1,0,0,0,0.09383601,0.0793434,0.82682055,Neu,0.014492609,benzinga
+2723,2018-01-07 18:31:00,Snap Vs. Twitter: Who Will Thrive In 2018?   $SNAP $TWTR $CRM $FB,0,0,1,1,1,4,0.13643992,0.012968902,0.8505911,Neu,0.12347102,benzinga
+2744,2018-01-05 23:50:00,Snap Vs. Twitter: Who Will Thrive In 2018?   $TWTR $SNAP,0,0,1,1,0,0,0.17197561,0.013221829,0.8148025,Neu,0.15875378,benzinga
+2786,2018-01-05 13:50:00,Snap Vs. Twitter: Who Will Thrive In 2018?   $SNAP $TWTR $FB $CRM,0,0,1,0,0,2,0.1489502,0.013279703,0.8377701,Neu,0.1356705,benzinga
+2794,2018-01-05 03:01:00,Snap Vs. Twitter: Who Will Thrive In 2018?   $SNAP $TWTR,0,0,1,0,1,1,0.10382292,0.013686927,0.88249016,Neu,0.09013599,benzinga
+2808,2018-01-04 21:05:01,Snap Vs. Twitter: Who Will Thrive In 2018?   $SNAP $TWTR $FB $CRM,0,0,1,0,0,1,0.1489502,0.013279703,0.8377701,Neu,0.1356705,benzinga
+2830,2018-01-04 15:20:00,These were our most-visited ticker pages of 2017. What are some new names you think we'll see in 2018?  ,1,1,1,0,1,2,0.05608777,0.027244499,0.91666776,Neu,0.02884327,benzinga
+2906,2018-01-03 03:01:00,What Will Be The Biggest Story For Bitcoin In 2018?   $BTC,0,0,1,0,0,1,0.033134393,0.02769956,0.93916607,Neu,0.0054348335,benzinga
+2987,2017-12-31 15:18:05,Will we see a $1 trillion market cap in 2018?,0,0,1,4,1,2,0.0646586,0.08738119,0.84796023,Neu,-0.022722594,benzinga
+2988,2017-12-31 14:17:00,Which cryptocurrency will outperform the others in 2018? $XRP $ETH $LTC $DASH,0,0,1,0,4,6,0.17115535,0.01382978,0.81501484,Neu,0.15732557,benzinga
+2989,2017-12-31 13:17:02,"The price of bitcoin was around $966 on Dec. 31, 2016. It’s around $13,000 today. Where will bitcoin be at on Dec. 31, 2018? $BTC",1,0,1,2,1,4,0.021452166,0.038776606,0.9397713,Neu,-0.01732444,benzinga
+2991,2017-12-31 01:01:00,What Will Be The Biggest Story For Bitcoin Next Year?  ,0,0,1,1,1,0,0.031164391,0.054553736,0.9142819,Neu,-0.023389345,benzinga
+2998,2017-12-30 21:31:00,What Will Janet Yellen's Legacy Be? Economists Weigh In  ,0,1,1,1,0,0,0.029388444,0.14029823,0.8303133,Neu,-0.11090979,benzinga
+3012,2017-12-29 22:20:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin  ",0,0,1,0,1,3,0.046346333,0.017147772,0.93650585,Neu,0.02919856,benzinga
+3081,2017-12-28 16:35:00,What Will Be The Biggest Story For Bitcoin In 2018?  ,0,0,1,0,1,0,0.029138876,0.08409057,0.88677055,Neu,-0.05495169,benzinga
+3102,2017-12-28 03:01:00,Mark Cuban Says 'Nothing Will Change' After NetNeutrality Repeal: 'It Would Be Business Suicide'  ,0,0,1,1,0,2,0.042919047,0.025817342,0.93126357,Neu,0.017101705,benzinga
+3129,2017-12-27 17:50:00,. Says 'Nothing Will Change' After Net Neutrality Repeal: 'It Would Be Business Suicide'   $CMCSA $GOOGL $NFLX $TMUS $VZ $T $TWX,0,1,1,0,1,2,0.031444974,0.03257727,0.93597776,Neu,-0.0011322945,benzinga
+3207,2017-12-25 15:31:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin  ",0,0,1,2,3,1,0.046346333,0.017147772,0.93650585,Neu,0.02919856,benzinga
+3209,2017-12-24 19:01:00,What Will Be The Biggest Story For Bitcoin In 2018?   $GBTC $SRAX $BTC,0,0,1,1,1,0,0.039240208,0.025364738,0.93539506,Neu,0.01387547,benzinga
+3229,2017-12-23 18:01:00,Holiday Box Office Preview: 'This Could Be One Of The Strongest Christmas Weekends Ever'   $CMCSA $SNE TheLastJedi PitchPerfect3 AllTheMoney  ,0,0,1,0,0,0,0.24256718,0.033244263,0.72418857,Neu,0.20932291,benzinga
+3234,2017-12-23 00:50:00,Holiday Box Office Preview: 'This Could Be One Of The Strongest Christmas Weekends Ever'   $CMCSA $SNE,0,0,1,0,0,0,0.6384592,0.08437402,0.2771668,Pos,0.5540852,benzinga
+3246,2017-12-22 21:50:00,"All The Ways You Can Buy, Trade, And Invest In Bitcoin   $CBOE $CME $GBTC",0,0,1,0,1,3,0.063747324,0.012839471,0.9234132,Neu,0.050907854,benzinga
+3249,2017-12-22 21:05:00,Reminder: Markets are closed Monday. They will reopen Tuesday at 9:30 a.m. ET MerryChristmas  ,1,1,1,0,14,20,0.020953806,0.07117274,0.90787345,Neu,-0.050218932,benzinga
+3256,2017-12-22 19:20:01,What Will Be The Biggest Story For Bitcoin In 2018?   $BTC,0,0,1,0,2,0,0.033134393,0.02769956,0.93916607,Neu,0.0054348335,benzinga
+3257,2017-12-22 19:05:00,Our Summer Interview with  Patrick Byrne And Why He Thinks He Can Prevent The Next Financial Crisis—And Revolutionize Short Selling—Using Blockchain   $OSTK,0,1,1,0,2,1,0.21125436,0.008632427,0.7801132,Neu,0.20262194,benzinga
+3303,2017-12-21 21:40:00,Can NXT-ID's Crypto Platform Lead More Merchants To Accept Digital Currency?   $GRMN $NXTD,0,0,1,0,0,0,0.17541939,0.009626528,0.81495404,Neu,0.16579287,benzinga
+3312,2017-12-21 20:20:00,Analyst: Astute Investors Will Take Profits In 21st Century Fox Now   $DIS $FOXA $CBS,0,0,1,0,0,0,0.46252695,0.020544125,0.5169289,Neu,0.44198284,benzinga
+3322,2017-12-21 17:50:00,Can NXT-ID's Crypto Platform Lead More Merchants To Accept Digital Currency? Maxim Weighs In   $GRMN $NXTD,0,0,1,0,1,0,0.43169817,0.009837583,0.55846417,Neu,0.42186058,benzinga
+3462,2017-12-19 03:31:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin  ",0,0,1,0,1,2,0.046346333,0.017147772,0.93650585,Neu,0.02919856,benzinga
+3469,2017-12-19 00:01:00,"“You should only be a journalist if what keeps you awake at night is the desire to tell a story,” says   ",0,1,1,8,5,40,0.044789355,0.04026092,0.9149498,Neu,0.004528437,benzinga
+3501,2017-12-18 15:20:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin   $CBOE $CME $IBKR $AMTD $GBTC $DPW $SRAX",0,0,1,0,1,1,0.061933443,0.012098782,0.9259678,Neu,0.04983466,benzinga
+3508,2017-12-18 13:35:00,"4 Reasons Roku Shouldn't Be Affected By Amazon's Apple TV, Chromecast Offering   $ROKU $GOOG $AAPL $AMZN $BBY",1,0,1,0,0,0,0.03422918,0.03311233,0.93265843,Neu,0.0011168532,benzinga
+3514,2017-12-17 23:14:05,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin   $BTC $XBT $CME BitcoinFutures",0,0,1,1,1,4,0.04672607,0.014494807,0.9387791,Neu,0.032231264,benzinga
+3528,2017-12-17 15:57:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin   $BTC $XBT $CBOE $CME",0,0,1,0,1,5,0.049872767,0.014164346,0.9359629,Neu,0.03570842,benzinga
+3553,2017-12-16 00:01:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin   $BTC $CBOE $GBTC $CME $DPW $OSTK $RIOT",0,0,1,0,1,3,0.061075047,0.012863375,0.9260615,Neu,0.04821167,benzinga
+3556,2017-12-15 22:35:00,"Laura Martin Offers A Few Reasons Roku Shouldn't Be Affected By Amazon's Apple TV, Chromecast Offering   $ROKU $GOOG $AAPL $AMZN $BBY",1,1,1,0,0,1,0.0299874,0.049699124,0.92031354,Neu,-0.019711724,benzinga
+3561,2017-12-15 21:19:03,The undercard for TheLastJedi during the holiday season?  vs.  Part III! Who will come out on top? Ferdinand Jumanji  ,0,0,1,0,1,1,0.084245026,0.015216005,0.900539,Neu,0.06902902,benzinga
+3582,2017-12-15 16:05:00,"Here Are All The Ways You Can Buy, Trade, And Invest In Bitcoin   $BTC",0,0,1,0,0,0,0.049774032,0.014835146,0.9353908,Neu,0.034938887,benzinga
+3654,2017-12-14 12:07:04,"It's official: After a spinoff of certain assets, Disney will acquire Fox in $54 billion deal. $DIS $FOXA  ",0,1,1,0,2,4,0.044725318,0.01324931,0.94202536,Neu,0.031476006,benzinga
+3675,2017-12-13 19:50:00,Baird: RPX Corp. Buyout Would Be An 'Incremental Positive'   $RPXC,0,0,1,0,0,0,0.82988346,0.008897174,0.16121937,Pos,0.8209863,benzinga
+3677,2017-12-13 19:20:00,What Will Janet Yellen's Federal Reserve Legacy Be? Economists Weigh In  ,0,1,1,0,0,0,0.0262168,0.11646756,0.85731566,Neu,-0.09025076,benzinga
+3721,2017-12-12 21:05:00,Can Semiconductors Get Their Groove Back In 2018? Here's Oppenheimer's Playbook   $ADI $AVGO $SWKS $QCOM $SMTC $MPWR $TXN $MRVL $SOXX,0,1,1,0,1,2,0.06430358,0.017754443,0.917942,Neu,0.046549134,benzinga
+3776,2017-12-11 21:35:00,58 Things You Should Know About Bitcoin   $BTC,0,0,1,0,0,1,0.032363147,0.023326946,0.9443099,Neu,0.0090362,benzinga
+3825,2017-12-10 19:45:05,Sears' Post-Earnings Move Shows Why Sentiment Can Matter More Than Earnings   $JCP $SHLD,0,0,1,0,0,0,0.07820566,0.033757623,0.8880367,Neu,0.044448037,benzinga
+3890,2017-12-08 00:31:00,Will Lululemon Short Sellers Be Back?   $LULU,0,0,1,0,0,0,0.108329564,0.020569742,0.87110066,Neu,0.08775982,benzinga
+3920,2017-12-07 17:05:00,What Will Janet Yellen's Fed Legacy Be? Economists Weigh In  ,0,1,1,0,0,0,0.026619833,0.10095295,0.87242717,Neu,-0.07433312,benzinga
+3933,2017-12-07 13:53:05,"One year ago, the price of bitcoin was under $900. It crossed $15,000 on Thursday. When will bitcoin hit $25,000? BitcoinPrice $BTC",1,0,1,4,8,4,0.0518376,0.031676497,0.91648585,Neu,0.020161103,benzinga
+3945,2017-12-07 01:01:00,What Will Janet Yellen's Legacy Be? Economists Weigh In   $DIA $SPY $XLF,0,1,1,0,0,0,0.06213477,0.024781458,0.91308373,Neu,0.03735331,benzinga
+3974,2017-12-06 16:35:00,Big Players Are Moving Into Private Mortgage Funds. Should You Follow?   via ,0,1,1,0,0,2,0.046992727,0.015942829,0.9370644,Neu,0.031049898,benzinga
+3986,2017-12-06 13:20:00,What Will Janet Yellen's Legacy Be? Economists Weigh In  ,0,1,1,0,1,0,0.029388444,0.14029823,0.8303133,Neu,-0.11090979,benzinga
+3999,2017-12-05 23:23:00,"Social Reality CEO  tells an audience at LDMainEvent ""There are other opportunities within blockchain which we think we can add value to."" $SRAX  ",0,1,1,0,1,0,0.36450124,0.0072007864,0.62829804,Neu,0.35730046,benzinga
+4010,2017-12-05 20:35:00,Could Under Armour Have Its Fundamentals On Track In Less Than A Year?   $NKE $UAA,0,1,1,0,0,3,0.32897243,0.014430762,0.65659684,Neu,0.31454167,benzinga
+4015,2017-12-05 19:19:01,We are onsite at  conference. Even a fire won't stop these small caps! LDMainEvent  ,0,1,1,0,0,1,0.072502285,0.06588747,0.86161023,Neu,0.0066148117,benzinga
+4049,2017-12-05 00:31:00,Elon Musk Says Tesla Would Be More Efficient Off The Market — Here's Why That Makes Sense   $TSLA,0,1,1,0,0,1,0.1177259,0.011334372,0.8709398,Neu,0.10639153,benzinga
+4056,2017-12-04 21:50:00,Facebook's Messenger Kids: Will It Succeed Where SnapKidz Failed?   $FB $SNAP,1,0,1,0,1,1,0.1613373,0.016568173,0.8220945,Neu,0.14476913,benzinga
+4068,2017-12-04 18:50:00,Netflix Chief: There Will Be More 'House of Cards'   $NFLX,0,0,1,0,0,0,0.04986155,0.015573416,0.934565,Neu,0.034288134,benzinga
+4104,2017-12-03 22:00:03,A CVS-Aetna Merger Would Be Revolutionary   $AET $CVS $AMZN,0,0,1,0,0,0,0.061326627,0.011129046,0.92754436,Neu,0.05019758,benzinga
+4120,2017-12-02 15:31:00,Musk Says Tesla Would Be More Efficient Off The Market — Here's Why That Makes Sense   $TSLA,0,1,1,0,1,0,0.11025753,0.011881877,0.87786067,Neu,0.09837565,benzinga
+4134,2017-12-01 20:50:00,"BMO Capital Upgrades VMware 'At Long Last,' Says Shares Can Move Higher   $VMW $AMZN $MSFT $ORCL",0,1,1,0,0,0,0.9303496,0.01701722,0.052633096,Pos,0.91333234,benzinga
+4168,2017-12-01 03:01:00,Could The IRS Court Win Against Coinbase Be The First Dent In Crypto's Armor?   $BTC,0,0,1,0,0,1,0.060009718,0.03580548,0.9041848,Neu,0.02420424,benzinga
+4191,2017-11-30 20:05:00,Could The IRS Court Win Against Coinbase Be The First Dent In Crypto's Armor?   $GBTC,0,0,1,0,2,1,0.06549696,0.082613915,0.8518891,Neu,-0.017116956,benzinga
+4212,2017-11-30 14:50:00,Box Inc: Should You Buy The Post-Earnings Dip?   $BOX,0,0,1,0,0,0,0.046648033,0.09884849,0.8545035,Neu,-0.05220046,benzinga
+4232,2017-11-29 23:01:00,58 Things You Should Know About Bitcoin   $BTC,0,0,1,0,0,0,0.032363147,0.023326946,0.9443099,Neu,0.0090362,benzinga
+4251,2017-11-29 20:05:00,Homeownership Can Be A Reality For Recent Grads   via ,0,0,1,0,0,0,0.07074448,0.04159525,0.88766026,Neu,0.029149227,benzinga
+4266,2017-11-29 16:20:00,Will Work For Crypto:  Latium Announces ICO Offering For Crypto-Task Service Platform  ,0,1,1,0,2,0,0.38289252,0.009522558,0.60758495,Neu,0.37336996,benzinga
+4268,2017-11-29 15:50:00,Inside Cineworld's Offer To Purchase Regal Entertainment: How Would It Work?   $RGC,0,0,1,0,0,0,0.056680284,0.011973173,0.9313466,Neu,0.044707112,benzinga
+4293,2017-11-28 22:40:00,You Own It: Investors Can Buy Into Eminem's Royalties    ,0,1,1,0,1,4,0.044811584,0.015274535,0.93991387,Neu,0.029537048,benzinga
+4318,2017-11-28 17:05:01,Why Traders Could Be Viewing One Horizon Group As Another Crypto Play   $OHGI,0,1,1,0,1,1,0.029629547,0.064297326,0.9060731,Neu,-0.03466778,benzinga
+4347,2017-11-27 23:01:00,Will The Millennial Generation Embrace Homeownership?   via   ,0,0,1,0,1,1,0.120123,0.013229344,0.8666477,Neu,0.10689366,benzinga
+4360,2017-11-27 19:35:00,Will Bitcoin Investors Embrace Diversification? This ICO Is Betting On It     via ,0,1,1,0,2,2,0.29965466,0.009963532,0.6903818,Neu,0.28969112,benzinga
+4368,2017-11-27 17:35:00,"Learn more about getting deeper into options and how they can fit into your trading strategies, register for the “Supercharge Your Options Trading” webinar on Tuesday, Nov. 28, presented by   ",1,1,1,0,1,0,0.06777604,0.012009784,0.9202142,Neu,0.055766255,benzinga
+4489,2017-11-21 00:32:00,Benzinga Pro users bought $ANF before it launched over 35.7% -- And you still didn't get Benzinga Pro! Here's why you should:    ,1,1,1,0,0,2,0.057386868,0.033951964,0.9086611,Neu,0.023434903,benzinga
+4497,2017-11-20 21:17:05,8 Semiconductor Stocks That Could Be Acquisition Targets   $AVGO $BRCD $CAVM,0,0,1,0,0,1,0.051302634,0.014964121,0.9337332,Neu,0.03633851,benzinga
+4538,2017-11-18 17:31:00,"There Could Be 18% Upside Left In Nvidia, Analyst Says   $NVDA",0,0,1,0,1,2,0.03169586,0.72445935,0.24384484,Neg,-0.6927635,benzinga
+4561,2017-11-17 18:05:00,"There Could Be 18% Upside Left In Nvidia, Analyst Says   $NVDA",0,0,1,0,1,2,0.03169586,0.72445935,0.24384484,Neg,-0.6927635,benzinga
+4687,2017-11-15 15:05:00,Do You Use Square Cash? You Might Be Able To Buy And Sell Bitcoin   $SQ $BTC,0,0,1,0,0,0,0.11813027,0.010247767,0.8716219,Neu,0.1078825,benzinga
+4745,2017-11-14 15:20:00,Can Private Equity Interest Revitalize Buffalo Wild Wings?   $BWLD $WING,0,0,1,0,0,0,0.33873492,0.0087301005,0.65253496,Neu,0.3300048,benzinga
+4749,2017-11-14 14:20:00,Here's How You Could Be A Pawn In The Cryptocurrency Game   $CBS $GOOG,0,0,1,0,0,0,0.028560065,0.07760052,0.8938394,Neu,-0.04904045,benzinga
+4769,2017-11-13 22:03:00,Momentum: Ride it Out As Long As You Can   $AAPL via ,0,0,1,0,1,1,0.11280925,0.012452782,0.874738,Neu,0.10035647,benzinga
+4793,2017-11-13 16:05:00,Here's Why Apple Will Be Worth $1 Trillion By The End Of 2017   $AAPL,0,0,1,0,0,0,0.06379517,0.011355116,0.92484975,Neu,0.052440055,benzinga
+4815,2017-11-12 17:31:00,"Instagram Stories: Anything Snapchat Can Do, We Can Do Better   $FB $SNAP",0,0,1,0,0,0,0.30173886,0.011581934,0.68667924,Neu,0.29015693,benzinga
+4829,2017-11-11 18:01:00,Here's Why Apple Will Be Worth $1 Trillion By The End Of 2017   $AAPL,0,0,1,0,0,0,0.06379517,0.011355116,0.92484975,Neu,0.052440055,benzinga
+4847,2017-11-10 19:05:00,"Instagram Stories: Anything Snap Can Do, We Can Do Better   $FB $SNAP",0,0,1,0,1,0,0.34319654,0.013308636,0.64349484,Neu,0.3298879,benzinga
+4852,2017-11-10 17:50:00,3D Printing ETF Can Print A Rebound   $PRNT $SSYS $DDD $HPQ,0,1,1,0,0,0,0.061120797,0.015332881,0.9235463,Neu,0.045787916,benzinga
+4856,2017-11-10 16:50:00,Can Omeros Top-Line Growth Continue?   $OMER,0,0,1,0,0,0,0.3203379,0.009296254,0.67036587,Neu,0.31104162,benzinga
+4861,2017-11-10 15:35:00,Disney's Streaming App Pricing Will Cost 'Significantly Less Than Netflix'   $DIS $CBS $NFLX,0,0,1,0,0,2,0.08229642,0.021216627,0.896487,Neu,0.061079796,benzinga
+4970,2017-11-08 19:20:00,Amazon's New Private-Label Furniture Business: Everything You Should Know   $AMZN $W,0,0,1,0,0,0,0.08699394,0.010281804,0.9027242,Neu,0.07671214,benzinga
+4992,2017-11-08 13:50:00,58 Things You Should Know About Bitcoin   $BTC,0,0,1,0,0,1,0.032363147,0.023326946,0.9443099,Neu,0.0090362,benzinga
+5040,2017-11-07 17:20:00,"Jefferies: Booz Allen Shares Have Been Flat, And That's Why You Should Buy Them   $BAH",0,1,1,0,0,0,0.032917567,0.9141733,0.0529091,Neg,-0.88125575,benzinga
+5044,2017-11-07 16:20:00,Why One Analyst Would Prefer To Build A Position In Lowe's Rather Than Home Depot   $HD $LOW,0,0,1,0,0,1,0.067961045,0.013018684,0.91902035,Neu,0.054942362,benzinga
+5091,2017-11-06 20:05:00,"OrthoPediatrics Could Win By Tapping A Massive, Underserved Market   $KIDS",1,1,1,0,1,1,0.8248277,0.007987469,0.16718484,Pos,0.8168402,benzinga
+5102,2017-11-06 17:20:00,CarGurus Could Be In The Fast Lane To Outperformance   $CARG $CARS $TRUE,0,0,1,0,0,0,0.7962693,0.01540827,0.18832245,Pos,0.780861,benzinga
+5143,2017-11-03 18:50:00,"Apple's Across-The-Board Beat: 'Tim Cook Is Giddy, And He Should Be'   $AAPL",0,0,1,0,0,1,0.21291956,0.044449244,0.74263126,Neu,0.16847032,benzinga
+5162,2017-11-03 14:20:00,Can Pandora's New Management Team Change Analysts' Tune?   $P $SIRI,0,0,1,0,1,0,0.069927886,0.014787782,0.9152843,Neu,0.055140104,benzinga
+5163,2017-11-03 14:05:00,Could Bitcoin Futures Be The Catalyst To Put CME Group Over The Top?   $CME $BTC,0,0,1,0,0,0,0.11426511,0.012498399,0.8732365,Neu,0.101766706,benzinga
+5164,2017-11-03 13:50:00,Analyst: YogaWorks Could Stretch To Almost 100% Upside   $YOGA,0,0,1,0,0,0,0.7690401,0.014566237,0.21639365,Pos,0.75447387,benzinga
+5179,2017-11-03 00:01:00,Papa John's CEO Blames NFL For Slowing Pizza Sales; Should He Really Blame Netflix?   $PZZA $DPZ $YUMC $GOOG $NFLX,0,1,1,2,2,2,0.013090525,0.8704375,0.11647207,Neg,-0.85734695,benzinga
+5219,2017-11-02 16:20:00,What Rebuilding Puerto Rico's Grid Would Mean For Tesla And Its Investors   $TSLA,0,1,1,0,0,0,0.11101178,0.012798851,0.87618935,Neu,0.09821293,benzinga
+5225,2017-11-02 14:50:00,Papa John's CEO Blames NFL For Slowing Pizza Sales; Should He Really Blame Netflix?   $PZZA $DPZ $NFLX $GOOG,0,1,1,0,0,0,0.011741862,0.89483714,0.09342098,Neg,-0.88309526,benzinga
+5243,2017-11-02 01:01:00,What Rebuilding Puerto Rico's Grid Would Mean For Tesla  And Its Investors   $TSLA,0,1,1,0,0,0,0.11101178,0.012798851,0.87618935,Neu,0.09821293,benzinga
+5276,2017-11-01 19:05:02,What Rebuilding Puerto Rico's Grid Would Mean For Tesla And Its Investors   $TSLA,0,1,1,0,1,2,0.11101178,0.012798851,0.87618935,Neu,0.09821293,benzinga
+5448,2017-10-28 19:00:00,Analysis: A CVS-Aetna Merger Would Be Revolutionary   $AET $CVS $AMZN,0,0,1,0,1,1,0.052155126,0.013373493,0.9344714,Neu,0.03878163,benzinga
+5475,2017-10-27 17:20:00,Poll: Nearly Half Of Amazon Prime Members Would Not Renew If Cost Rose To $150   $AMZN,0,0,1,0,1,0,0.120950855,0.29927278,0.57977635,Neu,-0.17832193,benzinga
+5480,2017-10-27 16:05:00,"For DryShips, Is It Clear Sailing Or Will It Sink Again?   $DRYS",0,1,1,0,0,0,0.03330772,0.032604963,0.93408734,Neu,0.0007027574,benzinga
+5481,2017-10-27 15:50:00,Analysis: A CVS-Aetna Merger Would Be Revolutionary   $AET $CVS,0,0,1,0,0,0,0.062119506,0.012065704,0.9258148,Neu,0.0500538,benzinga
+5532,2017-10-26 19:50:00,DryShips: Clear Sailing Or Will It Sink Again?   $DRYS,0,0,1,0,0,0,0.032035973,0.050240472,0.91772354,Neu,-0.018204499,benzinga
+5555,2017-10-26 14:20:00,Can New Promotions Rescue Buffalo Wild Wings?   $BWLD,0,0,1,0,0,0,0.08412204,0.014697138,0.9011808,Neu,0.0694249,benzinga
+5655,2017-10-24 19:50:00,Next Year Will Be Weak For Kimberly Clark; Analyst Says Buy The Stock Anyway   $KMB $PG,0,1,1,0,0,0,0.026982522,0.9132787,0.059738815,Neg,-0.88629615,benzinga
+5669,2017-10-24 16:35:00,Susquehanna: Why Micron Should Consider Buying Pure Storage   $MU $PSTG,0,0,1,0,0,0,0.061760154,0.013044403,0.9251954,Neu,0.04871575,benzinga
+5699,2017-10-24 01:01:00,Gene Munster will visit BZHQ tomorrow for a live 'Ask Me Anything' session! Email your questions to newsdesk or tweet AskGene,0,0,1,0,1,0,0.033700515,0.01992933,0.9463701,Neu,0.013771184,benzinga
+5756,2017-10-22 18:41:00,Will Work For Crypto: McAfee-Backed Latium Announces ICO Offering For Crypto-Task Service Platform  ,0,0,1,0,0,1,0.53593475,0.009145284,0.45492,Pos,0.5267895,benzinga
+5770,2017-10-21 18:40:00,Will Work For Crypto: McAfee-Backed Latium Announces ICO Offering For Crypto-Task Service Platform  ,0,0,1,0,0,1,0.53593475,0.009145284,0.45492,Pos,0.5267895,benzinga
+5786,2017-10-20 19:35:00,There Could Be 109% Upside In uniQure As Company Advances Gene Therapy Into Clinical Trials   $ONCE $QURE,0,0,1,1,0,3,0.8466017,0.011227759,0.1421705,Pos,0.83537394,benzinga
+5791,2017-10-20 18:20:00,Will Work For Crypto: McAfee-Backed  Announces ICO Offering For Crypto-Task Service Platform  ,0,1,1,0,0,2,0.223957,0.0071381712,0.76890486,Neu,0.21681882,benzinga
+5841,2017-10-19 20:35:00,Will Amazon Buy Sally Beauty Supply?   $AMZN $SBH,0,0,1,2,1,1,0.07545321,0.010325734,0.91422105,Neu,0.06512748,benzinga
+5897,2017-10-18 19:50:00,Video: Can Financial Services Ever Work As One Tech Ecosystem?   BZSummit,0,0,1,0,2,3,0.0605544,0.014979295,0.9244663,Neu,0.045575105,benzinga
+5973,2017-10-17 16:05:00,Live Sports Could Be The Next Boon For Big Tech   $FB $GOOG $AMZN $CBS $DIS $FOXA $DISCA $TWX $VIAB,0,0,1,0,0,2,0.46058849,0.020275706,0.51913583,Neu,0.44031277,benzinga
+6021,2017-10-16 18:50:00,10 Most Volatile Stocks Investors Should Know For Q3 Earnings   $SAGE $VRX $HTZ $MAT $ $AMD $TWTR $MOH $FEYE $TRIP,0,0,1,0,0,1,0.12193181,0.028773407,0.8492948,Neu,0.09315841,benzinga
+6092,2017-10-13 20:05:00,. Will Help You Find Alpha—For A Price   BZSummit,0,0,1,0,0,1,0.12545761,0.0077241496,0.8668182,Neu,0.11773346,benzinga
+6119,2017-10-13 14:05:00,Applied Optoelectronics Investors Be Warned: Q3 Will Be Weaker Than Expected   $AAOI,1,0,1,0,0,0,0.0184692,0.96589136,0.015639473,Neg,-0.94742215,benzinga
+6140,2017-10-12 21:50:00,Applied Optoelectronics Investors Be Warned: Q3 Will Be Weaker Than Expected   $AAOI,1,0,1,0,1,0,0.0184692,0.96589136,0.015639473,Neg,-0.94742215,benzinga
+6272,2017-10-10 17:50:00,Breaking Down What Lower Corporate Taxes Would Mean For Apple   $AAPL,0,1,1,0,0,0,0.050010625,0.039560325,0.91042906,Neu,0.0104503,benzinga
+6329,2017-10-09 16:35:00,"Trump Claims Puerto Rico's Bond Debt Will Be 'Wiped Out,' Here's Who'd Lose Big   $AGO $AMBC $HYMB $PZT $SHYD",1,1,1,0,2,1,0.03695273,0.3533075,0.6097397,Neu,-0.31635475,benzinga
+6356,2017-10-08 18:24:00,What A Free Marijuana Trade With Mexico Would Look Like: Vicente Fox To Speak In Phoenix   $AAPC $ABBV $ACBFF,0,0,1,0,1,0,0.08948495,0.011607385,0.89890766,Neu,0.077877566,benzinga
+6368,2017-10-07 17:00:00,What A Free Marijuana Trade With Mexico Would Look Like: Vicente Fox To Speak In Phoenix   $AAPC $ABBV $ACBFF,0,0,1,0,0,0,0.08948495,0.011607385,0.89890766,Neu,0.077877566,benzinga
+6403,2017-10-06 13:20:00,Will Switch Turn Investors On With Its IPO?   $SWCH $SNAP $APRN $EBAY $ROKU,0,0,1,0,1,0,0.10614951,0.013621683,0.8802288,Neu,0.09252783,benzinga
+6414,2017-10-05 22:01:00,Will Switch Turn Investors On With Its IPO?   $SWCH $APRN $EBAY $ROKU $SNAP,0,0,1,0,2,2,0.15763555,0.013885022,0.82847947,Neu,0.14375053,benzinga
+6431,2017-10-05 17:11:02,STARTS IN 20 MINUTES – Stock Topics You Should Know. Webinar today at 12:30pm EDT &gt;&gt; Register:    ,0,0,1,0,0,0,0.025169514,0.024782263,0.95004815,Neu,0.00038725138,benzinga
+6436,2017-10-05 16:14:05,LAST CHANCE! 3 Stock Topics You Should Know. Webinar today at 12:30pm EDT &gt;&gt; Register:    ,0,0,1,0,0,0,0.025828047,0.02651651,0.94765544,Neu,-0.00068846345,benzinga
+6448,2017-10-05 14:11:02,Limited Seats left! 3 Stock Topics You Should Know. Webinar TODAY at 12:30pm EDT &gt;&gt; Register:    ,1,0,1,0,1,1,0.023018043,0.030450204,0.9465317,Neu,-0.007432161,benzinga
+6459,2017-10-05 00:38:00,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Tomorrow at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,0,0,0.023327144,0.023965085,0.95270777,Neu,-0.00063794106,benzinga
+6466,2017-10-04 21:30:00,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Tomorrow at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,0,0,0.023327144,0.023965085,0.95270777,Neu,-0.00063794106,benzinga
+6478,2017-10-04 19:18:01,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Tomorrow at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,0,0,0.023327144,0.023965085,0.95270777,Neu,-0.00063794106,benzinga
+6479,2017-10-04 19:05:00,When Should You Take A Slice Of Domino's Pizza Stock?   $DPZ,0,0,1,0,0,0,0.032227125,0.02547772,0.94229513,Neu,0.0067494046,benzinga
+6492,2017-10-04 16:13:03,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Tomorrow at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,3,0,0.023327144,0.023965085,0.95270777,Neu,-0.00063794106,benzinga
+6503,2017-10-04 14:08:04,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Tomorrow at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,1,1,0.023327144,0.023965085,0.95270777,Neu,-0.00063794106,benzinga
+6516,2017-10-04 00:36:00,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Thursday at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,0,0,0.02033087,0.028678691,0.9509905,Neu,-0.0083478205,benzinga
+6524,2017-10-03 21:36:00,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Thursday at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,1,1,0.02033087,0.028678691,0.9509905,Neu,-0.0083478205,benzinga
+6535,2017-10-03 19:00:00,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Thursday at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,2,2,0.02033087,0.028678691,0.9509905,Neu,-0.0083478205,benzinga
+6545,2017-10-03 16:36:04,"3 Stock Topics You Should Know: Dividends, Trade Ideas and Options. Webinar Thursday at 12:30pm EDT &gt;&gt; Register:    ",0,0,1,0,0,0,0.02033087,0.028678691,0.9509905,Neu,-0.0083478205,benzinga
+6568,2017-10-03 00:31:00,A Big Week For Roku: Newly IPO'd And Offering 5 New Streaming Devices   $ROKU,0,1,1,0,1,2,0.8789032,0.008299608,0.112797156,Pos,0.8706036,benzinga
+6630,2017-09-29 15:52:01,Attention US Investors: Here's How You Can Buy Rovio Shares   $GLUU $NTDOY $SSNLF  AngryBirds,0,1,1,0,0,2,0.062741116,0.012384259,0.9248746,Neu,0.050356857,benzinga
+6646,2017-09-29 00:41:03,"Kevin O'Leary on automation: As we advance into AI, more people will find better work. And our lifestyles become better. BZSummit",0,1,1,0,1,3,0.21412686,0.010906534,0.7749666,Neu,0.20322032,benzinga
+6648,2017-09-29 00:35:00,"Suber says the FOMO period is over, so some companies are going to go public at the last round. You'll see ""the truth come out."" BZSummit",1,1,1,0,0,3,0.03690815,0.027481766,0.9356101,Neu,0.009426383,benzinga
+6661,2017-09-28 23:34:02,Brian Gunn  focuses on student loans and how these debt problems could be solved.  BZsummit,1,1,1,0,0,1,0.04396881,0.024881585,0.93114966,Neu,0.019087227,benzinga
+6662,2017-09-28 23:28:05,Anatalio Ubalde  demos how companies could compare their revenue to others in the area BZSummit,0,0,1,0,1,1,0.28764823,0.012073885,0.7002779,Neu,0.27557436,benzinga
+6666,2017-09-28 22:55:05,"""Maintaining a company's autonomy & brand will lead to innovation"" Anton Honikman   bzsummit",0,1,1,0,0,3,0.2969577,0.009776888,0.69326544,Neu,0.2871808,benzinga
+6683,2017-09-28 21:16:03,Gene Munster suggests that AI startups should refer to tech labs to confirm that their ideas are original. FinTech,0,1,1,0,0,1,0.060505994,0.017969288,0.9215247,Neu,0.042536706,benzinga
+6689,2017-09-28 20:57:00,Different strokes for different VCs: How Investors with diverse backgrounds can help scale your company. fintech  ,0,0,1,0,5,5,0.103895,0.010346922,0.88575804,Neu,0.09354808,benzinga
+6711,2017-09-28 19:04:01,Leader boards and Collective2's platform can help with investment strategy.   BZsummit,0,0,1,0,1,1,0.16801502,0.007214722,0.8247703,Neu,0.1608003,benzinga
+6714,2017-09-28 18:55:05,Quants shares how risk mitigation factoring can better risk-adjusted returns  BZsummit,0,0,1,0,0,0,0.86551654,0.008940928,0.12554249,Pos,0.8565756,benzinga
+6717,2017-09-28 18:50:00,Eugene Lobachev  gives a solution for those who cannot get loans through crowd vouching. BZsummit,0,1,1,0,3,5,0.12250921,0.027580952,0.8499099,Neu,0.09492826,benzinga
+6725,2017-09-28 17:54:04,"Using info from satellites, analytics can calculate total crude oil storage in the US and  crossreference with other countries. bzsummit",0,1,1,0,1,4,0.05322231,0.013249187,0.93352854,Neu,0.039973125,benzinga
+6726,2017-09-28 17:51:04,How satellite imagery can help predict the next move in the financial markets.  ,0,0,1,0,1,2,0.13810909,0.010235375,0.85165554,Neu,0.12787372,benzinga
+6739,2017-09-28 16:53:00,Why Netflix Will Be A $300 Billion Company By 2030   $NFLX,0,0,1,0,2,0,0.052910637,0.014300839,0.9327885,Neu,0.0386098,benzinga
+6788,2017-09-27 18:35:00,Here's Why Wireless M&A Shouldn't Weigh On SBA   $S $SBAC $T,0,0,1,0,0,0,0.05035786,0.024367023,0.9252751,Neu,0.025990836,benzinga
+6792,2017-09-27 17:35:00,Should Twilio Shares Be Bought On Weakness?   $TWLO $AMZN,0,0,1,0,2,0,0.04619931,0.018799728,0.93500096,Neu,0.027399583,benzinga
+6847,2017-09-26 17:05:00,Analyst Previews BlackBerry's Q2: Bookings Should Buoy Software Revenue   $BBRY,0,0,1,0,0,0,0.9430182,0.021842234,0.035139564,Pos,0.92117596,benzinga
+6869,2017-09-26 03:01:00,"When Bull Markets Die: What To Watch For, What Stocks Could Be The First To Get Hit  ",0,0,1,0,0,2,0.0281465,0.053262576,0.9185909,Neu,-0.025116077,benzinga
+6881,2017-09-25 21:50:00,"Soon, Average Investors Could Lose Out On Profit To Music Streaming With Royalty Flow  ",0,1,1,0,0,0,0.014157297,0.87362725,0.11221551,Neg,-0.85946995,benzinga
+6900,2017-09-25 18:20:00,"When Bull Markets Die: What To Watch For, What Stocks Could Be The First To Get Hit  ",0,0,1,0,0,2,0.0281465,0.053262576,0.9185909,Neu,-0.025116077,benzinga
+6939,2017-09-24 19:14:00,Why You Should Be A Buyer Of Costco Shares Into Its Q4 Print   $COST,0,0,1,0,1,3,0.08182504,0.013976533,0.90419847,Neu,0.0678485,benzinga
+6960,2017-09-23 19:14:00,Why You Should Be A Buyer Of Costco Shares Into Its Q4 Print   $COST,0,0,1,0,0,3,0.08182504,0.013976533,0.90419847,Neu,0.0678485,benzinga
+6989,2017-09-22 18:55:01,Healthcare Stocks Spike; John McCain Says 'I cannot in good conscience vote for the Graham-Cassidy proposal' $AET $UNH $MOH $CNC $CYH,0,0,1,0,5,1,0.13256148,0.831556,0.035882525,Neg,-0.6989945,benzinga
+6990,2017-09-22 18:50:00,"Texas Instruments Raises Dividend By 24%, And It'll Likely Raise Again   $TXN",0,0,1,0,0,0,0.93079185,0.01931649,0.04989166,Pos,0.91147536,benzinga
+7000,2017-09-22 16:48:04,Catch up with this week's webinar:    You can sign up for next week's webinar here:    🎦,0,0,1,0,2,0,0.0592285,0.013959991,0.9268115,Neu,0.045268506,benzinga
+7004,2017-09-22 15:50:00,Will Intercept Stock Potential Be Blindsided By FDA Letter?   $ICPT,1,0,1,0,0,0,0.03333028,0.27100956,0.6956601,Neu,-0.23767929,benzinga
+7063,2017-09-21 03:01:00,The 'Historical Unicorn Event' Investors Should Be Concerned With  ,1,0,1,0,0,0,0.050814733,0.07469287,0.8744924,Neu,-0.023878135,benzinga
+7066,2017-09-21 01:31:00,Trading After-Hours Can Be A Dangerous Game   $INTC  ,0,1,1,0,0,1,0.017991541,0.69582945,0.28617898,Neg,-0.6778379,benzinga
+7097,2017-09-20 17:05:00,Can FedEx Investors Overlook Cyberattack-Related Miss And See A Silver Lining?   $FDX,0,0,1,0,0,0,0.09618177,0.04157134,0.8622468,Neu,0.05461043,benzinga
+7106,2017-09-20 15:20:00,"Pfizer Should Outperform, Morgan Stanley Upgrades   $PFE",0,0,1,0,0,0,0.93408394,0.019089215,0.046826866,Pos,0.9149947,benzinga
+7107,2017-09-20 15:05:00,Trading After-Hours Can Be A Dangerous Game   $INTC cc ,0,1,1,0,0,1,0.016908973,0.72058105,0.26251006,Neg,-0.70367205,benzinga
+7131,2017-09-19 21:45:00,Will Short Sellers Hang On To Nutanix?   $NTNX,0,0,1,0,0,0,0.06743781,0.014317724,0.9182445,Neu,0.053120088,benzinga
+7174,2017-09-19 02:30:00,"Crude Oil Back At $50, But Can It Go Any Higher?   $USO  ",0,0,1,0,0,0,0.11695773,0.022075653,0.8609666,Neu,0.09488208,benzinga
+7193,2017-09-18 19:35:00,"Crude Oil Back At $50, But Can It Go Any Higher?   $USO",0,0,1,0,0,0,0.11695773,0.022075653,0.8609666,Neu,0.09488208,benzinga
+7251,2017-09-16 18:30:00,"There Will Be Blood: Box Office Could Kill For Second Straight Weekend On Backs Of Evil Clown, Eerie Mom  ",0,0,1,0,0,0,0.06553418,0.64812535,0.28634045,Neg,-0.5825912,benzinga
+7259,2017-09-15 21:15:00,"3 I's Of Why You Should Own Generac: Irma, International, Industrial   $GNRC",0,0,1,0,0,1,0.050240345,0.012785915,0.93697375,Neu,0.03745443,benzinga
+7260,2017-09-15 20:52:05,"There Will Be Blood: Box Office Could Kill For Second Straight Weekend On Backs Of Evil Clown, Eerie Mom   $TWX",0,0,1,0,0,0,0.11428246,0.47361842,0.41209906,Neg,-0.35933596,benzinga
+7369,2017-09-13 20:20:00,"Analyst: We Don't Like Tesla, But Here's Why We Could Be Wrong   $TSLA",0,1,1,0,0,0,0.037335776,0.31935838,0.64330584,Neu,-0.2820226,benzinga
+7377,2017-09-13 18:20:00,Where Will The Switch Fit Among  Greatest Hits And Biggest Misses?   $NTDOY  ,0,0,1,0,0,0,0.045022376,0.018047616,0.93693,Neu,0.02697476,benzinga
+7379,2017-09-13 17:50:00,Analyst: Oil Will Sink By 2040 When Electric Vehicles Dominate   $USO $CVX $XOM,0,0,1,0,0,1,0.19600262,0.22603476,0.5779627,Neu,-0.030032143,benzinga
+7412,2017-09-12 23:01:00,Analyst: Oil Will Sink By 2040 When Electric Vehicles Dominate   $CVX $XOM $USO,0,0,1,2,0,1,0.13293497,0.14952347,0.7175416,Neu,-0.016588494,benzinga
+7414,2017-09-12 22:01:00,Where Will The Switch Fit Among Nintendo's Greatest Hits And Biggest Misses?   $NTDOY NationalVideoGamesDay  ,0,0,1,0,0,0,0.05921266,0.016341116,0.9244462,Neu,0.042871542,benzinga
+7423,2017-09-12 19:51:00,"iPhone X Will Cost $999, Preorders Begin Oct. 27, Will BE Available To Ship Nov. 3 $AAPL AppleEvent",0,0,1,1,3,1,0.066802286,0.009670734,0.923527,Neu,0.05713155,benzinga
+7473,2017-09-11 23:01:00,How Quants Will Use Macroeconomic Indicators To Sidestep The Next Recession   $SPY,0,0,1,0,1,1,0.09301658,0.028545862,0.8784376,Neu,0.064470716,benzinga
+7486,2017-09-11 19:46:00,Munster: iPhone 8 Should Be Delivered On Time   $AAPL $FNSR,1,0,1,0,3,1,0.09948355,0.008759311,0.89175713,Neu,0.09072424,benzinga
+7526,2017-09-10 22:22:00,20% Of Millennials Don't Think A Car Will Be Necessary In 20 Years   $F $GM $HMC,0,1,1,0,1,1,0.04629971,0.023827735,0.9298725,Neu,0.022471976,benzinga
+7531,2017-09-10 19:00:00,Will The Bromance Between Uber's New CEO And Co-Founder Last?  ,0,0,1,0,0,0,0.041979305,0.03725503,0.9207657,Neu,0.0047242753,benzinga
+7542,2017-09-10 01:19:00,Will The Bromance Between Uber's New CEO And Co-Founder Last?  ,0,0,1,0,0,0,0.041979305,0.03725503,0.9207657,Neu,0.0047242753,benzinga
+7555,2017-09-08 22:30:00,Hasbro's Inaugural HasCon Event: What It Is And Who'll Be There   $DIS $HAS,0,1,1,0,0,0,0.039364185,0.019597927,0.94103795,Neu,0.019766258,benzinga
+7569,2017-09-08 18:50:00,How Quants Will Use Macroeconomic Indicators To Sidestep The Next Recession   $SPY,0,0,1,0,0,1,0.09301658,0.028545862,0.8784376,Neu,0.064470716,benzinga
+7577,2017-09-08 17:05:00,Why  Should Bring HQ2 To Detroit   $AMZN $BABA $BWA $FB $MSFT $FCAU,0,0,1,0,0,0,0.13662831,0.010476225,0.85289544,Neu,0.12615208,benzinga
+7597,2017-09-08 02:31:00,Hasbro's Inaugural HasCon Event: What It Is And Who'll Be There   $HAS,0,1,1,0,0,0,0.041576337,0.016920729,0.94150287,Neu,0.024655608,benzinga
+7626,2017-09-07 18:21:02,Amazon's 'HQ2' Will Turn A City Into An Instant 'Mini Silicon Valley'   $AMZN,0,0,1,0,2,0,0.47880027,0.009247909,0.51195186,Neu,0.46955237,benzinga
+7700,2017-09-06 13:50:00,Can Generac Hold Its Charge After Harvey And Irma?   $GNRC HurricaneIrma,0,0,1,0,0,1,0.045863364,0.016269188,0.9378674,Neu,0.029594176,benzinga
+7716,2017-09-05 22:01:00,Can Generac Hold Its Charge After Harvey And Irma?   $GNRC,0,0,1,0,1,0,0.040597506,0.01741936,0.9419831,Neu,0.023178145,benzinga
+7728,2017-09-05 19:20:00,20% Of Millennials Don't Think A Car Will Be Necessary In 20 Years   $F $GM $HMC $TSLA,0,1,1,0,1,1,0.06872837,0.015878815,0.9153929,Neu,0.052849557,benzinga
+7772,2017-09-04 14:30:05,Happy Labor Day! US Markets are closed today and will reopen Tuesday at 9:30 a.m. ET.  ,1,1,1,0,1,1,0.026683696,0.15220954,0.82110685,Neu,-0.12552583,benzinga
+7803,2017-09-02 16:30:00,20% Of Millennials Don't Think A Car Will Be Necessary In 20 Years   $F $GM $HMC $TSLA,0,1,1,0,5,8,0.06872837,0.015878815,0.9153929,Neu,0.052849557,benzinga
+7870,2017-08-31 23:31:00,Six Flags CEO Explains Why The Stock 'Doesn't Reflect The True Value'   $SIX,0,0,1,0,0,1,0.031018533,0.066815205,0.90216625,Neu,-0.035796672,benzinga
+7874,2017-08-31 21:40:00,This Could Be The Energy ETF For September   $DRIP $ERX $GASL $XOP $GUSH,0,0,1,0,0,0,0.043394767,0.02115644,0.93544877,Neu,0.022238327,benzinga
+7888,2017-08-31 19:15:00,Force Friday Episode II: Can Disney Replicate The Success Of Its Last 'Star Wars' Mega-Event?   $AAPL $DIS,0,0,1,0,0,1,0.15316376,0.012187127,0.8346491,Neu,0.14097664,benzinga
+7968,2017-08-29 20:20:00,Resurrected: How Old News Can Move Stocks   $SEAS,1,0,1,0,1,0,0.051257286,0.06840817,0.8803346,Neu,-0.017150883,benzinga
+8030,2017-08-28 18:35:00,Million-Dollar Businesses You Can Start With Your Laptop    ,0,0,1,0,1,1,0.04706319,0.016044207,0.93689257,Neu,0.031018984,benzinga
+8033,2017-08-28 17:50:00,Will Harvey Be The Costliest Storm The Insurance Industry's Ever Faced?   $AHL $AIG $ALL $CB $PGR $RNR $RE,0,0,1,0,0,0,0.08379598,0.18121178,0.73499227,Neu,-0.097415805,benzinga
+8076,2017-08-27 17:11:00,"Amazon-Whole Foods Deal Details Shouldn't Surprise Anyone, Least Of All Grocer Investors   $AMZN $KR $TGT",0,0,1,1,0,0,0.043732945,0.017971138,0.93829596,Neu,0.025761807,benzinga
+8087,2017-08-26 22:11:00,"Amazon-Whole Foods Deal Details Shouldn't Surprise Anyone, Least Of All Grocer Investors   $AMZN $KR $TGT",0,0,1,1,0,0,0.043732945,0.017971138,0.93829596,Neu,0.025761807,benzinga
+8090,2017-08-26 21:04:04,Million-Dollar Businesses You Can Start With Your Laptop   $GOOG $GOOGL,0,0,1,0,0,0,0.04124977,0.020351509,0.9383987,Neu,0.020898262,benzinga
+8119,2017-08-25 17:27:00,Can  Do For Kraft Heinz What She Did For Weight Watchers?   $KHC $WTW via ,1,0,1,0,0,1,0.082547985,0.012211284,0.9052408,Neu,0.0703367,benzinga
+8130,2017-08-25 14:55:00,"Amazon-Whole Foods Deal Details Shouldn't Surprise Anyone, Least Of All Grocer Investors   $AMZN $WFM $KR $TGT $WMT",0,0,1,0,0,0,0.0376977,0.020616688,0.9416856,Neu,0.017081011,benzinga
+8137,2017-08-25 13:20:00,Here’s a look as several kinds of stocks that could move thanks to the storm.   HurricaneHarvey,1,0,1,0,0,0,0.040171575,0.028232243,0.93159616,Neu,0.011939332,benzinga
+8164,2017-08-24 20:43:00,Should Disney Investors Be Worried About The Latest ESPN Fiasco?   $DIS,1,0,1,0,1,1,0.039902233,0.48287946,0.4772183,Neg,-0.44297722,benzinga
+8175,2017-08-24 17:01:00,Will Monthly Auto Sales Decline For 8th Straight Month?   $F $GM $LAD $PAG,0,0,1,2,2,1,0.00872618,0.9431432,0.048130676,Neg,-0.934417,benzinga
+8177,2017-08-24 16:30:03,"We will be hosting a FREE webinar  at 12:30 p.m. EDT! ""Investing 101: How To Research A Stock"" Click to learn more!    ",0,1,1,0,4,2,0.0760687,0.012876457,0.9110548,Neu,0.06319224,benzinga
+8245,2017-08-23 00:01:00,"Despite The Noise, Athletic Trends Can Return To Growth   $COLM $DLTH $FL $VFC $WWW $NKE $UAA",0,0,1,0,0,1,0.6998577,0.012703617,0.28743863,Pos,0.6871541,benzinga
+8272,2017-08-22 17:15:00,Buffett's Losing Streak Could Corner Him Into Doing Something He Would Hate  ,0,0,1,0,1,1,0.047214933,0.6399838,0.31280124,Neg,-0.59276885,benzinga
+8277,2017-08-22 15:58:00,"Who Is Paul Meeks, And Why Should You Care He's Bullish On The FANG Stocks?   $FB $AMZN $NFLX $GOOG $CTL $AKAM $FIT",0,1,1,0,4,0,0.052778658,0.026023997,0.9211973,Neu,0.02675466,benzinga
+8278,2017-08-22 15:39:04,"Despite The Noise, Athletic Trends Can Return To Growth   $COLM $DLTH $FL $NKE $UAA $VFC $WWW",0,0,1,0,1,0,0.7993822,0.011391336,0.18922648,Pos,0.78799087,benzinga
+8314,2017-08-21 15:21:02,The debate on Herbalife's stock could come to an end following reports the company is looking to sell itself. $HLF  ,0,1,1,0,0,0,0.027129259,0.3895572,0.5833136,Neu,-0.36242795,benzinga
+8359,2017-08-19 23:30:00,10 Years Later: 10 Facts You Might Not Know About 'Superbad'   $SNE cc   ,0,0,1,0,3,5,0.0325632,0.031811845,0.935625,Neu,0.0007513538,benzinga
+8365,2017-08-19 20:30:00,"A Handy Guide For What The Careful CEO Should, And Shouldn't, Talk About   $GOOG $RGR $TWTR  ",0,0,1,0,0,0,0.0447608,0.022726055,0.9325132,Neu,0.022034746,benzinga
+8397,2017-08-18 14:35:00,What began with a deadly clash in Virginia led to a perfect storm that could threaten the global economy.  ,1,0,1,0,1,0,0.0210226,0.8730141,0.10596333,Neg,-0.8519915,benzinga
+8410,2017-08-18 02:31:00,10 Facts You Might Not Know About 'Superbad'   cc    ,0,0,1,0,0,0,0.032901525,0.037468344,0.92963016,Neu,-0.0045668185,benzinga
+8419,2017-08-17 22:06:03,10 Facts You Might Not Know About 'Superbad'   $SNE,0,0,1,0,0,2,0.037303146,0.026755124,0.93594176,Neu,0.010548022,benzinga
+8485,2017-08-16 19:40:00,L Brands: Will It Have An Urban Outfitters Or Dick's Quarter?   $LB $URBN $DKS  ,0,0,1,0,2,0,0.057341725,0.013320366,0.92933786,Neu,0.04402136,benzinga
+8495,2017-08-16 18:10:00,Add Campbell Soup: “I will continue to support all efforts...and advocate for the values that have always made America great.” $CPB,1,1,1,0,0,1,0.30260274,0.012450652,0.6849466,Neu,0.29015207,benzinga
+8507,2017-08-16 15:01:02," Hey! Yes -- If you DM us your email address, we'll look into why you haven't received it yet and make sure you get it every morning!",1,1,1,0,0,0,0.07265955,0.017145023,0.91019547,Neu,0.05551453,benzinga
+8509,2017-08-16 14:40:00,What Should Concern Chipotle Investors The Most? The Pace Of Sales Trends   $CMG,0,0,1,0,0,0,0.046963673,0.035553355,0.9174829,Neu,0.011410318,benzinga
+8552,2017-08-15 19:05:01,"If Bitcoin Were A Stock, It Would Be Valued Similar To...Netflix?   $NFLX $AAPL $COST $CRM $PYPL",1,0,1,0,0,0,0.07702148,0.011212179,0.91176635,Neu,0.0658093,benzinga
+8560,2017-08-15 15:31:00,Goldman no longer holds a bearish view on GoPro as the launch of its HERO6 could prove to be a big catalyst.   $GPRO,0,1,1,0,0,0,0.10514724,0.03257449,0.8622783,Neu,0.07257275,benzinga
+8609,2017-08-14 20:01:00,Will Alibaba And Home Depot Bring Good News To Retail Earnings Season?   $BABA $HD,0,0,1,0,1,1,0.850907,0.012524896,0.13656807,Pos,0.8383821,benzinga
+8654,2017-08-13 22:29:00,Will Alibaba And Home Depot Bring Good News To Retail Earnings Season?   $BABA $HD,0,0,1,0,1,0,0.850907,0.012524896,0.13656807,Pos,0.8383821,benzinga
+8788,2017-08-10 18:17:02,Nvidia is a little under pressure. Still up 56% YTD and 405% since January 2016. Will the run continue after today's Q2 release? $NVDA,0,1,1,0,1,0,0.9168972,0.023854394,0.05924841,Pos,0.8930428,benzinga
+8801,2017-08-10 15:10:00,Could Amazon Be The Dark Horse In The Digital Ad Revenue Race?   $AMZN $FB $GOOG,0,0,1,0,0,0,0.042587835,0.032609668,0.92480254,Neu,0.009978168,benzinga
+8849,2017-08-09 18:23:03,Can Fossil Fight Extinction In Competitive Wearable Climate Change?   $FOSL,0,0,1,0,0,0,0.19847183,0.00881255,0.79271555,Neu,0.18965928,benzinga
+8988,2017-08-07 15:31:00,Can Nordstrom Or Office Depot Rise Above Low Retail Earnings Expectations?   $JWN $ODP $SPLS,0,0,1,0,0,0,0.7164184,0.026593685,0.2569879,Pos,0.6898247,benzinga
+9030,2017-08-04 17:41:03,How Long Can This S&P 500 Consolidation Continue?   $SPY  ,0,0,1,1,1,2,0.041492645,0.040563516,0.9179439,Neu,0.0009291284,benzinga
+9100,2017-08-03 15:59:00,From April: Could An Ouster Of Mondelez's Irene Rosenfeld Mean A Deal For Buffett's Berkshire?   $MDLZ $KHC $BRK.B,0,0,1,0,1,1,0.09923498,0.016678216,0.8840868,Neu,0.08255677,benzinga
+9162,2017-08-02 15:43:04,"Coming in just a few minutes, we will be LIVE with Loup Ventures founder & former analyst Gene Munster... Stay tuned for his analysis! $AAPL",1,1,1,0,0,0,0.075098515,0.011033865,0.9138676,Neu,0.06406465,benzinga
+9184,2017-08-02 01:01:00,Will Trump Ban Oil From Violence-Torn Venezuela? President Faces Tough Foreign Test   VenezuelaVotaHoy,0,0,1,0,0,1,0.10815966,0.2898834,0.6019569,Neu,-0.18172374,benzinga
+9209,2017-08-01 19:17:00,"Gene Munster will be at Benzinga HQ Wednesday talking $AAPL, $TSLA and the future LIVE! Get updates in Benzinga Pro:  ",0,1,1,1,1,2,0.03836014,0.0232765,0.9383634,Neu,0.015083641,benzinga
+9216,2017-08-01 17:13:04,Will Trump Ban Oil From Violence-Torn Venezuela? President Faces Tough Foreign Test   $CVX $PSX $VLO,0,0,1,0,0,0,0.23725933,0.16528694,0.5974537,Neu,0.071972385,benzinga
+9276,2017-07-31 18:45:00,"17 things you might not know about Anthony Scaramucci, from his beginnings at Goldman Sachs to 'Wall Street Week'  ",0,0,1,1,1,2,0.033120785,0.050829463,0.9160497,Neu,-0.017708678,benzinga
+9347,2017-07-28 23:25:00,"Why Women Can, And Should, Take More Control Of Their Investments  ",0,0,1,0,0,0,0.043597497,0.050030332,0.9063722,Neu,-0.006432835,benzinga
+9363,2017-07-28 17:30:00,Overstock CEO Thinks He Can Prevent The Next Financial Crisis—And Revolutionize Short Selling—Using Blockchain  ,0,1,1,0,5,4,0.19628814,0.009644991,0.79406685,Neu,0.18664315,benzinga
+9368,2017-07-28 16:52:00,Attention U.S. Drivers: State Lines Can Be Danger Zones For Gas Prices   $UGA,0,0,1,0,0,0,0.0326033,0.5048445,0.4625522,Neg,-0.4722412,benzinga
+9404,2017-07-28 12:30:00,Overstock CEO Thinks He Can Prevent The Next Financial Crisis—And Revolutionize Short Selling—Using Blockchain  ,0,1,1,0,6,8,0.19628814,0.009644991,0.79406685,Neu,0.18664315,benzinga
+9417,2017-07-27 22:30:00,Exclusive:  CEO Thinks He Can Prevent Next Financial Crisis—& Revolutionize Short Selling—Using Blockchain  ,0,1,1,0,2,0,0.23707655,0.009798808,0.75312465,Neu,0.22727774,benzinga
+9436,2017-07-27 19:00:00,Stay Tuned For Facebook TV: Ad Sales Will Fund Big Bet On Video   $FB,0,0,1,0,1,0,0.77580124,0.012356881,0.21184185,Pos,0.76344436,benzinga
+9459,2017-07-27 15:37:00,Can A New Promo Program Be The Wind Beneath Buffalo Wild Wings?   $BWLD,0,0,1,0,0,0,0.0801436,0.012453367,0.90740305,Neu,0.06769023,benzinga
+9464,2017-07-27 15:01:00,Can Boeing Shares Lift Off Soon? Credit Suisse Sees 29% Upside From Here   $BA,0,1,1,0,1,1,0.93986803,0.022394381,0.03773758,Pos,0.9174737,benzinga
+9508,2017-07-26 20:59:00,"Strategist: The Bull Run Is Over, Take Your Profits While You Can   $SPY",0,1,1,0,0,0,0.05803378,0.042485677,0.8994806,Neu,0.015548103,benzinga
+9510,2017-07-26 20:40:00,Can Tesla 'Thread The Needle' In Q2? Baird Says It'll Be Buying On Any Weakness   $TSLA,0,1,1,0,1,0,0.61075985,0.013015084,0.37622514,Pos,0.59774476,benzinga
+9616,2017-07-25 17:30:00,Ahead Of Earnings: Why You Should Be Buying Merck And Selling Bristol-Myers   $BMY $MRK,0,0,1,1,0,0,0.055597514,0.01862807,0.92577446,Neu,0.036969446,benzinga
+9672,2017-07-24 22:30:00,Ahead Of Earnings: Why You Should Be Buying Merck And Selling Bristol-Myers   $BMY $MRK,0,0,1,0,0,0,0.055597514,0.01862807,0.92577446,Neu,0.036969446,benzinga
+9677,2017-07-24 20:58:00,Can The Return Of Google Glass Fight Off Job Automation? Gene Munster Says Not For Long   $GOOG $GOOGL,0,1,1,0,0,0,0.09743075,0.11920443,0.78336483,Neu,-0.021773681,benzinga
+9694,2017-07-24 18:07:00,Should Disney Sell Itself? Analyst Says Not Likely   $DIS,0,1,1,0,0,0,0.04977429,0.031921208,0.9183045,Neu,0.017853081,benzinga
+9763,2017-07-23 00:00:00,Musk Says He'll Take You From NY To DC In A Half-Hour: How Traditional Travel Compares   $TSLA,0,1,1,0,1,1,0.06577608,0.014733433,0.91949046,Neu,0.051042646,benzinga
+9784,2017-07-22 14:30:00,What Is The 'Dow Theory Buy Signal' And Why Should Investors Care?   $DIA $IYT,0,1,1,0,0,2,0.042449687,0.038477536,0.9190728,Neu,0.0039721504,benzinga
+9789,2017-07-21 23:30:00,Musk Says He'll Take You From NY To DC In A Half-Hour: How Traditional Travel Compares   $TSLA,0,1,1,0,0,1,0.06577608,0.014733433,0.91949046,Neu,0.051042646,benzinga
+9804,2017-07-21 19:40:00,Analyst Says General Electric Should Be Up Slightly On Q2 Print; It Isn't   $GE,0,1,1,0,0,1,0.9460811,0.02789556,0.026023395,Pos,0.91818553,benzinga
+9833,2017-07-21 15:52:00,Here's What It Would Take For Polaris Shares To Be Attractive At This Price   $PII,0,1,1,0,0,0,0.08667815,0.0119315535,0.9013903,Neu,0.074746594,benzinga
+9836,2017-07-21 15:30:00,Can Nasdaq Make It 41? Benchmark Struggles As Markets Hug Flat Line   $GE $HON $MSFT $V,0,0,1,0,0,0,0.18390837,0.3842642,0.4318274,Neu,-0.20035583,benzinga
+9848,2017-07-21 14:00:00,Musk Says He'll Take You From NY To DC In A Half-Hour: How Traditional Travel Compares   $TSLA,0,1,1,1,0,0,0.06577608,0.014733433,0.91949046,Neu,0.051042646,benzinga
+9871,2017-07-20 23:00:00,. Says He'll Take You From NY To DC In A Half-Hour: How Traditional Travel Compares  ,0,1,1,0,1,0,0.054034505,0.02034825,0.9256172,Neu,0.033686254,benzinga
+9885,2017-07-20 19:55:01,"Update: In a 4-0 vote, OJ has been granted parole. He'll be released in October.  ",1,1,1,0,0,1,0.1880264,0.060900245,0.75107336,Neu,0.12712616,benzinga
+9888,2017-07-20 19:35:01,Do you think OJ should be granted parole? OJSimpsonParole,1,1,1,0,1,1,0.084130704,0.01737172,0.8984976,Neu,0.06675898,benzinga
+9893,2017-07-20 18:52:00,"Bill Gross: If A Global Recession Happens, You Can Blame Central Banks  ",0,0,1,0,0,0,0.018467305,0.8801722,0.10136057,Neg,-0.8617049,benzinga
+9912,2017-07-20 16:30:00,XPO Logistics Could Be Big Winner From Sears-Amazon Deal   $XPO $AMZN $SHLD $UPS,0,0,1,0,0,1,0.83975923,0.010469262,0.14977147,Pos,0.82929,benzinga
+9931,2017-07-20 14:15:00,What Sectors Should Investors Buy And Avoid Given Weak American Dollar?  ,0,0,1,0,0,0,0.041330393,0.14291917,0.8157504,Neu,-0.10158877,benzinga
+9933,2017-07-20 14:05:00,The  earnings calendar will blow your mind during our 12:30p WEBINAR TODAY    ,0,0,1,0,2,0,0.016921502,0.7406146,0.24246393,Neg,-0.7236931,benzinga
+9957,2017-07-20 00:30:00,"The  earnings calendar will blow your mind during our Thurs, 12:30p WEBINAR    ",0,0,1,0,0,0,0.019528823,0.21527879,0.7651924,Neu,-0.19574997,benzinga
+9962,2017-07-19 22:30:00,IBM's Potential Catalysts: Can 'Big Blue' Turn It Around In Q4?   $IBM,0,1,1,0,0,2,0.14497285,0.010558878,0.84446824,Neu,0.13441397,benzinga
+9964,2017-07-19 21:49:01,$NFLX skids by @ .91% - Join our webinar to learn how you can win during earnings season. Thurs at 12:30P    ,0,0,1,0,0,0,0.055733625,0.020246811,0.9240196,Neu,0.035486814,benzinga
+9988,2017-07-19 18:22:00,"Amazon Batteries Threat Is Real, But Energizer Profit Growth Can Keep Going, And Going, And Going...   $AMZN $ENR",0,1,1,0,0,0,0.29669103,0.052116647,0.6511923,Neu,0.24457438,benzinga
+10008,2017-07-19 16:04:04,"The  earnings calendar will blow your mind during our Thurs, 12:30p WEBINAR   WIN 3mo Benzinga Pro FREE!  ",0,0,1,0,0,0,0.06555222,0.048458684,0.885989,Neu,0.017093536,benzinga
+10010,2017-07-19 15:52:00,IBM's Potential Catalysts: Can 'Big Blue' Turn It Around In Q4?   $IBM,0,1,1,0,0,0,0.14497285,0.010558878,0.84446824,Neu,0.13441397,benzinga
+10029,2017-07-19 13:37:00,Will Q2 Costs Detour JB Hunt From Hitting Full Year Guidance?   $JBHT,0,0,1,0,3,1,0.02225987,0.85145104,0.12628908,Neg,-0.82919115,benzinga
+10038,2017-07-19 12:37:00,Can The Return Of Google Glass Fight Off Job Automation? Gene Munster Says Not For Long   $AGCO $BA $GE $GOOG,0,1,1,0,3,0,0.10852977,0.052928105,0.83854216,Neu,0.055601664,benzinga
+10046,2017-07-19 02:30:00,Learn how  can help you watch which stocks hit or miss this earnings season @ webinar Thurs at 12:30p    ,1,0,1,0,0,2,0.058416124,0.01958309,0.92200077,Neu,0.038833037,benzinga
+10063,2017-07-18 20:40:00,Can The Return Of Google Glass Fight Off Job Automation? Gene Munster Says Not For Long   $GOOG,0,1,1,0,0,0,0.09338085,0.10191924,0.8046999,Neu,-0.008538388,benzinga
+10073,2017-07-18 19:01:02,"The  earnings calendar will blow your mind during our Thurs, 12:30p WEBINAR    ",0,0,1,0,0,1,0.019528823,0.21527879,0.7651924,Neu,-0.19574997,benzinga
+10089,2017-07-18 16:22:00,Where Will The Money Rotate In Q3?   $AAPL $AMZN $FB $GOOG $BAC $C $GS $JPM,0,0,1,0,1,0,0.058377936,0.02460016,0.9170219,Neu,0.033777777,benzinga
+10108,2017-07-18 13:52:00,Rosenblatt Raises Netflix Target To $200 After Quarter That Was 'Just Too Good'   $NFLX,0,0,1,0,1,1,0.4686305,0.040447228,0.4909222,Neu,0.42818326,benzinga
+10119,2017-07-18 12:37:00,Carter Worth Shares Stocks He Would Buy Or Sell On Earnings   $ABT $EBAY $HOG $MSFT $IBM $UNP,0,1,1,0,0,0,0.06769023,0.017677454,0.9146323,Neu,0.050012775,benzinga
+10151,2017-07-17 19:30:00,What Is The 'Dow Theory Buy Signal' And Why Should Investors Care?   $DIA $IYT,0,1,1,0,0,0,0.042449687,0.038477536,0.9190728,Neu,0.0039721504,benzinga
+10172,2017-07-17 16:37:00,How Long Can Tax Tricks Keep Supporting IBM's Earnings?   $IBM,0,0,1,0,1,2,0.09767789,0.063041195,0.83928096,Neu,0.03463669,benzinga
+10180,2017-07-17 15:37:00,Can Netflix's Q2 Earnings Propel The Stock To Record Territory?   $NFLX,0,0,1,0,0,0,0.79095495,0.01202456,0.19702047,Pos,0.77893037,benzinga
+10239,2017-07-15 17:00:00,What Is The 'Dow Theory Buy Signal' And Why Should Investors Care?   $DIA $IYT,0,1,1,0,1,0,0.042449687,0.038477536,0.9190728,Neu,0.0039721504,benzinga
+10286,2017-07-14 14:53:05,Media Analyst Explains How Disney Can Ease Investor Concerns   $DIS,0,0,1,0,0,0,0.79214966,0.010700473,0.19714984,Pos,0.7814492,benzinga
+10305,2017-07-14 12:37:00,Will A Move Over $5 Finally Get JC Penney Going?   $JCP,0,0,1,0,1,1,0.14250228,0.012376233,0.84512144,Neu,0.13012604,benzinga
+10306,2017-07-14 12:30:00,Analyst Wonders If AstraZeneca's CEO Would Be A Fit At Teva   $AZN $TEVA,0,0,1,0,0,0,0.038022682,0.0981312,0.8638462,Neu,-0.06010852,benzinga
+10320,2017-07-13 22:13:01,Analyst Wonders If AstraZeneca's CEO Would Be A Fit At Teva   $AZN $TEVA,0,0,1,0,0,0,0.038022682,0.0981312,0.8638462,Neu,-0.06010852,benzinga
+10322,2017-07-13 21:30:00,Last chance to join our webinar- the only way you could win a FREE premium 3mo. sub to  T-30 min   🔥  ,0,0,1,0,1,4,0.07555056,0.012878579,0.9115709,Neu,0.06267198,benzinga
+10338,2017-07-13 18:32:00,Will A Move Over $5 Finally Get JC Penney Going?   $JCP,0,0,1,0,1,1,0.14250228,0.012376233,0.84512144,Neu,0.13012604,benzinga
+10368,2017-07-13 14:22:00,Why you should only trade with  - Webinar TODAY at 5pm - REGISTER HERE   💰  ,0,0,1,0,0,0,0.029074924,0.027412605,0.94351244,Neu,0.0016623195,benzinga
+10403,2017-07-12 21:22:00,One lucky attendee will win a FREE premium 3mo. sub to  @ our webinar Thurs: Attend to WIN   celebrate 🎉  ,0,0,1,0,0,1,0.23592542,0.01016782,0.7539067,Neu,0.2257576,benzinga
+10411,2017-07-12 19:07:03,That moment when you find out you could win a FREE premium 3mo. sub to  Webinar Thurs: Attend to WIN   😱  ,0,1,1,0,0,2,0.07370535,0.015221444,0.9110732,Neu,0.05848391,benzinga
+10416,2017-07-12 17:01:00,Here's Why Low Oil Should Be Celebrated By Bulls   $USO,1,1,1,0,0,0,0.065981604,0.023209775,0.9108087,Neu,0.04277183,benzinga
+10418,2017-07-12 16:43:00,Why you should only trade with  - Webinar Thurs at 5pm - REGISTER HERE   💰  ,0,0,1,0,1,0,0.02733367,0.03222347,0.9404428,Neu,-0.004889801,benzinga
+10433,2017-07-12 14:37:00,"Cramer Doubles Down On Negative Snap Thesis, Praises Instagram: 'You Cannot Compete With Free'   $FB $SNAP",0,0,1,0,0,0,0.042663325,0.79218507,0.16515149,Neg,-0.74952173,benzinga
+10460,2017-07-12 00:39:00,One lucky attendee will win a FREE premium 3mo. sub to  @ our webinar Thurs: Attend to WIN    ,0,0,1,0,2,0,0.17580517,0.00994264,0.81425214,Neu,0.16586253,benzinga
+10480,2017-07-11 19:05:04,That moment when you find out you could win a FREE premium 3mo. sub to  Webinar Thurs: Attend to WIN   😱  ,0,1,1,0,1,0,0.07370535,0.015221444,0.9110732,Neu,0.05848391,benzinga
+10483,2017-07-11 18:30:00,Analyst Explains How Retailers Can Cash In On Amazon's Prime Day   $AMZN $SPLS $TIF,0,1,1,0,0,0,0.20610733,0.008863572,0.78502905,Neu,0.19724376,benzinga
+10494,2017-07-11 17:07:03,Why you should only trade with  - Webinar Thurs at 5pm - REGISTER HERE   📈 💪,0,0,1,0,0,0,0.026304148,0.031658586,0.9420372,Neu,-0.005354438,benzinga
+10514,2017-07-11 14:07:00,Should You Buy A Holographic Phone?   $AMZN $GOOG,0,0,1,0,0,0,0.039369266,0.020967236,0.93966347,Neu,0.01840203,benzinga
+10533,2017-07-11 03:00:00,"Podcast: How, When, And Why Screeners Can Help Your Research   $JNJ $TSLA $WMT",0,0,1,0,2,2,0.042761426,0.017848294,0.9393903,Neu,0.024913132,benzinga
+10541,2017-07-10 23:00:00,9 Best Monthly Subscriptions You Can Try For Free   $AAPL $AMZN $NFLX $TWX $WWE,0,0,1,0,0,0,0.06575817,0.0124190925,0.9218227,Neu,0.053339075,benzinga
+10569,2017-07-10 17:37:00,Pro: Earnings Will Continue To Look Good  ,0,0,1,0,0,0,0.9504229,0.019583194,0.029993927,Pos,0.9308397,benzinga
+10573,2017-07-10 17:07:00,Will Delta And Pepsi Set Tone For New Earnings Season?   $DAL $PEP,0,0,1,0,0,0,0.41888675,0.013000812,0.56811243,Neu,0.40588593,benzinga
+10580,2017-07-10 16:15:00,Semiconductors Leading To Another Tectonic Shift In Computing: Which Players Will Be Beneficiaries?   $AMD $NVDA $INTC,0,1,1,0,0,0,0.10302448,0.015848365,0.8811271,Neu,0.087176114,benzinga
+10594,2017-07-10 14:25:05,Amazon's Impact In The Grocery Sector Will Be Felt As Early As Tuesday   $AMZN $APRN $WFM,0,0,1,0,0,3,0.053352807,0.039349373,0.90729785,Neu,0.014003433,benzinga
+10607,2017-07-10 12:45:00,Can Uber Make A Profit?   $AAPL $GOOG via ,0,0,1,0,0,2,0.10954798,0.017608866,0.8728431,Neu,0.091939114,benzinga
+10618,2017-07-10 00:30:00,9 Best Monthly Subscriptions You Can Try For Free   $AAPL $AMZN $NFLX $WWE $TWX,0,0,1,0,1,2,0.065750904,0.013487526,0.92076164,Neu,0.05226338,benzinga
+10626,2017-07-08 19:30:00,Can Uber Make A Profit?  ,0,0,1,0,0,0,0.17751706,0.012861381,0.8096216,Neu,0.16465567,benzinga
+10644,2017-07-07 19:35:02,"The Costco Bull Thesis Played Out In June, But Will The Market Follow?   $AMZN $COST",1,0,1,0,0,0,0.06892286,0.027177379,0.9038997,Neu,0.041745484,benzinga
+10648,2017-07-07 17:49:00,It Started With A Whisper: SEC Filing Spills On How Amazon-Whole Foods Came To Be   $AMZN $WFM,1,0,1,0,0,0,0.027238136,0.08890529,0.88385653,Neu,-0.06166715,benzinga
+10707,2017-07-06 21:36:00,"News, Not Noise - Filter What You See Free webinar at 5pm! Learn how to find the news you can trade.  ",0,1,1,0,0,1,0.03984006,0.024148386,0.9360116,Neu,0.015691675,benzinga
+10715,2017-07-06 20:11:00,Hate it when you get stock news too late? Our webinar will teach you how to find the right news faster - today @ 5pm  ,0,1,1,0,0,0,0.030348089,0.036893055,0.9327588,Neu,-0.0065449663,benzinga
+10793,2017-07-05 20:22:00,"Buy Stocks That Can't Be 'Amazon'd,' Jefferies' Konik Says   $AMZN $ADDYY $NKE $UAA $TIF",0,1,1,0,2,0,0.12717216,0.020007571,0.8528203,Neu,0.107164584,benzinga
+10859,2017-07-05 02:06:00,We hope you'll fourth-give us for all our festive puns 🎇  We just want you to save up to 50% off  -    ,0,1,1,0,0,0,0.6792413,0.012905804,0.30785292,Pos,0.6663355,benzinga
+10867,2017-07-04 21:30:00,Here's Where You Can Find The Cheapest Beer In America   FourthofJulyWeekend,0,1,1,0,0,0,0.106371045,0.0123333065,0.8812956,Neu,0.09403774,benzinga
+10878,2017-07-04 15:00:00,Here's Where You Can Find The Cheapest Beer In America   $BUD $WMT,0,1,1,0,0,1,0.11687868,0.012293633,0.8708277,Neu,0.10458505,benzinga
+10880,2017-07-04 14:00:00,You won't want to fourth-feit these deals! 🎇  Last day to save up to 50% off      ,0,0,1,0,0,0,0.30590227,0.022542398,0.6715553,Neu,0.2833599,benzinga
+10882,2017-07-04 02:18:00,We hope you'll fourth-give us for all our festive puns 🎇  We just want you to save up to 50% off  -    ,0,1,1,0,0,1,0.6792413,0.012905804,0.30785292,Pos,0.6663355,benzinga
+10901,2017-07-03 18:00:00,Here's Where You Can Find The Cheapest Beer In America   $BUD $WMT,0,1,1,0,1,0,0.11687868,0.012293633,0.8708277,Neu,0.10458505,benzinga
+10903,2017-07-03 17:30:00,4 College Degrees Jack Ma Says Will Be Valuable In The Future   $BABA $GOOG $GOOGL,0,0,1,0,0,0,0.2731782,0.009703406,0.7171184,Neu,0.2634748,benzinga
+10916,2017-07-03 15:15:00,Equity Investors Should Be Paying Attention To What The Foreign Exchange Market Is Saying  ,0,1,1,0,0,1,0.06708942,0.020825658,0.9120849,Neu,0.046263766,benzinga
+10934,2017-07-02 22:36:00,Amazon Will Be A Disruptive Player In Groceries Over Next 5 Years   $AMZN $KR $SYY,0,0,1,0,1,0,0.09535964,0.15113057,0.7535098,Neu,-0.055770934,benzinga
+10944,2017-07-02 17:30:00,"'Spider-Man' Swings For The Seats, But Can It Lasso 'Wonder Woman?'   $DIS $TWX",0,0,1,0,1,0,0.03973714,0.028749425,0.9315134,Neu,0.010987714,benzinga
+10946,2017-07-02 15:30:00,Here's Where You Can Find The Cheapest Beer In America   $BUD $WMT,0,1,1,0,0,0,0.11687868,0.012293633,0.8708277,Neu,0.10458505,benzinga
+10949,2017-07-02 01:00:00,Here's Where You Can Find The Cheapest Beer In America   $BUD $WMT,0,1,1,0,1,1,0.11687868,0.012293633,0.8708277,Neu,0.10458505,benzinga
+10963,2017-07-01 18:00:00,"'Spider-Man' Swings For The Seats, But Can It Lasso 'Wonder Woman?'   $DIS $TWX",0,0,1,0,0,0,0.03973714,0.028749425,0.9315134,Neu,0.010987714,benzinga
+10973,2017-06-30 21:35:00,Here's Where You Can Find The Cheapest Beer In America  ,0,1,1,0,0,0,0.09759289,0.012476444,0.8899306,Neu,0.085116446,benzinga
+10989,2017-06-30 18:15:00,Will Venture Capital Drive The Future Of Mobility?  ,0,0,1,0,0,1,0.10233873,0.012104454,0.8855568,Neu,0.09023428,benzinga
+10999,2017-06-30 17:07:00,Can WWE Tag Team Over-The-Top And Traditional TV?   $CMCSA $WWE,0,0,1,0,0,0,0.10489535,0.008249389,0.8868553,Neu,0.096645966,benzinga
+11002,2017-06-30 16:45:00,"'Spider-Man' Swings For The Seats, But Can It Lasso 'Wonder Woman?'   $DIS $TWX",0,0,1,0,0,0,0.03973714,0.028749425,0.9315134,Neu,0.010987714,benzinga
+11006,2017-06-30 16:16:04,Another Run Up: Can Nike Shares Just Do It? $AMZN $NKE $UAA  ,0,0,1,0,0,1,0.05308122,0.064777784,0.882141,Neu,-0.011696566,benzinga
+11044,2017-06-30 00:00:00,Can AMD Establish Itself In The Datacenter Accelerator Market?   $AMD,0,0,1,0,0,0,0.22027145,0.0074074795,0.7723211,Neu,0.21286397,benzinga
+11046,2017-06-29 23:00:00,4 College Degrees Jack Ma Says Will Be Valuable In The Future   $BABA $GOOG,0,0,1,0,0,0,0.46842906,0.0086635165,0.5229074,Neu,0.45976555,benzinga
+11094,2017-06-29 15:22:00,Can AMD Establish Itself In The Datacenter Accelerator Market?   $AMD $INTC,0,0,1,0,0,1,0.17491241,0.007768948,0.8173187,Neu,0.16714346,benzinga
+11137,2017-06-28 21:45:00,Amazon Prime Day 2017 Preview: Shares Could Outperform When Date Is Announced   $AMZN,0,0,1,0,0,0,0.20286317,0.7407478,0.05638911,Neg,-0.53788465,benzinga
+11143,2017-06-28 20:32:04,Will Dollar Tree Ever Get Some Value Out Of Its Family Dollar Acquisition?   $AMZN $DG $DLTR,0,0,1,0,0,0,0.1893577,0.009388267,0.80125403,Neu,0.17996943,benzinga
+11167,2017-06-28 17:03:00,"🎶 I like big blocks and I cannot lie, join our webinar to find out why 🎶 6/29 at 5pm - register here:     ",0,1,1,0,1,0,0.030156283,0.03246899,0.9373748,Neu,-0.0023127068,benzinga
+11175,2017-06-28 16:08:00,Find out what makes pro traders freak out & what you should do instead at our Thurs webinar:     ,0,1,1,0,0,0,0.025212016,0.053893384,0.9208946,Neu,-0.028681368,benzinga
+11183,2017-06-28 15:07:00,Goldman Expects 16% Sales Growth For FAAMG Stocks; Can It Keep S&P Bull Market Running?   $FB $AMZN $AAPL $MSFT $GOOG,0,1,1,0,0,0,0.8853908,0.010091958,0.1045172,Pos,0.87529886,benzinga
+11191,2017-06-28 14:08:00,This webinar will make you see block trades in a new light - 6/29 at 5pm  Register 4 FREE at:    ,0,0,1,0,0,1,0.03707158,0.027052322,0.93587613,Neu,0.010019256,benzinga
+11213,2017-06-28 00:00:00,Marijuana VC On CanopyBoulder's Investments: We Focus Who Can Scale To Spectacular Levels Very Quickly   $MDCL,0,1,1,0,0,1,0.581364,0.009310676,0.40932533,Pos,0.5720533,benzinga
+11291,2017-06-27 02:30:00,Here's How PayPal Shares Can Hit $63   $PYPL $FB $GOOG,0,0,1,0,0,0,0.04606286,0.023317305,0.93061984,Neu,0.022745555,benzinga
+11344,2017-06-26 15:07:00,Stocks Are Really Quiet Now: Here's How You Can Take Advantage   $SPY,0,1,1,0,0,1,0.054751,0.02989393,0.9153551,Neu,0.024857072,benzinga
+11351,2017-06-26 14:15:00,Will Trump's Solar Border Wall Be A Boon For Clean Energy Or More Fat For Taxpayers?   $D $NRG $SPWR,0,0,1,1,0,0,0.27877274,0.009949753,0.71127754,Neu,0.268823,benzinga
+11399,2017-06-24 16:30:00,Uber Is The Most Valuable Startup In The World: How Can Its Reputation Be Salvaged?   $AAPL $TWTR,1,1,1,0,0,2,0.2765829,0.009405172,0.71401197,Neu,0.26717773,benzinga
+11412,2017-06-23 19:10:00,Weibo Responds To Chinese Regulator Crackdown: User Content Will Be Unaffected   $WB $BABA $MOMO $SINA,1,0,1,0,0,0,0.044735383,0.11218776,0.8430769,Neu,-0.06745237,benzinga
+11484,2017-06-22 19:55:00,Could  Be The New CEO Of Uber?  ,0,0,1,2,1,0,0.031417087,0.038210765,0.9303721,Neu,-0.006793678,benzinga
+11512,2017-06-22 15:45:00,7 Things You Should Know About Altice's IPO   $ATUS $WOW $ALLVF $CVC,0,0,1,0,0,0,0.036051653,0.018488145,0.9454602,Neu,0.017563509,benzinga
+11515,2017-06-22 15:22:00,Analyst: It's Time To Revisit The Question Of Whether Oracle Can Hit Double-Digit Earnings Growth   $ORCL,0,1,1,0,0,0,0.34254813,0.022800408,0.6346515,Neu,0.31974772,benzinga
+11528,2017-06-22 13:40:01,T-Mobile Investors Could Be In For An Interesting Second Half   $TMUS $VZ $AAPL $S $T,0,0,1,0,5,2,0.31228948,0.018956995,0.66875345,Neu,0.2933325,benzinga
+11559,2017-06-21 20:20:00,Apple Wants To Get Into Content: Should It Build Or Buy?   $AAPL,0,0,1,0,0,0,0.05664463,0.011533099,0.9318223,Neu,0.04511153,benzinga
+11561,2017-06-21 19:52:00,T-Mobile Investors Could Be In For An Interesting Second Half   $TMUS,0,0,1,0,0,1,0.20429583,0.025035609,0.77066857,Neu,0.17926022,benzinga
+11577,2017-06-21 16:45:00,Oracle Shares Have Outperformed Year To Date; Can The Momentum Continue After The Q4 Print?   $ORCL,0,0,1,0,0,0,0.65372914,0.08397047,0.2623004,Pos,0.56975865,benzinga
+11582,2017-06-21 16:07:00,Analysts Will Have To Look Hard To Find Fault With Adobe's Q2 Results   $ADBE,0,0,1,0,0,0,0.03297261,0.8343039,0.13272348,Neg,-0.8013313,benzinga
+11649,2017-06-20 17:50:00,Speculation Runs Amok: Who Will Be Amazon's Next Acquisition Target?   $AMZN $WFM $LULU $RH,0,1,1,0,0,0,0.035460066,0.019932073,0.94460785,Neu,0.015527993,benzinga
+11703,2017-06-19 23:00:00,Hasbro Launches A Gaming Subscription Service: How Will It Fare?   $HAS,0,1,1,0,0,1,0.15362479,0.009748516,0.83662665,Neu,0.14387627,benzinga
+11706,2017-06-19 21:45:00,Why Amazon's Purchase Of Whole Foods Will Be A Slight Negative For Vantiv   $VNTV $AMZN $WFM,0,0,1,0,0,0,0.041150674,0.5892848,0.36956453,Neg,-0.5481341,benzinga
+11763,2017-06-19 14:15:00,Deutsche Bank Speculates: Costco Could Be Past Its Prime   $COST $AMZN $WFM,0,1,1,0,0,0,0.2937496,0.4702913,0.2359591,Neg,-0.17654169,benzinga
+11781,2017-06-19 12:00:00,"Amazon Shouldn't Worry About Antitrust Law, For Now   $AMZN $WFM",0,0,1,0,0,0,0.06056648,0.018648554,0.92078495,Neu,0.041917928,benzinga
+11783,2017-06-19 01:39:00,"Amazon Shouldn't Worry About Antitrust Law, For Now   $AMZN $WFM",0,0,1,0,0,1,0.06056648,0.018648554,0.92078495,Neu,0.041917928,benzinga
+11808,2017-06-16 22:00:00,Will Coach Become The Next Louis Vuitton?   $AEO $COH $KATE $TIF $RL,0,0,1,0,0,1,0.08536761,0.012897345,0.901735,Neu,0.07247027,benzinga
+11812,2017-06-16 20:45:00,When Will Marketers Embrace Snap?   $SNAP $TWTR $FB $GOOG,0,0,1,0,0,0,0.06631069,0.015596938,0.91809237,Neu,0.05071375,benzinga
+11815,2017-06-16 20:00:00,"Amazon Shouldn't Worry About Antitrust Law, For Now   $AMZN $WFM",0,0,1,0,0,0,0.06056648,0.018648554,0.92078495,Neu,0.041917928,benzinga
+11818,2017-06-16 19:15:00,"Sprouts Farmers: Buy The Dip, This Could Be The Next Takeout Target   $SFM $AMZN $WFM",0,0,1,0,1,1,0.049910627,0.018501341,0.931588,Neu,0.031409286,benzinga
+11846,2017-06-16 14:52:00,The Effects Of Amazon-Whole Foods Deal Will Be Wide Spanning; Grocers Already Taking A Big Hit   $AMZN $WFM $COST $KR,0,1,1,0,0,1,0.76139915,0.047763426,0.19083738,Pos,0.71363574,benzinga
+11847,2017-06-16 14:50:04,My new sounds: PreMarket Prep for June 16: Will snap be around in five years?   on SoundCloud,0,0,1,0,1,1,0.043910976,0.02094199,0.935147,Neu,0.022968987,benzinga
+11865,2017-06-16 12:30:00,Can Apple's Mega Cycle Overcome Chinese Demand Issues?   $AAPL,0,0,1,0,0,0,0.27453792,0.009775265,0.7156868,Neu,0.26476267,benzinga
+11877,2017-06-15 23:00:00,Can Apple's Mega Cycle Overcome Chinese Demand Issues?   $AAPL,0,0,1,0,1,0,0.27453792,0.009775265,0.7156868,Neu,0.26476267,benzinga
+11890,2017-06-15 19:15:00,Apple Announces What Could Be A Venmo Killer: Will It Compete?   $AAPL $PYPL,0,0,1,0,0,0,0.053063314,0.017677506,0.92925924,Neu,0.03538581,benzinga
+11894,2017-06-15 18:37:00,Can A New CEO Put The Strength Back In US Steel?   $X,1,0,1,0,0,0,0.16561262,0.013427747,0.8209596,Neu,0.15218487,benzinga
+11911,2017-06-15 16:22:00,"Under Armour's Poor Product Segmentation In A Moderate Channel Will Pressure Sales, Margins   $KSS $UAA",0,0,1,0,0,1,0.008592169,0.956712,0.034695733,Neg,-0.9481198,benzinga
+11970,2017-06-14 19:22:00,Non-OPEC Countries Alone Can More Than Account For The Jump In Demand   $OIL $USO,0,0,1,1,0,0,0.76802665,0.018372467,0.21360098,Pos,0.7496542,benzinga
+11991,2017-06-14 15:45:00,Will A Buyer Breathe New Life Into Brookdale Senior Living?   $BKD $BX $VTR,0,0,1,0,0,0,0.28505203,0.007975765,0.70697224,Neu,0.27707627,benzinga
+12034,2017-06-13 21:00:00,Will Movie Theaters Survive What Netflix Has Up Its Up Its Sleeves?   $NFLX,0,1,1,0,0,1,0.072941266,0.016456854,0.91060185,Neu,0.056484412,benzinga
+12043,2017-06-13 19:10:00,Will Qatar Blockade Quandary Create A Catalyst For US Gas Companies?   $CHK $DGAZ $ESGR $XEL $UNG,0,0,1,0,2,3,0.37075293,0.011594923,0.6176521,Neu,0.359158,benzinga
+12103,2017-06-13 03:30:00,"Who Is John Flannery, The Man Who Will Be GE's New CEO?   $GE",0,1,1,0,0,2,0.040455848,0.026551628,0.9329926,Neu,0.0139042195,benzinga
+12209,2017-06-10 18:32:00,Want To Tap Your Private REIT Investments For Liquidity? Fintech Can Help   $XLF $XLK,0,0,1,0,0,0,0.22370571,0.009188092,0.7671062,Neu,0.21451762,benzinga
+12228,2017-06-09 19:55:00,Ever Had An App Idea? This Contest Can Make It Come To Life - And Even Bring In Some Cash   $AAPL $GOOG,1,0,1,0,1,1,0.16847156,0.010661826,0.8208666,Neu,0.15780973,benzinga
+12238,2017-06-09 17:40:00,Why Bank Of America Says You Should Stay Bullish On Semi Stocks   $AMD $AVGO $CAVM $TXN $NVDA $INTC $SWKS $ON $SOXX,0,0,1,0,0,0,0.08950841,0.039444886,0.87104666,Neu,0.05006352,benzinga
+12263,2017-06-09 14:15:00,20 Songs Pandora Thinks You'll Party To This Summer   $P cc     ,0,0,1,0,0,0,0.06692539,0.027484743,0.90558994,Neu,0.039440647,benzinga
+12273,2017-06-09 13:10:05,Will Comey Hearing Tip the Increasing Odds of a Trump Impeachment?  Watch the full video here:    By Benzinga TV  ,0,0,1,2,1,1,0.035755996,0.04333756,0.9209065,Neu,-0.0075815655,benzinga
+12291,2017-06-09 00:00:00,Playlist Predictions: 20 Songs Pandora Thinks You'll Party To This Summer   $P,0,0,1,0,0,0,0.045712546,0.026435591,0.9278518,Neu,0.019276954,benzinga
+12319,2017-06-08 16:22:00,Best Buy Has Proven It Can Weather The Amazon Onslaught   $AMZN $BBY,1,0,1,0,0,0,0.9334019,0.012059854,0.05453822,Pos,0.921342,benzinga
+12377,2017-06-07 18:00:00,Strategist: FANG Stocks Can Still Grow In A Sluggish Economy   $AMZN $FB $GOOG $NFLX,0,0,1,0,0,0,0.62050736,0.09292438,0.28656828,Pos,0.527583,benzinga
+12380,2017-06-07 17:15:00,Will Barrick Finally Join The Gold Rally?   $ABX $GLD $GDX,0,0,1,0,0,0,0.10392913,0.017367784,0.87870306,Neu,0.08656135,benzinga
+12388,2017-06-07 16:07:00,Should You Stay On The Sidelines While Ambarella Goes Through Its Growing Pains?   $AMBA,0,1,1,0,0,0,0.038627677,0.058948755,0.90242356,Neu,-0.020321079,benzinga
+12401,2017-06-07 14:37:00,Reebok Looks To 3D Printing 'Liquid Factory' To Regain Footwear Traction   $ADDYY,0,0,1,0,0,2,0.8497655,0.008644745,0.14158979,Pos,0.8411207,benzinga
+12407,2017-06-07 13:52:00,Could Elon Musk Replicate An 'Apple-Like' Cross-Platform Experience? That's A Big Risk   $AAPL $TSLA,0,1,1,0,0,0,0.108343676,0.0132760545,0.8783803,Neu,0.09506762,benzinga
+12435,2017-06-06 23:15:00,Should Investors Eye Tesla or Tire Stocks for the Future of Transit?  and  break it down.  ,0,0,1,0,1,0,0.026141135,0.04332223,0.9305366,Neu,-0.017181097,benzinga
+12456,2017-06-06 17:52:00,What One Word Can Describe Apple's Product Announcement? How About 'Smorgasbord'   $AAPL,0,0,1,0,0,0,0.02985788,0.026768718,0.9433734,Neu,0.0030891616,benzinga
+12478,2017-06-06 15:00:00,"What Is Backwardation, And Why Could It Mean $60 Oil?   $XLE $USO",0,1,1,0,1,0,0.03613906,0.030257028,0.9336038,Neu,0.005882032,benzinga
+12507,2017-06-06 00:00:00,How Ridiculous Can ETFs Get? A Fictional Cat-Themed Product Makes Insane ROI   $CAT $CATKU,0,0,1,0,1,0,0.02137824,0.35969672,0.61892503,Neu,-0.33831847,benzinga
+12515,2017-06-05 21:00:00,"What Is Backwardation, And Why Could It Mean $60 Oil?   $USO $XLE",0,1,1,0,1,1,0.039419614,0.026521035,0.9340594,Neu,0.012898579,benzinga
+12523,2017-06-05 19:06:00,Apple Pay can now execute person-to-person payments $AAPL wwdc2017,0,0,1,0,1,3,0.10864666,0.009955272,0.881398,Neu,0.09869139,benzinga
+12525,2017-06-05 18:45:00,Will Apple Be Able To Bounce Back In The Chinese Smartphone Market?   $AAPL $SSNLF,0,0,1,0,0,0,0.8258064,0.008610131,0.16558354,Pos,0.81719625,benzinga
+12543,2017-06-05 16:15:00,Pro: It'd Be A Mistake For Investors To 'Hit The Exits' Now  ,0,0,1,0,0,0,0.024416259,0.71470815,0.26087558,Neg,-0.6902919,benzinga
+12548,2017-06-05 15:37:00,Can The Gap Pick Up Market Share Up For Grabs By Department Store Closings?   $GPS $GSE $JCP $SHLD $M,0,0,1,0,0,1,0.22439352,0.025809597,0.74979687,Neu,0.19858392,benzinga
+12593,2017-06-03 18:30:00,Will Short-Term Rentals Kill The Timeshare Industry?   $CTRP $EXPE $PCLN,0,0,1,0,0,1,0.037934564,0.16314583,0.7989196,Neu,-0.12521127,benzinga
+12600,2017-06-03 15:00:00,Will Short-Term Rentals Kill The Timeshare Industry?   $CTRP $EXPE $PCLN,0,0,1,0,0,0,0.037934564,0.16314583,0.7989196,Neu,-0.12521127,benzinga
+12612,2017-06-02 21:45:00,Lululemon And The Question Of How Much Faith Can Be Put Into Guidance   $LULU,1,0,1,0,0,0,0.07296356,0.013326428,0.91371,Neu,0.05963713,benzinga
+12634,2017-06-02 18:00:00,"Cramer: The Market Is 'All FANG All The Time,' But It Shouldn't Be   $AMZN $BOX $FB",0,0,1,0,0,0,0.042030696,0.070640616,0.8873286,Neu,-0.02860992,benzinga
+12705,2017-06-01 17:15:00,Can This Leisure Group Cruise Higher? Cramer Thinks So   $CCL $RCL  ,0,0,1,0,0,0,0.26948527,0.011166617,0.71934813,Neu,0.25831866,benzinga
+12752,2017-05-31 21:15:00,Can You Spell These 11 Words That Once Won The Scripps National Spelling Bee?   $AMZN $DIS,1,0,1,0,0,0,0.049281087,0.023806784,0.92691207,Neu,0.025474302,benzinga
+12792,2017-05-31 12:22:01,7 Stocks You Should Be Watching This Morning   $ADI $DAC $HPE premarket,0,1,1,0,4,2,0.04329196,0.031999405,0.9247086,Neu,0.011292554,benzinga
+12797,2017-05-30 22:30:00,What A Boost In Minimum Wage Would Mean For 1 Out Of Every 12 Private-Sector Workers   $BITE $PBJ $PEJ  ,0,0,1,0,0,1,0.6059565,0.023980057,0.37006342,Pos,0.5819764,benzinga
+12804,2017-05-30 21:00:00,Will Pricey Bitcoin Just Make The Rich Richer?   $COIN $SPX $SPY  ,0,0,1,0,1,0,0.1465638,0.016582966,0.83685327,Neu,0.12998083,benzinga
+12843,2017-05-30 01:17:01,"On What Would Be JFK's 100th Birthday, The Words That Put A Man On The Moon  ",1,0,1,1,1,0,0.05547416,0.05950078,0.885025,Neu,-0.0040266216,benzinga
+12854,2017-05-28 21:30:00,Where Would Apple And Google Rank In Terms Of World's Richest Countries?   $AAPL $AMZN $APPL  ,0,0,1,0,1,1,0.10940459,0.0097680455,0.88082737,Neu,0.09963655,benzinga
+12856,2017-05-28 18:30:00,10 Interesting Things You Might Not Know About Pornhub   $DIS $GOOG $NFLX,0,0,1,0,0,0,0.023921637,0.04620278,0.92987555,Neu,-0.022281142,benzinga
+12873,2017-05-27 16:30:00,Can Apple Supply Enough iPhone 8s To Avoid Bottlenecks? That Remains To Be Seen   $AAPL,0,1,1,0,1,0,0.3400747,0.017128572,0.64279675,Neu,0.32294613,benzinga
+12911,2017-05-26 15:52:00,Rolling A Lucky 7: Can Market Extend Streak As Holiday Weekend Approaches?   $BBY $COST $HD $SPY $USO $VXX,0,1,1,0,0,0,0.22519591,0.020336302,0.7544678,Neu,0.20485961,benzinga
+12943,2017-05-26 02:30:00,"In Honor Of  10th Anniversary, Here Are 10 Interesting Things You Might Not Know About It   $DIS $GOOG $NFLX",0,1,1,0,0,3,0.026225653,0.036251385,0.937523,Neu,-0.010025732,benzinga
+12972,2017-05-25 17:34:02,"GM Tells Benzinga In E-Mail Statement, ""These claims are baseless and we will vigorously defend ourselves."" $GM  ",0,1,1,0,3,0,0.034952644,0.116609946,0.84843737,Neu,-0.081657305,benzinga
+12973,2017-05-25 17:24:05,Will McDonald's Loyalty Program Fare Better Than Some Of Its Peers?   $MCD $SBUX,0,0,1,0,0,1,0.7913614,0.009607919,0.19903073,Pos,0.7817535,benzinga
+12988,2017-05-25 15:30:00,10 Interesting Things You Might Not Know About    PHtaughtme ,0,0,1,0,11,22,0.031301387,0.027735379,0.9409632,Neu,0.003566008,benzinga
+13040,2017-05-24 19:15:00,Will Ulta's Q1 Report Continue Its Street-Beating Streak?   $ULTA,0,0,1,0,0,0,0.12742175,0.05592109,0.8166571,Neu,0.07150066,benzinga
+13060,2017-05-24 15:45:00,Can Apple Supply Enough iPhone 8s To Avoid Bottlenecks? That Remains To Be Seen   $AAPL,0,1,1,0,0,0,0.3400747,0.017128572,0.64279675,Neu,0.32294613,benzinga
+13098,2017-05-23 23:00:00,Can Apple Supply Enough iPhone 8s To Avoid Bottlenecks? That Remains To Be Seen   $AAPL,0,1,1,0,1,0,0.3400747,0.017128572,0.64279675,Neu,0.32294613,benzinga
+13122,2017-05-23 17:37:00,6 Important Questions Apple Investors Should Be Asking   $AAPL $QCOM,0,1,1,0,3,1,0.052045614,0.028061245,0.9198932,Neu,0.023984369,benzinga
+13145,2017-05-23 14:52:00,An Amazon/DISH Partnership Wouldn't Be That Crazy   $AMZN $DISH,0,0,1,0,0,0,0.095821835,0.010817069,0.8933611,Neu,0.08500477,benzinga
+13150,2017-05-23 14:18:02,This weird technique will FORCE U to to TRADE MUCH BETTER w almost NO EFFORT.    Webinar Thurs May 24 @ 1:30 ET  ,1,0,1,1,2,1,0.090079255,0.019457147,0.8904636,Neu,0.07062211,benzinga
+13183,2017-05-22 21:30:00,Cramer Thinks The iPhone 8 Cycle Will Be A Winner   $AAPL $CL $PG,0,1,1,0,1,0,0.7436038,0.008681517,0.24771465,Pos,0.7349223,benzinga
+13259,2017-05-21 19:00:00,Seed Fundraising:  When To Raise Money  ,0,1,1,0,1,0,0.03785836,0.019819193,0.94232243,Neu,0.018039167,benzinga
+13266,2017-05-20 22:00:00,Brazil Is No Stranger To Corruption: What Trump And The US Can Learn   $EWZ $ITUB $PBR,0,1,1,0,0,0,0.06971402,0.02038235,0.90990365,Neu,0.049331665,benzinga
+13271,2017-05-20 19:00:00,"How Getting A Car Loan Can Affect Your Credit, And Things You Can Do To Offset The Effect  ",0,1,1,0,0,1,0.0610054,0.05816616,0.8808284,Neu,0.0028392375,benzinga
+13295,2017-05-19 17:00:00,Will The Return Of  Stone Alleviate Fundamental Concerns At Twitter?   $TWTR,0,0,1,0,1,1,0.8079421,0.020224543,0.17183338,Pos,0.7877175,benzinga
+13413,2017-05-18 00:00:00,Will New Locations Keep The Costco Rally Going?   $COST $AMZN,0,0,1,0,0,0,0.22626828,0.010362614,0.7633691,Neu,0.21590567,benzinga
+13438,2017-05-17 17:00:00,"How Getting A Car Loan Can Affect Your Credit, And Things You Can Do To Offset The Effect   via ",0,1,1,0,0,1,0.054448124,0.035643276,0.90990865,Neu,0.018804848,benzinga
+13474,2017-05-17 12:37:00,Will New Locations Keep The Costco Rally Going?   $AMZN $COST,0,0,1,0,4,2,0.41715685,0.010468413,0.57237476,Neu,0.40668842,benzinga
+13558,2017-05-15 23:30:00,Will The FHFA Suspend Fannie & Freddie's Dividend Payments To Treasury?   $FMCC $FNMA fanniegate,0,0,1,0,0,1,0.024991708,0.26802906,0.7069793,Neu,-0.24303736,benzinga
+13562,2017-05-15 21:50:03," You can't at this moment, but it is in the works!",0,1,1,0,0,0,0.037833165,0.090301216,0.87186563,Neu,-0.05246805,benzinga
+13572,2017-05-15 19:37:00,Can Apple Transition From Dependence Upon 'Hit' Products To A Sustained-Growth Focus?   $AAPL,0,0,1,0,0,0,0.2708389,0.008450699,0.7207104,Neu,0.2623882,benzinga
+13587,2017-05-15 17:45:00,Can Buffalo Fly? Deutsche Bank Upgrades B-Dubs    $BWLD,0,0,1,0,0,0,0.1083671,0.0130982185,0.8785346,Neu,0.09526888,benzinga
+13589,2017-05-15 17:30:00,How Average Investors Can Succeed In Today's Market   via ,0,0,1,0,0,1,0.09093961,0.012629026,0.89643145,Neu,0.07831059,benzinga
+13595,2017-05-15 16:45:00,Will The FHFA Suspend Fannie & Freddie's Dividend Payments To Treasury?   $FMCC $FNMA,0,0,1,0,0,0,0.023428831,0.23066473,0.7459065,Neu,-0.2072359,benzinga
+13599,2017-05-15 16:15:00,"A look at the performance from $EA, $ATVI and how $NTDOY might be propelling the longevity in $NVDA's upside.  ",0,1,1,0,0,2,0.2840217,0.01761407,0.69836426,Neu,0.26640764,benzinga
+13678,2017-05-13 14:00:00,Seed Fundraising:  When To Raise Money   via ,0,1,1,0,0,2,0.040592693,0.017518304,0.9418889,Neu,0.023074389,benzinga
+13743,2017-05-12 00:10:03,BZAwards is streaming live rn!    will be on stage very soon … So excited to begin!! Fintech,1,1,1,0,1,1,0.26243654,0.010282608,0.7272808,Neu,0.25215393,benzinga
+13752,2017-05-11 20:30:00,Why Would Anyone Buy Abercrombie?   $ANF $AEO $EXPR,0,0,1,0,0,1,0.030754251,0.028397594,0.9408482,Neu,0.0023566578,benzinga
+13774,2017-05-11 16:00:00,Whole Foods' New Changes Aren't Perfect But 'Should Be Good For The Stock'   $WFM,0,1,1,1,0,0,0.2549071,0.010064692,0.7350282,Neu,0.24484241,benzinga
+13836,2017-05-10 17:20:00,Stating The Obvious: A Successful Time Warner Acquisition Will Be A Game Changer For AT&T   $CMCSA $T $TWX,0,1,1,0,0,0,0.74303377,0.00790172,0.24906453,Pos,0.73513204,benzinga
+13878,2017-05-10 03:00:00,This year's  will be even better. Will we see you there? fintech   ,0,0,1,0,1,1,0.13003471,0.014353791,0.85561156,Neu,0.115680926,benzinga
+13919,2017-05-09 17:20:02, We have our biggest event of the year in NYC this week & all our flights were just canceled. How can you help us out? $SAVE,1,1,1,0,0,0,0.06394562,0.40632316,0.5297312,Neu,-0.34237754,benzinga
+13938,2017-05-09 15:00:00,Can Anything Distract Disney Investors From ESPN Focus?   $DIS,0,0,1,0,1,0,0.05111243,0.1289688,0.8199187,Neu,-0.07785638,benzinga
+13945,2017-05-09 14:07:00,Pandora Pays A Premium For What It Hopes Will Be The Right Strategic Investor   $P,0,1,1,0,0,1,0.5406396,0.009242168,0.45011827,Pos,0.5313974,benzinga
+14010,2017-05-08 16:07:00,Can Anything Distract Disney Investors From ESPN Focus?   $DIS,0,0,1,0,0,0,0.05111243,0.1289688,0.8199187,Neu,-0.07785638,benzinga
+14026,2017-05-08 14:07:00,"Ocular's Manufacturing Inspection: Items Of Concern Are 'Addressable,' Shouldn't Delay Product Launch   $OCUL",0,0,1,0,0,0,0.0671825,0.028700026,0.90411747,Neu,0.03848248,benzinga
+14041,2017-05-08 12:22:00,Will TherapeuticsMD's Yuvvexy Pass The FDA Muster?   $TXMD $AGN $NVO $PFE,0,0,1,0,0,0,0.16009383,0.0100270305,0.82987916,Neu,0.1500668,benzinga
+14048,2017-05-07 20:30:00,Will TherapeuticsMD's Yuvvexy Pass The FDA Muster?   $TXMD $AGN $NVO $PFE,0,0,1,0,0,2,0.16009383,0.0100270305,0.82987916,Neu,0.1500668,benzinga
+14051,2017-05-07 19:04:03,"Independent centrist Emmanuel Macron will become France's next president, according to multiple polling agencies. FrenchElection $SPY $EWQ",0,1,1,0,3,4,0.060861725,0.02394415,0.9151941,Neu,0.036917575,benzinga
+14052,2017-05-07 18:30:00,Kevin O'Leary Talks The 'Buffett Curse' And Why Apple Would Be Foolish To Buy Netflix   $AAPL $IBM $NFLX,0,0,1,0,2,0,0.030852465,0.13385023,0.83529735,Neu,-0.102997765,benzinga
+14076,2017-05-05 20:37:00,Kevin O'Leary Talks The 'Buffett Curse' And Why Apple Would Be Foolish To Buy Netflix   $AAPL $IBM $NFLX,0,0,1,0,0,0,0.030852465,0.13385023,0.83529735,Neu,-0.102997765,benzinga
+14117,2017-05-05 14:00:03,BZ's resident expert on the ponies breaks down the early favorites and ways you can place your bets.   KentuckyDerby,0,1,1,0,0,0,0.029300923,0.056679014,0.91402,Neu,-0.027378092,benzinga
+14189,2017-05-04 15:15:00,Will Short Sellers Hang On To First Solar?   $FSLR,0,0,1,0,0,0,0.08364026,0.011666176,0.90469354,Neu,0.071974084,benzinga
+14224,2017-05-03 21:00:00,"Twitter Positioned As Share Loser To Facebook, Google; Can Live-Streaming Deals Turn It Around?   $TWTR $FB $GOOG",1,0,1,0,1,0,0.17285632,0.18276002,0.64438367,Neu,-0.009903699,benzinga
+14263,2017-05-03 15:00:00,The Move To More Cyclical Sectors Could Weigh On Utilities   $XLU,0,0,1,0,1,0,0.022151306,0.866511,0.1113377,Neg,-0.8443597,benzinga
+14277,2017-05-03 13:07:01, (and  speaker) Gene Munster will be on PreMarket Prep at 8:35 ET to break down $AAPL earnings  ,0,0,1,0,0,0,0.039586443,0.0246136,0.93579996,Neu,0.014972843,benzinga
+14286,2017-05-03 01:30:00,Seed Fundraising:  VCs Vs. Seed Funds Vs. Angels   via  StartupStories,0,1,1,0,1,2,0.063338414,0.013765446,0.92289615,Neu,0.049572967,benzinga
+14289,2017-05-03 00:00:00,Indexes mark all-time highs. VIX nears all-time lows. How can you capitalize on spotting fear/faith in the market?  ,1,1,1,0,0,1,0.06616527,0.13808198,0.7957527,Neu,-0.071916714,benzinga
+14313,2017-05-02 18:30:00,Should Apple Investors Still Care About Slumping iPhone Demand?   $AAPL,0,1,1,0,0,0,0.020827543,0.8253106,0.15386185,Neg,-0.80448306,benzinga
+14316,2017-05-02 17:48:04,  That's great! We have two more events this year where we'd love to have you. Shoot us an email at events and let's discuss!,0,1,1,0,0,0,0.09347618,0.018010681,0.88851315,Neu,0.0754655,benzinga
+14318,2017-05-02 17:37:04, Will u be  ’17? Details here:     Send a DM for a free pass! We’d love to have you!,0,1,1,0,0,0,0.18526171,0.013186251,0.801552,Neu,0.17207547,benzinga
+14321,2017-05-02 17:28:05, will u b  Details here:   DM us and we’ll get you a discount!,0,1,1,0,0,0,0.12811364,0.012541219,0.8593452,Neu,0.11557242,benzinga
+14323,2017-05-02 17:23:02, we want you  ’17. Can you make it? Details:   DM if you have questions. fintechstartups,0,1,1,0,0,0,0.03312231,0.01998119,0.9468965,Neu,0.013141118,benzinga
+14352,2017-05-02 02:00:00,Can Lonzo Ball Make NBA History By Creating An Independent Shoe Brand?   $ADDYY $NKE $UAA BIgBallerBrand,0,1,1,0,0,0,0.13997643,0.010561249,0.84946233,Neu,0.12941518,benzinga
+14355,2017-05-02 01:00:00,Should Apple Investors Still Care About Slumping iPhone Demand?   $AAPL,0,1,1,0,0,0,0.020827543,0.8253106,0.15386185,Neg,-0.80448306,benzinga
+14370,2017-05-01 20:00:00,Will Apple Investors Be Celebrating The Yearly Dividend Hike Day On Tuesday?   $AAPL $IVV $SPY,0,1,1,0,0,0,0.1520406,0.020218082,0.8277413,Neu,0.13182253,benzinga
+14373,2017-05-01 19:00:00,. TY very much for partnering with us  '17. Cannot wait to see you there! fintech property bzawards,0,1,1,0,1,2,0.14543651,0.012871284,0.84169227,Neu,0.13256523,benzinga
+14374,2017-05-01 18:45:00,. THANK YOU for partnering with us  '17. Cannot wait to see you there! fintech ai analytics startups bzawards,0,1,1,0,2,4,0.16078258,0.014619312,0.82459813,Neu,0.14616327,benzinga
+14382,2017-05-01 17:00:00,Should Apple Investors Still Care About Slumping iPhone Demand?   $AAPL,0,1,1,0,0,0,0.020827543,0.8253106,0.15386185,Neg,-0.80448306,benzinga
+14385,2017-05-01 16:00:00,Can Lonzo Ball  Make NBA History By Creating An Independent Shoe Brand?   $ADDYY $NKE $UAA BigBallerBrand,0,1,1,0,0,1,0.13997643,0.010561249,0.84946233,Neu,0.12941518,benzinga
+14394,2017-05-01 12:23:05,Neurotrope is down 25.5% at $14.00 in pre-market trading. Where will the stock close today? $NTRP,0,1,1,0,1,2,0.0064271777,0.95623904,0.037333872,Neg,-0.9498119,benzinga
+14401,2017-05-01 02:54:04,Who Should Be Most Relieved By NAFTA Continuation?   $EWC $EWW $SPY,1,0,1,0,0,1,0.16994864,0.06353187,0.76651955,Neu,0.10641677,benzinga
+14402,2017-04-30 23:34:04,We'll be joined by  on PreMarket Prep tomorrow to analyze $NTRP's trial data. Tune in at 8 am ET.  ,1,1,1,1,6,5,0.03172741,0.033566784,0.9347058,Neu,-0.0018393733,benzinga
+14408,2017-04-30 18:07:04,"Why Trump's Tax Cut On Repatriated Cash Would Be Great For Investors, And No One Else   $NYT $ORCL",0,0,1,1,1,0,0.14486472,0.01408325,0.841052,Neu,0.13078147,benzinga
+14415,2017-04-29 22:54:00,Heres How Banks Can Simultaneously Love And Hate Subprime Car Loans $ALLY $JPM $SC  ,0,1,1,0,1,0,0.05578044,0.03632922,0.9078903,Neu,0.01945122,benzinga
+14423,2017-04-28 21:30:00,100 Days Of Trump: Do Oddsmakers Think He'll Make It A Full Term?   $SPY,0,1,1,0,0,0,0.1147878,0.015493509,0.8697187,Neu,0.09929429,benzinga
+14426,2017-04-28 20:59:01,Happy NationalSuperHeroDay! Meet the next Bruce Wayne & Tony Stark at the bzawards   Where will u b May11? Fintech,0,0,1,0,1,0,0.05828939,0.026184488,0.91552615,Neu,0.032104902,benzinga
+14437,2017-04-28 16:30:00,These Stocks Could Feel The Effects Of A Deteriorating Auto Lending Market   $ALLY $CACC $SC $COF $AN $KMX $WFC,0,1,1,0,0,1,0.03317373,0.7483596,0.21846662,Neg,-0.7151859,benzinga
+14459,2017-04-27 20:11:01,These Stocks Could Feel The Effects Of A Deteriorating Auto Lending Market   $CACC $SC $ALLY $COF $AN $KMX $WFC $F $GM,0,1,1,0,0,0,0.02804693,0.7755704,0.19638275,Neg,-0.7475235,benzinga
+14519,2017-04-25 22:40:00,The changing of seasons can sometimes serve as the catalyst behind some similarly recurring market moves.  ,0,1,1,0,0,0,0.04034769,0.13404647,0.82560587,Neu,-0.09369877,benzinga
+14525,2017-04-25 19:59:00,Should You Worry About A Trump Trap?   via ,0,0,1,0,0,1,0.092641346,0.09588843,0.8114702,Neu,-0.0032470822,benzinga
+14558,2017-04-24 19:30:03,Could Albertsons Finally Go Public With Alleged Whole Foods Bid?   $KR $SFM $WFM,0,0,1,0,1,0,0.05662573,0.016165169,0.9272091,Neu,0.040460564,benzinga
+14574,2017-04-23 23:00:00,The Road To $1 Trillion: Amazon Can Beat Apple   $AAPL $AMZN,0,0,1,0,0,1,0.7874229,0.007714886,0.20486216,Pos,0.779708,benzinga
+14590,2017-04-22 22:30:00,Could An Ouster Of Mondelez's Irene Rosenfeld Mean A Deal For Buffett's Berkshire?   $HSII $HSY $KHC $MDLZ $PEP,0,0,1,0,0,0,0.12464883,0.014659813,0.86069137,Neu,0.10998902,benzinga
+14713,2017-04-19 12:37:00,Can Under Armour Get Back To Meeting Expectations?   $NKE $UAA,0,0,1,0,1,0,0.39694598,0.019884212,0.5831698,Neu,0.37706178,benzinga
+14722,2017-04-19 02:24:05,Trump's Taxes: Should the President Release His Filings? TaxDay   ,0,0,1,0,1,0,0.021113822,0.09932304,0.8795631,Neu,-0.07820922,benzinga
+14742,2017-04-18 20:37:00,Can Under Armour Get Back To Meeting Expectations?   $NKE $UAA,0,0,1,0,0,1,0.39694598,0.019884212,0.5831698,Neu,0.37706178,benzinga
+14774,2017-04-18 16:30:00,"How Your Taxes Will Be Different Next Year, And Why You'll Have Trump To Thank   TaxDay",0,0,1,0,0,0,0.04752821,0.02552438,0.9269474,Neu,0.022003831,benzinga
+14796,2017-04-18 13:52:00,Will The Sun Also Rise For The Solar ETF?   $FSLR $TAN,0,0,1,0,0,1,0.1706783,0.010808481,0.8185132,Neu,0.15986982,benzinga
+14821,2017-04-17 23:00:00,Here's Why You Should Care About Chinese Startups   $BABA $MGI,0,0,1,0,0,1,0.07714575,0.015362739,0.9074915,Neu,0.06178301,benzinga
+14833,2017-04-17 20:30:00,Will Ag Stocks Flourish Now That California's 5-Year Drought Is Over?   $AGM $AGU $CF $DBA $JJG $RJA $SYT $DD,0,1,1,0,0,0,0.7943562,0.014046737,0.19159704,Pos,0.7803095,benzinga
+14836,2017-04-17 20:07:00,"How Your Taxes Will Be Different Next Year, And Why You'll Have Trump To Thank  ",0,0,1,0,0,1,0.05504024,0.024106707,0.9208531,Neu,0.030933533,benzinga
+14869,2017-04-17 15:45:00,Here's Why Companies Like Chipotle Don't Split Their Stock Anymore - And Why Perhaps They Should   $ULTA $CMG $DRYS,0,1,1,0,0,1,0.032244906,0.041235074,0.92652,Neu,-0.008990169,benzinga
+14897,2017-04-16 22:03:00,"How Your Taxes Will Be Different Next Year, And Why You'll Have Trump To Thank   $HRB $INTU $SPY",0,0,1,0,2,2,0.08987027,0.017379664,0.89275,Neu,0.0724906,benzinga
+14908,2017-04-15 21:27:05,Will Ag Stocks Flourish Now That California's 5-Year Drought Is Officially Over?   $AGM $AGU $CF,0,0,1,0,0,1,0.75689596,0.018024292,0.22507976,Pos,0.7388717,benzinga
+14915,2017-04-15 16:23:03,Why You Should Pay Attention To Insider Transactions   $GNC $SPY,0,0,1,0,1,4,0.038577795,0.03638163,0.92504054,Neu,0.0021961667,benzinga
+14934,2017-04-13 19:30:00,Will Trump's Efforts To Weaken Consumer Protection Agency Allow Student Loan Services To Run Amok?    via ,0,0,1,1,0,2,0.05506782,0.041193016,0.90373915,Neu,0.013874803,benzinga
+14940,2017-04-13 18:38:00,Will The Coming Subprime Auto Loan Calamity Affect Tesla?   $ALLY $CACC $COF,0,0,1,0,0,0,0.03315721,0.08582084,0.8810219,Neu,-0.052663628,benzinga
+14941,2017-04-13 18:20:00,You Might Not Want To Get Too Attached To The Term 'Fintech'   $XLK BZAwards fintech,0,0,1,0,0,0,0.036855016,0.027939225,0.9352058,Neu,0.008915791,benzinga
+15050,2017-04-12 13:31:03, Sure can! Here it is:  ,0,1,1,0,0,0,0.048632424,0.0237956,0.92757195,Neu,0.024836825,benzinga
+15063,2017-04-12 03:00:00,"After Blaming Passenger For Disturbance, United CEO Changes His Tune: 'No One Should Be Mistreated This Way'   $UAL",1,0,1,2,1,2,0.026714427,0.40344384,0.56984174,Neu,-0.37672943,benzinga
+15124,2017-04-11 15:00:00,"The 'Irrational Exuberance' Of 1996, And How You'll Know It Has Returned   $DIA $SPY",1,0,1,0,0,1,0.22352313,0.05540698,0.72106993,Neu,0.16811615,benzinga
+15153,2017-04-10 23:30:00,Cardiovascular Players Could Be Eyeing Esperion   $AZN $ESPR $MRK,0,1,1,0,0,1,0.049204316,0.028463235,0.92233247,Neu,0.02074108,benzinga
+15183,2017-04-10 17:52:00,The Secret To Making Money In The FX Market Can Be Found On...Twitter?   $TWTR,1,1,1,0,0,1,0.040870976,0.017042238,0.94208676,Neu,0.023828737,benzinga
+15184,2017-04-10 17:45:00,Should Ulta Beauty Split Its Stock?   $ULTA $DG $DLTR $BBY $JWN $M $NFLX $KR,0,0,1,0,0,0,0.05844267,0.02022514,0.9213322,Neu,0.03821753,benzinga
+15189,2017-04-10 17:07:00,Cardiovascular Players Could Be Eyeing Esperion   $ESPR $AZN $MRK $SNY $PFE,0,1,1,0,1,1,0.063062824,0.03527113,0.9016661,Neu,0.027791694,benzinga
+15191,2017-04-10 16:52:00,Can Canada Goose Fly North To 25% Upside In The Next Year?   $GOOS,0,0,1,0,0,0,0.37132064,0.01136007,0.61731935,Neu,0.35996056,benzinga
+15248,2017-04-09 00:00:00,AMC CEO Argues Why It Can Thrive In The Streaming TV Environment   $AMCX $NFLX,0,0,1,0,0,0,0.27802178,0.008100778,0.71387744,Neu,0.269921,benzinga
+15275,2017-04-07 17:37:01,Would You Let A Robot Do These Jobs?   $GOOG $GOOGL $ISRG,0,0,1,0,0,0,0.028351318,0.041291364,0.93035734,Neu,-0.012940045,benzinga
+15334,2017-04-06 22:20:00,"We break down the basics behind dividend distribution, what investors should know about when & how cos. issue them  ",0,1,1,0,0,0,0.030633414,0.023376213,0.9459903,Neu,0.007257201,benzinga
+15347,2017-04-06 19:37:00,Can Teen Sentiment Inform Stock Picks?   $EA $FB $GOOG $TWTR $SNAP $NKE $MCD $PEP $NFLX,0,0,1,0,0,1,0.076022714,0.024659352,0.8993179,Neu,0.051363364,benzinga
+15418,2017-04-05 22:00:00,Here's The Key Level In The 10-Year Everyone Should Be Watching  ,0,1,1,0,0,1,0.05778349,0.024129743,0.9180867,Neu,0.033653744,benzinga
+15426,2017-04-05 20:22:00,We discuss the weight behind Feuerstein's comments & why biotech investors might want to pay attention. $CYCC $TNXP  ,0,1,1,2,0,2,0.045551483,0.016483786,0.93796474,Neu,0.029067697,benzinga
+15434,2017-04-05 19:22:00,Will Alibaba Buy Yelp? Not Likely   $BABA $YELP,0,0,1,0,3,2,0.073771164,0.011391899,0.9148369,Neu,0.062379263,benzinga
+15501,2017-04-05 00:30:00,"Trump Says He'll 'Spend A Lot Of Money' On Schools, Despite Promising Billions In Education Cuts  ",0,1,1,0,0,0,0.7406942,0.023434008,0.23587176,Pos,0.71726024,benzinga
+15514,2017-04-04 20:30:00,2017 Will Be A 'Reset Year' For Disney   $DIS,0,0,1,0,0,0,0.020279896,0.92793775,0.05178239,Neg,-0.90765786,benzinga
+15516,2017-04-04 20:18:05,"We'll also be joined by Paul Henneman, the president of  (8:15 ET) and  (8:35 ET).  ",1,0,1,0,0,0,0.044877563,0.015843797,0.9392786,Neu,0.029033765,benzinga
+15517,2017-04-04 20:17:05,On tomorrow's PreMarket Prep:  (8:50 ET) will discuss small-cap biotech manipulation. $CYCC Tune in:  ,0,0,1,0,1,1,0.06202689,0.011959412,0.9260137,Neu,0.05006748,benzinga
+15522,2017-04-04 19:37:00,Why Netflix Shares Cannot Be Valued Using Traditional Metrics   $NFLX,1,1,1,0,1,2,0.04000489,0.023462152,0.936533,Neu,0.016542738,benzinga
+15536,2017-04-04 17:45:00,Best Buy Would Be Major Beneficiary Of An hhgregg Liquidation   $BBY,0,0,1,1,1,0,0.24247862,0.018958027,0.7385633,Neu,0.22352059,benzinga
+15588,2017-04-04 00:00:00,Will The 'WrestleMania Short' Trade Work Again This Year?   $WWE Wrestlemania33,0,0,1,0,0,0,0.06345905,0.016675055,0.91986585,Neu,0.046784,benzinga
+15600,2017-04-03 20:15:00,When Will The National Beverage Corp Rally Fizzle Out?   $FIZZ,0,0,1,0,0,0,0.039754286,0.06591508,0.89433056,Neu,-0.026160792,benzinga
+15603,2017-04-03 20:00:00,Where Can You Stream Music For Less Than $10 A Month?   $AAPL $AMZN $BBRY $P $GOOG,0,0,1,0,0,0,0.03300293,0.02351524,0.9434818,Neu,0.009487692,benzinga
+15607,2017-04-03 19:30:00,Will The 'WrestleMania Short' Trade Work Again This Year?   $WWE,0,0,1,0,0,1,0.0785358,0.017193258,0.90427095,Neu,0.061342545,benzinga
+15634,2017-04-03 16:00:00,Millennials Would Rather Save For Their Kids' College Education Than Save For Their Own Retirement  ,0,0,1,2,0,0,0.026409067,0.06498486,0.90860605,Neu,-0.03857579,benzinga
+15662,2017-04-03 12:30:00,Will The 'WrestleMania Short' Trade Work Again This Year?   $WWE Wrestlemania,0,0,1,0,0,0,0.067854814,0.015292044,0.9168531,Neu,0.05256277,benzinga
+15675,2017-04-02 22:00:00,Where You Can Stream Music For Less Than $10/Month   $AAPL $AMZN $BBRY $GOOG,0,0,1,0,1,0,0.04834115,0.013687939,0.93797094,Neu,0.034653213,benzinga
+15684,2017-04-02 18:02:05,Millennials Would Rather Save For Their Kids' College Education Than Save For Their Own Retirement  ,0,0,1,0,3,5,0.026409067,0.06498486,0.90860605,Neu,-0.03857579,benzinga
+15689,2017-04-02 16:00:00,Will The 'WrestleMania Short' Trade Work Again This Year?   $WWE WrestleMania,0,0,1,0,1,0,0.067854814,0.015292044,0.9168531,Neu,0.05256277,benzinga
+15708,2017-03-31 20:53:01,Seed Fundraising:  How To Build A Deck   startups smallbiz,0,1,1,0,0,1,0.10292128,0.013488732,0.88359,Neu,0.089432545,benzinga
+15804,2017-03-30 19:52:00,Should Wal-Mart Investors Be Concerned That Amazon Invited Food Execs To Its Seattle Office?   $WMT $AMZN $COST $GIS,1,0,1,0,0,0,0.07740985,0.15740964,0.7651805,Neu,-0.07999979,benzinga
+15806,2017-03-30 19:37:00,"ConocoPhillips: Patience Will Be Rewarded, Credit Suisse Raises Price Target To $60   $COP $CVX $XOM",1,0,1,0,4,3,0.8681042,0.012656977,0.11923887,Pos,0.85544723,benzinga
+15982,2017-03-28 18:37:00,Analyst: Snap Should Be Worried About Facebook's New Features   $FB $SNAP,1,0,1,0,1,1,0.055928927,0.6016834,0.34238777,Neg,-0.54575443,benzinga
+16063,2017-03-27 19:30:00,Will This New Media & Telecom IPO Be Able To 'WOW' The Street?   $WOW $CHTR $CMCSA $VZ $T,0,0,1,0,0,0,0.7592201,0.008053649,0.23272622,Pos,0.75116646,benzinga
+16065,2017-03-27 19:21:05,NFL's Oakland Raiders are moving to Vegas (31-1 league-wide vote). They will join NHL's Golden Knights as only pro sports teams in Vegas.,0,1,1,0,0,1,0.099276535,0.01790069,0.88282275,Neu,0.081375845,benzinga
+16096,2017-03-27 15:37:00,Will This New Media & Telecom IPO Be Able To 'WOW' The Street?   $WOW $CHTR $CMCSA $T $VZ,0,0,1,0,0,0,0.7651629,0.008154077,0.22668298,Pos,0.7570088,benzinga
+16100,2017-03-27 15:15:00,Friendly Skies Could Be Attractively Valued Skies   $JETS $AAL $LUV $DAL $UAL,1,0,1,0,1,1,0.4096462,0.008906319,0.5814474,Neu,0.4007399,benzinga
+16104,2017-03-27 14:45:00,"Keystone Pipeline Will Create Thousands Of Jobs, But How Many Will Be Permanent?   $TRP $XOM",0,0,1,1,1,0,0.08801195,0.024473213,0.8875148,Neu,0.06353874,benzinga
+16192,2017-03-24 16:37:00,Diversification Could Be The Power-Up GameStop's Strategy Needs Now   $GME,0,0,1,0,0,1,0.05920482,0.010706202,0.93008894,Neu,0.04849862,benzinga
+16194,2017-03-24 16:22:00,YouTube's Ad Controversy Not Going Away Yet; Will It Prove To Be Temporary?   $GOOG $GOOGL $JNJ $T $VZ,0,1,1,0,0,0,0.037411448,0.34605607,0.6165325,Neu,-0.30864462,benzinga
+16248,2017-03-23 22:00:00,"Financial Advisors Could Be Making Up To 20% More Money, And This Fintech Wants To Help   cc ",0,1,1,0,4,2,0.53329265,0.009045661,0.45766172,Pos,0.524247,benzinga
+16250,2017-03-23 21:15:00,"After rare upgrade from Sell to Buy from Goldman Sachs, we take a closer look at why $FEYE might warrant a long call  ",0,1,1,0,2,0,0.16098249,0.014596168,0.8244213,Neu,0.14638633,benzinga
+16254,2017-03-23 20:27:04,Gamestop To No Longer Provide EPS And SSS Guidance So It will 'Reduce Investor Distraction As We Continue To Diversify' $GME,0,1,1,0,1,1,0.06680882,0.041732755,0.89145845,Neu,0.025076065,benzinga
+16273,2017-03-23 19:07:00,How Much Safer Can Tesla's Model 3 Be Versus Other Cars? Up To 10 Times Safer   $TSLA,0,0,1,1,0,0,0.39061892,0.009404971,0.5999762,Neu,0.38121396,benzinga
+16304,2017-03-23 15:22:00,How You Can Safeguard Your Personal Information As Phone Searches Multiply At U.S. Borders  ,0,0,1,0,0,0,0.056282613,0.018605012,0.92511237,Neu,0.0376776,benzinga
+16370,2017-03-22 17:30:00,The End Could Be Near For Sears   $SHLD,0,0,1,0,0,0,0.05897827,0.7323425,0.20867926,Neg,-0.6733642,benzinga
+16374,2017-03-22 17:00:00,Hedge Funds Could Be Big Winners From A Border Adjustment Tax  ,0,0,1,0,0,0,0.8421005,0.016587779,0.14131166,Pos,0.8255127,benzinga
+16380,2017-03-22 16:15:00,"Financial Advisors Could Be Making Up To 20% More Money, And This Fintech Wants To Help   cc ",0,1,1,0,2,2,0.53329265,0.009045661,0.45766172,Pos,0.524247,benzinga
+16384,2017-03-22 15:45:00,"Sears Should Be A Warning Sign To Suppliers, Says Cramer   $SHLD",0,1,1,0,1,1,0.45369548,0.17085013,0.37545443,Pos,0.28284535,benzinga
+16397,2017-03-22 14:07:00,4 Catalysts That Should Lead To Stronger Growth For Etsy   $ETSY,0,0,1,0,0,0,0.934547,0.009942875,0.05551019,Pos,0.9246041,benzinga
+16398,2017-03-22 14:00:00,Disney Could Be In Some Serious Legal Trouble Over 'Zootopia'   $DIS,0,0,1,0,0,0,0.00955009,0.94294536,0.04750452,Neg,-0.93339527,benzinga
+16401,2017-03-22 13:37:00,Nike's 'Triple Double' Not Enough To Pull Out The Win In Q4   $NKE,0,0,1,0,0,0,0.9148284,0.050341517,0.03483014,Pos,0.86448693,benzinga
+16408,2017-03-22 12:45:00,The End Could Be Near For Sears   $SHLD,0,0,1,0,2,1,0.05897827,0.7323425,0.20867926,Neg,-0.6733642,benzinga
+16424,2017-03-22 02:00:00,Disney Could Be In Some Serious Legal Trouble Over 'Zootopia'   $DIS,0,0,1,0,1,2,0.00955009,0.94294536,0.04750452,Neg,-0.93339527,benzinga
+16438,2017-03-21 20:30:00,Disney Could Be In Some Serious Legal Trouble Over 'Zootopia'   $DIS,0,0,1,0,3,1,0.00955009,0.94294536,0.04750452,Neg,-0.93339527,benzinga
+16458,2017-03-21 18:07:00,Cronos On Marijuana Legalization In Canada: Market Could Be Ready To Go By 2019   $MJN $PRMCF,0,0,1,0,0,0,0.10250285,0.010130341,0.88736683,Neu,0.092372514,benzinga
+16537,2017-03-20 19:07:00,China's 'Apple-Killer' CEO Says The iPhone Maker Can Be 'Too Stubborn Sometimes'   $AAPL,1,1,1,0,1,0,0.016576733,0.92282736,0.060595933,Neg,-0.90625066,benzinga
+16541,2017-03-20 18:37:00,"How Much You'd Spend On Healthcare Under New GOP Plan, By Income   $IBB $XLV Republicare",0,0,1,0,0,1,0.0714073,0.011632535,0.9169601,Neu,0.059774768,benzinga
+16550,2017-03-20 17:30:00,Should Coke And Pepsi Move Into The Hard Soda Biz?   $BUD $KO $PEP,0,0,1,1,0,1,0.0847941,0.012332968,0.902873,Neu,0.07246113,benzinga
+16565,2017-03-20 15:37:00,4 Reasons Why 2017 Will Be A Pivotal Year For Vuzix   $VUZI,0,0,1,0,1,1,0.12682389,0.025209142,0.84796697,Neu,0.10161474,benzinga
+16586,2017-03-20 13:00:00,Seed Fundraising: How To Get A Meeting   via  startups Entreprenuership,0,1,1,0,0,2,0.07263063,0.012200448,0.91516894,Neu,0.06043018,benzinga
+16607,2017-03-20 02:04:04,"How Much You'd Spend On Healthcare Under New GOP Plan, By Income   $IBB $XLV",0,0,1,0,3,0,0.06640158,0.01210528,0.9214931,Neu,0.0542963,benzinga
+16609,2017-03-20 01:34:01,4 Lessons Latin American Startups Can Teach U.S. Businesses In The Trump Era LatAm startup   ,0,0,1,0,1,1,0.08745718,0.015898613,0.89664423,Neu,0.071558565,benzinga
+16613,2017-03-19 22:58:00,Starbucks Vs. McCafe: Can McDonald's Take Market Share?   $MCD $SBUX,0,0,1,1,0,1,0.13769373,0.011130617,0.8511756,Neu,0.12656312,benzinga
+16625,2017-03-19 17:40:04,Should Coke And Pepsi Move Into The Hard Soda Biz?   $BUD $KO $PEP,0,0,1,0,0,1,0.0847941,0.012332968,0.902873,Neu,0.07246113,benzinga
+16627,2017-03-19 17:21:04,Businesses Will Be Impacted By Trumpcare   $IBB $XLV,1,0,1,1,0,3,0.021878053,0.11488287,0.863239,Neu,-0.09300482,benzinga
+16654,2017-03-17 19:10:00,Starbucks Vs. McCafe: Can McDonald's Take Market Share?   $MCD $SBUX,0,0,1,0,0,0,0.13769373,0.011130617,0.8511756,Neu,0.12656312,benzinga
+16656,2017-03-17 18:50:00,"Can Facebook Continue To Grow Ad Business? In A Word, Yes   $FB",0,0,1,0,0,1,0.3170227,0.0078023444,0.6751749,Neu,0.30922037,benzinga
+16670,2017-03-17 16:45:00,Should You Do What The Wealthy Are Being Told To Do And Buy Stocks?  ,0,0,1,0,0,0,0.03908593,0.027472384,0.9334417,Neu,0.011613544,benzinga
+16671,2017-03-17 16:37:00,"You Can Count The LendingClub Bulls On One Hand, But That May Be Set To Change   $LC",0,0,1,0,0,1,0.04849466,0.16747522,0.78403014,Neu,-0.118980564,benzinga
+16701,2017-03-17 13:00:00,4 Lessons Latin American Startups Can Teach U.S. Businesses In The Trump Era  ,0,0,1,0,1,0,0.13027368,0.012452254,0.857274,Neu,0.11782143,benzinga
+16725,2017-03-16 23:30:00,4 Lessons Latin American Startups Can Teach U.S. Businesses In The Trump Era  ,0,0,1,0,0,1,0.13027368,0.012452254,0.857274,Neu,0.11782143,benzinga
+16757,2017-03-16 17:45:00,Why Education Could Be The Biggest Beneficiary Of Cannabis Legalization   $ACBFF $$CANN $GWPH $ZYNE,0,0,1,0,1,2,0.10265952,0.012276303,0.8850642,Neu,0.09038322,benzinga
+16762,2017-03-16 17:07:00,"Palihapitiya: Uber Can Be A 'Fantastic' Company, As Long As It Fixes The Culture  ",0,0,1,1,0,0,0.39800707,0.008856665,0.5931362,Neu,0.3891504,benzinga
+16780,2017-03-16 15:00:00,5 Surprising Things You Can Deduct From Your Income Taxes   TaxSeason,0,0,1,0,0,1,0.036511242,0.026123844,0.93736494,Neu,0.010387398,benzinga
+16784,2017-03-16 14:30:00,Why Education Could Be The Biggest Beneficiary Of Cannabis Legalization  ,0,0,1,0,0,0,0.04651433,0.036976922,0.9165087,Neu,0.009537406,benzinga
+16820,2017-03-15 23:30:00,Will Snapchat Go The Way Of Facebook — Or Twitter?   $SNAP $FB $TWTR $GOOGL,0,0,1,0,1,0,0.03942837,0.023974337,0.9365972,Neu,0.0154540315,benzinga
+16821,2017-03-15 23:00:00,Immigrants Will Continue To Play A Major Role In The U.S. Workforce  ,0,0,1,1,0,1,0.17251386,0.011623245,0.81586283,Neu,0.16089061,benzinga
+16862,2017-03-15 15:45:00,Will The Fed Continue To Move The Market Higher With 'Covert' QE?   $FNMA $FMCC via ,0,0,1,0,0,0,0.8895687,0.011106513,0.09932479,Pos,0.8784622,benzinga
+16905,2017-03-15 01:30:00,How You Can Reach 10 Top VCs With Just One Click   fintech,0,0,1,0,0,2,0.066268325,0.013672961,0.9200587,Neu,0.052595362,benzinga
+16921,2017-03-14 19:22:00,How The Fed Can Affect These Dividend ETFs   $DVY $T $VYM,0,0,1,0,0,1,0.027351243,0.043176398,0.9294724,Neu,-0.015825154,benzinga
+16923,2017-03-14 19:07:00,Here's How A Stock Can Become Too Expensive To Short   $FB $TWTR $SNAP,0,1,1,0,2,1,0.025602674,0.26694524,0.70745206,Neu,-0.24134257,benzinga
+16952,2017-03-14 15:15:00,How The Fed Can Affect These Dividend ETFs   $DVY $VYM,0,0,1,0,0,0,0.026876152,0.046871856,0.926252,Neu,-0.019995704,benzinga
+16972,2017-03-14 12:52:00,JetBlue Vs. Southwest: Which Will Have Your Investment Cruising At A Higher Altitude?   $JBLU $LUV,0,0,1,0,0,0,0.10116652,0.012013388,0.88682014,Neu,0.089153126,benzinga
+16973,2017-03-14 12:45:00,Here's How A Stock Can Become Too Expensive To Short   $FB $SNAP $TWTR,0,1,1,0,0,0,0.024416165,0.24579205,0.7297918,Neu,-0.22137588,benzinga
+17051,2017-03-13 13:07:00,Starbucks Should Continue To Outperform   $SBUX,0,0,1,0,1,1,0.94906574,0.028003087,0.02293117,Pos,0.92106265,benzinga
+17081,2017-03-11 21:00:00,Can Nvidia Fend Off Competition From Intel And Advanced Micro Devices?   $AMD $INTC $NVDA,0,0,1,0,0,1,0.5371208,0.01486328,0.44801587,Pos,0.52225757,benzinga
+17089,2017-03-11 16:30:00,Marijuana Stocks: How CEOs Can Navigate Market Volatility (And Survive Spicer And Sessions)   $GBLX $GRSO $SLTK $KSHB,0,0,1,1,2,2,0.22922839,0.009780884,0.76099074,Neu,0.21944751,benzinga
+17107,2017-03-10 19:45:00,Could The Nike Hijab Violate Sports Regulations On Team Uniformity?   $NKE,0,0,1,0,0,0,0.028651599,0.42712498,0.5442234,Neu,-0.39847338,benzinga
+17108,2017-03-10 19:37:00,Marijuana Stocks: How CEOs Can Navigate Market Volatility (And Survive Spicer And Sessions)  ,0,0,1,0,1,1,0.09232835,0.016157407,0.89151424,Neu,0.076170936,benzinga
+17154,2017-03-10 14:00:00,"How Marijuana CEOs Can Navigate Market Volatility (And Survive Spicer, Sessions)   $GBLX $TRTC $KSHB $SLTK $GRSO",0,0,1,0,0,0,0.23935513,0.009064689,0.7515802,Neu,0.23029044,benzinga
+17173,2017-03-10 12:00:00,10 Stocks You Should Be Watching Today   $BKE $CTRN $FNSR $GCO $ULTA $PAY $HIBB $ZUMZ $MTN $LOCO,0,1,1,0,2,6,0.13715865,0.019770877,0.84307045,Neu,0.11738777,benzinga
+17189,2017-03-09 19:52:02,We take a look ASCE's poor assessment of America's water infrastructure & what Trump admin could do to improve it  ,0,1,1,0,1,1,0.08540235,0.29328418,0.62131345,Neu,-0.20788184,benzinga
+17227,2017-03-09 15:03:00,Where Small-Caps Can Be Less Risky   $DGS,0,0,1,0,0,0,0.073443696,0.028380211,0.8981761,Neu,0.045063484,benzinga
+17244,2017-03-09 13:19:00,"""Now is a time where we'll see this perfect sttorm of events coming out""  on his bearish $HLF thesis.  ",0,1,1,0,0,7,0.1500049,0.057387196,0.79260784,Neu,0.0926177,benzinga
+17304,2017-03-08 15:15:00,Can Nvidia Fend Off Competition From Intel And Advanced Micro Devices?   $AMD $INTC $NVDA,0,0,1,0,0,1,0.5371208,0.01486328,0.44801587,Pos,0.52225757,benzinga
+17341,2017-03-07 21:13:00,Here's How The U.S. Government Can Pay For Trump's $1 Trillion Infrastructure Plan   $SPX $SPY,0,1,1,0,1,0,0.08542504,0.01267143,0.9019035,Neu,0.07275361,benzinga
+17356,2017-03-07 19:49:03,Pro: Here's Why You Should Buy The Financial Sector ETF   $XLF,0,1,1,0,0,2,0.08096428,0.012585409,0.9064503,Neu,0.06837887,benzinga
+17378,2017-03-07 16:23:01,Can Nvidia Fend Off Competition From Intel And Advanced Micro Devices?   $AMD $INTC $NVDA,0,0,1,0,0,1,0.5371208,0.01486328,0.44801587,Pos,0.52225757,benzinga
+17386,2017-03-07 15:24:02,Should CSX Shareholders Reimburse New CEO Hunter Harrison For Lost Pay From Canadian Pacific?   $CNI $CP $CSX,0,0,1,0,0,0,0.07741306,0.47916645,0.4434205,Neg,-0.4017534,benzinga
+17395,2017-03-07 14:15:03,Will Delta Shares Stay Grounded In What Is Likely To Be A Transition Year?   $DAL,0,1,1,0,0,0,0.10657145,0.039718945,0.85370964,Neu,0.06685251,benzinga
+17417,2017-03-07 12:00:03,10 Stocks You Should Be Watching Today   $ASNA $CASY $DKS $URBN $KFY $HRB $MIK $TISI $NAV $PIR,0,1,1,0,2,0,0.14093687,0.022614283,0.8364488,Neu,0.11832258,benzinga
+17462,2017-03-06 16:37:00,Jim Cramer Thinks Investors Are 'Brainwashed' Into Thinking They Can Never Beat The Market   $DPZ $NFLX $SPY,0,0,1,0,0,0,0.038683534,0.516302,0.44501445,Neg,-0.47761846,benzinga
+17549,2017-03-03 20:46:01,Will A New Video Product Lift MeetMe's Outlook?   $MEET,0,0,1,0,0,0,0.94411063,0.015644433,0.0402449,Pos,0.9284662,benzinga
+17559,2017-03-03 19:02:02,"Yellen Says Not Much Fed Can Do To Affect Labor Growth, Immigration Contributes To Substantial Amount To Labor Force Growth $SPY",0,1,1,0,0,1,0.1399291,0.14960247,0.71046835,Neu,-0.009673372,benzinga
+17583,2017-03-03 16:30:00,"Will The Fundamentals Catch Up To The Market, Or Vice Versa?  ",0,0,1,0,0,1,0.120087296,0.0133221,0.86659056,Neu,0.106765196,benzinga
+17597,2017-03-03 14:45:00,Will Snap Be The Comeback Of The Tech IPO?   $SNAP  ,0,0,1,0,0,1,0.08080248,0.016824624,0.9023729,Neu,0.06397785,benzinga
+17636,2017-03-02 22:00:00,"Buffett's Soda Empire: If Kraft Heinz Acquired Pepsi, What Share Of The Soda Market Would He Own?   $KO $PEP $KHC",0,0,1,0,0,1,0.044583198,0.012654193,0.94276255,Neu,0.031929005,benzinga
+17646,2017-03-02 20:30:00,When Will We See Fully Autonomous Vehicles? This Famous Hedge Fund Manager Thinks It Will Take 20 Years   $FCAU $GM $F,0,1,1,0,0,0,0.047440853,0.022573767,0.9299854,Neu,0.024867086,benzinga
+17696,2017-03-02 14:00:00,"Mark Cuban Will Buy Snap On The IPO, If He Can: 'It Can Be A Big Company'   $SNAP snapipo",0,0,1,0,1,0,0.12304637,0.0087918695,0.8681618,Neu,0.1142545,benzinga
+17701,2017-03-02 13:29:01,Snap Inc priced 200 million shares at $17 per share. Where do you think the stock will close today? $SNAP SnapIPO,1,1,1,0,7,0,0.02570827,0.029848248,0.94444346,Neu,-0.0041399784,benzinga
+17714,2017-03-02 12:00:00,12 Stocks You Should Be Watching Today   $ADSK $ANF $AVGO $SSI $KR $SHAK $MRVL $MNST $COST $JOY $PLNT $BURL,0,1,1,0,2,0,0.1091747,0.02630301,0.8645222,Neu,0.08287169,benzinga
+17725,2017-03-01 22:30:00,". Will Buy Snap On The IPO, If He Can: 'It Can Be A Big Company'   $SNAP SnapIPO",0,0,1,0,0,0,0.13060483,0.009076384,0.8603188,Neu,0.12152845,benzinga
+17762,2017-03-01 16:37:00,Bridgewater's Ray Dalio To Transition From Co-CEO To Investor: I'll Be Here 'Until I Die'  ,0,0,1,0,1,2,0.1476649,0.015452767,0.83688235,Neu,0.13221213,benzinga
+17769,2017-03-01 15:45:00,Can Snap's Top Line Follow In Facebook's Footsteps?   $SNAP $FB $TWTR,0,0,1,0,0,0,0.07690252,0.011297656,0.91179985,Neu,0.065604866,benzinga
+17805,2017-03-01 01:00:00,Why Snap Will Be The Most Controversial Internet IPO This Year   $SNAP snapchat,0,0,1,0,1,0,0.03126177,0.062390868,0.90634733,Neu,-0.0311291,benzinga
+17831,2017-02-28 19:00:00,'It Could Have Been Worse': The Best Way To Describe Hertz Q4 Results   $HTZ,0,0,1,0,1,0,0.04277718,0.25089297,0.7063299,Neu,-0.20811579,benzinga
+17858,2017-02-28 15:22:00,Why Snap Will Be The Most Controversial Internet IPO This Year   $FB $TWTR $SNAP,0,0,1,1,1,0,0.05098071,0.031697117,0.9173221,Neu,0.019283593,benzinga
+17899,2017-02-27 21:32:04,Elon Musk tells NPR that  will make a mission to the moon in 2018. (h/t Reuters),0,1,1,0,0,1,0.046126455,0.024978358,0.9288952,Neu,0.021148097,benzinga
+17913,2017-02-27 20:45:00,What Can Uber Learn From Other Companies That Met Controversy Ahead Of An IPO?   $ANET $FIT $TWTR,0,0,1,0,0,1,0.13486086,0.009263397,0.8558758,Neu,0.12559746,benzinga
+17943,2017-02-27 17:00:00,Why  Doesn't Tweet Or Email: 'You Can Always Tell Someone To Go To Hell Tomorrow'   $TWTR $BRK,0,1,1,0,0,2,0.026507158,0.069229715,0.9042631,Neu,-0.042722557,benzinga
+17951,2017-02-27 16:00:00,Will Trump And Yellen Speeches Put Some Oomph into Markets This Week?   $SPY $USO $VXX,1,0,1,0,0,0,0.1744987,0.016055783,0.80944556,Neu,0.15844293,benzinga
+17959,2017-02-27 15:00:00,How Successful Can  Be?   $DIS LakersNation,0,0,1,0,0,1,0.09342607,0.013679837,0.8928941,Neu,0.07974623,benzinga
+17999,2017-02-26 23:30:00,"Mark Cuban Will Buy Snap Stock On The IPO, If He Can: 'It Can Be A Big Company'   $SNAP  ",0,0,1,0,0,1,0.12856354,0.008715174,0.86272126,Neu,0.11984836,benzinga
+18005,2017-02-26 20:30:00,Will Sequins Once More Grace This Weekend's Red Carpet?   $KORS $PRDSF $PVH $RL $CDI $TIF OscarSunday,0,1,1,0,0,0,0.13848475,0.019506292,0.8420089,Neu,0.118978456,benzinga
+18030,2017-02-24 21:40:00,"Mark Cuban Will Buy Snap On The IPO, If He Can: 'It Can Be A Big Company'   $SNAP",0,0,1,2,1,5,0.13739601,0.0083867125,0.85421735,Neu,0.12900929,benzinga
+18041,2017-02-24 20:00:04,Will Sequins Once More Grace This Weekend's Red Carpet?   $KORS $PRDSF $PVH,0,1,1,0,0,0,0.14868914,0.012836151,0.8384747,Neu,0.13585299,benzinga
+18042,2017-02-24 19:53:01,Can 'The Walking Dead' Continue To Bring AMC's Ratings To Life?   $AMCX $SNE,0,0,1,0,0,0,0.12946427,0.010473061,0.86006266,Neu,0.11899121,benzinga
+18061,2017-02-24 17:07:00,"Exclusive:  Will Buy Snap On The IPO, If He Can: 'It Can Be A Big Company'  ",0,0,1,1,5,2,0.23807403,0.009656456,0.75226945,Neu,0.22841758,benzinga
+18157,2017-02-23 17:52:00,Baird Prescribes An Upgrade For Community Health As Planned Asset Sales Should Ease Leverage   $CYH,0,0,1,0,0,0,0.94925165,0.012069053,0.038679358,Pos,0.9371826,benzinga
+18268,2017-02-22 17:15:00,"Trump, House Republicans Seek Delay In Healthcare Ruling - Because They're Afraid They'll Win   $AET $ANTM $CI $HUM",0,1,1,0,1,2,0.022806311,0.805527,0.17166667,Neg,-0.7827207,benzinga
+18283,2017-02-22 15:37:00,Resunab Can Change The Game In Cystic Fibrosis   $CRBP,0,0,1,0,0,1,0.11101177,0.024592483,0.86439574,Neu,0.08641929,benzinga
+18284,2017-02-22 15:30:00,How Would George Washington's Economic Policy Compare To Donald Trump's?   $SPY WashingtonsBirthday,0,0,1,0,0,0,0.06195468,0.035327885,0.9027174,Neu,0.026626796,benzinga
+18302,2017-02-22 13:31:04,How is  approaching this rally? We'll be live with him on PreMarket Prep at 8:35 ET.   ,0,1,1,0,0,1,0.046936456,0.015002409,0.9380611,Neu,0.031934045,benzinga
+18314,2017-02-22 12:22:00,Icahn Takes Bristol-Myers Stake With M&A In Mind; Who Could Be The Acquirer?   $BMY $GILD $MRK $AMGN $SNY $PFE,0,0,1,0,0,1,0.0506196,0.012226158,0.93715423,Neu,0.03839344,benzinga
+18317,2017-02-22 12:00:00,12 Stocks You Should Be Watching Today   $CHS $DISH $FIT $HPQ $SO $PZZA $TOL $FSLR $TSLA $LB $RRGB,0,1,1,0,3,0,0.10187347,0.022946026,0.87518054,Neu,0.07892744,benzinga
+18332,2017-02-21 22:00:00,Icahn Takes Bristol-Myers Stake With M&A In Mind; Who Could Be The Acquirer?   $BMY $MRK $PFE $JNJ $GILD,0,0,1,0,0,1,0.046758443,0.012978659,0.9402629,Neu,0.033779785,benzinga
+18333,2017-02-21 21:41:01,Whose post-playing career success will  follow in his new position as LA Lakers Pres. of Basketball Operations? lakernation,0,0,1,0,5,1,0.057088625,0.014371586,0.9285398,Neu,0.04271704,benzinga
+18343,2017-02-21 20:52:00,Jeld-Wen Is Under New Management; Can It Meet Its Full Potential?   $JELD,0,0,1,0,0,0,0.69094175,0.008332238,0.300726,Pos,0.6826095,benzinga
+18354,2017-02-21 19:30:00,OPEC Appears To Actually Be Doing What They Said They'd Do   $USO,1,1,1,0,1,0,0.22691698,0.01304041,0.7600426,Neu,0.21387658,benzinga
+18360,2017-02-21 18:45:00,Would You Rather Be Right Or Rich?  ,0,0,1,0,0,0,0.03604493,0.07243284,0.8915222,Neu,-0.03638791,benzinga
+18417,2017-02-21 00:00:00,A Potential McGregor-Mayweather Superfight Would Be Huge For Vegas   $CBS $LVS $MGM  ,0,0,1,1,0,3,0.07940737,0.02005283,0.90053976,Neu,0.059354544,benzinga
+18465,2017-02-18 16:00:00,"Mark Zuckerberg published a 6,000 word manifesto outlining how he thinks Facebook can help save the world.   $FB",1,1,1,0,0,0,0.1616728,0.010317977,0.82800925,Neu,0.15135482,benzinga
+18484,2017-02-17 19:15:00,You Should Pay Attention To The Toy Fair   $DIS $HAS $JAKK $MAT  ToyFair2017,0,0,1,0,0,0,0.06531648,0.023767173,0.9109164,Neu,0.04154931,benzinga
+18485,2017-02-17 19:07:00,"Will Kroger Get Dragged Into The Amazon, Wal-Mart E-Commerce Conflict?   $AMZN $KR $WMT",0,0,1,0,0,0,0.034389313,0.4945541,0.47105655,Neg,-0.4601648,benzinga
+18520,2017-02-17 14:37:00,"Why The Street Believes Kate Spade Will Be Acquired, But Has Doubts On Angie's List   $ANGI $COH $KATE",1,0,1,0,0,0,0.053117916,0.02562223,0.9212598,Neu,0.027495686,benzinga
+18550,2017-02-17 00:30:00,Who's The Boss? It Could Be This New ETF   $NFLX $NVDA $STLD $BOSS,0,1,1,0,0,1,0.033041906,0.027177028,0.93978107,Neu,0.0058648773,benzinga
+18573,2017-02-16 19:07:00,There Could Be Management Changes Or Divestitures At AIG After P&C Improvement Plan Miss   $AIG,0,1,1,0,0,0,0.014521936,0.68016666,0.30531153,Neg,-0.6656447,benzinga
+18595,2017-02-16 16:37:00,Couldn't Make It To Leerink's Global Healthcare Conference? Here Are The Highlights   $BIIB $CELG $FWP $GWPH $UHS,0,1,1,0,0,0,0.031294867,0.04053671,0.9281684,Neu,-0.009241842,benzinga
+18604,2017-02-16 15:30:00,"Ron Baron, Uber Tesla Bull, Thinks His Investment Will Quadruple By 2020   $TSLA",0,1,1,0,0,1,0.56334054,0.011594923,0.42506453,Pos,0.5517456,benzinga
+18626,2017-02-16 13:07:00,Who's The Boss? It Could Be This New ETF   $BOSS $NFLX $NVDA $STLD,0,1,1,0,0,0,0.030848583,0.026117828,0.9430336,Neu,0.0047307555,benzinga
+18686,2017-02-15 18:00:00,Uber Tesla Bull Ron Baron Thinks His Investment Will Quadruple In 3 Years   $TSLA,0,1,1,0,1,3,0.53172624,0.014233834,0.45403993,Pos,0.5174924,benzinga
+18697,2017-02-15 16:37:00,Could Kraft Heinz Deliver Double-Digit Earnings Growth This Year?   $KHC,0,0,1,0,0,0,0.92126614,0.00907049,0.069663316,Pos,0.9121956,benzinga
+18702,2017-02-15 16:00:00,Wayfair Should Hit $1 Billion In Sales During Q4   $AMZN $W,0,0,1,0,0,0,0.909279,0.01068031,0.08004065,Pos,0.8985987,benzinga
+18713,2017-02-15 14:37:03,Uber Tesla Bull Ron Baron Thinks His Investment Will Quadruple In 3 Years   $TSLA ,0,1,1,1,0,1,0.53172624,0.014233834,0.45403993,Pos,0.5174924,benzinga
+18740,2017-02-15 12:00:00,12 Stocks You Should Be Watching Today   $AIG $AMAT $BG $PEP $CSCO $HUN $FOSL $NTAP $CBS $GRPN $ESRX $MAR,0,1,1,0,1,0,0.1542563,0.01769861,0.8280451,Neu,0.13655768,benzinga
+18785,2017-02-14 18:37:00,How Can A Model Predict What A 'Drunken Psycho' Will Do?    fintech,0,0,1,0,2,0,0.029727995,0.08423428,0.8860377,Neu,-0.054506287,benzinga
+18811,2017-02-14 15:37:00,Will Home Depot Address NAFTA Negotiations On Its Q4 Conference Call?   $HD,0,0,1,0,0,0,0.040177803,0.016187463,0.94363475,Neu,0.02399034,benzinga
+18850,2017-02-13 23:30:00,Here's How You Can Learn Trading Strategies Used By Professional Traders  ,1,0,1,0,4,1,0.055934474,0.017323289,0.9267423,Neu,0.038611185,benzinga
+18908,2017-02-13 14:52:00,A Calendar Of All The National Food Days You Can Take Advantage Of   $DIN $DNKN $GIS $PZZA $YUM $UL,0,0,1,0,0,0,0.077929854,0.012838995,0.9092311,Neu,0.06509086,benzinga
+18911,2017-02-13 14:31:03,The Market In 5 Minutes: Hello... Can You Hear Me?   $SPY $USO $TEVA $SNY $AKS $HAS $MAT $REGN $JCP $WSM,0,0,1,0,0,1,0.11038236,0.02173271,0.86788493,Neu,0.08864965,benzinga
+18931,2017-02-13 12:00:00,7 Stocks You Should Be Watching Today   $FDC $FLO $HCP $TEVA $RCII $NSP $NBL,0,1,1,0,3,2,0.096301086,0.020272158,0.8834268,Neu,0.07602893,benzinga
+18935,2017-02-12 20:29:00,Shkreli Says He Would Short Immunomedics On This Bounce   $IMMU $SGEN,0,1,1,0,0,1,0.040746167,0.061627172,0.89762664,Neu,-0.020881005,benzinga
+18965,2017-02-10 21:12:00,Shkreli: I'd Short Immunomedics On The Bounce   $IMMU $SGEN,0,0,1,0,1,2,0.055919148,0.074011914,0.87006897,Neu,-0.018092766,benzinga
+19077,2017-02-09 18:52:00,Will Amazon Expand Into Brick And Mortar? Some Wall Street Analysts Are Saying Yes   $AMZN $DG $M,0,1,1,0,0,0,0.15573937,0.009807374,0.8344532,Neu,0.14593199,benzinga
+19079,2017-02-09 18:37:00,"While Sprint Investors Are On M&A Watch, Softbank Believes Carrier Can Be Profitable On Its Own   $S $TMUS",0,1,1,0,0,0,0.7502916,0.007279201,0.24242921,Pos,0.74301237,benzinga
+19144,2017-02-09 02:30:00,Facebook Shouldn't Be Scared Of Snapchat   $FB $TWTR,1,0,1,0,1,0,0.039986163,0.035770897,0.9242429,Neu,0.0042152666,benzinga
+19147,2017-02-09 01:00:00,Will Twitter's Chirp Resonate With Investors? A Q4 Earnings Preview   $TWTR,0,0,1,0,0,0,0.36891347,0.018547533,0.61253905,Neu,0.35036594,benzinga
+19151,2017-02-08 23:00:00,Martin Shkreli: I Would Buy Gilead Shares While They're Cheap   $GILD,0,1,1,1,0,1,0.05814033,0.016458819,0.92540085,Neu,0.041681513,benzinga
+19205,2017-02-08 16:15:00,"Back, Back, Back... How Can ESPN Buck The Downward Trend?   $DIS",0,0,1,0,1,0,0.08202726,0.3001651,0.6178076,Neu,-0.21813783,benzinga
+19206,2017-02-08 16:07:00,White Lace And Pepperoni: You Can Now Register Your Wedding With Domino's   $DPZ ,0,1,1,0,0,0,0.055966537,0.013091847,0.93094164,Neu,0.04287469,benzinga
+19215,2017-02-08 15:01:00,Martin Shkreli: I Would Buy Gilead Sciences Stock   $GILD,0,0,1,1,2,2,0.054009635,0.012874057,0.93311626,Neu,0.04113558,benzinga
+19220,2017-02-08 14:22:00,Facebook Shouldn't Be Scared Of Snapchat; Bank Of America Adds Stock To 'US 1' List   $FB $TWTR,1,0,1,0,1,2,0.27263677,0.020142687,0.70722055,Neu,0.2524941,benzinga
+19243,2017-02-08 11:52:00,12 Stocks You Should Be Watching Today   $ALK $BWLD $CTL $HUM $WFM $PRU $DIS $TWX $GILD $EXC $GT $MDLZ,0,1,1,0,3,2,0.119851105,0.017713998,0.8624349,Neu,0.1021371,benzinga
+19269,2017-02-07 20:37:00,"Will Viacom Sell Some Of Its 24 Networks To Reinvest In MTV, Paramount Films?   $DISCA $VIAB",0,0,1,0,0,0,0.08380248,0.010578842,0.90561867,Neu,0.073223636,benzinga
+19299,2017-02-07 16:52:00,A NVIDIA Q4 Earnings Preview: Upside Should Come From EPS Growth   $NVDA,0,0,1,0,0,1,0.6619534,0.04090249,0.29714414,Pos,0.6210509,benzinga
+19419,2017-02-06 13:23:00,Will Twitter's Move Into Live Events Impact Q4 Results?   $TWTR,0,0,1,0,0,1,0.021641448,0.09643634,0.88192225,Neu,-0.07479489,benzinga
+19461,2017-02-03 22:00:00,Should Investors Be Concerned That Amazon Didn't Disclose Prime Metrics?   $AMZN,1,0,1,1,0,3,0.051818796,0.04767203,0.90050924,Neu,0.004146766,benzinga
+19505,2017-02-03 15:07:00,Chipotle's 2017 Is 'Still A Stretch'   $CMG,0,0,1,0,0,0,0.116678715,0.55894864,0.32437265,Neg,-0.44226992,benzinga
+19528,2017-02-03 12:50:01,We'll be sure to provide video proof of this....  ,0,0,1,0,0,3,0.12474701,0.012285157,0.8629678,Neu,0.11246185,benzinga
+19535,2017-02-03 12:00:00,10 Stocks You Should Be Watching Today   $AMGN $AMZN $AN $HSY $GPRO $PSX $V $CLX $CSC $WY,0,1,1,0,3,1,0.11351968,0.014509982,0.8719704,Neu,0.0990097,benzinga
+19572,2017-02-02 19:15:00,2 Convincing Reasons Baird Thinks You Should Stick With Under Armour   $NKE $UAA,0,0,1,0,1,1,0.10165004,0.015293185,0.8830567,Neu,0.08635685,benzinga
+19593,2017-02-02 16:37:00,2 Convincing Reasons Baird Thinks You Should Stick With Under Armour   $NKE $UAA,0,0,1,0,1,2,0.10165004,0.015293185,0.8830567,Neu,0.08635685,benzinga
+19676,2017-02-01 19:37:00,Should Disney Be Concerned As Steve Jobs' Family Trims Stake By Half?   $DIS,1,0,1,0,1,0,0.04166069,0.59578687,0.36255231,Neg,-0.5541262,benzinga
+19697,2017-02-01 17:30:00,Trump's Executive Order On Entry: Which Countries Will Be Next?   $ACN $CTSH $IBM $INFY $MSFT TrumpBan,0,0,1,0,0,1,0.04802602,0.017096752,0.9348773,Neu,0.03092927,benzinga
+19717,2017-02-01 15:00:00,What Exactly Is A Trade War And Why Should You Be Concerned?   $AAPL $BA $WMT,1,1,1,0,0,0,0.03570048,0.045795966,0.9185035,Neu,-0.010095485,benzinga
+19770,2017-01-31 20:30:00,The Romance Between President Trump And Investors Could Be Fading   $DIA $SPY $VXX,0,1,1,0,0,0,0.026307357,0.8094594,0.16423328,Neg,-0.78315204,benzinga
+19779,2017-01-31 19:22:00,Trump's Executive Order On Entry: Which Countries Could Be Next?   $ACN $CTSH $IBM $MSFT $INFY TrumpBan,0,0,1,1,1,1,0.06183924,0.016051833,0.922109,Neu,0.04578741,benzinga
+19845,2017-01-31 12:00:03,15 Stocks You Should Be Watching Today   $AAPL $ABC $COH $LLY $PKG $EA $SANM $S  $XOM $PFE $DHR $MA $RGA $UPS $X,0,1,1,0,4,1,0.20406991,0.021682039,0.774248,Neu,0.18238787,benzinga
+19854,2017-01-30 22:00:00,"Want To Manage Your Portfolio Like A Hedge Fund? With Fintech, You Can Do It Yourself   BZAwards startups",0,0,1,0,0,1,0.04696819,0.015808977,0.9372228,Neu,0.031159215,benzinga
+19902,2017-01-30 15:30:00,Can Merck And Pfizer Beat Low Expectations?   $MRK $PFE,0,0,1,0,0,0,0.8475092,0.009050902,0.14343996,Pos,0.8384583,benzinga
+19951,2017-01-27 20:37:02,"Want To Manage Your Portfolio Like A Hedge Fund? With Fintech, You Can Do It Yourself  ",0,0,1,0,2,1,0.07579928,0.012881422,0.91131926,Neu,0.06291786,benzinga
+19973,2017-01-27 17:52:00,"Google CEO: The Very Concept Of The Device To Fade Away, We'll Move To An A.I.-First World   $GOOG $GOOGL",0,0,1,0,1,2,0.058077704,0.017893832,0.9240285,Neu,0.040183872,benzinga
+19976,2017-01-27 17:30:00,Will Investors Begin To Favor Ford Over GM In 2017?   $F $GM,0,0,1,0,0,2,0.132663,0.016090091,0.85124695,Neu,0.1165729,benzinga
+19979,2017-01-27 17:07:00,Potential Verizon-Charter Deal Would Test Merger-Friendliness Of New Administration   $CHTR $VZ,0,0,1,0,0,0,0.1044021,0.092144005,0.80345386,Neu,0.0122580975,benzinga
+20022,2017-01-27 12:00:00,10 Stocks You Should Be Watching Today   $AAL $CL $CVX $MSFT $GOOGL $HON $INTC $GD $SBUX $PYPL,0,1,1,0,9,3,0.121775255,0.018813888,0.8594109,Neu,0.10296137,benzinga
+20027,2017-01-27 00:30:00,The Potential 'Rip Your Face Off' Uranium Rally   $XOM $CCJ $UEC $URA $UUUU,0,0,1,0,3,7,0.1329307,0.037080154,0.82998914,Neu,0.09585054,benzinga
+20092,2017-01-26 15:15:00,5 Investing Resolutions Millennials Should Be Making In 2017   via ,0,1,1,0,1,1,0.112251885,0.012513941,0.87523425,Neu,0.09973794,benzinga
+20100,2017-01-26 14:22:00,The Potential 'Rip Your Face Off' Uranium Rally   $CCJ $UEC $URA $UUUU $XOM,0,0,1,0,0,0,0.1728986,0.025927708,0.8011737,Neu,0.1469709,benzinga
+20119,2017-01-26 12:30:00,Could Pharmacy Benefit Managers Be Trump's Next Target?   $CVS $ESRX $MYL $UNH PMB,0,0,1,0,0,0,0.041105777,0.016848167,0.94204605,Neu,0.02425761,benzinga
+20129,2017-01-26 01:30:00,Could Pharmacy Benefit Managers Be Trump's Next Target?   $CVS $ESRX $UNH $MYL,0,0,1,0,0,0,0.04828527,0.014869882,0.9368448,Neu,0.033415385,benzinga
+20161,2017-01-25 19:35:00,Could Pharmacy Benefit Managers Be Trump's Next Target?   $CVS $ESRX $MYL $UNH,0,0,1,0,0,0,0.047643226,0.015271857,0.9370849,Neu,0.03237137,benzinga
+20187,2017-01-25 16:15:00,GeoInvesting: Kandi Technologies 'Could Be In Serious Jeopardy'   $KNDI,0,1,1,0,0,0,0.01238857,0.93322206,0.054389406,Neg,-0.92083347,benzinga
+20190,2017-01-25 15:53:00,Here's What Forrest Gump And Lieutenant Dan's Apple Investment Could Be Worth Now   $AAPL,0,1,1,0,2,3,0.05070167,0.014255485,0.93504286,Neu,0.036446184,benzinga
+20281,2017-01-24 17:22:00,Stocks Could Remain Range-Bound Until Trump Policy Details Become Clearer   $AA $AET $JNJ $BABA $HUM $BA $SPY,0,0,1,0,0,0,0.07747498,0.1741329,0.7483921,Neu,-0.09665792,benzinga
+20298,2017-01-24 15:15:00,Old Tech Vs. New Tech: Which Will Be Better Investments For 2017?   $CSCO $FB $IBM $INTC $SWKS $MSFT $NVDA,0,0,1,0,0,0,0.24489674,0.012514272,0.742589,Neu,0.23238246,benzinga
+20330,2017-01-24 12:00:00,12 Stocks You Should Be Watching Today   $AA $BABA $COF $LMT $STX $ISRG $MMM $YHOO $JNJ $DFS $VZ $TXN,0,1,1,0,3,1,0.097489424,0.02472588,0.8777848,Neu,0.07276355,benzinga
+20373,2017-01-23 18:05:05,  Our listeners on Benzinga's PreMarket Prep Show would like to hear your outlook for the UK economy post-Brexit.,0,0,1,0,0,0,0.14376144,0.012029173,0.8442094,Neu,0.13173227,benzinga
+20374,2017-01-23 18:03:02, Our listeners on Benzinga's PreMarket Prep Show would like to hear your outlook for the US markets in 2017.,0,0,1,0,0,0,0.12815128,0.009223205,0.86262554,Neu,0.118928075,benzinga
+20424,2017-01-23 12:07:00,Will Skyworks Guidance Quell Fears Around Apple's iPhone Build Slowdown?   $AAPL $AVGO $SWKS,0,0,1,0,1,0,0.10161663,0.14360884,0.7547745,Neu,-0.04199221,benzinga
+20439,2017-01-20 20:43:05,What Exactly Went Wrong With Samsung's Failed Note 7? We Will Find Out Very Soon   $AAPL $SSNLF,0,0,1,0,0,1,0.021921061,0.36436477,0.6137141,Neu,-0.3424437,benzinga
+20449,2017-01-20 19:37:00,Will Skyworks Guidance Quell Fears Around Apple's iPhone Build Slowdown   $AAPL $AVGO $SWKS,0,0,1,0,0,0,0.17264481,0.14525867,0.6820965,Neu,0.027386144,benzinga
+20467,2017-01-20 17:37:00,Can IBM's Cloud Growth Outpace Declines In Its Core Business?   $IBM,0,0,1,0,0,2,0.25144285,0.049825896,0.69873124,Neu,0.20161696,benzinga
+20476,2017-01-20 16:30:00,15 Things We'll Miss About The Obama Administration    ThankYouObama,0,0,1,0,0,1,0.07284835,0.022715215,0.9044364,Neu,0.050133135,benzinga
+20477,2017-01-20 16:22:00,Will Netflix Be Drowned By The Content-On-Demand Wave It Helped Create?   $NFLX,1,0,1,0,1,0,0.03645707,0.06802237,0.89552057,Neu,-0.0315653,benzinga
+20520,2017-01-20 01:00:00,Can A Successful Investor-Turned-Politician Make Canada Wonderful? Kevin O'Leary Hopes So   SharkTank ,0,0,1,1,3,2,0.1350909,0.012515356,0.85239375,Neu,0.122575544,benzinga
+20525,2017-01-19 23:00:00,"Netflix's Studio Margins Will Be Eliminated, Thanks To More Original Self-Produced Content   $NFLX",1,0,1,0,0,0,0.17045866,0.031662624,0.79787874,Neu,0.13879603,benzinga
+20539,2017-01-19 20:19:04,Exclusive: Can A Successful Investor-Turned-Politician Make Canada 'Wonderful?' Our Q&A With   ,0,0,1,0,2,1,0.13969539,0.0095750755,0.8507295,Neu,0.13012032,benzinga
+20559,2017-01-19 17:37:00,15 Things We'll Miss About The Obama Administration  ,0,0,1,1,1,0,0.029603105,0.11377565,0.8566212,Neu,-0.08417255,benzinga
+20592,2017-01-19 13:37:00,"Netflix's Studio Margins Will Be Eliminated, Thanks To More Original Self-Produced Content   $NFLX",1,0,1,0,0,0,0.17045866,0.031662624,0.79787874,Neu,0.13879603,benzinga
+20611,2017-01-19 03:00:00,Martin Shkreli: Mallinckrodt 'Will Be Punished'   $MNK,0,0,1,0,0,2,0.03145562,0.78184676,0.18669766,Neg,-0.7503911,benzinga
+20624,2017-01-18 21:30:00,Martin Shkreli: Mallinckrodt Will Be Punished   $MNK,1,0,1,0,0,1,0.0344488,0.14360307,0.82194805,Neu,-0.10915427,benzinga
+20631,2017-01-18 20:45:00,Should Alphabet's Larry Page Build A Relationship With President-Elect Trump?   $GOOG $GOOGL,0,0,1,0,1,1,0.11558706,0.014630984,0.869782,Neu,0.10095608,benzinga
+20633,2017-01-18 20:30:00,Ahead Of The Report: Can Netflix's Original Content Still Buoy Subscriber Numbers?   $NFLX,0,0,1,0,0,1,0.731964,0.010654107,0.25738198,Pos,0.7213099,benzinga
+20637,2017-01-18 20:05:03, Our audience on Benzinga's PreMarket Prep Show would like to get your technical take on the US markets for 2017.,0,0,1,0,0,1,0.08692025,0.010694598,0.9023852,Neu,0.076225646,benzinga
+20640,2017-01-18 19:59:03, Our audience on Benzinga's PreMarket Prep Show would like to hear your macro outlook for the US markets in 2017?,0,0,1,1,0,0,0.0758333,0.014526712,0.90963995,Neu,0.06130659,benzinga
+20641,2017-01-18 19:56:01, Our audience on Benzinga's PreMarket Prep Show would like to hear your outlook for the markets in 2017.,0,0,1,0,0,0,0.1305953,0.009148415,0.86025625,Neu,0.12144688,benzinga
+20696,2017-01-18 13:24:00,Ahead Of The Report: Can Netflix's Original Content Still Buoy Subscriber Numbers?   $NFLX,0,0,1,0,0,0,0.731964,0.010654107,0.25738198,Pos,0.7213099,benzinga
+20710,2017-01-18 12:00:00,10 Stocks You Should Be Watching Today   $ADTN $C $FAST $GS $UAL $NFLX $SCHW $USB $HPE $KMI,0,1,1,0,0,0,0.112445876,0.01767481,0.8698793,Neu,0.094771065,benzinga
+20711,2017-01-18 02:30:00,Hedge Fund Expert Shares Top Trends For 2017: 'Fees Will Continue To Evolve'  ,0,0,1,0,0,3,0.34941572,0.022796314,0.62778807,Neu,0.32661942,benzinga
+20715,2017-01-18 00:30:00,You Can Now Access An ATM While Skiing   $CM,0,1,1,1,0,1,0.08080802,0.011433479,0.9077585,Neu,0.06937454,benzinga
+20717,2017-01-17 23:30:00,Will Short Sellers Stick With Nutanix?   $NTNX,0,0,1,0,0,1,0.050857384,0.018975828,0.93016684,Neu,0.031881556,benzinga
+20718,2017-01-17 23:00:00,"Goldman Sachs Calls Disney A Buy, 2018 Film Roster 'Might Be Best Ever'   $DIS",0,0,1,0,1,0,0.21790789,0.026045594,0.7560465,Neu,0.1918623,benzinga
+20740,2017-01-17 19:07:00,Should Facebook Investors Start Worrying About Snap's IPO?   $FB,0,1,1,0,0,1,0.03835371,0.15467611,0.8069701,Neu,-0.1163224,benzinga
+20749,2017-01-17 18:14:04, Our audience on Benzinga's PreMarket Prep Show would like hear about your approach to options trading.,0,0,1,0,0,0,0.08497022,0.011050537,0.90397924,Neu,0.07391968,benzinga
+20750,2017-01-17 18:10:01, Our audience on Benzinga's PreMarket Prep Show would like hear about your trading strategies.,0,0,1,1,1,2,0.08864466,0.010501463,0.9008539,Neu,0.078143194,benzinga
+20752,2017-01-17 18:00:05, Our audience on Benzinga's PreMarket Prep Show would like to hear about your approach to options trading.,0,0,1,1,0,0,0.101867765,0.010219905,0.8879123,Neu,0.09164786,benzinga
+20761,2017-01-17 17:00:00,Can GoPro Sustain Strong Holiday Sales Into 2017 After Karma Recall?   $GPRO,0,0,1,0,0,0,0.81550884,0.015129411,0.1693618,Pos,0.80037946,benzinga
+20769,2017-01-17 16:00:00,Hedge Fund Expert Shares Top Trends For 2017: 'Fees Will Continue To Evolve'   $BLK $DWIN $MNA $SPY $QQQ,0,0,1,0,0,0,0.1100219,0.02718573,0.86279243,Neu,0.082836166,benzinga
+20791,2017-01-17 13:22:00,"Goldman Calls Disney A Buy, 2018 Film Roster 'Might Be Best Ever'   $DIS",0,0,1,2,2,2,0.19035377,0.019353326,0.790293,Neu,0.17100044,benzinga
+20815,2017-01-16 16:17:03,"""We may have all come on different ships, but we're in the same boat now."" - Martin Luther King, Jr. MLKDAY  ",1,1,1,0,15,17,0.042879604,0.032370396,0.92475003,Neu,0.010509208,benzinga
+20848,2017-01-13 16:30:00,Should Traders Fear Friday The 13th?   $SPX $SPY friday13th,0,0,1,0,0,1,0.031855527,0.09952924,0.8686152,Neu,-0.06767371,benzinga
+20866,2017-01-13 14:37:00,A Netflix Earnings Preview: Q1 Guidance Will Be In Focus   $NFLX,0,0,1,0,2,1,0.03369703,0.036630895,0.9296721,Neu,-0.0029338636,benzinga
+20878,2017-01-13 13:07:00,"Raymond James Upgrades Facebook, Ad Revenue Should Be Strong This Year   $FB",0,0,1,0,3,4,0.93128073,0.010833109,0.057886217,Pos,0.92044765,benzinga
+20908,2017-01-12 20:55:01,You Can Now Book An Uber Directly In Google Maps   $GOOG $GOOGL,0,0,1,0,1,1,0.050598536,0.015168906,0.9342326,Neu,0.03542963,benzinga
+20911,2017-01-12 20:37:00,Will Apple Be The New HBO?   $AAPL $NFLX,0,0,1,0,3,1,0.056153495,0.011132653,0.9327138,Neu,0.04502084,benzinga
+20921,2017-01-12 19:54:00, Our audience on Benzinga's PreMarket Prep Show would like to hear your approach for trading options.,0,0,1,1,0,0,0.08627928,0.011059946,0.9026608,Neu,0.07521933,benzinga
+20922,2017-01-12 19:52:02, Our audience on Benzinga's PreMarket Prep Show would like to hear about the importance of psychology when trading the markets.,0,1,1,0,0,0,0.072206795,0.0129832355,0.91480994,Neu,0.05922356,benzinga
+20924,2017-01-12 19:48:00, Our audience on Benzinga's PreMarket Prep Show would like to hear your approach for proper risk-management.,0,0,1,0,0,0,0.14281377,0.008929137,0.8482571,Neu,0.13388464,benzinga
+20925,2017-01-12 19:46:03, Our audience on Benzinga's PreMarket Prep Show would like to hear your outlook for the US markets in 2017.,0,0,1,1,0,2,0.13357988,0.008964023,0.8574561,Neu,0.124615856,benzinga
+20927,2017-01-12 19:44:03, Our audience on Benzinga's PreMarket Prep Show would like to hear your outlook for the US markets for 2017.,0,0,1,0,0,0,0.12618394,0.0094393175,0.8643768,Neu,0.11674462,benzinga
+20928,2017-01-12 19:40:00, Our audience on Benzinga's PreMarket Prep Show would like to hear your outlook for the markets in 2017.,0,0,1,0,0,0,0.1305953,0.009148415,0.86025625,Neu,0.12144688,benzinga
+20931,2017-01-12 19:26:01, Our audience on Benzinga's PreMarket Prep Show would like to hear your outlook for the markets in 2017.,0,0,1,0,0,0,0.1305953,0.009148415,0.86025625,Neu,0.12144688,benzinga
+20932,2017-01-12 19:24:03, Our audience on Benzinga's PreMarket Prep Show would like to hear your approach for trading options.,0,0,1,1,0,1,0.08627928,0.011059946,0.9026608,Neu,0.07521933,benzinga
+20997,2017-01-12 11:52:02,5 Stocks You Should Be Watching Today   $AAOI $DAL $DRWI $KBH $SJR,0,1,1,0,2,0,0.11468337,0.023297327,0.8620193,Neu,0.09138604,benzinga
+21003,2017-01-11 23:30:00,Will Fintech Perish Or Prosper Under President Trump?   $AAPL $AMZN $FB fintechforgood,0,0,1,0,0,1,0.11847438,0.02258507,0.8589405,Neu,0.09588931,benzinga
+21027,2017-01-11 19:15:00,Will Fintech Perish Or Prosper Under President Trump?   $AAPL $AMZN $FB $SQ $GOOGL via ,0,0,1,0,0,0,0.08844176,0.034902494,0.8766557,Neu,0.053539265,benzinga
+21034,2017-01-11 18:22:00,Why Alibaba's 1 Million U.S. Jobs Pledge Shouldn't Be Taken At Face Value   $BABA,1,0,1,0,1,0,0.043111827,0.054151442,0.9027367,Neu,-0.011039615,benzinga
+21052,2017-01-11 16:15:00,3 Ways Software-As-A-Service Companies Can Dominate the Market in 2017   SaaS via ,0,1,1,0,0,0,0.511663,0.007826958,0.4805101,Pos,0.50383604,benzinga
+21083,2017-01-11 12:37:00,How You Should Approach The Move In EnteroMedics   $DRYS $ETRM,0,0,1,0,0,0,0.060332682,0.01698782,0.9226795,Neu,0.043344863,benzinga
+21092,2017-01-11 01:30:00,How You Should Approach The Move In EnteroMedics   $DRYS $ETRM,0,0,1,0,0,1,0.060332682,0.01698782,0.9226795,Neu,0.043344863,benzinga
+21108,2017-01-10 20:45:00,How You Should Approach The Move In EnteroMedics   $DRYS $ETRM,0,0,1,0,2,0,0.060332682,0.01698782,0.9226795,Neu,0.043344863,benzinga
+21122,2017-01-10 19:13:00, Our audience from Benzinga's PreMarket Prep Show would like to hear about your trading strategies.,0,0,1,0,0,1,0.1022179,0.010537079,0.887245,Neu,0.09168082,benzinga
+21126,2017-01-10 18:53:01, Our audience from Benzinga's PreMarket Prep Show would like to hear about your trading strategies.,0,0,1,0,0,0,0.1022179,0.010537079,0.887245,Neu,0.09168082,benzinga
+21128,2017-01-10 18:52:00, Our audience from Benzinga's PreMarket Prep Show would like to hear about your options trading strategies.,0,0,1,1,0,0,0.09540188,0.010867755,0.8937304,Neu,0.08453413,benzinga
+21187,2017-01-10 12:14:01,7 Stocks You Should Be Watching Today   $APOL $AYI $CMC $WDFC $FRSH $SNX $SHLM,0,1,1,0,0,0,0.08679388,0.022569977,0.89063615,Neu,0.0642239,benzinga
+21205,2017-01-09 18:47:01, Our audience from Benzinga's PreMarket Prep Show would like to hear your take on the emerging markets for 2017.,0,1,1,0,0,0,0.11393086,0.009612329,0.87645674,Neu,0.10431853,benzinga
+21206,2017-01-09 18:44:00, Our audience from Benzinga's PreMarket Prep Show would like to hear your take on the US markets for 2017.,0,0,1,0,0,0,0.107850805,0.009567072,0.8825821,Neu,0.09828373,benzinga
+21208,2017-01-09 18:41:01, Our audience from Benzinga's PreMarket Prep Show would like to hear your forecast for the Chinese markets in 2017.,0,0,1,0,0,0,0.12379687,0.009740622,0.86646247,Neu,0.11405625,benzinga
+21245,2017-01-09 14:12:01,Nautilus Downgraded; Long-Term Growth Goals Will Be Challenging In 2017   $NLS,0,1,1,0,0,1,0.25470355,0.6947558,0.050540663,Neg,-0.44005224,benzinga
+21246,2017-01-09 14:10:04,"Ford Bronco coming back in 2020. Along with Ranger, will be built in Michigan. naias",1,1,1,0,0,2,0.07718871,0.011682832,0.9111285,Neu,0.06550588,benzinga
+21288,2017-01-06 18:45:00,Should Apple And Samsung Be Worried About This Chinese Smartphone Maker?   $AAPL $AMZN $BBY,1,0,1,0,1,0,0.07402844,0.11046397,0.8155076,Neu,-0.03643553,benzinga
+21331,2017-01-06 13:45:00,CBS Investors Look To 2018; This Year Will Be A Transition Year   $CBS,0,0,1,0,0,0,0.19915731,0.017273797,0.78356886,Neu,0.18188351,benzinga
+21363,2017-01-05 19:37:00,Worried About Tesla's Gigafactory? You Should Be   $TSLA,1,0,1,0,0,1,0.042404436,0.06019658,0.89739895,Neu,-0.017792143,benzinga
+21373,2017-01-05 18:23:00,"Kohl's Comps: We Knew They'd Be Bad, But Not This Bad   $KSS $UAA",1,0,1,0,1,0,0.13728058,0.70682657,0.15589286,Neg,-0.569546,benzinga
+21380,2017-01-05 17:37:00,Macy's CEO: Company Can 'Win As We Have In Prior Setbacks'   $M,0,1,1,0,1,1,0.04884614,0.73502517,0.21612868,Neg,-0.68617904,benzinga
+21393,2017-01-05 16:00:00,It's Looking More And More Likely Twilio Will Be Profitable By Year-End   $TWLO,0,1,1,0,0,0,0.74143,0.0097662145,0.24880376,Pos,0.73166376,benzinga
+21429,2017-01-05 12:04:01,8 Stocks You Should Be Watching Today   $HELE $MG $MON $WBA $SONC $RPM $STZ $PSMT,0,1,1,0,0,0,0.10557818,0.01442233,0.87999946,Neu,0.09115585,benzinga
+21454,2017-01-04 19:37:00,Will Walgreens Start The New Year Off Strong?   $CVS $FRED $RAD $WBA,0,0,1,0,0,0,0.7120248,0.024689086,0.26328608,Pos,0.6873357,benzinga
+21491,2017-01-04 15:44:05,Trump Spokesman Says Trump To Announce Today That He Will Name Jay Clayton To Head SEC $SPY,0,1,1,0,1,1,0.035833858,0.01780726,0.94635886,Neu,0.018026598,benzinga
+21497,2017-01-04 15:00:00,2017 Will Be A Turning Point For How Banks Deal With The Marijuana Industry  ,0,0,1,0,0,3,0.257119,0.015541377,0.7273396,Neu,0.24157763,benzinga
+21535,2017-01-03 21:15:00,2017 Will Be A Turning Point For How Banks Deal With The Marijuana Industry  ,0,0,1,0,2,1,0.257119,0.015541377,0.7273396,Neu,0.24157763,benzinga
+21629,2017-01-02 18:50:00,Should You Be Buying 2016 Market Leaders Or Laggards Heading Into 2017?   $AMZN $ATVI $CHK $NFLX $NVDA $HRL $SWN $SPY,0,1,1,0,0,0,0.0633016,0.026178053,0.9105204,Neu,0.037123546,benzinga
+21632,2017-01-02 17:55:00,January Will Feature Some Of The Market's Most Influential Events   CES NAIAS JPM17,0,0,1,0,5,2,0.083750345,0.017012095,0.8992376,Neu,0.06673825,benzinga

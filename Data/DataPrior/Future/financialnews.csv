@@ -1,0 +1,565 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+23,2018-03-29 16:26:02,Companies House must do more to stop money laundering  ,0,0,1,0,0,1,0.06676796,0.13451368,0.79871833,Neu,-0.067745715,financialnews
+37,2018-03-29 08:29:04,Crypto crash? What crypto crash? Bitcoin’s swoon will not challenge these enthusiasts' faith that the future of money is digital  ,0,1,1,0,0,0,0.07020376,0.05253539,0.87726086,Neu,0.01766837,financialnews
+50,2018-03-28 10:37:01,Real estate players say the sale of 23 Savile Row will be a litmus test for London's prime office market    ,0,1,1,0,0,0,0.41345042,0.016205529,0.5703441,Neu,0.3972449,financialnews
+54,2018-03-28 10:34:01,"To tackle gender imbalances at work, we can’t ignore them at home, writes  Vicky Wallis  ",0,1,1,0,0,0,0.095123395,0.47507763,0.429799,Neg,-0.37995422,financialnews
+57,2018-03-28 08:08:04,"To tackle gender imbalances at work, we can’t ignore them at home - The current situation doesn't suit women, but neither does it work for men  ",0,1,1,0,1,0,0.060193453,0.29487497,0.64493155,Neu,-0.23468152,financialnews
+63,2018-03-28 07:36:04,"To tackle gender imbalances at work, we can’t ignore them at home, writes an HR exec   ",0,1,1,0,0,0,0.12969288,0.5417317,0.3285754,Neg,-0.41203883,financialnews
+71,2018-03-27 11:32:03,. on why  may have to look closer to home for its next CEO  ,0,0,1,0,1,1,0.102029264,0.019966584,0.87800413,Neu,0.08206268,financialnews
+98,2018-03-26 07:12:05,"Time has come for pension consolidation (but it will be a long trek), writes   ",1,1,1,0,0,0,0.105530955,0.0324943,0.8619747,Neu,0.073036656,financialnews
+106,2018-03-23 12:40:03,"Blankfein: I will have to leave, but I don’t want to go  ",0,1,1,0,0,1,0.03242278,0.5019126,0.46566465,Neg,-0.4694898,financialnews
+109,2018-03-23 10:02:00,"On the eve of EU data protection rules, fund managers using AI are warned they could find themselves embroiled in scandal CambridgeAnalytica  ",1,1,1,0,2,0,0.009129197,0.9324404,0.05843041,Neg,-0.9233112,financialnews
+127,2018-03-22 10:10:04,"It is the actions of investors and sponsors that drive real change — now they must act on the latest problem facing American society, writes   ",0,1,1,0,1,1,0.10738157,0.021900391,0.870718,Neu,0.085481174,financialnews
+140,2018-03-21 12:08:04,How low can  go? ETF price war deepens as French manager cuts fees on 16 funds  ,0,1,1,0,0,1,0.015362373,0.95616114,0.028476525,Neg,-0.94079876,financialnews
+146,2018-03-21 10:11:00,. finds UK fund managers worry Brexit deal will exclude financial services  ,0,1,1,0,0,0,0.009989925,0.957481,0.03252911,Neg,-0.9474911,financialnews
+152,2018-03-21 08:50:05,"UK fund managers worry Brexit deal will exclude financial services,  survey finds   ",0,1,1,0,0,0,0.018470874,0.83396924,0.14755996,Neg,-0.81549835,financialnews
+165,2018-03-20 07:19:05,Can you tell one top Goldman Sachs executive from the others? Answers can be found here   —   ,1,0,1,0,1,0,0.03284201,0.02858983,0.9385682,Neu,0.0042521805,financialnews
+207,2018-03-16 09:12:00,UK rental market must learn from Germany Mipim Mipim2018  ,0,0,1,0,0,0,0.070118845,0.012331824,0.9175494,Neu,0.05778702,financialnews
+216,2018-03-16 07:52:00,UK rental market must learn from Germany - a lesson from  MIPIM mipim2018  ,0,0,1,0,0,0,0.1943578,0.012104244,0.793538,Neu,0.18225355,financialnews
+240,2018-03-15 07:34:00,You can find all of our coverage on the leadership story unfolding at  here    ,0,0,1,0,0,0,0.047267895,0.016214741,0.93651736,Neu,0.031053154,financialnews
+242,2018-03-14 13:38:03,"Demerged Prudential M&G could rival Standard Life Aberdeen, writes   ",1,1,1,0,0,0,0.27409476,0.009286105,0.7166192,Neu,0.26480865,financialnews
+249,2018-03-14 09:15:02,"Brexit talks will get worse before getting better, warns  exec at MIPIM2018  ",0,1,1,0,1,1,0.01868724,0.86840576,0.11290694,Neg,-0.8497185,financialnews
+254,2018-03-14 08:03:05,"Brexit talks will get worse before getting better, warns property boss  ",0,1,1,0,0,1,0.023840101,0.8233688,0.15279102,Neg,-0.79952866,financialnews
+267,2018-03-13 11:18:03,How western and Islamic finance can learn from each other  ,0,0,1,0,0,0,0.16575272,0.010035625,0.8242116,Neu,0.1557171,financialnews
+324,2018-03-08 15:32:03,. would not give City ‘special privileges’ in Brexit talks  ,0,1,1,0,0,0,0.046113145,0.032936614,0.92095023,Neu,0.013176531,financialnews
+326,2018-03-08 15:16:03,Former Bank of England economist warns QE may never end    ,0,0,1,0,0,0,0.07834876,0.66994774,0.2517035,Neg,-0.591599,financialnews
+327,2018-03-08 13:59:02,"Labour would not give City ‘special privileges’ in Brexit talks, says   ",0,1,1,0,0,0,0.06429276,0.070691384,0.86501586,Neu,-0.0063986257,financialnews
+331,2018-03-08 12:04:05,It's boom time for privateequity — but Carlyle's co-founder David Rubenstein is among those asking how long the good times can last   via  ,0,1,1,0,1,2,0.122566946,0.01775368,0.8596794,Neu,0.10481326,financialnews
+332,2018-03-08 12:03:05,"UK asset managers will get their first look at a new industry standard for fees and costs disclosure within a few weeks, according to the chair of  taskforce  ",0,1,1,0,1,2,0.07444265,0.013625671,0.9119317,Neu,0.060816977,financialnews
+337,2018-03-08 08:22:01,How long can the privateequity party go on?   via  ,0,0,1,0,2,1,0.027224207,0.053897597,0.9188782,Neu,-0.02667339,financialnews
+355,2018-03-07 09:35:00,Hammond says free trade deal must include financial services after Brexit despite  saying to the contrary...   ,0,1,1,0,0,0,0.20782006,0.011913173,0.78026676,Neu,0.19590688,financialnews
+363,2018-03-07 08:35:01,Hammond says free trade deal must include financial services.. in the face of mounting EU opposition  ,0,1,1,0,0,0,0.6150454,0.043516096,0.34143844,Pos,0.5715293,financialnews
+364,2018-03-07 08:27:03,What the City gender pay gap numbers don’t tell you - but    will  ,0,1,1,0,0,0,0.029165447,0.062379584,0.908455,Neu,-0.033214137,financialnews
+370,2018-03-07 07:20:03,. says free trade agreement must include financial services Brexit  ,0,1,1,0,2,0,0.064944595,0.015165381,0.91989005,Neu,0.049779214,financialnews
+381,2018-03-06 09:00:02,"Blockchain is a slow, energy-inefficient dinosaur that will never be able to process transactions as quickly or inexpensively as an Excel spreadsheet, write  and   ",0,1,1,0,0,0,0.03694345,0.07732036,0.88573617,Neu,-0.04037691,financialnews
+387,2018-03-06 07:30:01,"'Banks will get burned': Fixed income hiring rises again, write  and   ",1,0,1,0,4,1,0.04922687,0.7063483,0.2444249,Neg,-0.6571214,financialnews
+389,2018-03-05 15:45:00,Bank of America Merrill Lynch will not replace top equity capital markets banker Craig Coben...  ,0,1,1,0,0,3,0.036119796,0.079224765,0.8846554,Neu,-0.04310497,financialnews
+397,2018-03-05 14:22:00,"Bank of America will not replace top equity capital markets banker, writes   ",0,0,1,0,1,1,0.03416827,0.082383506,0.88344824,Neu,-0.048215237,financialnews
+437,2018-03-01 15:33:04,"It's now clear that last year's unusually low financial and economic volatility is over, which should concern everyone — not just those who hold stocks  ",0,1,1,0,0,0,0.1945475,0.32108974,0.48436272,Neu,-0.12654224,financialnews
+446,2018-03-01 12:18:03,. granted permission to appeal a ruling that it may be liable for the assaults of a medical doctor it engaged between 1968 and 1984  ,1,0,1,0,0,0,0.11407968,0.767306,0.11861428,Neg,-0.6532264,financialnews
+448,2018-03-01 11:38:04,. says Irish border deal will shape its Brexit plans  ,0,1,1,0,1,0,0.17030983,0.03543564,0.79425454,Neu,0.1348742,financialnews
+454,2018-03-01 07:56:00,"Barclays told it can contest 126 historic claims of sexual assault, writes   ",1,0,1,0,1,0,0.14676666,0.08977413,0.7634592,Neu,0.05699253,financialnews
+458,2018-02-28 11:21:00,Many blockchains will end up on the scrapheap -  the view from the CTO at   ,0,0,1,0,0,0,0.0369706,0.057189584,0.90583986,Neu,-0.020218983,financialnews
+478,2018-02-26 17:27:05,"Why you should be thankful for bitcoin, even if you think it’s a scam   via ",0,1,1,0,0,1,0.07724451,0.03422031,0.88853514,Neu,0.0430242,financialnews
+480,2018-02-26 15:47:04,Maintaining confidence in senior manager rules must come before any commercial issues facing  says   ,0,1,1,0,0,0,0.12847261,0.0155964615,0.85593086,Neu,0.11287615,financialnews
+482,2018-02-26 15:46:02,German MEP  says EU must ‘lead the way’ on crypto regulation  ,0,1,1,0,0,0,0.18057065,0.031847242,0.7875821,Neu,0.14872341,financialnews
+483,2018-02-26 15:45:00,German MEP says Europe must ‘lead the way’ on cryptocurrency regulation  ,0,1,1,0,0,0,0.2581152,0.016708223,0.7251765,Neu,0.24140698,financialnews
+484,2018-02-26 14:11:00,. will consult on plans to cut register of City workers  ,0,0,1,0,0,0,0.009578495,0.9366605,0.053760964,Neg,-0.92708206,financialnews
+488,2018-02-26 11:38:02,'When several senior compliance people leave an organisation in close succession it can be a flag for regulators and is something they might want to look into'  ,0,1,1,0,1,0,0.026234154,0.17655964,0.7972062,Neu,-0.15032549,financialnews
+491,2018-02-26 10:40:04,"The FCA must not give Jes Staley an easy ride over attempting to unmask a whistle-blower, says     ",0,1,1,0,0,0,0.054385144,0.27638367,0.66923124,Neu,-0.22199853,financialnews
+494,2018-02-26 10:29:00,"Anger over Standard Life Aberdeen’s 569% bonus to co-CEO... ""The maximum multiples of salary that can be awarded under the Standard Life Aberdeen bonus policy seem very difficult to justify...""   ",1,1,1,0,0,0,0.009538318,0.95573497,0.034726746,Neg,-0.9461967,financialnews
+497,2018-02-26 09:58:04,"'I knew every day I was breaking the rules. We know we should stop, but stopping means confessing and admitting you are doing something wrong,' Nick Leeson told   ",1,1,1,0,0,0,0.034231547,0.7532864,0.21248202,Neg,-0.7190549,financialnews
+503,2018-02-26 07:29:00,". must not give Jes Staley an easy ride, says   ",0,1,1,0,0,0,0.06693194,0.077401966,0.8556661,Neu,-0.010470025,financialnews
+505,2018-02-23 15:45:05,. warns that staff will soon be unable to have personal orders from companies like  delivered directly to the office  ,1,0,1,0,0,0,0.010982735,0.9441454,0.04487185,Neg,-0.9331626,financialnews
+519,2018-02-23 09:17:03,"Big tech must pitch in on social infrastructure, writes Allianz GI CIO Karl Happe  ",0,1,1,0,2,1,0.68486357,0.008501002,0.3066355,Pos,0.6763626,financialnews
+528,2018-02-22 15:51:04,"""I wouldn't hire you lot to do an audit of the contents of my fridge,"" MP  tells KPMG exec during Carillion probe  ",0,1,1,0,0,0,0.0399365,0.040990323,0.91907316,Neu,-0.0010538213,financialnews
+553,2018-02-21 11:21:03,Infrastructure funds defy Corbyn — but investors should be wary  ,0,1,1,0,1,1,0.14003804,0.056844126,0.8031179,Neu,0.08319391,financialnews
+554,2018-02-21 11:21:00,"The cost of the transition from the scandal-tainted Libor to new rates could be on a par with Y2K, Mifid II and the introduction of the euro, says   ",0,1,1,1,1,0,0.2598662,0.076914296,0.66321945,Neu,0.18295191,financialnews
+557,2018-02-21 07:41:05,. Switch from Libor could cost some banks $200m  ,0,0,1,0,2,3,0.033554964,0.8079758,0.15846923,Neg,-0.77442086,financialnews
+560,2018-02-21 07:40:00,Nick Leeson slams FCA over delay to Barclays whistleblowing verdict: 'In the US this would have already been dealt with and somebody would have been punished by now'    ,1,1,1,0,4,3,0.013389054,0.93889445,0.047716554,Neg,-0.9255054,financialnews
+585,2018-02-19 12:13:00,"Pound will be worth less than euro, says Europe’s largest fund manager   ",0,1,1,1,3,3,0.050519157,0.3077272,0.64175373,Neu,-0.25720802,financialnews
+587,2018-02-19 10:59:01,. to draft a five-year plan on how the Church can broaden its appeal to Christian financial services executives  ,0,0,1,0,0,0,0.7501853,0.0070608635,0.24275383,Pos,0.7431244,financialnews
+608,2018-02-16 08:44:03,Esma and  have moved to quash rumours they could scrap restrictions on so-called dark trading   MiFIDII,1,1,1,0,2,0,0.27429652,0.13340455,0.5922989,Neu,0.14089197,financialnews
+623,2018-02-15 09:46:01,Megafunds will prompt rethink to private equity dealmaking —  ,0,1,1,0,0,0,0.2250552,0.025064692,0.7498802,Neu,0.19999051,financialnews
+645,2018-02-14 10:57:03,The ICO market needs to mature before it can challenge the traditional forms of funding — but a hybrid model might be a better option for everyone   ,0,1,1,0,0,0,0.37674177,0.008616519,0.6146417,Neu,0.36812526,financialnews
+647,2018-02-14 08:47:05,"Why initial coin offerings will not replace venture capital for startups, writes   ",0,0,1,0,0,0,0.06166903,0.017187431,0.92114353,Neu,0.044481598,financialnews
+651,2018-02-14 07:09:00,Why initial coin offerings will not replace venture capital for startups  ,0,0,1,0,0,0,0.049845953,0.018911067,0.931243,Neu,0.030934885,financialnews
+655,2018-02-13 16:27:00,"Allegations about the erosion of UK corporate governance are over the top and London could do with some help — so stop complaining about the Aramco IPO, writes   ",0,1,1,0,0,0,0.07331987,0.5081949,0.41848522,Neg,-0.43487507,financialnews
+656,2018-02-13 16:25:03,Can emojis help fund managers with risk management after political elections?  thinks they can...    ,0,0,1,1,1,0,0.26024032,0.014068942,0.7256907,Neu,0.24617137,financialnews
+658,2018-02-13 16:20:02,ICYMI — An audience with  Emea boss Jim Cowles: ‘Brexit will cost us’    ,0,0,1,0,0,0,0.11352869,0.3887041,0.4977672,Neu,-0.2751754,financialnews
+664,2018-02-13 11:36:03,"Allegations about the erosion of UK corporate governance are over the top and London could do with some help, writes  on the Aramco IPO  ",0,1,1,0,0,0,0.07815115,0.14106517,0.7807837,Neu,-0.062914014,financialnews
+669,2018-02-13 09:45:02,Should you send your colleague a Valentine’s card? FN journalists  and  argue for and against the idea of expressing romantic interest in the office  ,0,1,1,0,5,1,0.037141938,0.071655184,0.8912029,Neu,-0.034513246,financialnews
+674,2018-02-13 07:01:02,The Careerologist: Should I take a job for which I was second pick?  ,1,0,1,0,1,0,0.04918266,0.036593746,0.91422355,Neu,0.0125889145,financialnews
+693,2018-02-09 14:37:03,Vanguard chief economist says bitcoin could fall to zero — via   ,0,1,1,0,0,0,0.018829552,0.9600997,0.021070778,Neg,-0.9412702,financialnews
+703,2018-02-09 08:29:05,Should you buy bitcoin?  has some thoughts on the cryptocurrency  ,0,1,1,0,0,1,0.043108035,0.018560128,0.93833184,Neu,0.024547907,financialnews
+716,2018-02-08 09:38:00,"If private equity firms think they can fly under the radars of cybercriminals, they are grossly underestimating their appeal  ",0,1,1,0,5,2,0.015805075,0.8981386,0.086056426,Neg,-0.8823335,financialnews
+735,2018-02-06 17:41:04,"'My view is that if you are in markets, sit through it and you will be OK' — The views of Janus Henderson's co-CEO Andrew Formica and more can be found here...  ",1,1,1,0,0,0,0.039739177,0.018986708,0.94127417,Neu,0.02075247,financialnews
+741,2018-02-06 14:16:01,. co-founder responds to what a fund manger had to say about fintech   and here's where you can read the  exec's comments  ,1,1,1,0,0,0,0.03927759,0.0205578,0.94016457,Neu,0.01871979,financialnews
+748,2018-02-06 10:58:00,BIS: Central banks must be ready to act on bitcoin   via ,0,0,1,1,0,0,0.09630974,0.020077612,0.8836126,Neu,0.07623212,financialnews
+763,2018-02-05 09:33:02,"Kweku Adoboli tells  “The more senior you are, the more protection you get... The lawyers will protect from the top down.""  ",0,1,1,0,4,1,0.18045597,0.01418885,0.8053552,Neu,0.16626711,financialnews
+775,2018-02-02 17:06:01,"With losses continuing despite investing in talent, observers ask how long  can resist calls for fresh restructuring, writes   ",0,1,1,0,2,0,0.10210711,0.55450183,0.34339106,Neg,-0.45239472,financialnews
+798,2018-02-01 08:57:02,Banking careers could be ruined without a fair appeals process - a look at the Senior Managers Regime  ,1,0,1,0,0,0,0.026461115,0.4856787,0.48786014,Neu,-0.45921758,financialnews
+812,2018-01-31 13:14:04,"UK’s national pension fund to invest in commodities —  which could change the minds of others, writes   ",1,0,1,0,1,0,0.07846615,0.3089024,0.6126314,Neu,-0.23043627,financialnews
+820,2018-01-31 08:03:02,Britain should follow the Swiss model for Brexit...   via ,0,0,1,0,0,0,0.122178674,0.009995701,0.8678256,Neu,0.112182975,financialnews
+821,2018-01-31 08:01:00,"If BlackRock can’t short Carillion, it can’t short anything, says   ",0,1,1,0,5,1,0.037815068,0.031797644,0.93038726,Neu,0.006017424,financialnews
+833,2018-01-30 09:42:03,City’s status ‘could be severely eroded’ in any Brexit scenario  ,1,0,1,0,0,0,0.04544202,0.9187401,0.0358179,Neg,-0.87329805,financialnews
+846,2018-01-29 11:20:00,"'In a good year, an average performer would have got a small bonus. Now, doughnuts [zero bonuses] are much more prevalent.'  ",1,1,1,0,0,0,0.08743237,0.23824586,0.6743218,Neu,-0.15081349,financialnews
+862,2018-01-26 14:20:00,Organisers of MIPIM will increase communication with delegates over code of conduct following Presidents Club revelations  ,0,1,1,0,0,0,0.4832001,0.010254,0.50654584,Neu,0.4729461,financialnews
+864,2018-01-26 12:53:05,The Canadian PM won friends at Davos18 with a practical message on gender equality as London was rocked by scandal. Will Trump strike the right note? asks   ,1,0,1,0,2,2,0.26288283,0.035812967,0.7013042,Neu,0.22706985,financialnews
+871,2018-01-26 10:33:03,Blankfein says Goldman’s Brexit plans will soon be irreversible  ,1,1,1,0,0,0,0.017202266,0.84380955,0.13898809,Neg,-0.8266073,financialnews
+888,2018-01-25 12:13:05,. chief Dimon: Macron may have averted Brexit  ,1,0,1,0,0,0,0.25308397,0.22961907,0.5172969,Neu,0.023464903,financialnews
+902,2018-01-24 15:58:00,"Mifid II: Now regulators must deliver what they promised, writes  CEO   ",1,1,1,0,0,1,0.09479486,0.0367088,0.8684963,Neu,0.058086064,financialnews
+909,2018-01-24 10:26:04,What will it take to break London’s Omertà?  asks the men at the top of business    ,1,1,1,0,0,0,0.041424133,0.053877387,0.9046985,Neu,-0.012453254,financialnews
+919,2018-01-23 16:20:01,"There are more heads of state in attendance this year than any WEF18 Davos18 meeting I can recall — bad news for Davos traffic, writes M&G boss   ",0,1,1,0,1,0,0.01507298,0.94864136,0.036285635,Neg,-0.93356836,financialnews
+927,2018-01-23 11:46:00,"A year after May’s Davos speech, City still open for business -  what will she say this week?   ",1,0,1,0,0,0,0.035222832,0.03580732,0.92896986,Neu,-0.0005844869,financialnews
+951,2018-01-22 08:40:01,An audience with  ‘Brexit can be stopped’    ,1,0,1,0,0,1,0.08075166,0.35102132,0.56822705,Neu,-0.27026966,financialnews
+961,2018-01-19 11:26:00,"Not only could we lose many thousands of jobs over the next decade, in the long term we will have to fight even harder to remain a global leader, writes    Brexit",0,1,1,0,0,0,0.01649703,0.9436569,0.03984607,Neg,-0.9271599,financialnews
+969,2018-01-19 08:09:03,City Hall: We must keep access to the single market   by   ,0,0,1,0,2,1,0.09514455,0.012843368,0.89201206,Neu,0.08230118,financialnews
+990,2018-01-17 15:08:02,The Careerologist: How can I take a sabbatical? Advice from  ... who is on a sabbatical   via ,0,1,1,0,0,0,0.031801473,0.06463052,0.903568,Neu,-0.03282905,financialnews
+1008,2018-01-17 08:01:05,Banks can once again be fortresses — this time in the cyber world  ,0,0,1,0,0,1,0.08451442,0.040809467,0.87467605,Neu,0.04370495,financialnews
+1013,2018-01-16 16:13:05,Norway's $1tn SWF could be ‘world-class’ private equity investor  ,0,0,1,0,1,0,0.21941449,0.009170702,0.77141476,Neu,0.21024379,financialnews
+1018,2018-01-16 12:10:05,At  'MD is the one rank where being slimy or obsequious will do you no good at all'  ,0,1,1,0,0,1,0.03469461,0.09856816,0.86673725,Neu,-0.063873544,financialnews
+1023,2018-01-16 10:30:02,$1trn Norway fund could be ‘world-class’ private equity investor  ,0,0,1,0,0,1,0.14903611,0.010075681,0.8408882,Neu,0.13896042,financialnews
+1025,2018-01-16 09:41:02,How Britain could still change its mind about Brexit   by ,0,0,1,0,0,0,0.11384555,0.06399481,0.8221596,Neu,0.04985074,financialnews
+1026,2018-01-16 09:18:02,. on five big currency bets hedge funds will make in 2018 FX hedgefunds  ,0,1,1,0,1,1,0.067677565,0.01390062,0.91842186,Neu,0.053776946,financialnews
+1029,2018-01-16 07:59:05,The Careerologist: How can I take a sabbatical?  ,0,0,1,0,0,0,0.025046695,0.21334961,0.7616037,Neu,-0.18830292,financialnews
+1041,2018-01-15 11:07:04,'We are a listed company and we would look at any proposal seriously. We have a duty to.'  vice chairman tells   ,1,1,1,0,0,1,0.039847806,0.020780904,0.9393713,Neu,0.019066902,financialnews
+1046,2018-01-15 09:32:00,An audience with Edward Bonham Carter: Will  be sold?  ,1,0,1,0,0,0,0.07039628,0.017167827,0.9124359,Neu,0.053228453,financialnews
+1054,2018-01-12 17:57:03,. CEO predicts tide will turn for stock-picking team  ,0,1,1,0,1,0,0.40742806,0.04782455,0.5447474,Neu,0.3596035,financialnews
+1061,2018-01-12 11:03:00,"The bond market just issued a wake-up call — investors should take heed, writes  Nick Gartside  ",1,1,1,0,0,0,0.5096434,0.035638634,0.45471802,Pos,0.47400475,financialnews
+1062,2018-01-12 10:28:04,Jim O’Neill: Global economy will remain resilient  ,0,0,1,0,0,0,0.91433334,0.013195329,0.07247139,Pos,0.901138,financialnews
+1065,2018-01-12 08:57:00,"Global economy will remain resilient, says Jim O'Neill  ",0,1,1,0,0,0,0.9230535,0.023600737,0.053345717,Pos,0.89945275,financialnews
+1074,2018-01-11 11:36:03,"It should come as no surprise that regulators are turning their gaze on the asset management industry, says  partner Lesley Hannah  ",0,1,1,0,0,0,0.058530234,0.0479362,0.89353365,Neu,0.010594033,financialnews
+1076,2018-01-11 10:59:00,Warren Buffet: Bitcoin will ‘come to a bad ending’   via ,0,1,1,0,1,0,0.022546966,0.8988292,0.07862375,Neg,-0.8762823,financialnews
+1077,2018-01-11 10:22:05,. Financial services could lose billions from bad Brexit  ,0,0,1,0,1,0,0.010652916,0.9597267,0.029620422,Neg,-0.9490738,financialnews
+1082,2018-01-11 08:42:00,Asset management must prepare for more investigations   says  partner Lesley Hannah  ,0,1,1,0,0,1,0.09343136,0.04277016,0.8637985,Neu,0.050661203,financialnews
+1084,2018-01-10 16:05:01,"We're delighted to welcome  into the FN family today. He'll be leading our investment banking coverage — and contributing the odd people move too, we're sure.",1,1,1,0,5,4,0.40935823,0.011483638,0.5791581,Neu,0.3978746,financialnews
+1093,2018-01-10 10:17:03,Here’s what Bill Miller thinks could trigger a 30% market melt-up — via   ,0,1,1,0,1,0,0.03164476,0.23496296,0.73339224,Neu,-0.2033182,financialnews
+1103,2018-01-09 15:41:02,"Highly-rated research teams are broadly positive on the world economy, but warn the party may be nearly over, writes   ",0,1,1,0,0,0,0.09032549,0.87974656,0.029927842,Neg,-0.7894211,financialnews
+1110,2018-01-09 11:22:05,Private equity deals may get bigger and bolder in 2018  ,0,0,1,0,4,2,0.6771531,0.011245949,0.31160095,Pos,0.66590714,financialnews
+1111,2018-01-09 09:32:01,Private equity deals may get bigger and bolder in 2018   via  ,0,0,1,0,1,0,0.76367897,0.01097118,0.22534981,Pos,0.7527078,financialnews
+1124,2018-01-08 14:14:01,". move to block-book Frankfurt school places will pile pressure on rival banks hoping to relocate staff to the city, writes    Brexit",0,1,1,1,2,1,0.012854054,0.9533011,0.03384487,Neg,-0.94044703,financialnews
+1162,2018-01-04 09:14:01,"By the end of today, bosses of FTSE 100 companies will already have earned more than the average UK worker does in a year FatCatThursday    ",1,1,1,0,0,0,0.6631727,0.062039904,0.2747873,Pos,0.6011328,financialnews
+1178,2018-01-03 08:20:00,"MiFIDII architect  You might not like it, but it could have been far worse  ",1,0,1,0,3,1,0.078076564,0.0536404,0.86828303,Neu,0.024436165,financialnews
+1184,2018-01-02 11:21:04,How will Brexit affect the City? Don’t ask the government  ,0,1,1,0,2,2,0.02635336,0.04707641,0.92657024,Neu,-0.020723052,financialnews
+1186,2018-01-02 10:16:01,Switch off over Christmas? Here's what you might have missed...  ,1,1,1,0,2,0,0.035427723,0.14814588,0.8164264,Neu,-0.112718165,financialnews
+1199,2017-12-28 13:07:04,. must proceed with caution on monetary policy normalisation    ,0,0,1,0,0,0,0.08203611,0.01664419,0.90131974,Neu,0.06539192,financialnews
+1203,2017-12-27 13:24:01,. volatility could return in a big way in January — via   ,0,0,1,0,0,0,0.94506526,0.019993395,0.034941282,Pos,0.92507184,financialnews
+1227,2017-12-21 12:53:03,"“With rates close to zero and volatility near historical lows, institutional investors will begin to allocate assets to crypto and crypto derivatives"" -  CEO's prediction for 2018    bitcoin fintech",0,0,1,0,0,0,0.121794984,0.013847328,0.8643577,Neu,0.107947655,financialnews
+1228,2017-12-21 12:52:00,"“The ETF-ification of investing, with its overpromise of liquidity, is creating the perfect conditions for liquidity black holes should any of the myriad of geopolitical and economic challenges come home to roost” - Cheyne Capital's president  ",0,1,1,0,0,0,0.49779794,0.017160341,0.4850418,Pos,0.4806376,financialnews
+1239,2017-12-20 15:02:00,PRA boss warns UK could ‘revisit’ decision on EU bank branches  ,0,0,1,0,0,0,0.026621455,0.79259145,0.18078715,Neg,-0.76597,financialnews
+1250,2017-12-19 17:09:03,Chris Hohn won't back down... Activist reiterates call for new LSE chairman despite losing key vote  ,0,1,1,0,0,0,0.18755206,0.11844576,0.69400215,Neu,0.0691063,financialnews
+1251,2017-12-19 17:08:01,Last year  was right about 2017 - for all the wrong reasons. Check out what he thinks will happen in the City of London in 2018  ,1,1,1,0,1,0,0.025035588,0.12805483,0.8469096,Neu,-0.10301924,financialnews
+1279,2017-12-18 09:28:04,New figures shed light on which fund managers company bosses should fear in a new era of shareholder activism  ,1,0,1,0,0,0,0.08022045,0.11832365,0.8014559,Neu,-0.038103193,financialnews
+1284,2017-12-15 17:02:04,As per our Careerologist... How much fun can I have at my work Christmas party?     ,0,1,1,0,2,1,0.049190216,0.027105859,0.9237039,Neu,0.022084357,financialnews
+1286,2017-12-15 15:03:05,Edmond de Rothschild Private Equity chief executive argues firms under pressure to source deals should move up the risk curve  ,0,1,1,0,1,0,0.7640954,0.022959514,0.21294506,Pos,0.7411359,financialnews
+1289,2017-12-15 13:43:03,"The advent of Brexit fundamentally challenges the transparency objectives in Mifid II, which in turn may necessitate a speedy rewrite of the rules, says  head of government affairs  ",0,1,1,0,1,1,0.158724,0.69493043,0.14634556,Neg,-0.5362064,financialnews
+1296,2017-12-15 08:31:05,Buyout industry ‘must look at more early-stage deals’   privateequity  ,0,1,1,0,0,0,0.1085067,0.010343099,0.8811502,Neu,0.098163605,financialnews
+1298,2017-12-15 08:30:02,How Brexit could trigger Mifid III   by Ben Pott   ,0,0,1,0,2,0,0.029621216,0.07067392,0.8997049,Neu,-0.041052707,financialnews
+1310,2017-12-14 09:24:02,"Industrials sector must learn that more competition brings more risks, says  global head of industrials  ",0,1,1,0,0,0,0.7205782,0.032444254,0.2469775,Pos,0.68813396,financialnews
+1327,2017-12-13 08:31:04,. says IPO juggernaut will pick up speed in 2018  ,0,1,1,0,0,0,0.7543939,0.010385471,0.23522069,Pos,0.7440084,financialnews
+1332,2017-12-12 13:31:01,"Though he was leading a scrappy upstart in Mifid I, Mark Hemsley believes there will be opportunities for giants like  this time around  ",1,1,1,0,0,0,0.5547013,0.009573047,0.4357256,Pos,0.5451283,financialnews
+1335,2017-12-12 13:15:03,"Another big boost for Donald Brydon: Qatar's SWF will back the  chairman at next week's vote on his future, writes   ",0,0,1,0,0,0,0.8686377,0.016661894,0.11470048,Pos,0.8519758,financialnews
+1349,2017-12-12 07:47:05,'Tis the season to be jolly — but just how much fun can you have at you work Christmas party? FN Careerologist  offers her advice   christmasparty,0,1,1,0,0,0,0.060909413,0.032108158,0.9069824,Neu,0.028801255,financialnews
+1368,2017-12-11 07:36:02,"The City's Brexit fears and predictions must be kept in check, writes   ",1,0,1,0,0,0,0.05016646,0.0740897,0.8757438,Neu,-0.023923237,financialnews
+1377,2017-12-08 11:14:05,'A welcome step which allows businesses to set aside plans for a disastrous no-deal scenario and firms can now focus their attention on planning for a more positive outcome' - Chris Cummings    Brexit,0,1,1,0,2,0,0.4559355,0.023096144,0.5209683,Neu,0.43283936,financialnews
+1381,2017-12-08 09:46:03,Some Wall Street banks will not handle trades in first bitcoin futures   via ,0,0,1,0,1,0,0.020767612,0.67299455,0.30623785,Neg,-0.6522269,financialnews
+1389,2017-12-07 13:19:01,Data provider Coalition says stronger market forces than MiFIDII will impact banks' top lines in the coming years  ,0,1,1,0,3,0,0.06762811,0.847428,0.08494387,Neg,-0.77979994,financialnews
+1390,2017-12-07 13:17:02,. says rates desks will lead 2018 trading recovery  ,0,1,1,0,0,0,0.051247224,0.01369329,0.93505955,Neu,0.037553936,financialnews
+1394,2017-12-07 11:26:05,What are your predictions for UK finance in 2018? FN wants to hear what you think will happen in the year to come  ,0,1,1,0,3,0,0.037678353,0.020302309,0.94201934,Neu,0.017376045,financialnews
+1397,2017-12-07 10:03:05,"Fund managers should beware crying wolf on fees, says   ",0,1,1,0,0,0,0.06392443,0.104994796,0.8310808,Neu,-0.041070364,financialnews
+1401,2017-12-07 10:01:01,MiFIDII will not put the biggest dent in bank revenues  ,0,0,1,0,1,0,0.15615958,0.056829236,0.78701115,Neu,0.09933034,financialnews
+1414,2017-12-06 09:29:00,"The four ways that financial institutions can help to trap human traffickers, according to   Michael Harris  ",0,1,1,0,0,1,0.10687858,0.018872308,0.8742491,Neu,0.08800627,financialnews
+1416,2017-12-06 09:25:01,The four ways that financial institutions can help to trap human traffickers   ,0,0,1,0,0,0,0.06380902,0.016488647,0.91970235,Neu,0.047320373,financialnews
+1421,2017-12-05 13:31:00,"Brexit effect on City offices will be ‘less than feared’, says   ",1,1,1,0,2,0,0.08876034,0.76821226,0.1430274,Neg,-0.67945194,financialnews
+1436,2017-12-05 08:30:00,Take our Snap Poll: What can the City expect in 2018?  ,0,1,1,0,2,0,0.050707754,0.018723302,0.93056893,Neu,0.031984452,financialnews
+1440,2017-12-05 08:11:01,"Winton says $3tn hedge fund industry is ‘dangerously’ overvalued - real number could be 75% smaller, writes   ",1,1,1,0,0,0,0.025427785,0.89038324,0.084188975,Neg,-0.8649555,financialnews
+1455,2017-12-04 09:49:00,Snap Poll: What can the City expect in 2018? FN wants to hear what you think will happen in the year to come  ,0,1,1,0,1,0,0.05011607,0.015327584,0.93455637,Neu,0.034788486,financialnews
+1465,2017-12-01 13:33:00,"“I think a second referendum would be a waste of time for the remainers. They would lose very heavily,""  tells   ",0,1,1,0,0,1,0.017652925,0.91974926,0.0625978,Neg,-0.90209633,financialnews
+1467,2017-12-01 12:00:03,Snap Poll: What can the City expect in 2018? FN wants to hear your predictions for the year ahead  ,0,1,1,0,5,0,0.07046551,0.0134232845,0.91611123,Neu,0.057042226,financialnews
+1478,2017-12-01 07:20:04,". says he will return to UK politics if Brexit stalls, writes     ",0,1,1,0,3,1,0.051514905,0.02646928,0.92201585,Neu,0.025045626,financialnews
+1485,2017-11-30 14:08:02,"It would be nice to think new markets could grow quickly enough to fill any hole left in the City by a hard Brexit, but completely unrealistic, writes   ",1,0,1,0,0,0,0.810028,0.035278644,0.1546933,Pos,0.7747494,financialnews
+1487,2017-11-30 13:18:01,Unicredit CEO says London will remain Europe's financial centre   Brexit,0,1,1,0,1,1,0.1848814,0.0104818735,0.8046367,Neu,0.17439952,financialnews
+1514,2017-11-29 10:27:02,"Rational exuberance: Four reasons the bull market will continue, writes   ",0,0,1,0,0,2,0.13109654,0.014966674,0.8539368,Neu,0.11612987,financialnews
+1518,2017-11-29 08:48:01,Rational exuberance: Four reasons the bull market will continue  ,0,0,1,0,1,0,0.088583805,0.014777331,0.8966389,Neu,0.07380647,financialnews
+1535,2017-11-28 10:02:01,. says UK lenders can handle 'disorderly' Brexit  ,0,1,1,0,1,0,0.49383825,0.046303805,0.45985794,Pos,0.44753444,financialnews
+1539,2017-11-28 08:21:01,. says UK lenders can handle ‘disorderly’ Brexit  ,0,1,1,0,0,0,0.34360108,0.03827956,0.6181193,Neu,0.3053215,financialnews
+1560,2017-11-27 07:04:00,"The jump from lending to M&A will never come quickly for HSBC, says   ",0,1,1,0,1,0,0.62894714,0.012319308,0.35873353,Pos,0.6166278,financialnews
+1562,2017-11-24 16:28:00,The Office for Budget Responsibility has put an estimate on the additional revenue that could be generated by applying VAT to investment research under MiFIDII  ,1,1,1,0,0,0,0.0752047,0.016002871,0.9087925,Neu,0.05920183,financialnews
+1566,2017-11-24 14:12:01,To pay or not to pay: how the City can learn from the Uber cover-up uberhack uberdatabreach  ,0,0,1,0,2,0,0.052576672,0.023947464,0.92347586,Neu,0.028629208,financialnews
+1567,2017-11-24 12:55:02,To pay or not to pay: how City can learn from the Uber cover-up   ,0,0,1,0,1,1,0.064303935,0.02283631,0.9128598,Neu,0.041467622,financialnews
+1571,2017-11-24 10:43:04,An exit from the EU that hurts the UK would deter others from leaving and ensure Europe remains solid in the face of the Russian threat   Brexit,0,1,1,0,0,0,0.9252336,0.036934696,0.0378317,Pos,0.8882989,financialnews
+1575,2017-11-24 08:10:02,"A hard Brexit could be the best thing for European security, says former Polish Minister of Finance and Deputy Prime Minister Jacek Rostowski      ",0,1,1,0,0,0,0.82354695,0.026630577,0.14982241,Pos,0.79691637,financialnews
+1585,2017-11-23 09:57:00,"CEO of property developer Great Portland Estates says London can survive banker Brexodus, but that it will need to reinvent itself once more to do so  ",0,1,1,0,0,0,0.8317175,0.013903417,0.15437904,Pos,0.81781405,financialnews
+1586,2017-11-23 09:54:01,"It may not come naturally to humans but those happy to admit they could be wrong tend to make better active fund managers, writes Majedie Asset Management's Tom Record  ",0,1,1,0,1,1,0.13437775,0.05806823,0.807554,Neu,0.07630952,financialnews
+1588,2017-11-23 08:14:01,"Investors must embrace uncertainty to beat the markets, writes Majedie Asset Management's Tom Record  ",0,1,1,0,0,0,0.20191507,0.017060667,0.7810242,Neu,0.1848544,financialnews
+1591,2017-11-23 08:11:05,"London can survive a banker Brexodus, says property boss brexit  ",0,1,1,0,0,0,0.59619373,0.14170289,0.26210344,Pos,0.45449084,financialnews
+1616,2017-11-21 09:10:02,"Amid Brexit uncertainty, any changes to vehicles such as Venture Capital Trusts could be detrimental to the economy, says    AutumnBudget2017",0,1,1,0,1,2,0.015064415,0.8968819,0.088053666,Neg,-0.88181746,financialnews
+1626,2017-11-20 15:04:01,Budget could be ‘watershed’ for commercial property  ,1,0,1,0,0,0,0.31050292,0.13255204,0.5569451,Neu,0.17795087,financialnews
+1630,2017-11-20 12:56:01,Barnier tells City: you will lose passporting rights after Brexit  ,0,1,1,0,2,0,0.029933088,0.6204553,0.34961158,Neg,-0.5905222,financialnews
+1635,2017-11-20 09:28:00,"'This will be an important budget, not just for the Conservative Party but personally for Philip Hammond. He is being encouraged to be bold, but we would just like him to survive'   AutumnBudget2017",1,1,1,0,0,0,0.27582338,0.013545866,0.7106308,Neu,0.2622775,financialnews
+1639,2017-11-20 07:38:03,"With the risk that Philip Hammond may be forced out, financial services leaders are managing their expectations for the AutumnBudget2017  ",1,1,1,0,1,1,0.0430414,0.58822274,0.36873588,Neg,-0.54518133,financialnews
+1647,2017-11-17 14:17:02,Banks preparing to build workforces in major European cities after Brexit could find that it costs them significantly less to do so than it did in London  ,1,1,1,0,1,0,0.1846899,0.756341,0.05896909,Neg,-0.5716511,financialnews
+1649,2017-11-17 14:12:02,"The largest part of the blame for the US opioid crisis lies with big pharma companies that have distributed addictive drugs using misinformation and inducements, says   ",1,1,1,0,0,1,0.015159706,0.854926,0.12991436,Neg,-0.83976626,financialnews
+1652,2017-11-17 12:16:00,Senior  executive says a Corbyn government would be disastrous for the UK and London’s finance industry in particular  ,1,1,1,0,0,0,0.009031476,0.96252364,0.028444981,Neg,-0.95349216,financialnews
+1654,2017-11-17 10:45:02,Sign up for FN's November Breakfast Briefing where Paul Sharma   and Ross Barrett  will discuss the first six months after MiFIDII comes into force  ,0,1,1,0,3,1,0.077746265,0.012155027,0.9100987,Neu,0.06559124,financialnews
+1659,2017-11-17 09:56:00,"UK under Corbyn would be ‘like Cuba without sun’, says  partner   via ",1,1,1,0,0,0,0.104148105,0.015573602,0.88027835,Neu,0.0885745,financialnews
+1670,2017-11-16 14:11:00,Trading less liquid asset classes on exchanges could cause major problems when MiFIDII goes live in early January  ,0,1,1,0,0,0,0.009031981,0.9525092,0.038458765,Neg,-0.9434773,financialnews
+1687,2017-11-16 10:55:01,"In ESG ranking, many ethical funds fly under the radar - you might not even know you're investing in one, writes    ",0,1,1,0,0,0,0.03005556,0.051441673,0.9185028,Neu,-0.021386113,financialnews
+1688,2017-11-16 09:39:02,Trading less liquid asset classes on exchanges could cause major problems when MiFIDII goes live  ,0,1,1,0,0,0,0.009257212,0.9555141,0.035228644,Neg,-0.9462569,financialnews
+1701,2017-11-15 09:32:02,View: Central banks in the dock but we cannot compromise their independence  ,0,0,1,0,0,2,0.10460476,0.024659922,0.8707353,Neu,0.079944834,financialnews
+1711,2017-11-14 15:18:04,"If we want to change the City's culture of focusing solely on near-term targets then we must link pay packets to long-term goals, says    ",0,1,1,0,2,0,0.31555247,0.013101392,0.6713461,Neu,0.30245107,financialnews
+1733,2017-11-13 11:15:04,"US bank bonuses may rise by 5% to 10% this year, survey finds - but not across the board   via ",0,1,1,0,2,0,0.94080335,0.019903695,0.039292973,Pos,0.9208996,financialnews
+1734,2017-11-13 11:14:04,Esma says firms issuing ICOs should be aware that they may need to comply with Mifid and other European Union legislation   fintech ,0,1,1,0,1,1,0.08935912,0.022679398,0.8879615,Neu,0.06667972,financialnews
+1735,2017-11-13 11:13:02,Will Fed chair-elect Jay Powell stick to the script?  spoke with economists and other observers to find out    ,0,0,1,0,1,0,0.07650831,0.016244346,0.90724736,Neu,0.06026397,financialnews
+1739,2017-11-13 09:57:01,Top EU regulator warns ICOs could be subject to existing market rules  ,0,1,1,0,0,0,0.023604626,0.5675777,0.40881768,Neg,-0.5439731,financialnews
+1744,2017-11-13 08:35:04,US bank bonuses may turn higher this year   via ,0,0,1,0,0,0,0.91448957,0.04620103,0.03930946,Pos,0.8682885,financialnews
+1758,2017-11-10 14:50:00,"City lawyers warn UK Finance that, if it does not tap their expertise, the underresourced UK gov departments and regulators in charge of scrutinising the EU Withdrawal Bill could be heading for disaster  ",0,1,1,0,0,0,0.009194426,0.95051795,0.04028759,Neg,-0.9413235,financialnews
+1776,2017-11-09 13:54:02,"Technological themes, ESG and alternatives are just some of the areas investors will need to think about if they are going to take advantage of market opportunities while avoiding shocks, says Patrick Thomson   ",0,1,1,0,0,0,0.16044182,0.009493595,0.8300646,Neu,0.15094823,financialnews
+1780,2017-11-09 11:47:00,"Investors must think long-term to deal with short-term challenges,says  Patrick Thomson      ",0,1,1,0,0,0,0.15269928,0.022289727,0.825011,Neu,0.13040955,financialnews
+1782,2017-11-09 10:35:02,"These are transformational times - and banks and fintech firms must cooperate to confront the challenge from big tech companies, writes  Anthony Woolley  ",0,1,1,0,0,0,0.77770865,0.017444585,0.20484675,Pos,0.76026404,financialnews
+1797,2017-11-08 12:58:00,"View: Bank mergers across Europe would help the flow of capital, but they will not happen until the EU's capital markets are more joined up   ",0,1,1,0,0,0,0.6843732,0.00996902,0.30565774,Pos,0.6744042,financialnews
+1801,2017-11-08 12:41:00,The group CIO of US bond giant  says central banks could soon be forced to address economic risks  ,1,1,1,0,0,0,0.014419387,0.9037301,0.08185044,Neg,-0.8893107,financialnews
+1804,2017-11-08 09:33:02,ICYMI Wall Street banks fear UK will ‘crash out’ of Europe  ,0,1,1,0,0,0,0.060855724,0.84400296,0.09514127,Neg,-0.7831472,financialnews
+1822,2017-11-07 13:55:04,"Wall Street fears UK will ‘crash out’ of Europe, writes   ",0,1,1,0,4,1,0.034836315,0.8869784,0.078185275,Neg,-0.8521421,financialnews
+1841,2017-11-06 17:24:00,"Private equity could be the biggest loser from latest tax scandal, writes    ParadisePaper",0,1,1,0,1,1,0.03816039,0.7955105,0.1663291,Neg,-0.7573501,financialnews
+1844,2017-11-06 16:10:00,Paradise lost: Private equity could be the biggest loser from latest tax scandal   ParadisePaper,1,0,1,0,0,1,0.036806006,0.7767056,0.18648836,Neg,-0.73989964,financialnews
+1846,2017-11-06 15:22:02,"Paradise lost: Private equity could be the biggest loser from latest tax scandal, writes   ",1,0,1,0,1,0,0.04223516,0.74177575,0.21598905,Neg,-0.6995406,financialnews
+1853,2017-11-06 13:00:04,. expresses sympathy for City over Brexit... but thinks banks should get over it and move on  ,0,1,1,18,41,122,0.5198891,0.08126011,0.39885074,Pos,0.438629,financialnews
+1883,2017-11-03 09:15:05,"Will it be 7,500 or 75,000? How all Brexodus forecasts could be correct...  ",0,0,1,0,1,1,0.046778124,0.029585596,0.9236363,Neu,0.017192528,financialnews
+1888,2017-11-03 07:21:03,"Will it be 7,500 or 75,000?  on how all Brexodus forecasts could be correct brexit  ",0,0,1,0,0,0,0.03249819,0.022790376,0.94471145,Neu,0.009707812,financialnews
+1895,2017-11-02 14:31:01,Fund managers ‘should pay £500’ for corporate access  ,0,1,1,0,2,1,0.118707456,0.107804134,0.77348834,Neu,0.010903321,financialnews
+1899,2017-11-02 13:40:05,"Investment consultant review should educate, not regulate, writes Stamford Associates' Carl Hitchman cma  ",0,1,1,0,0,0,0.052083116,0.022025492,0.92589134,Neu,0.030057624,financialnews
+1908,2017-11-02 09:43:01,Fund managers should pay £500 for corporate access  ,0,0,1,0,0,0,0.05579074,0.057643577,0.8865657,Neu,-0.0018528365,financialnews
+1912,2017-11-02 07:54:03,"Review of investment consultants should educate, not regulate, says Stamford Associates' Carl Hitchman    ",0,1,1,0,0,0,0.07725037,0.015147084,0.90760255,Neu,0.062103286,financialnews
+1925,2017-11-01 13:14:04,". warns City could lose 10,000 jobs on day one of Brexit  ",0,0,1,0,0,0,0.0065835854,0.9664513,0.026965143,Neg,-0.9598677,financialnews
+1944,2017-10-31 13:14:03,"BOE warns Brexit could cost London 75,000 finance jobs  ",0,1,1,0,1,4,0.008465215,0.9655933,0.025941467,Neg,-0.95712805,financialnews
+1952,2017-10-31 07:56:05,"Enough of the hand-wringing, writes  The City must turn itself into the best place for women to work  ",0,1,1,0,1,1,0.2912843,0.017280681,0.691435,Neu,0.27400362,financialnews
+1956,2017-10-31 07:33:03,"The City must turn itself into the best place for women to work, writes  MeTooFinance  ",0,1,1,0,0,0,0.6361732,0.010906847,0.35291994,Pos,0.6252663,financialnews
+1966,2017-10-30 10:24:03,Fund management assets expected to top $145tn by 2025 but the amount held in active funds will fall steeply  ,1,0,1,0,1,1,0.06839898,0.8852237,0.04637734,Neg,-0.8168247,financialnews
+1974,2017-10-30 08:14:01,"A no deal Brexit could hit EU banks, warns David Davis   via ",0,1,1,0,0,0,0.011841869,0.9587214,0.029436762,Neg,-0.9468795,financialnews
+1987,2017-10-27 15:42:00,Another deal for  - It will sell Trayport to   ,0,0,1,0,0,0,0.05671693,0.011596257,0.9316868,Neu,0.04512067,financialnews
+1989,2017-10-27 15:24:00,"""We should just leave, and then carry on trading as if it never happened,"" says Brexiteer Peter Hargreaves.  ",1,1,1,0,0,0,0.08153687,0.03603605,0.8824271,Neu,0.045500815,financialnews
+2017,2017-10-26 09:36:02,"Brexit transition will not be agreed by Christmas, warns former Brussels envoy  ",1,1,1,0,0,0,0.035478637,0.5985071,0.3660142,Neg,-0.56302845,financialnews
+2030,2017-10-25 11:55:00,"Libor’s demise must not see us sleepwalk into a disaster, writes Andrew Falco    ",0,1,1,0,0,0,0.03743367,0.81522274,0.14734352,Neg,-0.77778906,financialnews
+2034,2017-10-25 10:01:05,"Libor’s demise must not see us sleepwalk into a disaster, writes  Andrew Falco  ",0,1,1,0,3,0,0.03743367,0.81522274,0.14734352,Neg,-0.77778906,financialnews
+2039,2017-10-25 08:22:02,Libor’s demise must not see us sleepwalk into a disaster  ,0,0,1,0,1,0,0.043244686,0.5340765,0.42267877,Neg,-0.49083182,financialnews
+2056,2017-10-24 07:52:05,. on how money could unblock the Brexit talks  ,0,0,1,0,2,1,0.07076928,0.021975417,0.90725535,Neu,0.048793864,financialnews
+2061,2017-10-24 07:24:05,Never mind MiFIDII — tells  that ‘Mifid III’ could be just around the corner  ,0,1,1,0,4,2,0.066881515,0.021517968,0.91160053,Neu,0.045363545,financialnews
+2104,2017-10-20 07:31:02,Is your hedge fund manager a psychopath? That could be bad for returns   via   ,0,1,1,0,0,0,0.010206759,0.93937737,0.05041586,Neg,-0.9291706,financialnews
+2110,2017-10-19 12:04:02,"Despite some big setbacks, Xavier Rolet will be remembered as the man who changed the face of the LSE  ",1,0,1,1,1,2,0.23148088,0.021601515,0.7469176,Neu,0.20987937,financialnews
+2111,2017-10-19 12:03:02,Head of passive + ETF specialist sales for Europe at UBS AM thinks more reg scrutiny of ETFs could provide a boost  ,0,1,1,0,0,1,0.9192098,0.009394646,0.07139552,Pos,0.90981513,financialnews
+2132,2017-10-18 14:33:04,"FCA readies report on IPO process - could be out as soon as next week, writes   ",0,0,1,0,1,0,0.019512508,0.057061713,0.92342573,Neu,-0.037549205,financialnews
+2166,2017-10-17 13:30:00,"As the allegations about Hollywood moguls mount, how should you deal with off-colour behaviour in the City?  ",0,0,1,0,1,0,0.027753362,0.42579806,0.5464486,Neu,-0.3980447,financialnews
+2177,2017-10-17 11:38:05,What's a fair price for research?  is making sure IBs will be charging it post-MifidII  ,0,1,1,0,0,1,0.05215069,0.01703138,0.93081796,Neu,0.03511931,financialnews
+2186,2017-10-17 09:44:02,Would ETFs hold up in an 1987-style crash?     ,0,0,1,0,0,0,0.062581,0.1975455,0.73987347,Neu,-0.1349645,financialnews
+2194,2017-10-16 15:02:04,Will corporates be wooed as easily as hedge funds by  ?  investigates  ,1,1,1,0,0,1,0.14101522,0.013440988,0.8455438,Neu,0.12757424,financialnews
+2217,2017-10-16 10:01:03,"“There are 10 or 20 boys I grew up with in Haiti who could do this job as well, if not better,"" a black fund manager  ",1,1,1,0,0,0,0.7138395,0.017574597,0.26858595,Pos,0.69626486,financialnews
+2230,2017-10-13 15:41:03,"Brexit transition will be agreed by year end, says Swinburne  ",1,1,1,0,1,0,0.4681324,0.017822787,0.5140448,Neu,0.45030963,financialnews
+2259,2017-10-12 09:38:03,"Bitcoin may collapse and thrive, says    ",0,1,1,0,0,0,0.025315661,0.90730184,0.06738253,Neg,-0.8819862,financialnews
+2262,2017-10-12 09:13:00,. will follow rival  to launch first fund manager ‘supermarket’  ,0,1,1,0,0,0,0.11911803,0.0084100105,0.8724719,Neu,0.11070801,financialnews
+2265,2017-10-12 08:39:00,"Deutsche Bank, Citi + Barclays among banks that could struggle to remain sufficiently profitable -    via ",0,0,1,0,0,0,0.12674828,0.18504979,0.6882019,Neu,-0.05830151,financialnews
+2270,2017-10-12 07:31:00,Bitcoin may collapse and thrive   by    ,0,0,1,0,0,0,0.018216383,0.91617167,0.06561196,Neg,-0.8979553,financialnews
+2331,2017-10-09 14:40:01,"Moody’s, S&P Global, Fitch may move up to 10% of staff after Esma says they need to prepare for 'cliff-edge' Brexit  ",0,1,1,0,0,1,0.03927435,0.81398875,0.14673692,Neg,-0.7747144,financialnews
+2338,2017-10-09 11:56:05,Tell FN what you think about your job in financial services - it takes 10 minutes and you could win the new iPhone 8  ,0,1,1,0,1,0,0.09699912,0.011933928,0.89106697,Neu,0.08506519,financialnews
+2353,2017-10-09 07:52:01,An audience with Jack Bogle: ‘Warren can get a little intoxicating’    ,0,0,1,1,0,0,0.04314146,0.06489216,0.89196634,Neu,-0.0217507,financialnews
+2361,2017-10-06 14:25:05,You're hired! Can reality TV-style hiring improve diversity?  ,1,1,1,0,1,1,0.37286898,0.020801187,0.60632986,Neu,0.3520678,financialnews
+2367,2017-10-06 11:39:01,Can reality TV-style hiring improve diversity?  ,0,0,1,0,0,0,0.30484724,0.016284337,0.6788685,Neu,0.2885629,financialnews
+2372,2017-10-06 07:49:01,Can reality TV-style hiring improve diversity?  spoke to  about its approach to recruitment    ,1,0,1,0,0,0,0.38803583,0.0087518385,0.60321236,Neu,0.379284,financialnews
+2377,2017-10-05 13:25:02,"Aggressive block trade bidding might have helped  rise up the rankings, but that does not mean it is all fake  ",1,1,1,0,0,0,0.5536093,0.02969184,0.4166989,Pos,0.5239175,financialnews
+2417,2017-10-04 10:21:01,Fund managers ask ‘how much should research cost?’ - Do you know? MiFIDII  ,0,1,1,0,2,2,0.03282957,0.021326957,0.94584346,Neu,0.011502614,financialnews
+2428,2017-10-04 08:08:01,Fund managers ask ‘how much should research cost?’ MiFIDII  ,0,0,1,0,1,0,0.042005863,0.030700555,0.92729354,Neu,0.011305308,financialnews
+2437,2017-10-03 11:59:00,Fund managers + research firms are still locked in lengthy negotiations over how much research should cost MifidII   ,1,1,1,0,2,0,0.009893976,0.9185861,0.07151986,Neg,-0.9086921,financialnews
+2439,2017-10-03 11:52:00,. is betting that it can profit from looming European trading rules   MifidII,0,1,1,0,1,0,0.8967618,0.010692682,0.092545554,Pos,0.8860691,financialnews
+2444,2017-10-03 07:39:03,Can you respect a boss with poor hygiene? Is it too early for the winter coat? FN's Careerologist has some advice  ,0,1,1,0,1,0,0.04135531,0.09271207,0.86593264,Neu,-0.05135676,financialnews
+2451,2017-10-02 15:10:02,. on why a Corbyn government would not be the best outcome for financial services    ,0,0,1,0,1,0,0.06215884,0.05773985,0.88010126,Neu,0.0044189915,financialnews
+2454,2017-10-02 14:31:03,"City may be warming to the idea of a Corbyn government, but it would not be a better outcome for financial services  ",0,1,1,0,0,0,0.44043487,0.22243315,0.33713198,Pos,0.21800172,financialnews
+2467,2017-10-02 09:11:02,Founder of  Jack Bogle says the firm will overtake  as the world's largest asset manager  ,0,1,1,0,0,0,0.7788838,0.006749828,0.2143664,Pos,0.772134,financialnews
+2477,2017-09-29 12:41:04,Around 25 of City's largest firms will be meeting with delegation of senior Danish finance execs in London today  ,0,1,1,0,0,0,0.06512637,0.015619995,0.91925365,Neu,0.049506374,financialnews
+2484,2017-09-29 10:28:03,Carney: You can expect a rate rise soon   ,0,0,1,0,1,0,0.8891054,0.0221283,0.08876628,Pos,0.8669771,financialnews
+2505,2017-09-28 14:17:03,"Robots will not replace brokers, says  chief  ",0,1,1,0,0,2,0.046510313,0.064401925,0.8890878,Neu,-0.017891612,financialnews
+2517,2017-09-28 08:14:03,"Robots will not replace brokers, says  chief   via ",0,1,1,0,1,1,0.045986235,0.10170623,0.8523075,Neu,-0.055719994,financialnews
+2522,2017-09-27 17:23:05,"Jack Bogle, founder of  thinks Janet Yellen should take a second term  ",0,0,1,0,0,1,0.027545825,0.052214757,0.9202394,Neu,-0.024668932,financialnews
+2533,2017-09-27 09:46:02,"Jack Bogle tells FN: ""One of the main reasons I like Janet Yellen is because I have no idea who might replace her""  ",0,1,1,0,6,9,0.04594887,0.11135144,0.8426997,Neu,-0.06540257,financialnews
+2591,2017-09-21 15:11:02,"Fixed income revenues for European and US banks could end the third quarter down by as much as 25%, say analysts  ",0,1,1,0,1,1,0.0061927275,0.9734625,0.020344656,Neg,-0.9672698,financialnews
+2596,2017-09-21 13:50:00,Investment consultants have been told what the  will be looking into pensions  ,1,1,1,0,1,0,0.03252249,0.02076256,0.94671494,Neu,0.0117599275,financialnews
+2603,2017-09-21 10:21:01,How the ‘great central bank unwind’ could ignite the next crisis   via   ,0,0,1,0,0,0,0.046442706,0.3109553,0.642602,Neu,-0.26451257,financialnews
+2626,2017-09-20 10:02:00,"Banking boutiques must resist lure of expansion to keep their magic, writes   ",0,1,1,0,1,1,0.1393981,0.021516114,0.83908576,Neu,0.11788198,financialnews
+2632,2017-09-20 08:35:02,"Elite banking boutiques must resist lure of expansion to keep their magic, writes   ",0,0,1,0,0,0,0.1322553,0.022075657,0.84566903,Neu,0.11017965,financialnews
+2636,2017-09-19 15:54:01,Calling all wine connoisseurs (or wannabes) and City workers - how would you feel about combining the two?  Tell us!  ,0,1,1,0,0,0,0.049307074,0.020001048,0.9306919,Neu,0.029306026,financialnews
+2640,2017-09-19 13:41:02,Transaction banking execs hope their customers – and their businesses – will benefit from tech advances like AI  ,0,1,1,0,2,2,0.831578,0.00668737,0.16173466,Pos,0.8248907,financialnews
+2650,2017-09-19 07:41:00,Carney says Brexit could lead to higher inflation   via ,0,1,1,0,0,0,0.037275795,0.93087614,0.03184801,Neg,-0.89360034,financialnews
+2651,2017-09-19 07:40:03,Will robots replace compliance officers? AFME's Will Dennis makes predictions for the future of regtech in finance    ,0,1,1,0,2,3,0.051728863,0.01795972,0.93031144,Neu,0.033769146,financialnews
+2675,2017-09-18 07:06:02,"Fund managers, listen up - here's what  Ronaldo and football can teach you about bonuses  ",0,1,1,0,0,0,0.05594315,0.021862993,0.9221938,Neu,0.034080155,financialnews
+2685,2017-09-15 11:32:04,You can now listen to FN's first podcast: Is Jamie Dimon wrong about bitcoin? on SoundCloud np  ,0,1,1,0,2,3,0.024596428,0.09094064,0.8844629,Neu,-0.06634421,financialnews
+2694,2017-09-14 16:33:05,Why  thinks banks can survive losing the Trump bump   via ,0,1,1,0,1,0,0.08622187,0.025098056,0.8886801,Neu,0.06112381,financialnews
+2697,2017-09-14 13:59:00,Goldman Sachs: Why banks can survive losing the Trump bump - via   ,0,1,1,0,0,0,0.12146985,0.027529616,0.8510006,Neu,0.09394023,financialnews
+2711,2017-09-14 09:38:03,"London will stay global fintech hub, says UK Chancellor  ",0,1,1,0,0,0,0.84078914,0.009539836,0.14967099,Pos,0.8312493,financialnews
+2724,2017-09-13 11:27:00,"Ten years on, regulators should worry about Northern Rock re-runs, writes  Rahul Kalia    ",0,1,1,0,0,0,0.05514686,0.38724923,0.55760384,Neu,-0.33210236,financialnews
+2733,2017-09-12 16:55:00,Is your bank's IT system older than your kids (or your parents)? It might be costing a fortune to maintain  ,0,1,1,0,2,3,0.030960592,0.097757734,0.87128174,Neu,-0.066797145,financialnews
+2735,2017-09-12 15:55:00,Will MifidII drive bond trading out of Europe? Some fear so  ,0,1,1,0,1,2,0.056135036,0.20604151,0.7378235,Neu,-0.14990649,financialnews
+2739,2017-09-12 15:03:03,Trading chiefs fear Mifid II will scare off bond liquidity  ,0,1,1,0,0,0,0.009720477,0.9632726,0.027006945,Neg,-0.95355207,financialnews
+2749,2017-09-12 07:17:02,A $100m problem: maintaining outdated technology is costing banks millions — but a solution could be on the way  ,0,1,1,0,1,3,0.13854827,0.64409447,0.21735723,Neg,-0.5055462,financialnews
+2761,2017-09-11 11:17:03,"Banco Popular, Monte dei Paschi ... there'll be more collapses & more merger-rescues in S Europe in the years ahead  ",0,0,1,0,2,2,0.11857989,0.4930197,0.38840038,Neg,-0.3744398,financialnews
+2767,2017-09-11 08:54:03,"Small European banks could be swallowed in wave of M&A, writes     ",1,1,1,1,0,0,0.045878246,0.40345514,0.5506666,Neu,-0.3575769,financialnews
+2775,2017-09-08 10:51:03,. could ‘quadruple’ Frankfurt headcount  ,0,0,1,0,2,1,0.22183132,0.114390425,0.66377825,Neu,0.1074409,financialnews
+2795,2017-09-06 17:37:00,"Why overlook Europe for the US west coast for tech, asks  's Anis Lahlou-Abid   ",0,1,1,0,1,1,0.07800191,0.015871018,0.90612704,Neu,0.06213089,financialnews
+2799,2017-09-06 16:39:00,"There's a 10% chance that Brexit won't happen, according to US bank   ",0,1,1,0,0,1,0.14077671,0.053829152,0.8053941,Neu,0.08694756,financialnews
+2811,2017-09-06 13:29:00,"There's a 10% chance that Brexit won't happen, according to   ",0,1,1,0,2,1,0.16074698,0.045950368,0.7933026,Neu,0.11479661,financialnews
+2821,2017-09-06 08:34:00,Silicon Valley’s shadow should not obscure Europe’s unsung tech heroes  ,1,0,1,0,0,0,0.07277918,0.03938333,0.88783747,Neu,0.03339585,financialnews
+2831,2017-09-05 15:02:00,Has securities lending had its day in the sun?  thinks it might have  ,1,1,1,0,1,1,0.11692012,0.023356928,0.8597229,Neu,0.09356319,financialnews
+2832,2017-09-05 14:54:04,. is the latest fund manager to announce it will absorb research costs after MifidII comes in  ,0,1,1,0,3,1,0.14025635,0.014286365,0.8454573,Neu,0.12596998,financialnews
+2842,2017-09-05 12:45:00,"Is the game up for securities lending,  thinks it could be  ",0,1,1,0,0,0,0.06608271,0.015181536,0.9187358,Neu,0.050901175,financialnews
+2855,2017-09-04 18:24:00,"Would an industry-wide ethical code help the City work out its place in the world, asks  's Gary Baker   ",0,1,1,0,0,0,0.8039267,0.009776488,0.18629678,Pos,0.79415023,financialnews
+2873,2017-09-04 13:55:04,"Fund management must change from an industry into a profession, says  's Gary Baker  ",0,1,1,0,0,0,0.07003675,0.018985443,0.91097784,Neu,0.051051304,financialnews
+2878,2017-09-04 12:05:01,"""Putin would like nothing more than to put me in jail and watch me die,"" Bill Browder tells   ",0,0,1,0,3,1,0.18825307,0.17222485,0.639522,Neu,0.016028225,financialnews
+2879,2017-09-04 09:57:00,"An Audience with Bill Browder: 'If I’m killed, you will know who did it'  ",1,1,1,0,0,1,0.051237594,0.06090101,0.88786143,Neu,-0.009663414,financialnews
+2883,2017-09-04 07:46:05,"Fund management must change from an industry into a profession, writes  Gary Baker  ",0,1,1,0,0,0,0.047327943,0.025716148,0.92695594,Neu,0.021611795,financialnews
+2895,2017-09-01 14:54:00,Can bears and bulls both be right on stocks? Comment via   ,1,0,1,0,0,0,0.041902922,0.047746625,0.91035044,Neu,-0.0058437027,financialnews
+2903,2017-09-01 13:34:01,"Bulls and bears cannot both be right on stocks, comment via   ",1,0,1,0,0,0,0.030593805,0.11639119,0.85301495,Neu,-0.085797384,financialnews
+2919,2017-08-31 14:58:05,How  says traders should play a US government shutdown    via ,0,1,1,0,1,0,0.041662157,0.061275244,0.8970626,Neu,-0.019613087,financialnews
+2920,2017-08-31 14:47:00,Banking regulator reflects on fast-changing fintech sector and how institutions and supervisors should respond  ,0,1,1,0,2,2,0.06799862,0.01565132,0.9163501,Neu,0.0523473,financialnews
+2922,2017-08-31 14:42:02,'Odious' rating for government bonds would be one positive reform to come out of Venezuela's economic catastrophe  ,0,0,1,0,0,0,0.69990885,0.01594625,0.28414488,Pos,0.6839626,financialnews
+2939,2017-08-30 11:04:05,Here's the latest fund manager to say it will pay for investment research under MiFIDII   ,0,1,1,0,1,1,0.06325305,0.012477212,0.9242697,Neu,0.05077584,financialnews
+2952,2017-08-29 11:24:04,"UK pay policies should be stronger, says   ",0,1,1,0,1,0,0.9447399,0.015437736,0.0398224,Pos,0.92930216,financialnews
+2964,2017-08-25 15:36:00,Active managers should not fear share-price disasters says   ,0,1,1,0,0,0,0.036841117,0.11976037,0.8433985,Neu,-0.082919255,financialnews
+2966,2017-08-25 13:22:01,What investors will watch for in Draghi and Yellen speeches   via ,0,0,1,0,0,0,0.032499008,0.022928322,0.9445726,Neu,0.009570686,financialnews
+2970,2017-08-25 13:16:01,Share-price disasters might be a good thing for active managers says   ,0,1,1,0,0,0,0.36111757,0.45566973,0.18321271,Neg,-0.09455216,financialnews
+3012,2017-08-23 11:37:05,"Business leaders must stand up to Trump, says   ",0,1,1,0,1,1,0.16331102,0.017157592,0.81953144,Neu,0.14615342,financialnews
+3014,2017-08-23 09:17:05,FN's Careerologist  on colleagues who won't stop talking about their gym routines at the office...  ,0,1,1,0,0,0,0.04758442,0.100905485,0.85151005,Neu,-0.053321067,financialnews
+3016,2017-08-23 08:34:02,. on why business leaders must stand up to DonaldTrump    ,0,0,1,0,2,1,0.09577162,0.028804615,0.8754237,Neu,0.066967,financialnews
+3045,2017-08-21 14:31:02,Institutions rushing jobs out of London after deciding they cannot hold on for the UK government's negotiations  ,0,1,1,0,0,0,0.025460124,0.90367687,0.07086308,Neg,-0.87821674,financialnews
+3089,2017-08-18 08:46:00,The partnerships that will underpin a new trading landscape in Europe under MiFIDII  are starting to emerge  ,0,1,1,0,0,1,0.6734844,0.008043731,0.31847185,Pos,0.6654407,financialnews
+3098,2017-08-17 13:19:04,Will other hedge funds follow Brevan and Tudor’s regulatory route?  poses the question  ,1,1,1,0,1,1,0.04909585,0.02400003,0.9269041,Neu,0.02509582,financialnews
+3103,2017-08-17 11:37:00,Sir Michael Hintze warns the wave of political populism that swept US + Europe in 2016 could have further to run yet  ,1,1,1,0,0,0,0.02559346,0.82900757,0.1453989,Neg,-0.8034141,financialnews
+3106,2017-08-17 10:24:00,FN looks at decision of hedgefunds to opt for an AIFM rather than MiFIDII licence and asks if others could follow  ,0,1,1,0,0,0,0.05012317,0.020647908,0.92922896,Neu,0.029475262,financialnews
+3108,2017-08-17 09:26:05,Dimon and Fink say leaders must reject hate as they quit Trump council -  ,0,1,1,0,0,0,0.028436942,0.48744276,0.48412034,Neg,-0.45900583,financialnews
+3110,2017-08-17 07:26:03,Jamie Dimon and Larry Fink say leaders must reject hate as they quit DonaldTrump council    ,0,1,1,0,2,0,0.041586522,0.40626496,0.5521485,Neu,-0.36467844,financialnews
+3111,2017-08-17 07:10:03,Top London hedgefund boss warns populist wave may roll on    ,0,1,1,0,0,0,0.049884386,0.79175097,0.15836455,Neg,-0.7418666,financialnews
+3124,2017-08-16 10:01:00,"City dads in their own words: ""Nothing will change. Fathers are the forgotten army.""   ",0,1,1,0,0,0,0.025885146,0.08079566,0.89331913,Neu,-0.054910515,financialnews
+3128,2017-08-16 09:12:03,"City dads in their own words: ""I would strongly dissuade my children from seeking a career in the City.""   ",0,1,1,0,1,1,0.040704783,0.19569606,0.76359916,Neu,-0.15499127,financialnews
+3134,2017-08-15 17:13:04,"Regulators must resist a race to the bottom on Aramco rules, writes Alissa Amico     ",0,1,1,0,0,0,0.061160322,0.43435466,0.504485,Neu,-0.37319434,financialnews
+3138,2017-08-15 11:54:04,Regulators must resist a race to the bottom on ‘Aramco rules’ writes Alissa Amica     ,0,1,1,0,0,0,0.17259738,0.33332637,0.49407628,Neu,-0.16072899,financialnews
+3140,2017-08-15 10:23:05,"As a man, I get odd looks if I leave early because of childcare. I have been asked, ‘Can’t your wife do it?’  ",1,1,1,0,1,1,0.027804146,0.69273204,0.2794639,Neg,-0.6649279,financialnews
+3152,2017-08-14 15:37:04,Should I stay on as CEO? Martin Gilbert vs Ken Moelis  ,0,0,1,0,2,0,0.038306437,0.059448797,0.90224475,Neu,-0.02114236,financialnews
+3156,2017-08-14 09:12:02,Why North Korea should not concern the stock market  ,0,0,1,0,0,0,0.040716227,0.04191398,0.9173698,Neu,-0.0011977516,financialnews
+3161,2017-08-14 07:40:02,What would  co-CEO  do if he were Chancellor for a day?  has the answer...  ,1,1,1,0,4,4,0.029546803,0.08357223,0.886881,Neu,-0.054025427,financialnews
+3164,2017-08-14 07:33:01,. and Keith Skeoch will run  for ‘another 10 years’  ,0,1,1,0,0,0,0.07996822,0.013401528,0.9066302,Neu,0.06656669,financialnews
+3171,2017-08-11 12:39:05,. will float at 'the earliest opportunity' next year  ,0,0,1,0,0,1,0.06018828,0.010424827,0.9293869,Neu,0.049763452,financialnews
+3183,2017-08-11 07:18:00,"Investors must beware of initial coin offerings, writes      ",0,0,1,0,0,0,0.033394065,0.09897843,0.8676275,Neu,-0.06558436,financialnews
+3189,2017-08-10 13:42:02,"John Foley will lead the new M&G Prudential business, with  reporting to him  ",0,1,1,1,0,0,0.03695907,0.012919876,0.95012105,Neu,0.024039194,financialnews
+3220,2017-08-08 13:01:02,. chief tells  'In any one year we would typically make bolt-on acquisitions ... the year's not over yet.',0,0,1,0,0,1,0.04292365,0.027050909,0.9300254,Neu,0.015872743,financialnews
+3224,2017-08-08 09:40:04,Property of the Week: Rock ‘n’ Roll in Mayfair for £11.95m    ,0,0,1,0,0,0,0.059588697,0.02845573,0.9119556,Neu,0.031132966,financialnews
+3236,2017-08-07 13:09:03,"Up to 10,000 positions could potentially disappear in the coming months, according to  Brexit  ",0,1,1,0,2,0,0.008251281,0.9626852,0.02906347,Neg,-0.9544339,financialnews
+3242,2017-08-07 07:21:02,BigData is changing risk — and could bend US trading rules    ,0,1,1,0,1,0,0.012434959,0.941958,0.045606945,Neg,-0.92952305,financialnews
+3251,2017-08-04 10:34:02,"""I will oversee the reform of the market,""  tells     ",0,0,1,0,0,1,0.07021193,0.013391258,0.91639674,Neu,0.056820676,financialnews
+3254,2017-08-04 10:16:04,. will not pay special dividend  ,0,0,1,0,0,0,0.019436272,0.07106326,0.90950054,Neu,-0.051626988,financialnews
+3257,2017-08-04 09:16:00,Banks must avoid price wars on research ahead of MiFIDII  ,0,0,1,0,0,0,0.07181827,0.03208873,0.896093,Neu,0.03972954,financialnews
+3270,2017-08-03 08:31:03,Here are 10 sample questions from  Level 1 exam. Can you pass the test?   ,0,1,1,0,1,1,0.056473568,0.022533458,0.9209929,Neu,0.03394011,financialnews
+3279,2017-08-02 12:01:01,"Looser dark-pool trading caps would still fit, writes   MiFIDII  ",0,1,1,0,2,0,0.2460498,0.024172727,0.72977746,Neu,0.22187708,financialnews
+3306,2017-08-01 07:37:03,"Brexit could cost banks $50bn, says   ",0,1,1,1,7,4,0.019568484,0.8835801,0.096851386,Neg,-0.8640116,financialnews
+3316,2017-07-31 10:41:01,MUFG investment bankers may move to Amsterdam  ,0,0,1,0,3,1,0.03150039,0.025021713,0.94347787,Neu,0.0064786784,financialnews
+3321,2017-07-31 07:42:05,An audience with Alan Rubenstein: ‘I want to do something else while I can’    ,0,1,1,0,3,0,0.124778725,0.014431378,0.86078995,Neu,0.110347345,financialnews
+3339,2017-07-28 12:10:04,. may find itself ejected from  global indices if it does not change its shareholder structure  ,1,1,1,0,0,0,0.012675701,0.90805435,0.0792699,Neg,-0.89537865,financialnews
+3342,2017-07-28 11:38:02,"Fewer PE-backed IPOs, a preference for other regions + concerns over research will delay any surge in UK listings  ",0,1,1,0,0,0,0.028639229,0.9191179,0.052242883,Neg,-0.8904787,financialnews
+3352,2017-07-28 07:44:03,Daily Mail owner may be kicked out of all  indices    ,1,0,1,0,1,1,0.015135942,0.8552416,0.1296225,Neg,-0.84010565,financialnews
+3384,2017-07-26 10:39:04,"Jupiter's £2.2bn inflows 'impressive'  says, but the market may have been expecting more. Still, shares up 4%  ",1,1,1,0,1,1,0.94048387,0.037051395,0.02246481,Pos,0.9034325,financialnews
+3406,2017-07-25 09:08:00,Rate risk complacency may end in tears for bond investors  ,0,0,1,0,0,0,0.037376735,0.8953925,0.06723085,Neg,-0.8580157,financialnews
+3416,2017-07-24 08:45:01,All the stories from FN's 2017 Women in Finance story can be found here   womeninfinance,1,0,1,0,6,2,0.024058096,0.035493232,0.94044864,Neu,-0.011435136,financialnews
+3419,2017-07-24 08:15:00,"What the City should learn from Donald Trump on Brexit, by   ",0,0,1,0,0,0,0.07817215,0.014434628,0.9073932,Neu,0.06373752,financialnews
+3430,2017-07-21 10:19:04,Bill Gross warns rate hikes could tip US into recession - via   ,0,1,1,0,1,2,0.01789171,0.95786434,0.024243917,Neg,-0.93997264,financialnews
+3447,2017-07-20 09:42:04,We can now compare which industry is of the most interest: investment banking fintech privateequity or hedgefunds  ,0,1,1,0,1,1,0.057660908,0.011715703,0.9306234,Neu,0.045945205,financialnews
+3448,2017-07-20 09:38:04,". probe into the UK’s £500bn platform industry could lead to added pressure on fees, finds   ",1,0,1,0,0,0,0.015579646,0.9496181,0.034802347,Neg,-0.93403846,financialnews
+3482,2017-07-18 10:26:01,Around 200 London-based staff at  will relocate to Frankfurt before the UK exits the European Union  ,0,1,1,0,0,2,0.05559817,0.07526397,0.86913794,Neu,-0.0196658,financialnews
+3484,2017-07-18 09:34:04,"'I never used to believe in them, but I'm beginning to think quotas should be mandatory now'  ",1,1,1,0,1,0,0.09815622,0.03316934,0.8686744,Neu,0.064986885,financialnews
+3490,2017-07-18 07:33:03,All the coverage from this year's FN Women in Finance Survey can be found here -  - with plenty more to come this week,1,0,1,0,1,1,0.07831716,0.012957232,0.9087256,Neu,0.06535993,financialnews
+3526,2017-07-14 11:28:03,. to give students the top job for a day -they'll shadow co-CEO Andrew Formica - HT    ,0,0,1,0,3,1,0.037950613,0.065049,0.89700043,Neu,-0.027098387,financialnews
+3538,2017-07-13 15:40:03,It is hard to see how London will really benefit if Aramco lists on  says   ,0,1,1,0,1,0,0.22274522,0.018091703,0.7591631,Neu,0.20465352,financialnews
+3540,2017-07-13 15:33:02,. actively managed ETFs may solve a problem it helped create   via ,1,0,1,0,0,1,0.77160764,0.011777398,0.21661504,Pos,0.75983024,financialnews
+3542,2017-07-13 14:54:03,"Aramco listing would offer London little more than bragging rights, writes   ",0,1,1,0,2,1,0.05375584,0.046563223,0.8996809,Neu,0.0071926154,financialnews
+3544,2017-07-13 14:36:04,Aramco listing would offer London little more than bragging rights  ,0,0,1,0,2,0,0.04216014,0.036143325,0.92169654,Neu,0.006016813,financialnews
+3558,2017-07-12 13:18:04,. You can’t spell ‘activism’ without M and A  ,0,0,1,4,2,6,0.03603435,0.043234795,0.9207309,Neu,-0.007200446,financialnews
+3560,2017-07-12 12:54:05,Why populism will not halt global M&A  ,0,0,1,0,0,0,0.047748677,0.093534954,0.85871637,Neu,-0.045786276,financialnews
+3575,2017-07-11 14:35:03,"Beijing will still be 5,000 miles away after Brexit, writes   ",0,1,1,0,0,0,0.06820845,0.07037021,0.86142135,Neu,-0.0021617636,financialnews
+3576,2017-07-11 14:34:02,"The EU can 'simply dictate' that UK finance jobs move after Brexit, warns  CEO Jamie Dimon  ",0,1,1,1,1,0,0.019425087,0.87691736,0.10365759,Neg,-0.85749227,financialnews
+3579,2017-07-11 13:03:02,. says UK insurers could have to move 10% of their businesses to the EU to keep passports   Brexit,0,1,1,0,2,0,0.05349476,0.657986,0.28851932,Neg,-0.60449123,financialnews
+3581,2017-07-11 12:31:01,. Jamie Dimon warns EU could force staff moves after Brexit  ,0,1,1,0,1,0,0.0129257105,0.94349474,0.043579567,Neg,-0.93056905,financialnews
+3583,2017-07-11 11:54:00,I'm sick of colleagues trashing Corbyn. Should I tell them he's why I voted Labour? FN's Careerologist responds  ,1,1,1,0,1,1,0.03085252,0.3728298,0.59631777,Neu,-0.34197727,financialnews
+3584,2017-07-11 11:50:04,Hedge funds could get a new kind of intern this summer: MPs   ,0,0,1,0,0,0,0.12882571,0.010813031,0.8603612,Neu,0.11801268,financialnews
+3589,2017-07-11 07:40:01,The Careerologist: Should I reveal my politics to colleagues?    ,0,0,1,0,1,0,0.032973483,0.04425811,0.9227684,Neu,-0.011284627,financialnews
+3592,2017-07-11 07:21:00,"Beijing will still be 5,000 miles away after Brexit   by   ",0,0,1,0,1,0,0.059732463,0.11379419,0.8264733,Neu,-0.05406173,financialnews
+3631,2017-07-06 13:37:03,"NEX debacle shows companies should not make political donations, writes    ",0,0,1,0,2,3,0.052844148,0.33177033,0.61538553,Neu,-0.2789262,financialnews
+3652,2017-07-05 09:05:00,This week's question for FN's Careerologist  How can I get the credit without the schmoozing?  ,0,0,1,0,1,0,0.07078553,0.033745684,0.8954688,Neu,0.037039846,financialnews
+3664,2017-07-04 13:59:03,I can’t control my drinking + I’ve proved that to myself...I’m lucky to be here ex-trader Lee Rolleston told   ,1,1,1,0,1,0,0.19553778,0.019196875,0.7852653,Neu,0.17634091,financialnews
+3666,2017-07-04 13:49:03,How can I get the credit without the schmoozing? FN's Careerologist  has the answer  ,0,1,1,0,2,0,0.055518705,0.023490245,0.9209911,Neu,0.03202846,financialnews
+3676,2017-07-04 07:14:00,The Careerologist: How can I get credit without the schmoozing?    ,0,0,1,0,1,0,0.03706773,0.092681676,0.8702506,Neu,-0.055613946,financialnews
+3692,2017-07-03 10:33:01,". proposals are harsh and the result will be more M&A, says CEO of a UK fund manager  ",0,1,1,0,0,0,0.019011226,0.94172525,0.039263576,Neg,-0.92271405,financialnews
+3694,2017-07-03 10:05:02,"There's a lot of money chasing fintech, a lot of mistakes will be made + a lot of money will be lost - Spencer Lake  ",1,1,1,0,1,0,0.027953748,0.5087218,0.4633244,Neg,-0.48076808,financialnews
+3706,2017-06-30 12:08:01,"It's a bit rich for fund managers to claim  reforms would have happened anyway, writes   ",1,1,1,0,0,0,0.056839686,0.23667432,0.70648605,Neu,-0.17983463,financialnews
+3721,2017-06-29 11:39:03,"'This study will be good for the future competitiveness of the UK,' says top  executive  ",0,1,1,1,2,0,0.92148685,0.0109918555,0.06752127,Pos,0.910495,financialnews
+3751,2017-06-27 15:55:04,". has proposed measures that would help both consumers and, in the long term, the funds industry itself  ",1,1,1,0,0,0,0.82689977,0.007882961,0.16521728,Pos,0.8190168,financialnews
+3752,2017-06-27 15:39:05,Asset managers fear  final report could force funds to disclose a single all-in fee  ,0,1,1,0,4,2,0.009710478,0.9045517,0.08573776,Neg,-0.8948412,financialnews
+3767,2017-06-27 07:39:00,Will the  study bring funds’ inner workings into the light?  ,0,0,1,0,2,1,0.119788915,0.013811307,0.86639977,Neu,0.10597761,financialnews
+3769,2017-06-27 07:37:03,Euro-clearing land grabbers can still return under a new name   by  Brexit  ,0,0,1,0,0,0,0.06229356,0.010024229,0.9276822,Neu,0.052269332,financialnews
+3777,2017-06-26 14:01:05,. kicks off her new weekly column with this poser: Should I cancel my holiday to prove my commitment?  ,0,0,1,0,0,0,0.038207125,0.16217002,0.79962283,Neu,-0.123962894,financialnews
+3784,2017-06-26 11:18:00,"""The industry should be scared,"" says  ahead of  final report on the asset management sector  ",1,1,1,0,0,1,0.06367165,0.6545113,0.28181708,Neg,-0.5908396,financialnews
+3785,2017-06-26 07:50:03,The Careerologist: Should I cancel my holiday to prove my commitment?  kicks off a new weekly column  ,0,0,1,0,1,0,0.03099941,0.06939633,0.89960426,Neu,-0.03839692,financialnews
+3793,2017-06-23 13:48:04,"Miriam Gonzalez says indefinite Brexit transition would ensure UK businesses don't ""need to cope with change twice""  ",0,1,1,0,1,0,0.500304,0.025438152,0.4742579,Pos,0.47486582,financialnews
+3801,2017-06-23 11:10:01,"EU trade expert Miriam Gonzalez says Brexit talks can work, but is concerned about UK government's preparedness  ",1,1,1,0,1,0,0.7021152,0.19029574,0.10758911,Pos,0.5118194,financialnews
+3802,2017-06-23 10:00:01,"Five decisions fund managers and brokers must make on MifidII, according to   ",0,1,1,0,1,2,0.024684824,0.023087934,0.9522273,Neu,0.0015968904,financialnews
+3825,2017-06-21 16:53:01,Funds offering liquidity in illiquid assets could cause untold problems if the market turns  ,0,1,1,0,1,0,0.011139262,0.9512249,0.037635855,Neg,-0.94008565,financialnews
+3866,2017-06-19 07:49:00,. Public must beware the risks of bitcoin  ,0,0,1,0,1,0,0.043110948,0.057340078,0.89954895,Neu,-0.01422913,financialnews
+3875,2017-06-16 14:44:05,. Now May has lost her mandate for a hard Brexit she should take my advice + pursue a Norway option  ,1,1,1,1,2,2,0.15756918,0.15026526,0.6921655,Neu,0.0073039234,financialnews
+3880,2017-06-16 10:42:05,. says an EU relationship similar to Norway's could be a solution for the UK that suits everyone Brexit  ,0,1,1,1,2,0,0.80317533,0.010929872,0.18589479,Pos,0.79224545,financialnews
+3881,2017-06-16 10:16:04,. tells  'No way Brussels will allow a deal that leaves Britain in a better place'  ,0,1,1,0,4,0,0.45101583,0.04124863,0.50773555,Neu,0.4097672,financialnews
+3893,2017-06-15 15:41:04,"Investors must not be dissuaded by US climate change U-turn, says  Fiona Reynolds   ",1,1,1,0,2,2,0.080175966,0.40260378,0.51722026,Neu,-0.3224278,financialnews
+3905,2017-06-15 08:17:02,"Ripping up the European rulebook in a bonfire of regulation would have no benefit, says    Brexit",0,1,1,0,1,0,0.04367238,0.22376405,0.73256356,Neu,-0.18009166,financialnews
+3947,2017-06-13 07:42:01,"The recent terror attacks have not targeted the City - but finance execs must be vigilant, writes   ",1,1,1,0,2,0,0.036254235,0.06434369,0.8994021,Neu,-0.028089456,financialnews
+3961,2017-06-12 08:17:01,"Private equity veteran Jon Moulton: Election result will ""enormously weaken"" UK's Brexit negotiating position  ",0,0,1,0,2,0,0.012014661,0.9666245,0.021360883,Neg,-0.9546098,financialnews
+3962,2017-06-12 08:14:03,Terra Firma's Guy Hands says we'll now get the kind of Brexit that nobody who voted Leave will have wanted  ,1,1,1,0,1,0,0.21663548,0.020085497,0.7632791,Neu,0.19654998,financialnews
+3965,2017-06-12 08:10:03,"Hard Brexit opponents should put their celebrations on hold, writes   ",0,0,1,0,1,0,0.010854177,0.8909363,0.09820963,Neg,-0.88008213,financialnews
+3978,2017-06-09 10:37:01,'Investors should caution against chasing any initial moves in UK assets' -  Mike Amey  ,0,1,1,0,1,0,0.057977326,0.09291625,0.84910643,Neu,-0.034938924,financialnews
+3979,2017-06-09 10:24:01,Mood of fund managers was captured by  The hope would be result leads to a softer stance on Brexit  ,1,0,1,0,0,0,0.5681056,0.27721384,0.15468065,Pos,0.29089174,financialnews
+3987,2017-06-09 08:25:03,"If anything can be taken from confused result it's that electorate doesn't want hard Brexit, Colin McLean   ",1,1,1,0,0,0,0.07419328,0.040982537,0.8848242,Neu,0.03321074,financialnews
+3999,2017-06-09 07:31:02,"""Another Tory leadership race would damage the party and delay a stable Cabinet"" -  Philip Shaw  ",0,0,1,0,1,0,0.009966684,0.9360619,0.053971425,Neg,-0.92609525,financialnews
+4000,2017-06-09 07:29:02,"""This is the result markets feared... international confidence in the UK will suffer"" -  Dominic Rossi  ",1,1,1,0,2,0,0.011545167,0.963346,0.025108779,Neg,-0.9518008,financialnews
+4001,2017-06-09 07:27:04,"Dean Turner  Search for new leader would mean ""the crucial Brexit negotiating position will be even less clear""  ",0,1,1,0,1,0,0.012749958,0.90680593,0.08044414,Neg,-0.89405596,financialnews
+4013,2017-06-08 13:24:03,". co-CEO says that while having two heads at the makes sense now, it won't in the long term  ",0,1,1,0,0,1,0.04613087,0.035074525,0.91879463,Neu,0.011056345,financialnews
+4048,2017-06-06 10:44:03,Bankers are searching for answers on why UK M&A has begun to slow + whether the trend will hold after the election  ,1,1,1,0,1,0,0.016147234,0.9364203,0.047432397,Neg,-0.92027307,financialnews
+4055,2017-06-06 07:09:00,UK dealmakers hope GeneralElection will jump-start stalling M&A  ,0,1,1,0,3,0,0.30372766,0.64741415,0.048858162,Neg,-0.3436865,financialnews
+4058,2017-06-05 15:42:04,"City execs responding to FN poll complain Brexit is being mishandled and that it will be a ""car crash""  ",1,1,1,0,2,2,0.010925391,0.9445864,0.044488285,Neg,-0.933661,financialnews
+4073,2017-06-05 10:37:01,blockchain salaries go parabolic: ‘You can make a fortune’  ,0,1,1,0,2,0,0.07006828,0.036571164,0.89336056,Neu,0.033497114,financialnews
+4102,2017-06-01 07:15:01,Emerging markets should make investors feel morally queasy by   ,1,1,1,0,0,0,0.08284205,0.70943815,0.20771982,Neg,-0.6265961,financialnews
+4103,2017-06-01 07:11:03,NHS hospitals struggling to cope with rising ‘bed blocking’ stats could have an unlikely ally: a $15bn hedgefund    ,1,1,1,0,5,1,0.6252126,0.019376976,0.35541043,Pos,0.6058356,financialnews
+4136,2017-05-26 12:40:05,.   + others say senior banking execs should take cybersecurity seriously  ,0,1,1,0,2,3,0.155363,0.02284729,0.82178974,Neu,0.1325157,financialnews
+4163,2017-05-25 12:02:05,How can incumbent banks can fend off competition from 'tech-banks'? One  banker has the answer  ,0,1,1,0,0,1,0.08046443,0.020018393,0.89951724,Neu,0.06044604,financialnews
+4169,2017-05-25 08:30:03,"For Google, Amazon, Facebook and Apple, creating a financial platform could be quick work, says one Lazard banker  ",0,1,1,0,0,1,0.4188798,0.009722384,0.5713977,Neu,0.40915743,financialnews
+4186,2017-05-24 08:52:03,. on why the City should thank its email prankster  ,0,0,1,0,2,1,0.058312178,0.04591885,0.895769,Neu,0.012393329,financialnews
+4192,2017-05-23 13:40:05,. and  tell an FN audience: City must speak up on Brexit and Westminster must listen  ,0,0,1,0,0,0,0.055030234,0.023862775,0.921107,Neu,0.031167459,financialnews
+4194,2017-05-23 13:23:03,Pessimists say cuts to asset management fees will hurt remuneration - the optimists are not so sure   by ,0,1,1,0,0,2,0.0339511,0.93165046,0.034398384,Neg,-0.89769936,financialnews
+4204,2017-05-23 08:28:05,The pressures on fund managers may not hit their pay packets by   ,0,0,1,0,0,0,0.06874549,0.74061894,0.1906355,Neg,-0.67187345,financialnews
+4207,2017-05-23 07:49:02,FN this morning hosts  and  to debate how Brexit will shape the UK GeneralElection,0,0,1,0,2,0,0.03576791,0.037080813,0.92715126,Neu,-0.0013129041,financialnews
+4209,2017-05-22 15:15:03,CMA to look at whether the  and  tie-up will 'reduce competition' in fund management  ,0,0,1,0,0,1,0.8336748,0.010861654,0.1554636,Pos,0.82281315,financialnews
+4222,2017-05-19 13:10:05,M&A advisers say a Tory gov could find it harder than it thinks to enforce tough new rules governing takeovers  ,0,1,1,0,2,0,0.015614473,0.9467894,0.03759614,Neg,-0.93117493,financialnews
+4229,2017-05-19 08:55:00,"Macron (and Europe) must stay alert to variety of populist threats, writes   ",0,0,1,0,0,1,0.2633014,0.020374514,0.7163241,Neu,0.2429269,financialnews
+4239,2017-05-18 13:49:04,"Numis fights back after Schroders knockdown, now others must weigh in, writes   ",1,0,1,0,1,0,0.21065672,0.07223336,0.7171099,Neu,0.13842335,financialnews
+4247,2017-05-18 09:03:01,One US advisory firm is convinced brexit will do little to damage London's reputation as a hub for tech investment  ,1,1,1,0,0,0,0.27663478,0.6665198,0.05684539,Neg,-0.38988504,financialnews
+4255,2017-05-17 16:07:04,Working with FinTechs is not straightforward and the risks can be huge for banks  ,0,1,1,0,0,1,0.03757395,0.23746102,0.72496504,Neu,-0.19988707,financialnews
+4265,2017-05-17 08:36:05,. Hans-Helmut Kotz on why Germany will lose if Macron fails  ,1,0,1,0,3,0,0.051031455,0.18731886,0.7616496,Neu,-0.1362874,financialnews
+4271,2017-05-16 14:54:04,Senior Managers Regime will end the era of dealmakers being promoted into manager roles they don't want to focus on  ,1,1,1,0,1,1,0.035315264,0.07326631,0.89141846,Neu,-0.03795105,financialnews
+4275,2017-05-16 14:05:03,Sign up for FN’s Breakfast Panel: How Brexit will shape the UK elections  ,1,0,1,0,1,0,0.050630476,0.023973402,0.92539614,Neu,0.026657075,financialnews
+4279,2017-05-16 11:53:00,Esma: City firms must bear responsibility for regtech risks  ,0,0,1,0,0,1,0.040343303,0.025306383,0.93435025,Neu,0.01503692,financialnews
+4329,2017-05-11 16:30:01,"If Macron and Trump can do it, then perhaps the next businessman to seek the highest office should be Jamie Dimon  ",0,0,1,1,1,1,0.1555343,0.014357839,0.83010787,Neu,0.14117646,financialnews
+4334,2017-05-11 12:44:03,". chairman and CEO Jamie Dimon should run for President (even if he won’t), writes     ",1,0,1,0,2,0,0.08500966,0.02815082,0.8868395,Neu,0.056858838,financialnews
+4335,2017-05-11 12:31:04,. tells FN Frankfurt won't gold-plate rules for businesses moving to the city because of Brexit  ,0,1,1,0,1,0,0.049905874,0.027341103,0.9227531,Neu,0.02256477,financialnews
+4346,2017-05-10 14:25:00,. top dealmakers hope a focus on relationships will help a bumper start to the year continue  ,0,1,1,0,0,0,0.93878406,0.023009053,0.038206913,Pos,0.915775,financialnews
+4370,2017-05-09 07:59:05,"Macron win can’t mask market risks, writes     ",0,0,1,0,0,0,0.14603756,0.027290082,0.8266723,Neu,0.11874748,financialnews
+4385,2017-05-08 08:18:01,"'Macron only offers upside surprises,' says  Bill Street. More reaction to MacronPresident here  ",0,1,1,0,0,0,0.074432574,0.13826743,0.78730005,Neu,-0.06383485,financialnews
+4394,2017-05-05 14:41:02,"If we change the incentives, we just might finally see business investment make a comeback, writes Jim O'Neill  ",0,1,1,0,0,0,0.81007856,0.014519587,0.17540179,Pos,0.795559,financialnews
+4403,2017-05-05 09:06:05,Eurosceptics could end up regretting imminent election triumph by     ,0,1,1,0,0,0,0.015836786,0.9005665,0.08359669,Neg,-0.88472974,financialnews
+4406,2017-05-04 15:44:02,Deaths rise may lie behind pensions deals hiatus  ,0,1,1,0,0,0,0.060729917,0.892386,0.0468841,Neg,-0.8316561,financialnews
+4409,2017-05-04 13:30:05,". whistleblowing review will show if City is serious on herd mentality, writes William Granger     ",0,1,1,0,1,1,0.09005489,0.14899467,0.76095045,Neu,-0.058939777,financialnews
+4425,2017-05-03 11:29:05,Assets in robotics-focused funds have leaped - but some analysts say the fever could be just a fad  ,1,1,1,0,1,0,0.09195264,0.82308966,0.0849577,Neg,-0.73113704,financialnews
+4445,2017-05-02 08:46:03,. Stephen S. Roach on why better GDP should make us question our macroeconomic views  ,0,0,1,0,1,0,0.2708296,0.04240181,0.68676853,Neu,0.22842778,financialnews
+4463,2017-04-28 09:08:02,Can I force my employer to pay the bonus my MD promised? by  lawyers Caroline Stroud and    ,1,0,1,0,2,1,0.09905946,0.025197402,0.87574315,Neu,0.07386206,financialnews
+4469,2017-04-27 15:27:04,.   on how fintech firms can sell their products  ,0,0,1,0,0,1,0.06328629,0.011199702,0.925514,Neu,0.052086588,financialnews
+4470,2017-04-27 15:21:03,. on how London can remain Europe's leading financial centre after Brexit  ,0,1,1,0,0,1,0.24260052,0.010874272,0.74652517,Neu,0.23172624,financialnews
+4471,2017-04-27 15:15:01,Fintech leaders tell FN audience that startups shouldn't expect to just 'waltz' into JP Morgan and strike a deal  ,0,1,1,0,0,2,0.061283067,0.03229881,0.90641814,Neu,0.028984256,financialnews
+4481,2017-04-27 10:04:02,"Status of EU nationals could determine London’s post-Brexit future, writes      ",1,0,1,0,0,0,0.04014452,0.18545634,0.7743991,Neu,-0.14531182,financialnews
+4487,2017-04-26 13:52:05,Ken Moelis: we could ‘easily’ double headcount  ,0,0,1,0,0,0,0.32813144,0.025136357,0.6467322,Neu,0.3029951,financialnews
+4492,2017-04-26 11:20:04,'Close friends' will do the City no favours in Brexit talks   Thanks  ,0,1,1,0,2,2,0.05791009,0.61010337,0.33198652,Neg,-0.5521933,financialnews
+4500,2017-04-25 16:52:00,"Andrew Tyrie, chair of the influential Treasury Select Committee, will call it a day at the June general election  ",0,0,1,0,0,0,0.01862489,0.058314342,0.9230607,Neu,-0.03968945,financialnews
+4547,2017-04-20 14:19:00,". must keep a lid on bonus pool, says  analyst  ",0,1,1,0,1,1,0.054249257,0.13808906,0.80766165,Neu,-0.083839804,financialnews
+4571,2017-04-18 13:53:03,'Putting Brexit plans on hold would be a risky approach for banks' GeneralElection2017  ,0,1,1,0,1,0,0.024058362,0.6647179,0.3112237,Neg,-0.6406596,financialnews
+4572,2017-04-18 13:28:05,"Greece can take heat out of debt woe with Icelandic model, says  Neil Dwane  ",0,1,1,0,0,0,0.8258902,0.011291201,0.16281863,Pos,0.814599,financialnews
+4575,2017-04-18 13:03:00,Fund managers: election will give PM a stronger Brexit hand  ,0,0,1,0,0,0,0.9017146,0.013062727,0.08522262,Pos,0.8886519,financialnews
+4582,2017-04-13 17:07:03,"New trade deals can spark controversy, but it's unlikely protectionism will win, says  Daniel Gros  ",0,1,1,1,2,1,0.3688471,0.28210962,0.3490433,Pos,0.086737484,financialnews
+4599,2017-04-12 14:04:02," Hinrikus, one of the best-known fintech entrepreneurs: I would not set up in London today  ",0,0,1,0,0,0,0.058040198,0.017410677,0.9245491,Neu,0.04062952,financialnews
+4606,2017-04-12 09:02:01,". Roubini: why DonaldTrump should tax the rich, but won’t  ",1,0,1,0,0,0,0.11182399,0.027855746,0.86032027,Neu,0.083968244,financialnews
+4607,2017-04-11 16:34:03,"Banks moving to EU could need a year to get license – ECB, via   ",0,1,1,0,0,0,0.111511655,0.019245503,0.86924285,Neu,0.09226615,financialnews
+4615,2017-04-11 13:00:02,New references system to catch bad apples in UK finance could turn disciplinary processes into battlegrounds  ,0,0,1,0,0,0,0.023238981,0.7658201,0.2109409,Neg,-0.7425811,financialnews
+4630,2017-04-10 17:27:04,Investment banking used to be an young person's game. Now it can't get rid of its chiefs  ,1,0,1,0,1,0,0.030396141,0.24358806,0.7260158,Neu,-0.21319193,financialnews
+4634,2017-04-10 15:37:01,Barclays probe can encourage more Whistleblowing say lawyers and consultants  ,0,1,1,0,1,1,0.07002211,0.43816385,0.49181402,Neu,-0.36814174,financialnews
+4661,2017-04-07 11:11:01,"Saudi's improvements to Aramco's governance must continue into its post-IPO era, writes  Alissa Amico  ",0,1,1,0,0,0,0.8817824,0.008390916,0.10982665,Pos,0.8733915,financialnews
+4664,2017-04-07 08:55:05,For  good governance must begin at home   by Alissa Amico   ,0,0,1,0,0,0,0.0746279,0.01610391,0.90926814,Neu,0.05852399,financialnews
+4668,2017-04-06 16:58:04,City workers will soon be able to read emails and check on markets for free anywhere within the Square Mile  ,0,0,1,0,1,1,0.14061315,0.011645104,0.8477417,Neu,0.12896805,financialnews
+4669,2017-04-06 16:47:04,"What the EU can teach DonaldTrump about the art of a deal, by  Harold James    ",0,0,1,0,1,0,0.06496193,0.01942184,0.91561615,Neu,0.045540094,financialnews
+4679,2017-04-06 08:37:00,. hopes $1bn investing pledge will ’embolden others’  ,0,1,1,1,4,16,0.9419146,0.016482206,0.041603196,Pos,0.9254324,financialnews
+4680,2017-04-06 08:35:04,Will the UK’s new gender pay gap rules help me?   responds    ,1,0,1,0,1,1,0.29913417,0.034805216,0.6660607,Neu,0.26432896,financialnews
+4683,2017-04-06 08:30:02,What Europe can teach Trump about the art of a deal by Harold James     ,0,0,1,0,1,0,0.061149854,0.025040083,0.91381,Neu,0.03610977,financialnews
+4690,2017-04-05 10:09:02,ICYMI:  says bankers should be happier than fund managers  ,0,1,1,0,1,0,0.09091431,0.031299878,0.87778574,Neu,0.05961443,financialnews
+4711,2017-04-04 07:55:01,. - Bankers should be happier than fund managers  ,0,0,1,0,3,3,0.07607844,0.049337126,0.87458444,Neu,0.026741311,financialnews
+4717,2017-04-03 12:16:00,"After Dutch election + hopes of centrist win in France, Europe could be role model for global politics by   ",0,1,1,0,0,0,0.34167397,0.010915453,0.64741063,Neu,0.3307585,financialnews
+4721,2017-04-03 11:52:02,"Bankers aren't as worried about brexit as you might expect, but they've plenty on their minds, writes   ",1,1,1,0,1,0,0.10103698,0.05805304,0.84091,Neu,0.04298394,financialnews
+4729,2017-03-31 12:59:00,Five reasons fintech fears London may lose its crown after Brexit    ,0,0,1,0,1,1,0.015136249,0.9083162,0.07654756,Neg,-0.89317995,financialnews
+4735,2017-03-31 10:48:01,"Firms unprepared for MifidII must squeeze years’ work into months, says consultancy Bovill   ",1,1,1,0,2,0,0.017346984,0.8768831,0.10576994,Neg,-0.8595361,financialnews
+4741,2017-03-30 15:49:01,. James Cowles tells staff he aims to limit impact on employees + that London will remain the bank’s Emea HQ  ,0,1,1,0,0,0,0.123323604,0.023082938,0.85359347,Neu,0.10024066,financialnews
+4773,2017-03-28 14:32:00,"China must resist the temptation to rule the world, by Stephen S. Roach     ",0,0,1,0,0,0,0.098214276,0.022670489,0.8791152,Neu,0.07554379,financialnews
+4776,2017-03-28 13:34:04,"Scrapping EU rules could create 40,000 City jobs   Brexit",0,1,1,0,1,0,0.009076096,0.96421015,0.026713775,Neg,-0.95513403,financialnews
+4777,2017-03-28 13:33:00,China must resist the temptation to rule the world   by,0,0,1,0,1,1,0.08942447,0.020404747,0.89017075,Neu,0.06901972,financialnews
+4782,2017-03-28 10:30:03,. and   Culture will keep us apart  ,0,0,1,0,0,1,0.058069788,0.057073962,0.8848562,Neu,0.000995826,financialnews
+4804,2017-03-24 14:52:04,Economists must bridge the gulf with man on the street  ,0,0,1,0,2,0,0.22886647,0.037237372,0.7338962,Neu,0.1916291,financialnews
+4816,2017-03-24 08:47:01,"City’s experts must address a gulf of understanding, writes   ",0,0,1,0,1,1,0.54110855,0.012139574,0.44675186,Pos,0.528969,financialnews
+4829,2017-03-23 09:07:00,France hopes Parisian charm can lure more than HSBC  ,0,1,1,0,1,1,0.8453306,0.009063181,0.14560619,Pos,0.8362674,financialnews
+4849,2017-03-21 13:57:04,. Europe CEO: bank will start moving staff before Brexit  ,0,1,1,0,2,2,0.071757,0.39763045,0.5306126,Neu,-0.32587343,financialnews
+4855,2017-03-21 11:50:01,Carney: Hogg’s mistake should not mean tougher rules for bank bosses  ,1,0,1,0,1,0,0.09378544,0.37581852,0.530396,Neu,-0.2820331,financialnews
+4872,2017-03-20 16:03:05,Investment banks must consider radical action to keep equities plate spinning  ,0,1,1,0,1,1,0.28225347,0.13733245,0.58041406,Neu,0.14492102,financialnews
+4874,2017-03-20 15:26:05,Where will the axe fall at Aberdeen-Standard Life?  ,0,0,1,0,0,0,0.023829458,0.102401584,0.8737689,Neu,-0.078572124,financialnews
+4885,2017-03-20 09:07:00,.  - where the cuts could come    ,0,0,1,0,0,0,0.044561468,0.078523286,0.8769152,Neu,-0.033961818,financialnews
+4887,2017-03-20 08:55:05,Banks must consider radical action to keep equities plate spinning by   ,0,1,1,0,1,0,0.22891809,0.28154668,0.4895352,Neu,-0.05262859,financialnews
+4888,2017-03-20 08:27:02,Standard Life-Aberdeen: where the cuts could come - by   ,0,0,1,0,0,0,0.03612907,0.037724625,0.92614627,Neu,-0.0015955567,financialnews
+4899,2017-03-17 10:51:02,Three indicators the eurozone will survive… for now - via   ,0,0,1,0,0,0,0.6578512,0.016357558,0.32579127,Pos,0.6414937,financialnews
+4900,2017-03-17 10:22:02,The eurozone will survive… for now says Daniel Gros of   ,0,1,1,0,0,0,0.82671046,0.017449312,0.15584023,Pos,0.80926114,financialnews
+4901,2017-03-17 10:16:03,The eurozone will survive… for now says Daniel Gros of   ,0,1,1,1,1,1,0.82671046,0.017449312,0.15584023,Pos,0.80926114,financialnews
+4908,2017-03-16 15:45:00,. David Pitt Watson and Tracy Blackwell on why we all must rediscover the purpose of finance  ,0,0,1,0,2,2,0.08052379,0.016940357,0.90253586,Neu,0.06358343,financialnews
+4910,2017-03-16 12:43:03,Why we all must rediscover the purpose of finance by David Pitt Watson and Tracy Blackwell   ,0,0,1,0,1,2,0.07735075,0.021017332,0.9016319,Neu,0.05633342,financialnews
+4920,2017-03-15 17:10:03,London’s clearing houses can ‘win’ from EU oversight – S&P  ,1,1,1,0,0,0,0.46451816,0.016726851,0.51875496,Neu,0.4477913,financialnews
+4921,2017-03-15 16:40:03,Additional EU oversight could suit UK’s clearing houses  ,1,0,1,0,1,1,0.27366406,0.01846627,0.70786965,Neu,0.2551978,financialnews
+4956,2017-03-13 14:09:01,Who could replace Stuart Gulliver as CEO of  ,0,0,1,0,2,1,0.025682941,0.045911483,0.92840564,Neu,-0.020228542,financialnews
+4963,2017-03-13 08:39:04,. deal with  could be part of a wave of fund manager mergers by   ,0,0,1,0,4,1,0.028769543,0.13523406,0.83599645,Neu,-0.10646451,financialnews
+4966,2017-03-13 08:31:02,Ides of March could be a critical turning point for the stock market   via   ,0,0,1,0,1,1,0.3871119,0.05138212,0.561506,Neu,0.33572978,financialnews
+4970,2017-03-10 12:12:03,How Berlin’s fintech scene could gain from Brexit   via ,1,0,1,0,2,0,0.10694483,0.014720961,0.87833416,Neu,0.09222387,financialnews
+5045,2017-02-28 16:03:02,EU acts tough on brexit – and it could mean a bruising trade war - via   ,0,1,1,0,0,0,0.019754415,0.9132237,0.067021884,Neg,-0.8934693,financialnews
+5049,2017-02-28 12:46:05,"Fund managers will follow banks to pay plateau, writes   ",0,0,1,0,1,0,0.05680589,0.031306174,0.9118879,Neu,0.025499716,financialnews
+5055,2017-02-28 08:12:04,Fund managers will follow banks to pay plateau  ,0,0,1,0,1,1,0.045019075,0.038174786,0.9168061,Neu,0.0068442896,financialnews
+5073,2017-02-27 12:01:01,"Ranieri sacking shows fund managers should count their blessings, writes   ",0,0,1,0,1,0,0.06355932,0.80416214,0.13227853,Neg,-0.74060285,financialnews
+5088,2017-02-24 12:08:02,hedgefunds usually dip quickly in and out of markets. But some are looking at ways they can invest for longer    ,0,1,1,0,1,1,0.050803773,0.081213795,0.8679824,Neu,-0.030410022,financialnews
+5111,2017-02-23 08:12:04,"Shrinking investment banks can’t make enough money, finds Coalition    ",0,1,1,0,2,0,0.033649135,0.5601842,0.40616667,Neg,-0.52653503,financialnews
+5117,2017-02-22 11:42:01,"While erecting trade barriers hurts both sides, the larger of the two economies will probably fare better brexit  ",0,1,1,0,1,0,0.907991,0.01729351,0.07471545,Pos,0.8906975,financialnews
+5199,2017-02-15 13:04:02,. Europe chief: ‘London will remain our hub’    ,0,0,1,0,3,0,0.3437272,0.009190407,0.6470824,Neu,0.3345368,financialnews
+5200,2017-02-15 12:30:01,Citigroup’s Europe chief: ‘London will remain our hub’  ,0,0,1,0,2,1,0.68547183,0.009136295,0.30539188,Pos,0.6763355,financialnews
+5203,2017-02-15 10:15:05,Lawyers say financial firms must be realistic about what the UK can achieve in Brexit talks with the EU  ,0,1,1,0,1,0,0.15529965,0.2132704,0.6314299,Neu,-0.057970747,financialnews
+5206,2017-02-15 10:12:03,. CEO Michael Spencer: Too early to tell if Trump bump will last  ,0,0,1,0,1,0,0.030459434,0.031162009,0.9383786,Neu,-0.00070257485,financialnews
+5216,2017-02-14 13:33:04,City investment chiefs say fund managers must be allowed to reward talent  ,1,1,1,0,3,0,0.041999146,0.20740835,0.75059247,Neu,-0.1654092,financialnews
+5230,2017-02-13 14:33:00,Wall Street taps along to the deregulation beat. But the odds are that the UK and Europe won't be joining in    ,0,1,1,0,0,0,0.10681883,0.055183727,0.83799744,Neu,0.051635105,financialnews
+5232,2017-02-13 12:54:04,hedgefunds must come to terms with higher regulatory costs and falling fees in a time of poor performance  ,0,1,1,0,0,0,0.32872236,0.602487,0.06879059,Neg,-0.27376467,financialnews
+5239,2017-02-13 10:15:00,. could benefit from Trump’s Dodd-Frank overhaul  ,1,0,1,0,0,0,0.28685105,0.0068972628,0.70625174,Neu,0.27995378,financialnews
+5245,2017-02-10 16:50:02,"US banks will stretch lead over European rivals with Dodd-Frank rollback, writes  Roy C Smith for FN  ",0,1,1,0,1,2,0.8606694,0.031313144,0.10801744,Pos,0.82935625,financialnews
+5246,2017-02-10 15:05:01,Here are the top three reasons why a hedgefund might relocate    ,0,1,1,0,0,1,0.03023208,0.053366862,0.9164011,Neu,-0.023134783,financialnews
+5252,2017-02-10 12:39:03,"US banks will stretch lead with Dodd-Frank rollback, writes Roy C Smith of   ",0,1,1,0,0,1,0.7095057,0.04492325,0.24557103,Pos,0.66458243,financialnews
+5262,2017-02-10 07:46:03,European banks should not get too excited about dismantling Dodd-Frank by Roy C Smith   ,1,1,1,0,1,2,0.047849394,0.03879134,0.91335934,Neu,0.009058055,financialnews
+5295,2017-02-08 10:40:00,"Brexit may push 30,000 finance jobs from UK, says   ",0,1,1,0,0,1,0.02387904,0.94891983,0.027201025,Neg,-0.9250408,financialnews
+5299,2017-02-08 09:12:02,ICYMI - ICE chief Jeff Sprecher: Europe will follow US in reviewing regulation  ,0,1,1,0,0,0,0.11925296,0.010091606,0.8706554,Neu,0.109161355,financialnews
+5303,2017-02-07 15:38:03,ICE chief: Europe will follow US in reviewing regulation  ,0,1,1,0,0,0,0.10172843,0.010737275,0.88753426,Neu,0.090991154,financialnews
+5308,2017-02-07 13:28:05,"Resigning during bonus season could have a significant effect on you financially, writes  partner  ",0,1,1,0,0,0,0.009116058,0.93597543,0.054908514,Neg,-0.9268594,financialnews
+5320,2017-02-06 15:59:04,. Bill Gross: Central bankers may be trapped in QE forever  ,1,0,1,0,0,1,0.014289407,0.85798246,0.12772809,Neg,-0.8436931,financialnews
+5326,2017-02-06 11:35:03,. 2017 could be turning point for exec pay  ,0,1,1,0,1,2,0.46945605,0.024994027,0.50554997,Neu,0.44446203,financialnews
+5331,2017-02-06 07:58:01,. private equity chiefs: M&A will pick up  ,0,0,1,0,1,1,0.24255414,0.01021927,0.7472266,Neu,0.23233487,financialnews
+5332,2017-02-06 07:55:01,"Why  STJ Advisors and Marlborough Partners should consider tying the knot, but won’t by     ",1,1,1,0,1,0,0.07697433,0.041683313,0.8813424,Neu,0.03529102,financialnews
+5348,2017-02-03 08:05:01,Calstrs says it can no longer earn 7.5%   via ,0,1,1,0,0,0,0.016830599,0.6341307,0.34903863,Neg,-0.6173001,financialnews
+5358,2017-02-02 12:52:02,"On current trends, passive funds will overtake active ones by 2024, according to Moody's  ",0,1,1,0,1,0,0.1686762,0.010143549,0.8211803,Neu,0.15853265,financialnews
+5361,2017-02-02 11:13:00,Fleming needs to make sense of  acquisitions for clients so that he can put the brake on outflows  ,0,1,1,0,0,0,0.1745855,0.012808693,0.81260586,Neu,0.16177681,financialnews
+5375,2017-02-01 11:51:05,"‘I’m an Iraqi in the City, how will the TrumpBan affect me?’  ",0,1,1,0,0,0,0.06480297,0.09164756,0.84354943,Neu,-0.02684459,financialnews
+5377,2017-02-01 11:13:02,"Fund managers may find critics’ pleas fall on deaf ears, writes   ",0,1,1,0,0,0,0.012383284,0.91167617,0.07594053,Neg,-0.8992929,financialnews
+5378,2017-02-01 11:12:04,Deutsche Börse CEO: City must beware ‘ferocious’ competition  ,0,0,1,0,0,1,0.058114003,0.4329415,0.5089445,Neu,-0.3748275,financialnews
+5384,2017-01-31 13:58:02,"'I’m an Iraqi in the City, how will the TrumpBan affect me?’ lawyers respond  ",0,1,1,0,5,3,0.03889979,0.1791082,0.781992,Neu,-0.14020841,financialnews
+5389,2017-01-31 11:25:03,"‘I’m an Iraqi in the City, how will the Trump ban affect me?’  ",0,1,1,0,0,0,0.043284707,0.15521273,0.8015025,Neu,-0.11192802,financialnews
+5390,2017-01-31 11:15:00,Jeff Sprecher: Trump will bring ‘fundamental change’ to financial regulation   ,0,0,1,0,0,1,0.31714973,0.009254907,0.6735953,Neu,0.30789483,financialnews
+5423,2017-01-30 07:28:00,CEO of one fund management firm says TrumpBan could be to the advantage of the City and the UK as a whole  ,0,1,1,0,0,0,0.21200706,0.011523583,0.7764693,Neu,0.20048347,financialnews
+5498,2017-01-23 13:37:02,US banks’ dominance will ‘start fading’ -  analysts  ,0,1,1,0,0,0,0.058560386,0.4295643,0.51187533,Neu,-0.37100393,financialnews
+5500,2017-01-23 11:56:01,Bespoke Brexit agreement could remove passport problem -  comments on  report  ,0,0,1,0,1,0,0.028508902,0.18105857,0.7904325,Neu,-0.15254967,financialnews
+5502,2017-01-23 10:49:00,UK should secure ‘mutual market access’ for the City    ,0,0,1,0,2,0,0.80199134,0.00894389,0.18906471,Pos,0.7930474,financialnews
+5506,2017-01-23 08:56:04,Banks must not get carried away at the fixed income party by   ,1,0,1,0,0,0,0.03309693,0.22154462,0.7453584,Neu,-0.1884477,financialnews
+5509,2017-01-23 08:54:03,"Investment managers & consultants will feel the pinch, nowhere more so than on fees, according to FN's CIO Snapshot  ",0,1,1,0,0,0,0.052392542,0.35671028,0.5908972,Neu,-0.30431774,financialnews
+5510,2017-01-23 08:53:05,"Increasing volatility will be a key investment theme for CIOs in 2017, FN's CIO Snapshot finds    ",0,1,1,0,4,2,0.7296104,0.016986797,0.2534028,Pos,0.7126236,financialnews
+5530,2017-01-20 10:18:02,‘I think my pregnancy halted my promotion – what can I do?’   via ,1,1,1,0,0,1,0.050611924,0.110742025,0.838646,Neu,-0.0601301,financialnews
+5532,2017-01-19 15:27:03,Strategists at MFS warn Trump will struggle to meet his pledge to achieve economic growth of 4% a yr     ,0,1,1,0,0,0,0.4487013,0.50862795,0.042670723,Neg,-0.05992666,financialnews
+5534,2017-01-19 15:18:01,Fidelity: Brexit will be “complex and drawn-out”   via ,0,0,1,0,0,0,0.019402709,0.76355094,0.21704635,Neg,-0.74414825,financialnews
+5543,2017-01-19 12:30:05,"European banks will fall short of US rivals, say analysts   via ",0,1,1,0,0,0,0.19060294,0.77358973,0.03580737,Neg,-0.5829868,financialnews
+5551,2017-01-19 10:19:05,The prize for European debt capital markets investment bank of the year could go to any of these nominees:  ,0,0,1,0,0,0,0.049248904,0.01816874,0.9325823,Neu,0.031080164,financialnews
+5552,2017-01-19 10:18:04,Which of these 5 investment banks will be named European M&A House of the Year?  ,1,0,1,0,0,0,0.10701994,0.010421369,0.88255864,Neu,0.096598566,financialnews
+5554,2017-01-19 10:14:02,Which nominee will be named Most Innovative Bank of the year?  ,1,0,1,0,0,0,0.114281796,0.010282642,0.87543565,Neu,0.10399915,financialnews
+5555,2017-01-19 10:12:00,The nominees for Best Independent Adviser can be found here:  ,1,0,1,0,0,1,0.036195964,0.032198314,0.9316057,Neu,0.00399765,financialnews
+5556,2017-01-19 10:09:05,Which banker will be crowned Dealmaker of the Year?  ,1,0,1,0,1,0,0.059400436,0.015256373,0.9253432,Neu,0.044144064,financialnews
+5563,2017-01-18 17:33:02, says governments must help people re-skill to take advantage of rapid technological change    ,0,1,1,0,1,1,0.4084654,0.0083949445,0.58313966,Neu,0.40007043,financialnews
+5568,2017-01-17 13:13:04,May confirms UK will leave EU’s single market   via ,0,1,1,0,2,0,0.049254704,0.10635439,0.84439087,Neu,-0.05709969,financialnews
+5569,2017-01-17 11:12:00,Governments could do worse than investing in infra to aid growth - Martin Gilbert    davos2017,0,1,1,0,1,2,0.029653411,0.39789498,0.5724516,Neu,-0.36824158,financialnews
+5585,2017-01-16 07:08:00,"City bankers must resist pay hikes if they are to make Brexit a success, writes   ",0,1,1,0,0,1,0.7539592,0.14684269,0.09919816,Pos,0.60711646,financialnews
+5605,2017-01-12 13:44:03,Can my employer ban me from social media?  lawyers give an answer  ,0,1,1,0,2,2,0.026481565,0.27811024,0.6954082,Neu,-0.25162867,financialnews
+5608,2017-01-12 10:58:05,Fund managers unsure on new research rules – but will spend less  ,0,1,1,0,1,0,0.1372737,0.02943454,0.83329177,Neu,0.10783916,financialnews
+5609,2017-01-12 10:58:03,"City should push for ‘bespoke equivalence’, say lobby groups  ",0,1,1,0,0,1,0.30233982,0.011861351,0.6857989,Neu,0.29047847,financialnews
+5611,2017-01-11 09:21:03,You can contact FN on news,0,0,1,0,1,1,0.038525615,0.02073617,0.94073826,Neu,0.017789446,financialnews
+5614,2017-01-10 11:13:01,Ex-Barclays ECM boss says there will be limited opportunities in Europe to get IPOs to market  ,0,1,1,0,0,2,0.09248212,0.1027027,0.8048152,Neu,-0.01022058,financialnews
+5635,2017-01-06 11:08:04, Will report this to our tech elves. Thank you!,0,0,1,0,0,1,0.21340363,0.01305113,0.77354527,Neu,0.20035249,financialnews
+5637,2017-01-06 10:00:00,There were some significant people moves over the break you may have missed  ,1,0,1,0,0,0,0.17681816,0.13954718,0.6836347,Neu,0.037270978,financialnews
+5666,2017-01-04 10:14:02,Jamie Dimon: ‘It's true that over-regulation has been holding back growth - big data will prove it one day’  ,1,1,1,0,0,3,0.49790737,0.35214832,0.14994428,Pos,0.14575905,financialnews

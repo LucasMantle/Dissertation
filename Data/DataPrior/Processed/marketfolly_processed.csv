@@ -1,0 +1,268 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-04-03 17:04:04,Eminence Capital boosts Formula One position   $FWONK $FWONA,0,1,0,0,0,1,0.9398969,0.017114159,0.042988937,Pos,0.9227827,marketfolly
+1,2018-03-30 15:45:00,Talks about a lot of Fintwit favs. $MA $V $BKNG $MCO $GOOG $CBG  ,0,0,0,0,1,8,0.07351786,0.020621913,0.9058602,Neu,0.05289595,marketfolly
+2,2018-03-29 21:27:01,"If you care about Time Warner / AT&T etc,  has been tweeting a lot of testimony. $TWX $T",1,1,0,0,0,3,0.03465241,0.035361893,0.9299857,Neu,-0.00070948526,marketfolly
+3,2018-03-29 21:25:04, Concern about pricing pressure or power? Some competitors offer the exact same registrar/privacy protection at much cheaper rates. Maybe they’re just not as top of mind?,0,1,0,0,0,0,0.039573595,0.0869578,0.8734686,Neu,-0.047384202,marketfolly
+4,2018-03-28 17:57:00,What we’re reading  ,0,1,0,0,0,3,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+5,2018-03-28 17:06:05,Bill Ackman / Pershing Square 2017 annual report: already sold Nike & rationale for covering Herbalife short   $NKE $HLF $ADP $HHC $MDLZ $PAH $FNMA $QSR $CMG,1,1,0,0,1,5,0.2006844,0.014837677,0.78447795,Neu,0.18584672,marketfolly
+6,2018-03-27 18:19:01,"And lastly, Tiger Global filed a Form 4 showing they bought a small amount of $APO shares  ",1,1,0,0,0,0,0.040999528,0.04680457,0.91219586,Neu,-0.0058050416,marketfolly
+7,2018-03-27 18:18:02,Also Larry Robbins’ Glenview Capital recently boosted their position size in Newell Brands   $NWL joining a slew of other holders,1,1,0,0,1,3,0.9467485,0.01216419,0.041087378,Pos,0.9345843,marketfolly
+8,2018-03-27 18:17:04,Catching up on recent transactions: Bruce Berkowitz’s Fairholme Capital reduces Heritage Growth Properties position   $SRG,1,1,0,0,0,0,0.22854522,0.009929497,0.76152533,Neu,0.21861573,marketfolly
+9,2018-03-23 19:52:00, Yeah just trying to highlight things others might find relevant/interesting. Let me know if there’s other things worth drawing attention to.,0,1,1,1,0,0,0.043053363,0.034887586,0.922059,Neu,0.008165777,marketfolly
+10,2018-03-21 17:46:03,Latest edition of “what we’re reading”  ,0,1,0,1,2,3,0.06427153,0.022353657,0.91337484,Neu,0.041917875,marketfolly
+11,2018-03-20 15:48:01,Jeff Ubben’s ValueAct Capital increases Trinity Industries exposure   $TRN,1,1,0,0,0,0,0.09259971,0.015344152,0.89205617,Neu,0.07725556,marketfolly
+12,2018-03-20 15:27:03,"Senator Investment Group goes activist on $GOGO, files 13D  ",0,1,0,0,1,0,0.048501614,0.08241705,0.8690814,Neu,-0.033915434,marketfolly
+13,2018-03-16 16:33:02,"Aggregated some interesting hedge fund links you might’ve missed on DE Shaw, Tudor, Coatue, Viking & more  ",1,0,1,0,2,7,0.08592533,0.013891854,0.9001828,Neu,0.07203348,marketfolly
+14,2018-03-16 16:22:02,"Chris Hohn’s TCI Fund goes activist on Altaba, calls for liquidation   $AABA $BABA",0,1,0,0,1,3,0.056491546,0.28661123,0.65689725,Neu,-0.23011968,marketfolly
+15,2018-03-15 16:41:03,ValueAct Capital reduces Armstrong World Industries exposure   $AWI,0,1,0,0,0,0,0.37142414,0.5508464,0.07772943,Neg,-0.17942226,marketfolly
+16,2018-03-13 17:16:05,Eminence Capital orders more Papa Johns Pizza   $PZZA,0,0,0,0,1,1,0.66195464,0.027186558,0.31085882,Pos,0.63476807,marketfolly
+17,2018-03-12 17:27:02,Viking Global discloses US Steel position    $X,0,1,0,0,0,2,0.064927116,0.018457772,0.9166151,Neu,0.046469346,marketfolly
+19,2018-03-08 18:43:01,What We’re Reading this week  ,0,1,0,0,2,6,0.030510584,0.037893474,0.931596,Neu,-0.00738289,marketfolly
+20,2018-03-07 18:37:02,Tiger Global ups TransDigm Group stake   $TDG,0,0,0,0,0,1,0.051165562,0.014172275,0.93466216,Neu,0.036993288,marketfolly
+21,2018-03-06 16:56:00,Lone Pine Capital takes stake in Exact Sciences   $EXAS,0,1,0,0,1,5,0.042509552,0.015977992,0.94151247,Neu,0.02653156,marketfolly
+23,2018-03-01 20:33:04,"  Right, of course. Mainly just trying to gauge what the new consensus ‘baseline’ seems to be & if there’s innovative structures gaining attn",1,1,0,0,0,0,0.12524724,0.00968433,0.8650684,Neu,0.11556291,marketfolly
+24,2018-03-01 20:10:04,"Most common response thus far: around 1.5/20 w/ 1 yr lock. Any other structures you’ve seen? DMs still open, thanks!  ",1,1,0,1,1,2,0.15444738,0.026698869,0.81885374,Neu,0.1277485,marketfolly
+25,2018-02-28 20:06:00,"Another out of the box: the greater of either 1% flat mgmt fee OR 30% incentive, not both.",0,0,0,1,0,2,0.083780065,0.032291185,0.8839288,Neu,0.05148888,marketfolly
+26,2018-02-28 20:04:01,Recents I’ve seen: 1.5/20 w/ lower incentive fee for 3yr lock & even lower for 5 yr lock.,1,1,0,1,0,2,0.27894196,0.60710627,0.113951795,Neg,-0.3281643,marketfolly
+27,2018-02-28 20:02:04,"If you/someone you know launched a l/s fund in recent years, what fee structure was chosen? Would love to aggregate some data. DMs also open",1,1,1,4,0,2,0.03729786,0.014300813,0.94840133,Neu,0.022997048,marketfolly
+28,2018-02-28 17:29:05,Lots of interesting articles in this week’s “what we’re reading”   $FB $GOOG $SFTBY $FXI $TMUS $BA,0,1,0,0,1,7,0.075534,0.017353432,0.9071126,Neu,0.05818057,marketfolly
+29,2018-02-27 18:08:04,Shoutout to  for asking Warren Buffett our question yesterday:    ,0,1,0,0,0,6,0.06553153,0.091648705,0.84281975,Neu,-0.026117176,marketfolly
+31,2018-02-21 16:20:01, Wonder if this plays out like big beer BUD vs craft where large player just starts buying a bunch of smaller threats.,0,1,0,2,0,1,0.042634767,0.05197112,0.90539414,Neu,-0.009336352,marketfolly
+32,2018-02-18 17:28:04,"Some interesting charts this week, scroll through the thread.  ",0,0,0,0,0,0,0.051905297,0.024764791,0.9233299,Neu,0.027140506,marketfolly
+33,2018-02-15 01:55:04, It’s 1 thing to have card penetration but another to actually use them. Japan 2 on list but one of most cash oriented societies still.,1,1,0,0,0,9,0.111181,0.010366994,0.878452,Neu,0.10081401,marketfolly
+34,2018-02-14 21:29:03,"Pretty much every major 13F filing thus far: buy either $GOOG, $TWX, or $MSFT. The end.",0,1,0,1,3,24,0.02427998,0.030705988,0.94501406,Neu,-0.0064260084,marketfolly
+36,2018-02-14 19:23:03,Great chapter in a great book. Check it out.  ,0,0,0,1,0,4,0.09920787,0.014274435,0.8865177,Neu,0.08493344,marketfolly
+37,2018-02-14 15:57:01,HFs: *cough*lookoverhere*cough*  ,0,0,0,0,1,1,0.027603833,0.48159456,0.4908016,Neu,-0.45399073,marketfolly
+38,2018-02-09 19:13:05," Thoughts on which biz model most attractive to capitalize on rise of China travel? 600009 vs CTRP vs HKG:0696, etc.",0,0,0,1,0,0,0.115398295,0.010156989,0.8744448,Neu,0.105241306,marketfolly
+40,2018-02-09 00:35:02,Coming in hot.  ,0,1,0,0,1,3,0.20956574,0.049650725,0.7407835,Neu,0.15991502,marketfolly
+41,2018-02-07 17:49:04,New “what we’re reading” just posted   $ECL $QVCA $GRUB $F $GM $DIS,1,1,0,0,0,8,0.0957078,0.14888778,0.7554045,Neu,-0.053179987,marketfolly
+42,2018-01-29 18:28:05,Pershing Square portfolio update presentation: includes thoughts on $NKE; reveals they bought & sold $SPGI also  ,1,1,0,0,1,2,0.04765728,0.01642974,0.935913,Neu,0.031227542,marketfolly
+43,2018-01-26 17:59:01,"Catching up on some hedge fund links you may have missed. Big names like Cohen, Klarman, Man Group, OZ, etc  ",1,1,1,0,2,5,0.08317154,0.02472844,0.8921,Neu,0.0584431,marketfolly
+44,2018-01-25 23:20:04,Must have read Shoe Dog recently?  ,1,1,0,0,0,14,0.053900354,0.097743,0.8483566,Neu,-0.043842643,marketfolly
+45,2018-01-25 18:09:01,Lee Cooperman (Omega Advisors) acquires more Ocwen Financial shares   $OCN,0,1,0,0,1,1,0.12239605,0.013946384,0.86365753,Neu,0.10844967,marketfolly
+46,2018-01-24 17:13:00,"After a brief hiatus, “What We’re Reading” is back  ",0,1,0,1,0,10,0.08290432,0.01747319,0.8996225,Neu,0.065431125,marketfolly
+47,2018-01-24 15:44:04,"Howard Marks’ new memo: “Latest Thinking” on markets, tax cuts, etc   $OAK",0,0,0,0,1,2,0.090058155,0.022602564,0.88733935,Neu,0.06745559,marketfolly
+49,2018-01-22 19:34:01,Chris Hohn’s TCI Fund trims Altaba stake   $AABA,0,1,0,0,1,1,0.22830038,0.35531685,0.41638276,Neu,-0.12701647,marketfolly
+50,2018-01-19 20:40:01," Best biz model to capitalize on trend? Airports, OTAs, GDS, Engine OEMs. Believe last yr Munger said they own Shanghai Airport (Li Lu?)",1,1,0,2,0,4,0.1981526,0.008022252,0.7938251,Neu,0.19013035,marketfolly
+52,2018-01-02 00:34:04,Man Group. Interesting profile.  ,0,0,0,0,2,18,0.13825428,0.013301867,0.8484438,Neu,0.12495242,marketfolly
+53,2017-12-18 16:59:00,  Congrats!,0,0,0,1,0,2,0.14319323,0.02920367,0.8276031,Neu,0.11398956,marketfolly
+54,2017-12-14 17:18:02,"If you missed the Stan Druckenmiller interview, here’s video, transcript & summary for whichever you fancy  ",1,1,0,0,6,24,0.026590645,0.035410676,0.93799865,Neu,-0.008820031,marketfolly
+55,2017-12-13 18:36:03,"What We’re Reading, including interview with Berkshire’s Todd Combs, profile of Rentec’s Jim Simons & more  ",1,1,0,0,1,13,0.03701783,0.021883665,0.9410986,Neu,0.015134165,marketfolly
+57,2017-12-08 17:21:00,Some hedge fund links to wrap up the week  ,0,1,0,0,0,4,0.21034274,0.025789322,0.7638679,Neu,0.18455341,marketfolly
+58,2017-12-07 19:19:05,Interesting read.  ,0,1,0,0,0,16,0.06548045,0.026448572,0.908071,Neu,0.039031878,marketfolly
+59,2017-12-06 01:22:00,ex-Tiger seed Ratan Cap & ex-Brahman employee  ,0,0,0,0,0,2,0.03253624,0.02180452,0.9456592,Neu,0.010731718,marketfolly
+61,2017-12-01 21:37:02,A few hedge fund links to wrap up the week  ,0,1,0,0,0,1,0.17568128,0.020701673,0.80361706,Neu,0.1549796,marketfolly
+62,2017-12-01 18:06:01,"Jeff Ubben’s ValueAct boosts $KKR stake, trims $CBG position  ",1,1,0,0,0,2,0.9486895,0.017161164,0.034149338,Pos,0.93152833,marketfolly
+63,2017-11-29 19:07:04,Just noticed The Wall Street Journal has a 50% off sale that ends tomorrow if interested:  ,1,1,0,0,1,1,0.04840076,0.018486848,0.93311244,Neu,0.029913912,marketfolly
+64,2017-11-29 16:52:03,What We’re Reading this week   $ETSY $TSLA $FXI $GE $AMZN,0,1,0,0,1,5,0.066536985,0.017583683,0.9158793,Neu,0.048953302,marketfolly
+65,2017-11-28 20:36:00,FYI we’ve secured 15 discounted tickets to the upcoming Family Office Summit in Miami if interested:  ,1,1,0,0,0,1,0.14020987,0.011761683,0.8480285,Neu,0.12844819,marketfolly
+66,2017-11-28 17:15:04,Citadel’s Ken Griffin: valuations stretched but “very constructive” environment for stocks.  ,1,1,0,0,0,3,0.91047436,0.033343825,0.056181822,Pos,0.8771305,marketfolly
+67,2017-11-27 17:49:03,"Interviews with John Templeton, Warren Buffett & Bob Wilson from 1985  ",0,0,0,0,14,52,0.033847883,0.033152483,0.9329996,Neu,0.00069539994,marketfolly
+68,2017-11-16 21:38:03,This week’s “What We’re Reading” linkfest  ,0,1,0,1,0,7,0.06462466,0.04071114,0.8946642,Neu,0.023913521,marketfolly
+69,2017-11-10 20:00:03,"FF  who’s been posting a ton of graphics, research & links.",1,1,0,1,1,5,0.05880374,0.022262745,0.9189336,Neu,0.036540996,marketfolly
+71,2017-11-08 18:14:03,Just a quick heads up for anyone looking to connect with investors such as Family Offices: Big conference coming up  ,0,1,0,0,0,3,0.07411054,0.017648032,0.90824145,Neu,0.056462504,marketfolly
+72,2017-11-08 15:12:01,Dan Loeb’s Third Point trims Baxter position   $BAX,0,1,0,0,0,1,0.3317199,0.49469388,0.17358625,Neg,-0.16297397,marketfolly
+73,2017-11-08 14:07:04,Latest edition of What We’re Reading   $HTZ $JD $SNAP $CZR $EQIX $INXN,0,1,0,0,1,7,0.08042359,0.021636048,0.89794034,Neu,0.058787547,marketfolly
+74,2017-11-07 17:49:00,Philippe Laffont’s hedge fund Coatue Management increases Shopify stake   $SHOP,0,1,0,0,0,2,0.78908855,0.011943988,0.19896746,Pos,0.77714455,marketfolly
+75,2017-11-07 17:23:05,Ricky Sandler’s hedge fund Eminence Capital starts Ellie Mae position   $ELLI,0,1,0,0,1,4,0.18089391,0.058553178,0.7605529,Neu,0.12234074,marketfolly
+76,2017-11-07 17:18:03,Lone Pine Capital boosts Grupo Televisa stake   $TV,0,1,0,0,1,2,0.92230576,0.018791629,0.05890258,Pos,0.90351415,marketfolly
+80,2017-10-13 18:06:01,Catching up on some interesting hedge fund reads  ,0,1,0,0,1,8,0.18335204,0.013417485,0.80323046,Neu,0.16993456,marketfolly
+81,2017-10-12 18:09:04,Viking Global shows stake in Deciphera Pharmaceuticals   $DCPH,0,1,0,0,1,0,0.09438701,0.009630109,0.89598286,Neu,0.0847569,marketfolly
+82,2017-10-10 16:20:03,"If you’re in Chicago or the Midwest, Invest For Kids Conference is just under a month away:  ",0,1,0,0,0,2,0.028601304,0.16134556,0.8100531,Neu,-0.13274425,marketfolly
+84,2017-10-06 17:44:04," Chicken/egg problem. Just convince enough people to try out one platform and then if everyone likes it, others will migrate.",0,1,1,0,0,0,0.10497111,0.02428139,0.8707475,Neu,0.08068972,marketfolly
+85,2017-10-06 17:00:04," What about Slack? Or private messaging apps Signal or Telegram, something like that.",0,0,0,0,0,0,0.029956108,0.04606891,0.923975,Neu,-0.016112803,marketfolly
+86,2017-10-06 16:56:04,"Notes on some of the GIBI Dallas Conference talks (Ackman, Einhorn, & more)   $TPX $GM $ADP $TSLA $VOD $KAR $HLF",0,0,0,0,2,6,0.21992336,0.01970665,0.76036996,Neu,0.20021671,marketfolly
+87,2017-10-05 17:50:00,"Notes from main event Sohn San Francisco Conference (Okada, McGuire & more)   $VST $DECK $IRBT $IRWD $PSEC $SNE $TICC",0,0,0,0,5,15,0.11234468,0.022755867,0.86489946,Neu,0.08958881,marketfolly
+89,2017-10-04 17:59:00,This week’s edition of “What We’re Reading”  ,0,1,0,0,1,3,0.054620136,0.025246773,0.9201331,Neu,0.029373363,marketfolly
+90,2017-10-03 18:04:02,Viking Global shows Abeona Therapeutics stake   $ABEO,0,1,0,0,1,1,0.04340905,0.017014377,0.93957657,Neu,0.026394673,marketfolly
+91,2017-09-27 18:29:02,What We’re Reading   $AABA $DVA $COST $AMZN $SHLD $FB $SNAP $NFLX,0,1,0,0,1,4,0.1107658,0.022662833,0.8665713,Neu,0.08810297,marketfolly
+92,2017-09-26 18:41:01,Senator Investment Group shows new stake in D.R. Horton   $DHI,0,1,0,0,1,1,0.105855964,0.010507632,0.8836364,Neu,0.09534833,marketfolly
+93,2017-09-26 17:50:01,Darsana Capital shows stake in Social Capital Hedosophia   $IPOA.U,0,0,0,0,0,2,0.0644678,0.012193368,0.92333883,Neu,0.052274436,marketfolly
+94,2017-09-26 17:39:00,12 West Capital shows Laureate Education stake   $LAUR,0,0,0,0,0,1,0.044051338,0.02176228,0.9341864,Neu,0.022289058,marketfolly
+95,2017-09-25 18:10:04,Bruce Berkowitz’s Fairholme Capital adds to St. Joe position   $JOE,1,1,0,0,0,1,0.6724446,0.120924845,0.20663045,Pos,0.55151975,marketfolly
+96,2017-09-25 18:03:02,Eminence Capital increase Arris Group stake   $ARRS,0,0,0,0,0,1,0.1565619,0.011687401,0.8317507,Neu,0.1448745,marketfolly
+97,2017-09-22 18:34:00,Hedge fund links for this week  ,0,0,0,0,0,4,0.027737778,0.04525358,0.9270087,Neu,-0.0175158,marketfolly
+98,2017-09-21 16:52:04,The 8th annual Sohn San Francisco investment conference is just around the corner. If in Bay Area or nearby:  ,0,1,0,1,0,4,0.026936466,0.031762943,0.9413006,Neu,-0.004826477,marketfolly
+99,2017-09-20 18:13:04,ValueAct Capital trims $CBG position in block trade  ,0,1,0,0,0,0,0.03438183,0.9463218,0.019296285,Neg,-0.91194,marketfolly
+100,2017-09-20 17:32:01,What We’re Reading   $BBY $JD $EFX $PCLN $GOOG,0,1,0,0,0,3,0.044985756,0.048944008,0.9060702,Neu,-0.0039582513,marketfolly
+101,2017-09-19 18:48:01,ValueAct Capital adds to $KKR stake again  ,0,1,0,0,1,5,0.57145786,0.015713504,0.41282868,Pos,0.55574435,marketfolly
+102,2017-09-19 17:58:04,Senator Investment Group boosts MGM Resorts stake   $MGM,0,1,0,0,0,0,0.9056261,0.026243517,0.068130314,Pos,0.8793826,marketfolly
+103,2017-09-19 16:46:00,Posted Ray Dalio’s reading list today:  ,1,1,0,0,2,6,0.043569315,0.04285561,0.91357505,Neu,0.000713706,marketfolly
+104,2017-09-18 15:29:00,Just a reminder Boyar Research's special offer on their latest issue expires in 1.5 hours   $AMC $TJX $HOG,0,1,0,0,0,0,0.024310853,0.048209056,0.92748004,Neu,-0.023898203,marketfolly
+105,2017-09-16 16:45:02,  WeChat is only dominant in one country though bc it was ingrained into way of life. Have yet to really see them penetrate internationally.,1,1,0,1,0,1,0.047308605,0.027813045,0.92487836,Neu,0.01949556,marketfolly
+106,2017-09-14 16:45:02,FYI Boyar Research has a special offer on their new research issue analyzing $TJX $HOG $AMC  ,0,1,0,0,1,4,0.2090994,0.0074668056,0.7834338,Neu,0.20163259,marketfolly
+108,2017-09-13 18:11:03,"Notes/summary of Delivering Alpha Conference: Robertson, Dalio, Chanos, Cooperman & more  ",0,0,0,0,7,24,0.03011775,0.02289053,0.94699174,Neu,0.0072272196,marketfolly
+109,2017-09-07 19:17:02,Nelson Peltz & Trian Partners’ presentation on Procter & Gamble: Revitalize P&G Together   $PG,0,0,0,0,2,6,0.64768314,0.008577204,0.34373963,Pos,0.6391059,marketfolly
+110,2017-09-07 18:07:01,What We’re Reading this week  ,0,1,0,0,0,1,0.030510584,0.037893474,0.931596,Neu,-0.00738289,marketfolly
+111,2017-09-07 17:51:00,ValueAct Capital increases $KKR stake  ,0,1,0,0,0,3,0.9211443,0.017126804,0.061728872,Pos,0.9040175,marketfolly
+112,2017-09-06 17:57:01,Ray Dalio’s TED talk on idea meritocracy. Interesting look at a meeting inside Bridgewater  ,0,0,0,0,3,16,0.07343723,0.016053203,0.9105095,Neu,0.057384025,marketfolly
+113,2017-09-05 18:18:05,"ValueAct Capital buys more $STX, enters into stock purchase agreement with MS  ",1,1,0,0,0,3,0.31996962,0.009803435,0.67022693,Neu,0.31016618,marketfolly
+115,2017-08-31 17:34:00,What We’re Reading  ,0,1,0,0,0,5,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+116,2017-08-30 21:00:04, What about newly delivered homes? New builds typically come w/ 1yr warranty that could lead to additional exposure?,1,1,1,1,0,0,0.03318181,0.44473135,0.52208686,Neu,-0.41154954,marketfolly
+118,2017-08-29 03:37:03, Yeah maybe. But wouldn’t offshore entity still have to file? ala TCI disclosing US holdings to SEC.,0,1,0,0,0,0,0.035611123,0.033257633,0.93113124,Neu,0.0023534894,marketfolly
+119,2017-08-29 03:36:01," Would make sense, but letter made it sound like they owned through spin-off process.",1,1,1,0,0,0,0.029106732,0.04917525,0.921718,Neu,-0.020068519,marketfolly
+120,2017-08-28 17:59:01,HLT never showed up on Pershing 13Fs. Didn’t file “confidential info furnished to SEC” disclosure like Buffett has before. Used derivatives?,1,1,0,1,0,0,0.02552973,0.082181215,0.89228904,Neu,-0.056651488,marketfolly
+121,2017-08-28 17:55:05,Pershing Square Q2 letter: sold undisclosed Hilton $HLT stake  ,1,1,0,1,1,2,0.029402789,0.031331334,0.9392659,Neu,-0.0019285455,marketfolly
+122,2017-08-25 17:55:02,Hedge fund links for this week  ,0,0,0,0,0,3,0.027737778,0.04525358,0.9270087,Neu,-0.0175158,marketfolly
+123,2017-08-24 19:36:04,Tom Bancroft’s Makaira Partners increases Wesco Aircraft stake   $WAIR,1,1,0,0,2,1,0.7997767,0.03501958,0.16520381,Pos,0.7647571,marketfolly
+124,2017-08-24 19:36:01,Three Bays Capital boosts Red Rock Resorts stake   $RRR,0,0,0,0,0,1,0.7633431,0.012460959,0.22419597,Pos,0.75088215,marketfolly
+125,2017-08-23 18:29:00,Latest edition of What We’re Reading   $AMZN $BABA $BIDU $SFTBY $SHLD $TRIP $TSLA,0,1,0,0,0,3,0.08437927,0.02440224,0.8912185,Neu,0.059977032,marketfolly
+126,2017-08-23 17:59:05,"ValueAct shows $KKR stake, adds to $TRN, trims $WLTW stake  ",0,1,0,0,0,1,0.7184238,0.026073538,0.2555027,Pos,0.69235027,marketfolly
+127,2017-08-14 22:29:02,  Not that I’m aware.,0,1,0,0,0,0,0.045679666,0.05662061,0.8976997,Neu,-0.010940943,marketfolly
+128,2017-08-14 21:36:00," Lou Simpson, former Berkshire Hathaway portfolio manager.",0,0,0,0,0,1,0.025777008,0.035547446,0.9386755,Neu,-0.009770438,marketfolly
+129,2017-08-14 17:19:05,What are the top five 13F’s you actually look at? Interested to compare the range of responses.,0,1,0,13,14,69,0.048024356,0.02115051,0.9308251,Neu,0.026873846,marketfolly
+130,2017-08-11 18:38:05,ValueAct Capital boosts Seagate position   $STX,0,1,0,0,0,1,0.9464659,0.019283727,0.034250353,Pos,0.9271822,marketfolly
+131,2017-08-10 16:40:02,"ValueAct buys some Trinity Industries, sells some Willis Towers Watson   $TRN $WLTW",0,1,0,0,0,1,0.12445456,0.010406527,0.8651389,Neu,0.114048034,marketfolly
+132,2017-08-09 18:26:04,This week’s edition of What We’re Reading  ,0,1,0,0,0,7,0.043658152,0.027609976,0.92873186,Neu,0.016048176,marketfolly
+133,2017-08-09 18:01:03,ValueAct Capital reduces Microsoft stake   $MSFT,0,1,0,0,0,1,0.15006466,0.6406561,0.2092792,Neg,-0.49059147,marketfolly
+134,2017-08-08 19:47:03," Congrats, best of luck!",0,0,0,0,0,2,0.4696624,0.03839239,0.49194518,Neu,0.43127,marketfolly
+135,2017-08-08 03:27:05,David Einhorn playing poker on NBCSN right now FYI. Just check-raised a guy with nothing on the river and won the hand.,1,1,0,1,1,5,0.06800345,0.020816023,0.91118044,Neu,0.047187433,marketfolly
+136,2017-08-04 19:17:02,Hedge fund links to wrap up the week  ,0,0,0,0,0,4,0.1036452,0.03193443,0.86442035,Neu,0.071710765,marketfolly
+137,2017-08-03 17:25:01,Posted some excerpts from Alex Roepers interview with Capitalize for Kids talking $COMM & $DBD  ,1,1,0,0,0,5,0.02782164,0.03431708,0.93786126,Neu,-0.0064954404,marketfolly
+138,2017-08-02 15:34:05,What We’re Reading   $GILD $NFLX $PCLN $BUD,0,1,0,0,0,10,0.07276709,0.029363932,0.89786905,Neu,0.043403156,marketfolly
+139,2017-08-01 17:02:05,"This stock already had a Tiger Grandcub presence as ex-Maverick, ex-Viking, & ex-Shumway managers all own it",1,1,0,0,0,0,0.06479777,0.013922677,0.92127955,Neu,0.05087509,marketfolly
+140,2017-08-01 17:01:03,Steve Mandel’s Lone Pine Capital starts TransUnion position   $TRU,1,1,0,1,0,1,0.105544336,0.015846457,0.8786092,Neu,0.08969788,marketfolly
+141,2017-07-31 16:23:03,Senator Investment Group takes stake in Hyatt Hotels   $H,0,1,0,0,2,2,0.053455867,0.014875651,0.9316685,Neu,0.038580216,marketfolly
+142,2017-07-28 18:56:04, Remember it made appearances in a couple of letters of newer hf’s in 2016; have to circle back & see who still owns. Know ex-JAT guy did,1,1,0,1,0,1,0.042167913,0.02291347,0.93491864,Neu,0.019254442,marketfolly
+143,2017-07-28 18:51:03,"If you’re in Toronto or nearby, check out the Capitalize For Kids Investors Conference in October, benefits charity  ",0,1,0,0,0,0,0.03964993,0.0204965,0.9398536,Neu,0.01915343,marketfolly
+144,2017-07-28 16:17:05,Hedge fund links for this week  ,0,0,0,0,1,2,0.027737778,0.04525358,0.9270087,Neu,-0.0175158,marketfolly
+145,2017-07-26 20:15:04,Lots of letters coming out at once: here’s Howard Marks’ latest on cycles as well  ,0,1,0,0,1,9,0.054664347,0.017936628,0.92739904,Neu,0.03672772,marketfolly
+147,2017-07-26 15:52:03,What We’re Reading  ,0,1,0,0,0,5,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+148,2017-07-21 18:00:04,"If your firm is looking for a new website/redesign, our friends at Board Studios are giving our readers a discount  ",0,1,0,0,1,1,0.09731732,0.0114911115,0.89119154,Neu,0.08582621,marketfolly
+149,2017-07-20 18:20:00,Corvex Management adds to Energen position   $EGN,0,1,0,0,0,2,0.27954063,0.037966143,0.68249327,Neu,0.24157448,marketfolly
+150,2017-07-20 17:33:02,ValueAct Capital cuts Bioverativ stake   $BIVV,0,0,0,0,0,0,0.055040084,0.71540695,0.229553,Neg,-0.6603669,marketfolly
+151,2017-07-19 21:28:04,  Poll we just ran:   though potentially diff answer if asking for lookback versus future.,1,1,0,2,0,2,0.06981237,0.30718037,0.62300724,Neu,-0.237368,marketfolly
+152,2017-07-19 21:25:04,Can’t wait for the day when  and  argue over the internet in ALL CAPS.,0,1,1,0,0,7,0.03681387,0.14895527,0.81423086,Neu,-0.1121414,marketfolly
+153,2017-07-19 21:23:01,"His 1st tweet is of course talkin da book on da Twitterz. Also, his link goes to buy1get1 Chipotle if you want to play bowel roulette.  ",0,1,0,3,0,6,0.03010808,0.030453382,0.9394385,Neu,-0.00034530275,marketfolly
+154,2017-07-19 20:51:00," Obligatory mention: “More than you can afford pal, Ferrari.”  ",0,0,1,1,0,1,0.21615209,0.014685024,0.7691629,Neu,0.20146707,marketfolly
+155,2017-07-19 17:40:02,What We’re Reading   $BATRA $BOFI $FTR $CAG $KHC $FWONK,0,1,0,0,0,6,0.08927488,0.01912361,0.8916015,Neu,0.07015127,marketfolly
+156,2017-07-17 20:29:02,Was debating this with someone. Most valuable acquisition going forward?,0,1,0,1,0,2,0.07297176,0.017176526,0.90985173,Neu,0.055795237,marketfolly
+157,2017-07-13 15:08:01,Boyar Research has given our readers complimentary reports on Western Union and Discovery Communications   $WU $DISCK,1,1,0,0,0,2,0.2980238,0.010004226,0.691972,Neu,0.28801957,marketfolly
+158,2017-07-12 17:46:02,Eminence Capital boosts Cornerstone On Demand stake   CSOD,0,1,0,0,0,1,0.9012207,0.014597971,0.08418134,Pos,0.8866227,marketfolly
+159,2017-07-12 17:22:01,Some portfolio updates from Viking Global   $ECA $RICE $CALA,0,1,0,0,0,2,0.028567957,0.040074706,0.9313573,Neu,-0.011506749,marketfolly
+160,2017-07-06 18:13:02,What we’re reading this week   $TRUP $SHLD $TCEHY $CARS,0,1,0,0,0,7,0.06950941,0.040856726,0.8896339,Neu,0.028652683,marketfolly
+162,2017-07-05 17:17:04,"JANA Partners takes $EQT stake, opposes $RICE transaction  ",0,1,0,0,0,0,0.041344307,0.22879483,0.7298609,Neu,-0.18745053,marketfolly
+163,2017-06-28 18:21:00," In Q&A at end he notes around 70% of his fund’s investments are outside US right now, with India as 25-30%.",0,1,0,0,0,4,0.05572509,0.012721208,0.9315538,Neu,0.043003883,marketfolly
+165,2017-06-28 17:09:03, Highly depends on the activist. ValueAct seen as a more long-term holder. Jana perceived as shorter term holders. Corvex in middle?,1,1,0,1,0,0,0.036634766,0.03471837,0.92864686,Neu,0.0019163974,marketfolly
+166,2017-06-27 17:58:05,Steadfast Capital boosts Trivago stake   $TRVG,0,1,0,0,0,0,0.90449923,0.012496107,0.08300466,Pos,0.8920031,marketfolly
+167,2017-06-27 17:28:04,"Paulson & Co boosts $VRX stake, John Paulson joins board  ",0,1,0,1,0,1,0.4681044,0.036864355,0.49503127,Neu,0.43124002,marketfolly
+168,2017-06-26 23:54:00,  Exactly. Interested to see if Instagram Stories can take time spent share. Many still use both platforms though. Wonder what tipping pt is,1,1,1,0,0,0,0.03247103,0.027331864,0.9401971,Neu,0.0051391665,marketfolly
+169,2017-06-23 16:44:04,Notes from the Sohn India Conference   courtesy of ,0,0,0,0,9,34,0.04035932,0.026977492,0.9326632,Neu,0.013381826,marketfolly
+170,2017-06-22 19:37:02,"Reminded of  quote: “Cars will become luxury items, like horses”  ",1,1,1,0,2,13,0.09627133,0.012744926,0.8909837,Neu,0.0835264,marketfolly
+171,2017-06-22 18:53:04," Do you know anyone that buys private label bleach? Ppl hear “bleach” and think Clorox, just like ppl hear “search” and think Google.",0,1,0,0,0,4,0.02693207,0.025589572,0.9474784,Neu,0.0013424978,marketfolly
+172,2017-06-22 18:50:05, Heavy user of lists. Use home feed as firehose of news. Mainly read curated lists for specific purposes.,0,0,0,0,0,1,0.02897701,0.06524179,0.9057812,Neu,-0.03626478,marketfolly
+173,2017-06-22 18:17:03,The latest edition of “what we’re reading”   $V $MA $AXP $QSR $SBUX $TJX,0,1,0,0,0,3,0.10365706,0.018772015,0.87757087,Neu,0.084885046,marketfolly
+175,2017-06-20 19:43:00,"Way late posting these, but here’s notes from Sohn Conference Hong Kong  ",0,0,0,0,0,7,0.020232677,0.10279157,0.8769757,Neu,-0.08255889,marketfolly
+176,2017-06-14 20:07:02,Posted up a summer reading list if you’re looking for something to read on your next trip  ,1,1,0,0,0,5,0.05141186,0.023717191,0.9248709,Neu,0.027694669,marketfolly
+177,2017-06-12 18:45:00,Elliott Management’s Paul Singer chats with David Rubenstein  ,0,0,0,0,2,5,0.054061063,0.01652439,0.9294146,Neu,0.037536673,marketfolly
+178,2017-06-12 17:24:00,Pretty big news out of Viking   via ,0,1,0,0,0,3,0.2002442,0.02847619,0.7712796,Neu,0.17176801,marketfolly
+179,2017-06-09 18:01:00,"Hedge fund links: Klarman, Paulson, Cohen, Singer & more  ",0,0,0,0,1,4,0.02543571,0.03865103,0.9359132,Neu,-0.01321532,marketfolly
+180,2017-06-08 19:40:05,FYI our readers get 20% off Scuttleblurb w/ code: marketfolly  Here’s analysis on $SHW $SNI $BRO & more  ,0,1,0,0,0,2,0.046593264,0.030879878,0.9225269,Neu,0.015713386,marketfolly
+181,2017-06-08 18:25:03, That he does! We do a weekly investing linkfest also if interested. Latest:  ,0,1,0,0,0,1,0.030851707,0.024720468,0.9444278,Neu,0.0061312392,marketfolly
+182,2017-06-07 21:50:00,Been a while since we did a linkfest; here’s the latest what we’re reading  ,1,1,0,0,0,6,0.03222098,0.03631528,0.9314638,Neu,-0.0040943027,marketfolly
+183,2017-06-06 18:07:05,Jeff Ubben’s ValueAct Capital trims Willis Towers Watson stake again   $WLTW,1,1,0,0,0,2,0.09486823,0.38892245,0.51620924,Neu,-0.2940542,marketfolly
+184,2017-06-06 18:07:03,Corvex Management buys calls/sells puts on Energen   $EGN,0,1,0,0,0,0,0.05120478,0.019224064,0.92957115,Neu,0.031980716,marketfolly
+185,2017-06-06 18:07:00,Dan Loeb’s Third Point trims Baxter stake   $BAX,0,1,0,0,0,1,0.101959564,0.7220963,0.17594413,Neg,-0.62013674,marketfolly
+186,2017-06-06 18:06:05,Tiger Management increases T2 Biosystems stake   $TTOO,0,1,0,0,0,0,0.6516995,0.02837186,0.31992862,Pos,0.6233276,marketfolly
+188,2017-05-31 05:15:05, Seems a few thought Channon’s was interesting. But always like learning about the lesser known ideas.,1,1,0,0,0,1,0.04434761,0.034285378,0.921367,Neu,0.010062233,marketfolly
+190,2017-05-25 16:26:01,  What’s RACE future look like in autonomous car world? Rich ppl still buy them bc they can? Does speed/engineering matter once all= electric,0,1,1,2,0,0,0.040533703,0.020228125,0.93923813,Neu,0.020305578,marketfolly
+191,2017-05-23 22:49:03,It feels like Tiger Global is filing a Form 4 with the SEC every other day re: $APO. Compliance must be getting EDGAR fatigue,0,1,1,0,0,1,0.07549134,0.2606594,0.6638493,Neu,-0.18516806,marketfolly
+192,2017-05-23 20:21:02,Jeff Ubben’s ValueAct Capital sells some Willis Towers Watson   $WLTW,1,1,0,0,0,0,0.06270489,0.019388735,0.9179064,Neu,0.043316156,marketfolly
+193,2017-05-23 20:20:04,Warren Buffett’s Berkshire Hathaway buys more LibertySiriusXM (Ted Weschler’s the one buying it seems)   $LSXMA $LSXMK,1,1,0,0,0,1,0.55309373,0.016326204,0.43058002,Pos,0.53676754,marketfolly
+194,2017-05-23 20:19:02,Tiger Global increases TransDigm Group stake   $TDG,0,1,0,0,0,4,0.15004264,0.011240034,0.8387173,Neu,0.1388026,marketfolly
+196,2017-05-23 00:26:04,  Main test=once OTTs either raise prices or cut content. Has software/“experience” made it sticky or is price driver to switch(back 2 cable?),1,1,0,1,0,2,0.043709032,0.31139228,0.6448987,Neu,-0.26768324,marketfolly
+197,2017-05-22 18:56:05," Is this assuming Rentec Medallion or something like RIEF? Only employees can invest in former, which is the one you want.",0,1,1,1,0,1,0.024115555,0.034701776,0.9411827,Neu,-0.010586221,marketfolly
+198,2017-05-21 23:21:00,  Kinda different animal. Many females seem to like sampling in person (see ULTA success). Unsure if ‘showrooming’ effect hits them eventually,0,1,0,0,0,0,0.051875465,0.05454125,0.8935833,Neu,-0.0026657842,marketfolly
+199,2017-05-21 21:39:05, Might be victim of ‘showrooming’ though if ppl want to see product’s utility in person then buy online.,0,1,0,0,0,0,0.040849157,0.03748406,0.92166674,Neu,0.0033650957,marketfolly
+200,2017-05-21 21:39:01," Harder, not necessarily too hard. Know plenty of ppl who buy luggage via AMZN though. Also new e-com brand Away as someone mentioned.",1,1,0,0,0,0,0.16181546,0.015201814,0.82298267,Neu,0.14661366,marketfolly
+201,2017-05-21 18:45:05, Time lag not a big deal if focused on long-term low turnover funds. Use as start point for dd. Some managers have returned 15% annualized.,1,1,0,0,0,0,0.14093672,0.02475355,0.8343097,Neu,0.11618317,marketfolly
+202,2017-05-21 17:35:02,New issue summarizing hedge fund 13F activity now available for those interested:  ,0,1,0,1,0,3,0.030329155,0.020527093,0.9491437,Neu,0.009802062,marketfolly
+204,2017-05-21 00:02:00,Shoutout to Baupost Group’s Seth Klarman; his horse Cloud Computing just won the Preakness.,1,1,0,1,2,13,0.25185803,0.019211803,0.7289301,Neu,0.23264623,marketfolly
+205,2017-05-17 17:46:00,"   Interesting to think about, is it really pricing power if they don’t actually raise? Or cos that choose to not raise prices 4 low cost adv",0,1,0,0,0,1,0.028093353,0.045763962,0.9261427,Neu,-0.017670609,marketfolly
+206,2017-05-16 18:39:03, Congrats! Everyone already took all the finance jokes I was going to make.,1,1,0,0,0,2,0.057040323,0.05883831,0.88412136,Neu,-0.001797989,marketfolly
+207,2017-05-15 21:33:02," His poker playing style is usually pretty conservative, but this is “all in.” Mentioned dramatically increasing position in Feb.",0,1,0,0,0,0,0.5751556,0.018196687,0.40664768,Pos,0.5569589,marketfolly
+208,2017-05-15 19:33:03,"TLDR2: Focus on 13Fs of long-only or long/short funds with longterm timeframes, lower turnover, and more concentrated portfolios.",0,0,0,0,0,7,0.11842528,0.058340717,0.823234,Neu,0.060084563,marketfolly
+209,2017-05-15 19:32:04,"TLDR: Don’t try to analyze 13Fs of Bridgewater, Point72, RenTec, Tudor etc. Basically any global macro / quant. If you do, you’re an idiot.",1,1,0,1,2,8,0.029212777,0.25406268,0.7167246,Neu,-0.22484991,marketfolly
+210,2017-05-15 19:31:00,"With 13F filings in full swing, here’s an article we wrote 5 years ago about the pros/cons of tracking 13Fs  ",1,1,0,1,1,7,0.051259562,0.02299287,0.9257476,Neu,0.028266693,marketfolly
+211,2017-05-09 20:15:04,Legendary Twitter start (yes it’s really him.)  ,0,0,0,2,0,4,0.038559742,0.033887636,0.92755264,Neu,0.0046721064,marketfolly
+212,2017-05-09 18:05:05,"      Theme that China won’t let Western cos ‘win’ in China, resulting in defacto local monopolies. See FB, AMZN, GOOG. Hard to see displacement",1,1,0,0,0,0,0.025323305,0.18318595,0.79149073,Neu,-0.15786265,marketfolly
+213,2017-05-09 18:02:00, Thought they came down to $35 to match WMT? Could be now trying to twist knife further.,1,1,1,1,0,0,0.034857646,0.57908094,0.3860615,Neg,-0.5442233,marketfolly
+214,2017-05-05 19:30:02,A few hedge fund links to wrap up the week  ,0,1,0,0,0,2,0.17568128,0.020701673,0.80361706,Neu,0.1549796,marketfolly
+215,2017-05-03 18:26:01,What We’re Reading   $SRG $LB $TSLA $DISH $AAPL $AMZN $KHC $K $GIS $FB $AMZN,0,1,0,0,0,5,0.2546471,0.021075182,0.72427773,Neu,0.23357192,marketfolly
+216,2017-04-28 18:52:04,Worth your time.  ,0,0,0,0,1,11,0.17569609,0.030601403,0.79370254,Neu,0.1450947,marketfolly
+217,2017-04-27 23:25:00,      Not to defend but where would you jackwagons put $ if you had that much AUM? Liquidity constrained & don’t get bonus pts for originality.,1,1,1,1,0,0,0.046680298,0.32669264,0.6266271,Neu,-0.28001234,marketfolly
+219,2017-04-26 19:04:03,Mike Pausic’s Foxhaven Asset Management boosts Trivago stake   $TRVG,1,1,0,0,0,0,0.93900335,0.018475864,0.042520717,Pos,0.92052746,marketfolly
+220,2017-04-26 18:18:02,This week’s linkfest has a lot of interesting articles. What we’re reading:  ,0,1,0,0,0,2,0.041501682,0.036565356,0.92193294,Neu,0.0049363263,marketfolly
+221,2017-04-26 17:41:01," Was just talking to someone about this. With 10 yr horizon, lots to think about. Maybe comes down to TAM?",0,1,0,1,0,1,0.037490617,0.04194015,0.92056924,Neu,-0.0044495314,marketfolly
+222,2017-04-25 16:44:03,Boyar Research is giving our readers access to their reports on $HBI $LM and $LBTYA / $LBTYK:    $HBI $LM $LBTYK,0,1,0,0,0,5,0.12210719,0.008184371,0.8697085,Neu,0.11392282,marketfolly
+223,2017-04-24 18:08:02,Roberto Mignone’s hedge fund Bridger Capital adds to Atara Biotherapeutics   $ATRA,0,1,0,0,0,2,0.1640831,0.011759959,0.82415694,Neu,0.15232313,marketfolly
+224,2017-04-21 20:00:04,"Hedge fund links this week: Tudor, ValueAct, Passport, Fortress, Balyasny & more  ",0,0,0,0,0,3,0.02735082,0.029260041,0.9433892,Neu,-0.0019092206,marketfolly
+225,2017-04-20 18:31:03,Special edition of “what we’re reading” focused on a single company: Amazon   $AMZN,1,1,0,0,1,5,0.043599676,0.018234668,0.9381656,Neu,0.025365008,marketfolly
+227,2017-04-19 17:21:04,What We're Reading   $BLK $FB $AXP $JPM $HLT $IHG $MAR $WMT $AMZN,0,1,0,0,1,3,0.31144527,0.03162554,0.6569292,Neu,0.27981973,marketfolly
+229,2017-04-14 16:37:02,Movie trailer for HBO’s Wizard of Lies about Bernie Madoff. Starring Robert De Niro  ,0,1,0,0,3,2,0.0315927,0.059244502,0.9091628,Neu,-0.027651802,marketfolly
+230,2017-04-13 19:40:00,"If you haven’t read it, here’s  thesis on Zooplus  ",1,1,0,0,1,14,0.03185873,0.028750297,0.93939096,Neu,0.0031084344,marketfolly
+231,2017-04-13 19:14:02,Bill Miller’s  interview with  on Wealthtrack   $DAL $AAL $UAL $AMZN $VRX $XON $APO $CG,0,1,0,0,1,3,0.09995038,0.0151598435,0.8848898,Neu,0.084790535,marketfolly
+232,2017-04-12 17:27:01,"Interesting. Seems his core position size is ~ $1bn these days, so basically returning the equivalent of 1 position to investors.  ",0,1,0,1,2,4,0.07103888,0.030069342,0.89889175,Neu,0.040969536,marketfolly
+233,2017-04-12 17:11:00,What We’re Reading  ,0,1,0,0,1,5,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+234,2017-04-12 03:00:05,13Fs are pretty much *only* useful for long-only funds or long/short equity that have majority of holdings in US markets & long-term horizon,0,1,0,2,2,9,0.037514783,0.01671453,0.94577074,Neu,0.020800253,marketfolly
+235,2017-04-12 02:58:03,"Continually amazed at how many people “covering” hedge funds try to analyze 13Fs from RenTec, Tudor, Bridgewater etc.",1,1,0,2,1,8,0.08418059,0.012301859,0.9035175,Neu,0.07187873,marketfolly
+236,2017-04-12 02:56:05,"Bridgewater is one of the worst hf’s to glean 13F insight from. Look at AUM vs what’s reported on 13F, big delta. Read up on their strategy  ",1,1,0,1,0,17,0.044828314,0.16533998,0.7898317,Neu,-0.120511666,marketfolly
+237,2017-04-10 23:41:03," Think it’s all about incentives. As long as ppl earn cashback, pts, miles, they use card. Threat = if merchant able to charge more4 card use",0,1,0,0,1,0,0.04182315,0.017196065,0.94098073,Neu,0.024627084,marketfolly
+238,2017-04-10 18:23:00,Whitney Tilson (Kase Capital) largest short position is Wingstop $WING & presentation here:  ,0,1,0,1,2,4,0.032556172,0.03176532,0.93567854,Neu,0.00079085305,marketfolly
+239,2017-04-07 17:45:00,"Some Q1 performance numbers from article: Tiger Global up 13.5%, Hound flat, Viking up 4.9%  ",0,1,0,0,1,2,0.89361626,0.0635919,0.04279178,Pos,0.83002436,marketfolly
+240,2017-04-07 00:29:02," Give, give, ask.",0,0,0,0,0,4,0.05972395,0.017003091,0.92327297,Neu,0.04272086,marketfolly
+241,2017-04-06 23:40:01, Seems like freemium models have been a success for niche content. The middle gets squeezed by big name and niche.,1,1,0,1,0,3,0.09099666,0.17513306,0.73387027,Neu,-0.084136404,marketfolly
+243,2017-04-05 18:00:03,Some good links in this week’s What We’re Reading   $DPZ $MSG $QVCA $BLK $DAL $UAL $AAL,0,1,0,1,1,13,0.53114086,0.015481488,0.45337763,Pos,0.5156594,marketfolly
+244,2017-04-05 17:23:00,Some of the swings in this article showcase volatility investors have to stomach with concentrated portfolio.  ,0,1,0,0,4,2,0.041962266,0.089419514,0.86861825,Neu,-0.047457248,marketfolly
+246,2017-03-31 18:24:04," if that’s just US eCom, then could assume a decent amount of eWallet is actually using a card as underlying payment vs just bank funding.",0,1,1,0,0,0,0.104567885,0.013907767,0.8815244,Neu,0.09066012,marketfolly
+247,2017-03-29 17:31:01,Bill Ackman / Pershing Square’s 2016 annual report   talks $VRX $APD $FNMA $FMCC $HLF $HHC $MDLZ $NOMD $PAH $QSR,0,1,0,1,3,5,0.41461566,0.030746171,0.55463815,Neu,0.3838695,marketfolly
+249,2017-03-28 17:45:03, Will be interesting to see churn levels on this card after Aug/Sept when 1st renewal fees hit & see if they make retention offers.,0,1,1,0,0,0,0.08249587,0.02653611,0.89096797,Neu,0.055959757,marketfolly
+250,2017-03-24 17:39:00,Hedge fund links for this week  ,0,0,0,0,0,2,0.027737778,0.04525358,0.9270087,Neu,-0.0175158,marketfolly
+251,2017-03-23 17:21:05,Another big name closing doors  ,0,0,0,1,0,2,0.04390763,0.695058,0.26103446,Neg,-0.65115035,marketfolly
+252,2017-03-23 17:01:00,“What We’re Reading” has more of a tech focus this week   $GOOGL $INTC $MBLY $BIDU $AAPL $CTRP,0,1,0,0,1,3,0.057079196,0.025524683,0.9173961,Neu,0.031554513,marketfolly
+253,2017-03-20 19:31:04,Pat Dorsey’s (Dorsey Asset Mgmt) interview with Young Investors Society  ,0,0,0,0,2,21,0.050928574,0.01710381,0.9319676,Neu,0.033824764,marketfolly
+255,2017-03-20 17:24:02,Tiger Global shows Apollo stake   $APO,0,1,0,0,0,3,0.041752346,0.018148122,0.94009954,Neu,0.023604224,marketfolly
+256,2017-03-16 20:35:05," Still owned as of Dec 2016.  Next update won’t be until mid-May with next 13F filing, unless they file 13D/G before then.",1,1,0,0,0,0,0.018015496,0.032270003,0.94971454,Neu,-0.014254507,marketfolly
+257,2017-03-16 18:55:03,Tiger Global shows Teladoc stake   $TDOC,0,1,0,0,0,0,0.059439354,0.014604688,0.92595595,Neu,0.044834666,marketfolly
+258,2017-03-16 17:06:01,Paulson & Co trims Extended Stay America / ESH Hospitality position   $STAY $ESH,0,1,0,1,0,0,0.5232857,0.02031355,0.45640078,Pos,0.5029721,marketfolly
+259,2017-03-16 03:11:05,"  Stockbridge Partners is Berkshire’s public portfolio, few more holdings there.",0,1,0,0,1,3,0.02317996,0.02334745,0.9534726,Neu,-0.00016749091,marketfolly
+260,2017-03-15 18:23:05,Today’s the last day to enter our free March Madness bracket contest if you want:  ,0,1,0,0,0,0,0.017772987,0.086162284,0.89606476,Neu,-0.0683893,marketfolly
+261,2017-03-14 17:10:00,"Continuing our “recommended reading” series, next up is Elon Musk’s favorite books   $TSLA $SPACEX $PYPL",1,1,0,0,0,1,0.060021453,0.0152178025,0.9247607,Neu,0.04480365,marketfolly
+262,2017-03-13 23:03:05,“Mike is there any fraud going on at the company?”  $VRX hedge fund rollercoaster complete. Think ValueAct & Paulson only ones left?,1,1,0,0,1,6,0.025943048,0.15199696,0.82206005,Neu,-0.1260539,marketfolly
+263,2017-03-13 18:48:03,Carl Icahn buys more Herbalife and Navistar   $HLF $NAV,0,1,0,0,0,2,0.43458992,0.02422048,0.5411896,Neu,0.41036946,marketfolly
+264,2017-03-13 17:56:02,Market Strategist Jeff Saut on being wrong & still making money  ,0,1,0,0,1,5,0.059326533,0.24853538,0.69213814,Neu,-0.18920885,marketfolly
+265,2017-03-10 21:15:04,"Not many replies but FF:  for interesting charts,  for individual equities,  for investing & biz links/quotes.",0,1,0,2,1,6,0.040721662,0.022565253,0.93671304,Neu,0.01815641,marketfolly
+266,2017-03-10 19:12:04,Haven’t done Follow Friday FF in a long time. Who has brought value to your feed lately?,1,1,0,3,0,3,0.05502679,0.037309006,0.9076642,Neu,0.017717782,marketfolly
+267,2017-03-10 17:49:02,"Excerpts from Jim Chanos interview w/  on shorting, today’s mkt environment & more  ",0,0,0,0,0,8,0.02676835,0.028391954,0.9448397,Neu,-0.0016236044,marketfolly
+268,2017-03-09 19:24:00,Senator Investment Group files 13G on Forest City Realty Trust   $FCE/A,0,1,0,0,0,2,0.015262281,0.76069427,0.22404343,Neg,-0.74543196,marketfolly
+269,2017-03-09 16:26:05,Posted up annual letter from  on investment process / constructing a portfolio  ,1,1,0,0,4,43,0.8278351,0.011786663,0.16037823,Pos,0.81604844,marketfolly
+272,2017-03-08 20:06:01,"Mark Cuban ( interview on investing, business, entrepreneurship   $AMZN $NFLX",0,1,0,0,0,2,0.052513085,0.018079748,0.9294072,Neu,0.034433335,marketfolly
+273,2017-03-08 18:10:02,"If you missed David Tepper’s interview this morning, here’s summary & videos   $SNAP $SPY $AAPL $TLT",1,1,0,0,6,28,0.030335203,0.034705464,0.9349594,Neu,-0.004370261,marketfolly
+274,2017-03-08 06:24:05, Curious why include TCI in Shameless cloning given bulk of their portfolio often in intl positions not disclosed on 13F?,1,1,0,0,0,0,0.03238307,0.029626831,0.9379901,Neu,0.002756238,marketfolly
+275,2017-03-03 17:49:05,Third Point trims Baxter stake   $BAX,0,0,0,0,0,2,0.113358565,0.113529064,0.77311236,Neu,-0.00017049909,marketfolly
+276,2017-03-02 17:56:01, Are they though? Charge cards = paid in full each month. Think trying to defend HNW high-spend cust they lost to JPM CSR card,1,1,0,0,0,0,0.32214147,0.24946766,0.42839083,Neu,0.07267381,marketfolly
+277,2017-03-01 18:26:03,What We’re Reading   $COST $CNK $TV $GOOGL $AMZN,0,1,0,0,4,6,0.052532796,0.020745981,0.9267212,Neu,0.031786814,marketfolly
+278,2017-02-28 19:32:04,SPO Advisory ups Zayo Group stake   $ZAYO,0,0,0,0,0,2,0.046114802,0.014723603,0.93916154,Neu,0.0313912,marketfolly
+280,2017-02-24 18:42:01,Hedge fund links for this week  ,0,0,0,0,1,3,0.027737778,0.04525358,0.9270087,Neu,-0.0175158,marketfolly
+281,2017-02-24 16:43:00,Thanks for all who have given data points thus far. Friday reminder for those that missed it:  ,1,1,0,0,0,1,0.078461744,0.057884872,0.86365336,Neu,0.020576872,marketfolly
+282,2017-02-24 16:41:05, Yes will share if there’s enough data points so it’s not skewed too much.,1,1,1,1,0,0,0.12573685,0.010170475,0.86409265,Neu,0.11556637,marketfolly
+283,2017-02-23 19:34:02,"Taking a survey. Emerging managers out there: what service providers did you start out with for prime, audit, admin, legal? DMs are open thx",1,1,0,2,1,3,0.041954774,0.01526882,0.94277644,Neu,0.026685953,marketfolly
+286,2017-02-22 18:46:05,"Tiger Global starts Domino’s Pizza stake in Q4, adds more in Q1   $DPZ",1,1,0,0,2,3,0.10667287,0.011935373,0.88139176,Neu,0.09473749,marketfolly
+287,2017-02-22 17:19:01,What We’re Reading  ,0,1,0,0,1,4,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+288,2017-02-20 00:50:02,"FYI for tonight if you forgot,  is back.  ",0,1,0,0,0,1,0.081088126,0.040573906,0.878338,Neu,0.04051422,marketfolly
+289,2017-02-17 18:25:02,Some hedge fund reads for this week  ,0,1,0,0,1,8,0.027338546,0.053332366,0.9193291,Neu,-0.02599382,marketfolly
+290,2017-02-17 17:17:05,ValueAct Capital starts Bioverativ stake   $BIVV (spin-off from $BIIB),0,1,0,0,1,2,0.051599905,0.015173426,0.93322664,Neu,0.036426477,marketfolly
+291,2017-02-16 18:08:04,What We’re Reading  ,0,1,0,0,1,6,0.051450677,0.028725728,0.9198236,Neu,0.022724949,marketfolly
+292,2017-02-15 20:00:03,"FYI,   is giving our readers a free 1-week trial. Check out all their earnings call summaries & investment analysis",0,1,0,0,0,5,0.038552914,0.020977303,0.9404698,Neu,0.01757561,marketfolly
+293,2017-02-15 18:37:02, Would be interested in your take on which is better biz (FICO vs cred reporting agencies). Seen the latter pitched recently,1,1,1,0,0,1,0.0771098,0.014926887,0.90796334,Neu,0.06218291,marketfolly
+295,2017-02-08 17:57:02,What We’re Reading   $FIZZ $CMG $FB $P $SIRI,0,1,0,0,0,8,0.07606997,0.02392966,0.90000033,Neu,0.052140314,marketfolly
+296,2017-02-07 21:24:01, Just make the next one 88 then 888 and so on. Exponential growth!,0,0,0,0,0,1,0.064588875,0.016188063,0.91922307,Neu,0.04840081,marketfolly
+297,2017-02-07 17:58:00,Mike Pausic’s Foxhaven (ex-Maverick guy) shows stake in Trivago   $TRVG,1,1,0,0,0,0,0.046692435,0.013936247,0.9393713,Neu,0.032756187,marketfolly
+298,2017-02-06 17:47:00,Jeff Ubben’s ValueAct Capital sells some more Microsoft   $MSFT,1,1,0,0,0,0,0.09359869,0.018841084,0.88756025,Neu,0.074757606,marketfolly
+299,2017-02-06 17:33:02,Balyasny Asset Management adds to Restoration Hardware holdings   $RH,0,1,0,0,0,1,0.12821539,0.01176039,0.8600243,Neu,0.116454996,marketfolly
+300,2017-02-03 17:37:02,Lone Pine Capital starts Rice Energy position   $RICE,0,1,0,0,0,0,0.09948562,0.016471688,0.88404274,Neu,0.08301394,marketfolly
+301,2017-01-30 22:24:05,  Mainly bc of geography or anchor tenant mix or other?,0,0,0,1,0,0,0.02502134,0.042837728,0.9321409,Neu,-0.017816387,marketfolly
+302,2017-01-25 17:47:04,Back in action.  What we’re reading:   $KHC $SPG $AMZN $NFLX $TCEHY $UAL $AAL $DAL,0,1,0,0,0,8,0.07921899,0.022541616,0.8982394,Neu,0.056677375,marketfolly
+303,2017-01-25 03:47:01, 2016 was just too wild!  Will be back in action shortly.,1,0,1,0,0,0,0.058070812,0.015796442,0.9261327,Neu,0.04227437,marketfolly
+304,2017-01-10 14:46:04, But AXP definitely getting assaulted from all sides in premium card segment. Citi Prestige launched last yr too.,1,1,0,0,0,0,0.42223588,0.01113186,0.5666323,Neu,0.41110402,marketfolly
+305,2017-01-10 14:45:04, Centurion lounges are better than PriorityPass in general (though there’s less of them). 5x on airfare huge if spending there,0,1,0,1,0,0,0.22920832,0.010572409,0.7602193,Neu,0.21863592,marketfolly

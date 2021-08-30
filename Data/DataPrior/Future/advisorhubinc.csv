@@ -1,0 +1,24 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+21,2018-03-21 16:13:01,"If you're a Marketing professional trying to figure out how to reach the elusive Financial Advisor audience, you won't want to miss today's webinar. Starts at 2 P.M. EST. marketing webinar HNW financialadvisors   ",0,1,1,0,0,0,0.029633095,0.034655765,0.9357111,Neu,-0.005022669,advisorhubinc
+74,2018-02-05 21:35:01,Wells Fargo Advisors Assures Brokers They Can Keep Growing  ,0,1,1,0,1,0,0.7024865,0.010421971,0.28709152,Pos,0.6920645,advisorhubinc
+215,2017-11-07 17:49:03,DECEMBER 12th How Financial Advisors Can Leverage Today's Technology For Success: Remote Receptionists Register:    ,0,0,1,0,3,1,0.07979496,0.011630852,0.90857416,Neu,0.06816411,advisorhubinc
+294,2017-09-28 17:04:04,Broker Can’t Escape Promissory Note Debt Through Bankruptcy  ,0,0,1,0,0,0,0.09930339,0.090717055,0.8099795,Neu,0.008586332,advisorhubinc
+503,2017-05-04 21:27:05,"Even When Brokers Win Non-solicitation Battles, They Can Feel Like Losers  ",0,1,1,0,0,0,0.03679625,0.19324286,0.76996094,Neu,-0.1564466,advisorhubinc
+573,2017-03-30 19:55:00,"Missed yesterday's Industry Disruptors webinar? Don't worry, you can watch the replay right here!    ",1,1,1,0,0,0,0.033436015,0.062059656,0.9045043,Neu,-0.02862364,advisorhubinc
+608,2017-03-20 16:10:00,A 1% lift in rates by the Federal Reserve this year should improve LPL’s earnings by 32%  ,0,0,1,0,0,0,0.95544225,0.018895695,0.025662022,Pos,0.93654656,advisorhubinc
+718,2017-02-09 20:01:02,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,1,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+726,2017-02-08 20:01:04,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,2,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+731,2017-02-07 20:01:02,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,0,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+737,2017-02-06 20:01:00,"Firms will benefit from lower compliance and litigation costs, but business models may have permanently changed  ",1,0,1,0,1,0,0.060839385,0.62011075,0.31904978,Neg,-0.55927134,advisorhubinc
+748,2017-02-01 18:01:04,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,0,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+759,2017-01-31 18:01:02,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,0,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+770,2017-01-30 18:01:02,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,1,0,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+781,2017-01-29 18:00:03,Firm may have been “lucky” in delaying restrictive changes in pricing and products that may not be necessary  ,1,1,1,0,1,1,0.6931171,0.027125854,0.27975708,Pos,0.66599125,advisorhubinc
+811,2017-01-19 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,2,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+828,2017-01-18 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,0,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+839,2017-01-17 20:40:02,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,0,0,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+852,2017-01-16 20:40:01,"Reimbursement of $22.5 million will go to 47,000 customers legacy Smith Barney managed accounts  ",1,1,1,0,1,1,0.13765295,0.0099044,0.8524426,Neu,0.12774855,advisorhubinc
+926,2017-01-08 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+933,2017-01-07 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+941,2017-01-06 14:20:01,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,1,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc
+950,2017-01-05 14:20:02,2017 exam priority letter will focus on hiring procedures and supervision of reps with troublesome backgrounds  ,0,0,1,0,0,0,0.03574056,0.035939872,0.92831963,Neu,-0.00019931048,advisorhubinc

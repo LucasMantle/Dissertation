@@ -1,0 +1,508 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2021-07-28 15:55:04,One would think $V commentary that e-commerce spending holding steady despite reopening is pretty bullish for secular trends,0,1,1,1,1,21,0.713585,0.052710272,0.23370467,Pos,0.6608747,davidschawel
+1,2021-07-27 21:14:01,$GOOGL is a monster,0,1,0,4,6,34,0.049654152,0.039957598,0.9103883,Neu,0.009696554,davidschawel
+2,2021-07-09 03:02:01, also Amazon prime,0,0,0,2,0,1,0.030829787,0.023576304,0.94559383,Neu,0.007253483,davidschawel
+3,2021-07-08 20:30:05,"$AAPL is just off of an all-time high, but it still sports a free cash flow yield above the high yield index YTW  ",0,1,0,1,3,10,0.9325182,0.030556722,0.036925025,Pos,0.90196145,davidschawel
+4,2021-07-07 00:19:03,Pentagon should just award JEDI to Google and piss everyone off,0,0,1,4,4,16,0.017356362,0.8540596,0.1285841,Neg,-0.83670324,davidschawel
+5,2021-07-06 18:32:02,What would $AMZN trade at tomorrow if this were announced after the bell?,1,0,1,7,1,11,0.022370702,0.036329236,0.94130003,Neu,-0.013958534,davidschawel
+6,2021-07-02 14:12:03, Point taken. What your saying assumes people are able to assess “bad” investments. I remember in January 2020 seeing tweets thinking Shopify’s P/E was ludicrous without any understanding of the business/trends/traction.,1,1,0,1,0,1,0.046329595,0.28366682,0.6700036,Neu,-0.23733723,davidschawel
+7,2021-06-28 16:16:04,There’s 728 private companies currently valued at $1bil or more.  You have an opportunity to invest in the S&P 500 for 10 years or a valuation weighted basket of the below companies. Which would you pick?  ,1,1,1,15,14,85,0.03942024,0.01976203,0.9408178,Neu,0.01965821,davidschawel
+8,2021-06-25 15:18:04,Unbelievable. In the last 2yrs $AMZN has built as much logistics capability as $WMT in the last 50yrs. h/t   ,1,1,0,3,32,103,0.748341,0.008415015,0.24324392,Pos,0.739926,davidschawel
+10,2021-06-03 23:56:00, is it weird to name this after the nickname of Facebook’s worst unit?,1,1,0,2,0,0,0.026721837,0.2996692,0.6736089,Neu,-0.27294737,davidschawel
+11,2021-05-19 22:29:05, even Google cloud is nothing to sneeze at! Would be a huge standalone company.,0,1,1,1,0,4,0.026318805,0.04585314,0.927828,Neu,-0.019534336,davidschawel
+12,2021-05-19 20:31:02, Looking for a: FED THINKS Z1/Z3 AT 85BPS IS “REASONABLE”,0,1,0,2,0,1,0.15112807,0.03672896,0.8121429,Neu,0.114399105,davidschawel
+13,2021-05-10 23:37:02,Hard for $AMZN shareholders to not like the company selling 40y debt at +95bps to buy-back stock.,0,1,0,16,16,427,0.03836827,0.3398876,0.62174416,Neu,-0.30151933,davidschawel
+14,2021-04-28 22:38:00, I suppose eventually we will understand it based on Apple’s marketing campaign,1,1,1,0,0,0,0.18104604,0.009249129,0.80970484,Neu,0.1717969,davidschawel
+15,2021-04-28 21:39:04,"$FB family monthly active people (user of at least one of Facebook, Instagram, Messenger, and/or WhatsApp) up to 3.45bil (up 15% YoY)",0,0,0,2,2,14,0.95000684,0.02171807,0.028275084,Pos,0.92828876,davidschawel
+16,2021-04-27 21:14:03,"I remember a lot of $GOOGL bears at $1,000",0,1,0,0,2,27,0.04998401,0.040475756,0.90954024,Neu,0.009508256,davidschawel
+17,2021-04-27 21:11:04,1Q Google Cloud at $4.05 Billion $GOOGL,0,0,0,2,2,18,0.037707776,0.0352486,0.9270436,Neu,0.002459176,davidschawel
+18,2021-04-26 12:43:00,The last few decades have seen large corporations move operations to NC for various incentives without giving back. It’s great to see $AAPL create a fund for the schools/community. A drop in the bucket for them but meaningful.,1,1,0,0,2,16,0.29447487,0.2023053,0.50321984,Neu,0.09216957,davidschawel
+19,2021-04-15 19:11:05,"“Customers complete 28% of purchases on Amazon in three minutes or less, and half of all purchases are finished in less than 15 minutes” - Bezos  ",1,1,0,0,7,16,0.03809725,0.029859904,0.9320428,Neu,0.008237347,davidschawel
+20,2021-04-14 16:03:04,"Amazing stock over the last 27+ years? IT research firm Gartner $IT  6,155% return since IPO on 10/5/1993.  16.2% annualized return vs S&P 500 at 10.4%",0,1,0,1,4,29,0.19853824,0.047183257,0.7542785,Neu,0.15135498,davidschawel
+21,2021-04-12 19:47:00, do you have a ‘23 S&P EBITDA forecast?,0,1,0,1,0,0,0.085853755,0.03049636,0.88364995,Neu,0.055357397,davidschawel
+22,2021-04-12 16:18:01,"Remarkable how fast these trillion dollar companies are growing.  Also, funny how the ‘23 EBITDA estimates are all within 10% of each other excluding $FB.  $AMZN $MSFT $GOOGL $AAPL  ",0,1,0,12,23,152,0.23959775,0.0119423065,0.74845994,Neu,0.22765544,davidschawel
+23,2021-04-10 18:36:01,Over 95% of S&P 500 stocks are above their 200-day moving average- the highest level since October ‘09,0,1,0,10,19,122,0.8360331,0.13524562,0.028721232,Pos,0.7007875,davidschawel
+24,2021-04-07 16:19:04,1hr Prime delivery for $AMZN? h/t ,0,0,0,0,1,6,0.049268275,0.027326714,0.923405,Neu,0.021941561,davidschawel
+26,2021-04-05 17:25:01,$GOOGL now +50% over the last 6mo while $AMZN is flat.,0,1,0,26,26,444,0.15103903,0.70006204,0.1488989,Neg,-0.54902303,davidschawel
+27,2021-03-28 22:20:03, in fairness you probably can’t surf like you did 20y ago!,1,0,1,1,0,0,0.056783132,0.06193305,0.88128376,Neu,-0.0051499195,davidschawel
+28,2021-03-25 23:17:04," Amazon is fast, not slow.",0,1,0,1,0,3,0.07138311,0.049008697,0.8796082,Neu,0.022374414,davidschawel
+29,2021-03-24 13:16:01, depends on what happens next!,0,1,0,2,0,8,0.02736269,0.049051818,0.92358553,Neu,-0.021689128,davidschawel
+30,2021-03-21 01:40:02," My father sent me his, he’s in the 99th percentile. No matter what I do in life, he always outdoes me!",1,1,0,1,0,2,0.045919247,0.046811953,0.90726876,Neu,-0.0008927062,davidschawel
+32,2021-03-19 02:02:02, by data I clearly mean a proprietary hot/cold survey of Facebook comment canoes,0,1,0,1,0,11,0.040243857,0.037244007,0.9225122,Neu,0.0029998496,davidschawel
+33,2021-03-05 16:39:03,Most interesting relative strength is $GOOGL still green,0,1,0,7,0,34,0.1408939,0.015381558,0.84372455,Neu,0.12551235,davidschawel
+34,2021-03-04 17:09:04,"Good point by Jeff. One differentiating factor is the new growth companies are shrewdly using their expensive stock as currency, whereas AAPL traded at 12x for years.",1,1,0,0,0,2,0.06118833,0.09360472,0.845207,Neu,-0.032416392,davidschawel
+36,2021-02-25 18:00:04,"I’ll get ripped for saying this, but $NFLX $FB $AMZN types looking more like GARP by the day.",1,1,0,4,4,17,0.055601157,0.06900009,0.8753987,Neu,-0.01339893,davidschawel
+37,2021-02-25 17:16:00,"Just like that, the Dow is now ahead of the Nasdaq and S&P 500 on the year",0,1,0,4,1,12,0.18149829,0.0215116,0.79699016,Neu,0.15998669,davidschawel
+38,2021-02-23 04:51:02,"  for a company doing 182bil a year in revenue and chasing bigger fish like Google cloud, it probably is just a rounding error",0,1,0,1,0,1,0.037456915,0.18653248,0.77601063,Neu,-0.14907557,davidschawel
+39,2021-02-23 04:36:00, why doesn’t Google think it’s important? Too immaterial?,0,1,0,2,0,1,0.026167888,0.488051,0.4857811,Neg,-0.4618831,davidschawel
+40,2021-02-15 14:45:05,"Amazon to partner with community colleges to offer apprenticeship program.   Will focus on work in ""mechatronics,"" a combination of electronics and mechanical engineering.  ",0,0,0,4,2,18,0.12910758,0.008841241,0.8620512,Neu,0.12026634,davidschawel
+41,2021-02-11 16:49:03,"Heard this argument recently: “15% of the companies in the S&P 500 innovate. The 15% that innovate sit in cash, the other 85% have debt. The 15% will continue to innovate and have flexibility to play offense. Who do you want to invest with?”",0,1,1,7,1,26,0.058752824,0.018564427,0.92268276,Neu,0.040188394,davidschawel
+42,2021-02-11 00:30:05,"  an AAPL bond and an E&P bond might both be “corporates” but that doesn’t mean much. In the same way, DL’s credit might correlate more with a credit index. Comparing CMBS/ABS/RMBS to Ginnie’s b/c they say “mortgage” is losing sight of the big picture.",1,1,1,0,0,0,0.017499808,0.9047064,0.077793755,Neg,-0.8872066,davidschawel
+43,2021-02-06 19:59:01,"Dow Jones US Small Cap Bio Index going bonkers up 22% YTD, and 67% over 1y  ",0,1,0,4,7,47,0.9303229,0.03362018,0.036056925,Pos,0.8967027,davidschawel
+44,2021-02-03 15:35:02, Depends,0,0,0,1,0,0,0.10160269,0.039264895,0.85913247,Neu,0.062337793,davidschawel
+45,2021-02-02 21:05:04,$AMZN TTM operating cash flow up 72% to $66bil.,0,1,0,3,2,37,0.94815546,0.030341664,0.021502849,Pos,0.9178138,davidschawel
+46,2021-01-27 21:07:01,$FB upping their buyback by an additional $25bil,0,1,0,3,5,15,0.91678494,0.018192124,0.06502301,Pos,0.8985928,davidschawel
+47,2021-01-24 15:36:03,Only four times in the last twenty five years has the S&P 500 returned between 0-10%.  ,1,1,0,3,29,97,0.38115555,0.5228075,0.09603694,Neg,-0.14165193,davidschawel
+48,2021-01-21 15:00:02,~30% of S&P 500 companies are still projected to have ‘21 EPS below ‘19 levels.,1,1,0,3,6,14,0.04131748,0.9203523,0.03833015,Neg,-0.8790348,davidschawel
+50,2021-01-12 16:59:01,"  Facebook to acquire Altria, Larry goes to work as head of strategy",0,1,0,1,0,5,0.033730228,0.024442788,0.941827,Neu,0.009287439,davidschawel
+51,2021-01-12 16:28:03,Good post from Larry who is secretly wanting to skip the big tech stocks and start a “S&P 11-500” ETF.,0,1,0,3,2,21,0.15494648,0.01576492,0.82928854,Neu,0.13918155,davidschawel
+53,2021-01-07 13:21:00,"Years ago, Microsoft tried to acquire Nintendo. Here’s how the meeting went: “They just laughed their asses off. Like, imagine an hour of somebody just laughing at you...”  ",1,1,0,4,2,48,0.027442878,0.13726556,0.8352916,Neu,-0.10982268,davidschawel
+54,2021-01-05 22:15:01,MSCI Emerging Markets Index has outperformed the S&P 500 by ~18.5% since May 22nd.,1,1,0,7,16,162,0.78746265,0.19174762,0.020789776,Pos,0.59571505,davidschawel
+55,2020-12-31 16:52:02,"Private label boom. Here’s a company called Mohawk that scrapes the web to see what consumer products are selling well, and then develops and sells them on Amazon  ",1,1,0,0,1,10,0.045077562,0.017433746,0.93748873,Neu,0.027643817,davidschawel
+56,2020-12-30 21:01:00,   Indian banks anyone? $HDB  ,0,0,0,1,0,2,0.055068914,0.03592614,0.90900487,Neu,0.019142773,davidschawel
+57,2020-12-29 19:13:04,Really interesting to see value ( $FB $BABA) outperforming growth today...,0,1,0,3,3,43,0.71976554,0.23514234,0.04509218,Pos,0.4846232,davidschawel
+58,2020-12-25 15:40:00, traumatic childhood experience leading to regular Amazon basics purchasing,0,1,0,0,0,2,0.04024598,0.23771074,0.7220433,Neu,-0.19746476,davidschawel
+59,2020-12-22 21:11:00,Investors seem to be way more comfortable with pure speculation than mega cap tech with government overhang $FB $BABA,0,1,0,8,2,32,0.25283778,0.01764666,0.72951555,Neu,0.23519112,davidschawel
+60,2020-12-19 16:55:03,Amazon/FedEx/UPS delivery drivers should be tipped by people,1,0,1,67,12,265,0.145201,0.02252351,0.8322755,Neu,0.12267749,davidschawel
+61,2020-12-17 17:08:01,"Risk appetite is pro-cyclical. So when markets are ripping it’s no longer good enough for people to own the S&P or a large-cap growth fund, their mental return hurdle goes up even though expected returns have come down. Hence, they end up in SPACs, IPOs, BTC, etc",1,1,0,8,12,71,0.072604194,0.5991546,0.3282412,Neg,-0.5265504,davidschawel
+62,2020-12-16 17:20:00,Largest valuation discount on pharma stocks vs the S&P since ACA in 2009-2010z  ,0,1,0,1,1,19,0.68637913,0.23349684,0.080124065,Pos,0.4528823,davidschawel
+63,2020-12-15 23:53:00,  second day in a row of problems with gmail and other things,0,0,0,1,0,3,0.00869614,0.9606103,0.030693542,Neg,-0.95191413,davidschawel
+64,2020-12-12 19:19:03, can you hear Gillian’s Island music playing in the distance?,0,0,1,0,0,5,0.086033426,0.036667712,0.87729883,Neu,0.049365714,davidschawel
+65,2020-12-10 16:31:00,"What does $FB look like in 5+ years? I’d think any anti-trust case, even if the govt ends up winning, will take significant time.",0,1,1,6,1,7,0.14923847,0.021307765,0.8294538,Neu,0.1279307,davidschawel
+66,2020-12-09 20:10:05,What would Instagram be valued at today as an independent company? $FB,1,0,1,14,1,18,0.05845654,0.012270208,0.92927325,Neu,0.04618633,davidschawel
+67,2020-12-08 18:31:04,"$AMZN actual annual sales versus what Wall Street analysts thought they’d be three years earlier.  Forecasting is difficult, and the best growth stocks haven’t been as expensive as they appeared at the time.  ",1,1,0,6,50,327,0.044028748,0.82654154,0.12942971,Neg,-0.7825128,davidschawel
+69,2020-12-03 14:16:05,  reel funny guys,0,0,0,2,0,4,0.06526561,0.037720814,0.89701355,Neu,0.027544796,davidschawel
+70,2020-11-24 16:31:05,"The Dow can’t win, now it has high multiple growth stocks like Salesforce holding back its performance",0,1,1,3,0,24,0.022403339,0.89774007,0.07985655,Neg,-0.8753367,davidschawel
+71,2020-11-22 16:20:03,MSCI World Value vs Growth around bear markets  ,0,0,0,4,1,10,0.13874939,0.030325824,0.8309248,Neu,0.10842357,davidschawel
+72,2020-11-18 21:33:01,"Looking ahead, ‘21 comps will be interesting. As tough as can be for firms like $AMZN while many financials and cyclicals will have a very low bar.",1,1,1,3,2,17,0.14007477,0.01751181,0.8424134,Neu,0.12256297,davidschawel
+73,2020-11-17 17:20:01," Twitter, Facebook, and Instagram and converging!",0,0,0,0,0,0,0.02677554,0.030691167,0.94253325,Neu,-0.0039156266,davidschawel
+74,2020-11-12 02:51:01, what’s the easiest way to normalize it? Amazon on the other hand reports sales and not gmv?,0,1,0,1,0,0,0.029355451,0.058779012,0.9118655,Neu,-0.029423561,davidschawel
+75,2020-11-02 13:27:05," Next month you’ll be taste testing bundt cakes, and reviewing the top gift ideas on Amazon. Look out Michael Strahan!",1,1,0,1,0,3,0.08969522,0.014378833,0.8959259,Neu,0.07531639,davidschawel
+76,2020-10-30 14:24:05,"There’s a glass half full approach to $AAPL. If it had closed at $100 yesterday, the stock would be up 10% today!",1,1,1,1,0,4,0.8601918,0.01240609,0.12740216,Pos,0.8477857,davidschawel
+77,2020-10-28 20:14:03,Pretty strong beats from $NOW $PINS and $V,0,0,0,0,1,19,0.8927173,0.025746135,0.081536576,Pos,0.8669712,davidschawel
+78,2020-10-26 18:14:05, Haha! Thought you would’ve said Hawaii Five-0 or Cheers.,1,0,1,1,0,0,0.042275973,0.046792194,0.9109318,Neu,-0.0045162216,davidschawel
+79,2020-10-26 18:08:01," when you get old and cranky, what TV show theme song are you most likely to blast?",0,1,0,1,0,1,0.029979967,0.21457867,0.75544137,Neu,-0.18459871,davidschawel
+80,2020-10-23 03:42:00, he blows the BEST wind,0,1,0,0,0,7,0.07365217,0.023456044,0.9028918,Neu,0.050196126,davidschawel
+81,2020-10-22 16:27:02,“The evil Google is subsidizing my iPhone”      ,0,1,0,0,0,12,0.08180625,0.1483456,0.76984817,Neu,-0.066539355,davidschawel
+82,2020-10-12 21:05:00,"*S&P GLOBAL: GICS INDUSTRY CLASSIFICATION STRUCTURE TO ADD SPACS, EXPAND TO 12 SECTORS ON JANUARY 1, 2021",0,0,0,9,6,44,0.35082906,0.009443218,0.6397278,Neu,0.34138584,davidschawel
+83,2020-10-12 20:19:04, Google is worth more dead than alive!,0,1,0,0,1,15,0.059418175,0.042691804,0.89789,Neu,0.01672637,davidschawel
+84,2020-10-07 01:27:01,"Wait, what? $AMZN is adding the equivalent of 40 football fields of fulfillment capacity per WEEK?",0,1,0,6,16,42,0.08716121,0.013825115,0.89901364,Neu,0.073336095,davidschawel
+85,2020-09-29 17:55:05,"Amazon launches “One”. Very interesting...”fast, convenient, contactless identity service that uses your palm - just hover to enter, identity, and pay.”  ",0,1,0,5,1,4,0.17847547,0.009792901,0.8117316,Neu,0.16868258,davidschawel
+86,2020-09-29 01:17:03," Nothing wrong with keeping MSFT humble, things have been a little too smooth!",1,1,0,0,0,0,0.10534421,0.32845807,0.56619775,Neu,-0.22311386,davidschawel
+87,2020-09-27 17:54:04,    Proprietary system to trade the Dodgecoin/Ethereum pair.,0,0,0,1,0,1,0.052777193,0.011029875,0.9361929,Neu,0.041747317,davidschawel
+88,2020-09-20 21:44:05,"  For sure, agree. Feels like a scenario where the market thinks years 1-3 will be lower than previously thought, and after that far higher. The one that goes against everything is AAPL which isn’t a big growth story and thus its move should be more from discount rates.",1,1,1,1,0,1,0.14885397,0.046622775,0.8045233,Neu,0.1022312,davidschawel
+89,2020-09-20 21:35:03,"  secular winners, so higher longer term cash flows in out years regardless of what discount rate you apply...if you believe that current trends already in place have been fast forwarded by 4-5y there’s some validity (not saying to all)",1,1,0,0,0,0,0.19101623,0.01746643,0.7915174,Neu,0.1735498,davidschawel
+90,2020-09-20 21:30:04,"  It may be correct, but I agree it’s ex-post rationalization as valuation is always more art than science. The fact that real rates have fallen AND these have been secular Covid winners makes disentangling more challenging.",1,1,1,2,0,2,0.018244926,0.90703833,0.07471678,Neg,-0.8887934,davidschawel
+91,2020-09-18 17:17:02,  true but doesn’t mean there won’t be some sort of retaliation well beyond what we’ve already seen. Something to Apple would spook markets imo,1,1,1,1,0,0,0.017047465,0.8949999,0.08795259,Neg,-0.87795246,davidschawel
+92,2020-09-18 13:15:04,No reason to believe that longer term China would return the US’s Tik-Tok volley with something rational. Perhaps something Apple related?,1,0,1,7,0,13,0.13369422,0.012860507,0.85344535,Neu,0.12083371,davidschawel
+93,2020-09-17 20:26:05, I briefly thought people were getting into the US Open with the par talk!,1,1,0,2,0,2,0.07873489,0.02684345,0.89442164,Neu,0.05189144,davidschawel
+95,2020-09-17 02:04:00,"The above is $V from 2005 to 2010. At the end of FY10 it had a market cap of $53bil. The next decade, net income rose by ~6x and the market cap sits at $436bil today.",1,1,0,3,3,4,0.17263871,0.018030887,0.80933046,Neu,0.15460783,davidschawel
+96,2020-09-14 03:01:05, Apple buying Heinz,0,0,0,1,1,36,0.037491493,0.038996197,0.92351234,Neu,-0.0015047044,davidschawel
+97,2020-09-11 01:55:04," PTON is a great business, but no legitimate investor is comparing it to Apple.",0,1,0,0,0,13,0.14503941,0.016803429,0.8381572,Neu,0.12823598,davidschawel
+98,2020-09-10 20:55:02,$AAPL *still* has a positive 1mo return,0,1,0,1,0,3,0.9422983,0.018164348,0.039537396,Pos,0.92413396,davidschawel
+99,2020-09-10 16:59:04, that’s the company amazon is backing - Rivian,0,1,0,2,0,15,0.04145093,0.020220526,0.9383285,Neu,0.021230403,davidschawel
+100,2020-09-09 03:36:04,I think the jabs at Berkshire regarding Snowflake are unfair. They’ve been disciplined while at the same time adaptable. Their ability to change their mind and buy (Apple) or sell (airlines) is one of their many strengths.,1,1,0,5,2,39,0.23294139,0.1321408,0.63491786,Neu,0.10080059,davidschawel
+101,2020-09-03 15:44:04,"Overhearing a 2nd grade Google Meet class in the background 😂  Boy: “My parents are at work today, and tomorrow I’m going camping so I’m not going to be able to do my homework.”",0,1,1,5,0,8,0.029661251,0.61724806,0.3530907,Neg,-0.5875868,davidschawel
+102,2020-09-02 20:46:04,  “What a Google-City in the rust belt says about the GOP’s strategy in 2028”,1,1,0,0,0,2,0.05230054,0.02142618,0.9262733,Neu,0.030874358,davidschawel
+103,2020-09-02 20:41:01,“Google proposes new town-like tech hub”  ⁦Bloomberg View columns to follow   ,0,1,0,1,1,5,0.058504954,0.016650222,0.9248448,Neu,0.04185473,davidschawel
+104,2020-09-02 20:26:02," Waited a decade for a market crash, got the crash, and now the S&P is still outperforming on the year...",1,1,0,1,0,12,0.03463659,0.9224499,0.04291354,Neg,-0.88781327,davidschawel
+105,2020-08-31 16:16:03,$AAPL now trading with a FCF Yield 240bps in excess of the 10y UST  ,0,1,0,3,1,5,0.36678818,0.059646633,0.5735652,Neu,0.30714154,davidschawel
+106,2020-08-30 20:55:00,"  Exactly what part of this isn’t panic?  “On Long Island, six people made offers on a $499,000 house in Valley Stream without seeing it in person after it was shown on a Facebook Live video”",1,1,0,2,1,7,0.04026137,0.028909974,0.93082863,Neu,0.011351395,davidschawel
+107,2020-08-29 00:12:03," Thanks! Sadly many focused on Amazon itself, which obviously wasn’t the point.",1,1,0,4,0,5,0.042076334,0.43281698,0.5251067,Neu,-0.39074063,davidschawel
+108,2020-08-24 16:31:01, Google Meet has been 💯 for ours (so far),1,1,0,1,0,1,0.38397938,0.022608249,0.5934124,Neu,0.36137113,davidschawel
+109,2020-08-23 21:30:04, correct and then core would be vs SPX,0,0,1,0,0,0,0.041815523,0.020992907,0.9371916,Neu,0.020822616,davidschawel
+110,2020-08-23 19:04:04," This is similar to when banks reduce deposit rates, at these low of levels customers typically do not move the funds.",0,1,0,1,0,4,0.021798022,0.5603625,0.4178394,Neg,-0.5385645,davidschawel
+111,2020-08-21 20:13:00,$AAPL casually adding (~$110bil) the equivalent of $LMT $HON $AMT ‘s market cap today alone...,0,1,0,4,14,77,0.74069816,0.011050367,0.24825153,Pos,0.7296478,davidschawel
+113,2020-08-20 01:31:01," wow, he has the same name as the guy who tweets the memes!",0,1,0,1,0,3,0.043470792,0.061445247,0.89508396,Neu,-0.017974455,davidschawel
+115,2020-08-17 16:40:01,Many of the biggest moneymakers over the last 5-10 years have been things that were mocked on Twitter:  $AMZN “They’re not making any money!” $AAPL “There’s no innovation. They’re toast after Jobs” $TSLA “It’s a fraud” Robinhood: “Trading isn’t actually free” SaaS: “10x sales?!”,1,1,0,24,65,374,0.027539255,0.3282102,0.6442506,Neu,-0.30067095,davidschawel
+116,2020-08-17 01:34:02," Amazon might be expensive, but I’ve yet to see a well thought out case that it’s a bubble.",1,1,1,3,0,6,0.11136657,0.021501338,0.86713207,Neu,0.08986523,davidschawel
+117,2020-08-14 02:57:01," Take a corporation like Google whose profitability has benefited from monopoly like practices (even if not legally one).   They’re in an environment where IG debt has a backstop from the Fed & all in yields are at lows.They have plenty of FCF, so why should they get this benefit?",1,1,1,0,0,3,0.048934538,0.3177369,0.63332856,Neu,-0.26880234,davidschawel
+118,2020-08-13 21:16:00, millennials have never heard the sound of winding a KODK disposable camera!,1,1,0,6,0,7,0.027436355,0.068417095,0.9041465,Neu,-0.04098074,davidschawel
+119,2020-08-13 15:55:00,$AAPL nearing $2T market cap.   An investor who bought $10k worth of the stock in 1993 would have sold it thirty times over by now.,1,1,1,31,73,863,0.10325656,0.019242017,0.8775014,Neu,0.08401454,davidschawel
+120,2020-08-12 17:09:02,I don’t think this is the start of a trend. Now if we see Braeburn Capital ($AAPL’s internal asset manager) buy then maybe it’s a different story.,1,1,0,0,0,6,0.07229213,0.071783766,0.8559242,Neu,0.00050836056,davidschawel
+121,2020-08-10 19:10:04,      School districts could give a headcount immediately. At a minimum you could start with those on free lunch.,0,0,1,1,0,3,0.026700268,0.06253139,0.91076833,Neu,-0.035831124,davidschawel
+122,2020-08-10 19:08:03,     I’d think the vast majority would agree tbh,0,1,1,2,0,1,0.102336034,0.022252692,0.8754112,Neu,0.08008334,davidschawel
+123,2020-08-10 19:06:01,     I know. But obv not kids fault they were born in a certain zip code. If school is being done at home we need to make sure they can participate and learn with a device.,1,1,1,1,0,4,0.07705411,0.017976893,0.904969,Neu,0.05907722,davidschawel
+124,2020-08-10 19:04:02,"    it’s not even a luxury, kids NEED it for virtual learning.",0,1,0,1,0,2,0.043920334,0.028359858,0.92771983,Neu,0.015560476,davidschawel
+125,2020-08-10 19:03:01,    Why? It’s a problem for a lot of families and could easily be solved through a private/public partnership,1,1,1,1,0,2,0.06991761,0.022421781,0.90766054,Neu,0.04749583,davidschawel
+126,2020-08-10 18:58:00,Am I crazy to think a sensible idea would be to make sure the government provides all students with a device for virtual learning? Also looking at you   ,0,1,1,10,4,25,0.06564113,0.015073353,0.9192855,Neu,0.050567776,davidschawel
+127,2020-08-10 00:36:00,"Goldman highlights an amazing stat on the “haves” and “have nots” in the market today:  “In aggregate, FAAMG EPS grew by 2% year/year in 2Q compared with an aggregate decline of -38% for the other 495 S&P 500 companies.”  $FB $AAPL $AMZN $MSFT $GOOGL",1,1,0,8,46,163,0.9342785,0.017458491,0.048263013,Pos,0.91682,davidschawel
+128,2020-08-08 23:40:04," Buffett bought into Apple late, but he’s still crushed it.",1,1,0,1,0,1,0.17777081,0.38181573,0.44041345,Neu,-0.20404492,davidschawel
+129,2020-07-31 20:18:04,"With today’s rise, Berkshire’s holding in $AAPL now represents ~22% of its market cap  ",1,1,0,6,19,76,0.0922831,0.012533202,0.8951837,Neu,0.0797499,davidschawel
+130,2020-07-30 21:19:00,"$GOOGL cloud with Q2 2020 revenue of $3bil, up 43% YoY.",0,0,0,4,3,27,0.9540303,0.02023506,0.025734631,Pos,0.9337952,davidschawel
+131,2020-07-30 21:08:04,$AMZN beat top line by $8 BILLION. Insanity.,0,0,0,27,147,874,0.45991114,0.017276596,0.52281225,Neu,0.44263455,davidschawel
+132,2020-07-29 04:54:04,"  Any way you add it up, Amazon has invested for the future at the expense of current profitability (and for many years was heavily scrutinized for it). This is an undeniable fact, the specific number does not change this.",1,1,0,1,1,0,0.06617427,0.03728075,0.89654493,Neu,0.02889352,davidschawel
+133,2020-07-23 15:23:01, recent grads probably don’t even know Soros!,0,1,0,0,0,3,0.026696127,0.24447955,0.7288244,Neu,-0.21778342,davidschawel
+134,2020-07-21 02:53:05," In general I kind of hate these charts, but amazed by how long Microsoft has been dominant through reinvention",1,1,0,0,0,1,0.16384338,0.025841411,0.8103152,Neu,0.13800196,davidschawel
+135,2020-07-21 02:47:04,The most amazing thing about this chart IMO is that Microsoft has been top 5 in each of these measurement periods!  ,1,1,0,3,7,31,0.59886366,0.015547501,0.38558885,Pos,0.58331615,davidschawel
+137,2020-07-16 17:23:04,-Mr. Market -Quote from Confucius  -Long term owners of businesses  -FANG as a % of S&P,0,0,0,7,3,141,0.03672777,0.016957063,0.94631517,Neu,0.019770708,davidschawel
+138,2020-07-13 18:14:01,So $ARKK has almost $6bil in AUM while compounding ~30% a year since 2014 inception?   It’s outperformed the S&P 500 by almost 20% per year.,1,1,0,6,3,42,0.93999547,0.03630221,0.023702392,Pos,0.90369326,davidschawel
+139,2020-07-13 15:55:02," I like the Washington Generals, they’re used to getting beat each week anyways",1,1,0,4,0,2,0.060895216,0.056336116,0.88276863,Neu,0.0045590997,davidschawel
+140,2020-07-10 16:29:04,"This week six years ago, Facebook users condemned Steven Spielberg for killing a Triceratops.  ",1,1,0,52,236,1458,0.025047071,0.80270606,0.17224692,Neg,-0.777659,davidschawel
+141,2020-07-09 17:08:02,In times of panic it really makes investors remember the value of having risk off assets such as 30y USTs and $AMZN,0,1,0,11,8,178,0.06530892,0.046835568,0.8878555,Neu,0.018473353,davidschawel
+142,2020-07-09 02:06:03, The only gif ever needed to describe opening up Facebook  ,1,1,0,1,0,18,0.044706788,0.024268078,0.93102515,Neu,0.02043871,davidschawel
+143,2020-07-07 14:33:00,"For S&P 500 top 5 companies, market capitalization is increasingly concentrated but so is free cash flow.  ",0,1,0,1,4,14,0.1968991,0.015545263,0.78755563,Neu,0.18135384,davidschawel
+144,2020-07-07 00:14:02, No argument. Just think it’s disingenuous to see “AMZN is trading at 200x” tweets.,0,1,0,0,0,1,0.030907035,0.27414644,0.6949465,Neu,-0.2432394,davidschawel
+145,2020-07-07 00:10:02,"Paying ~20x ‘22 EV/EBITDA for a publicly traded monopoly like $AMZN is not Ben Graham value, but is not exactly   either",1,1,0,6,9,55,0.043102864,0.03199499,0.92490214,Neu,0.011107873,davidschawel
+146,2020-07-07 00:04:01, Like the 2020 version of PPIP! Lever already high returning assets.,0,1,0,0,0,1,0.35243404,0.014963333,0.63260263,Neu,0.3374707,davidschawel
+147,2020-06-29 19:00:01,"Suppose investors aren’t buying the strike, and guessing that corps come back around to Facebook for ads",0,1,0,4,1,5,0.039263617,0.16438799,0.7963484,Neu,-0.12512437,davidschawel
+148,2020-06-29 18:43:00,PSA to Fed critics: it’s the creditworthiness of $AAPL and firmness of IG in general that’s caused right spreads for $AAPL bonds. There’s been no real direct benefit to them from the Fed program.,1,1,0,2,5,6,0.44646034,0.09487935,0.45866036,Neu,0.35158098,davidschawel
+149,2020-06-24 14:27:00,Market is getting so top heavy that the INCREASE in price target is greater than the market cap of all but 15 S&P 500 companies,0,1,0,5,17,66,0.7879948,0.018610196,0.19339505,Pos,0.7693846,davidschawel
+151,2020-06-24 14:07:00,"$BRK owns 245mil shares of $AAPL now valued at ~$90bil, now over 10% of their total assets on balance sheet.",1,1,0,5,8,62,0.07543266,0.013450861,0.91111654,Neu,0.061981797,davidschawel
+152,2020-06-23 19:29:03,"     perhaps, but as far as popularity and economics the numbers don’t lie  ",0,1,0,0,0,0,0.052493576,0.04518321,0.9023232,Neu,0.0073103644,davidschawel
+153,2020-06-23 19:11:03,     This chart is like the people who say “nobody uses Facebook”. Feels anecdotally correct but wrong when you look at users (ticket sales) and revenues (franchise values).,0,1,0,1,0,1,0.038802113,0.21616217,0.74503577,Neu,-0.17736006,davidschawel
+154,2020-06-23 16:49:05," the one thing about AMZN is everything is behind the scenes, they really don’t have to be customer facing",0,1,0,1,0,2,0.03804626,0.03651391,0.92543983,Neu,0.0015323497,davidschawel
+155,2020-06-23 16:40:05,"Which will outperform on a 5 year horizon? Portfolio 1: SHOP, SQ, TWLO, NOW, CRM, ZM, DOCU, ADBE, VEEV, TEAM (equal weighted) Portfolio 2: S&P 500 equal weighted Portfolio 3: KBW Bank Index Portfolio 4: Apple, Microsoft, Amazon, Facebook, and Google equal weighted",1,0,1,10,2,7,0.08135564,0.020832403,0.89781195,Neu,0.060523234,davidschawel
+156,2020-06-23 16:24:01,"*If* they wanted, given their strength in logistics, is there any reason $AMZN couldn’t run a successful airline?",1,1,0,14,1,19,0.07109965,0.04391836,0.884982,Neu,0.027181286,davidschawel
+157,2020-06-19 17:20:04, Sounds like a ploy to get people to sit home and order Apple products online.,0,1,0,1,0,3,0.13684149,0.015689809,0.84746873,Neu,0.121151686,davidschawel
+158,2020-06-17 15:56:05, Why assume they own the market? We know they’re not buying the S&P,0,1,0,1,0,0,0.037715584,0.02579196,0.9364925,Neu,0.011923624,davidschawel
+159,2020-06-16 20:56:02, Another way of showing that many investoes were overthinking Amazon,1,1,0,2,0,2,0.074680164,0.22167811,0.7036418,Neu,-0.14699794,davidschawel
+160,2020-06-15 13:05:02,In the last few months $SHOP merchants gained the ability to have their products sold on $FB shops and now a deeper reach with $WMT. At minimum small merchants now have an alternative to $AMZN,1,1,0,0,2,14,0.30297288,0.008273696,0.6887534,Neu,0.2946992,davidschawel
+161,2020-06-10 20:03:04,"$SQ has nearly tripled from the bottom in March. That said, it’s added ~$25bil of market cap which is LESS than what $AAPL has added just TODAY.",1,1,0,3,1,14,0.73693717,0.21235645,0.050706435,Pos,0.5245807,davidschawel
+163,2020-06-02 21:06:03, 1 value investing blog post = 1 S&P handle,0,1,0,1,3,22,0.034850057,0.030984242,0.9341657,Neu,0.0038658157,davidschawel
+164,2020-06-02 03:07:03, they bolted after being told it wasn’t an Apple store,1,1,0,1,2,15,0.034812436,0.66814494,0.29704255,Neg,-0.6333325,davidschawel
+165,2020-05-27 17:06:00, I remember being hosed asking about MSCI’s valuation given the low growth,1,1,0,1,0,1,0.0852316,0.27347815,0.6412903,Neu,-0.18824655,davidschawel
+166,2020-05-26 14:53:02,   HBD!,0,0,0,0,0,3,0.045018382,0.06967858,0.8853031,Neu,-0.0246602,davidschawel
+167,2020-05-06 23:52:00," unclear whether that’s bullish or bearish, but more evidence that AMZN thinks long term",0,1,0,2,0,41,0.13323781,0.020282846,0.84647936,Neu,0.11295496,davidschawel
+168,2020-05-04 13:41:04,"Starbucks, Amgen, Apple, and Oneok among the many issuing today",0,0,0,1,1,13,0.0650292,0.01136488,0.92360586,Neu,0.053664315,davidschawel
+169,2020-05-04 13:25:00,"Rates going up? $AAPL to issue 3,5,10, and 30y debt today. They’ve historically been amazing at timing when to issue.",1,1,0,12,16,116,0.18863879,0.016551966,0.7948092,Neu,0.17208682,davidschawel
+170,2020-04-30 22:54:04,"“Amazon’s website hit 2.54 billion visitors for the entire month of March, according to online research company Comscore. That marks a 65% jump from the same period last year”",1,1,0,2,7,27,0.9372031,0.036148638,0.026648242,Pos,0.9010545,davidschawel
+171,2020-04-30 22:45:04,Seems difficult for the public to criticize $AMZN. Aggressively spending all of their operating profit on capex. Avoiding buyback backlash and creating new jobs but arguably entrenching their LT stranglehold.,0,1,0,9,6,80,0.24504578,0.17348285,0.5814713,Neu,0.07156293,davidschawel
+172,2020-04-29 02:14:03,"I have to disagree. No matter what level the S&P 500 trades at, it doesn’t change the plight of millions of Americans today. We shouldn’t take comfort in where the indices trade.",0,1,0,4,0,25,0.047795836,0.42312118,0.52908295,Neu,-0.37532535,davidschawel
+173,2020-04-29 00:18:05,Google Cloud 1Q comes in at $2.8bil ($11bil+ run rate on 52% YoY growth),1,1,0,0,0,8,0.33073977,0.02307238,0.64618784,Neu,0.30766737,davidschawel
+174,2020-04-28 21:11:04,  answer is yes!,0,1,0,0,0,1,0.095266685,0.016330805,0.88840246,Neu,0.07893588,davidschawel
+175,2020-04-28 20:04:01,"  most vulnerable of the big 4 to this environment, but they have the greatest ability to trim fat/cut expenses...also questions how this impacts google cloud progress",0,1,0,1,0,2,0.14648464,0.14374653,0.7097689,Neu,0.0027381182,davidschawel
+176,2020-04-28 18:53:05,Just got an email asking if I have interest in an Amazon meat plant franchise,1,1,0,7,0,11,0.077865936,0.018026233,0.9041078,Neu,0.059839703,davidschawel
+177,2020-04-23 16:39:03, What’s next a velocity of money tweet from him? Paging 2011 Fintwit,0,1,0,1,0,2,0.030483603,0.03898288,0.9305335,Neu,-0.008499276,davidschawel
+178,2020-04-20 03:53:02, Scoring 63 in the playoffs against one of the best teams of all time in their own gym. Tough to top. Record stands to this day let alone the quality of the opponent.,0,1,0,0,0,9,0.12546416,0.018906895,0.85562897,Neu,0.106557265,davidschawel
+179,2020-04-17 20:55:01,Market clearly rotating from $AMZN into $SHOP,0,1,0,0,2,9,0.15509999,0.46790212,0.37699795,Neg,-0.31280214,davidschawel
+180,2020-04-15 02:21:03,  especially now that we’re seeing M2 tweets,0,1,0,0,0,2,0.15523866,0.04711943,0.7976419,Neu,0.10811923,davidschawel
+181,2020-04-14 02:54:00,It’s like 23andMe meets Google location tracking cc $ILMN  ,0,1,0,0,1,2,0.03860571,0.018390495,0.9430038,Neu,0.020215213,davidschawel
+182,2020-04-13 16:51:02,$MSFT teams now being used for the NFL Draft,1,1,0,2,2,3,0.12572497,0.00981967,0.86445534,Neu,0.1159053,davidschawel
+183,2020-04-09 22:55:05,"  It’s a good analogy, sadly!",0,1,0,0,0,2,0.19899453,0.020216089,0.7807894,Neu,0.17877844,davidschawel
+184,2020-04-06 21:31:05, Need to make you a “dumb as a rock” t-shirt with a gold bar on it,0,0,0,1,0,0,0.0664518,0.027623298,0.90592486,Neu,0.038828507,davidschawel
+185,2020-04-02 22:54:02,"It’s not perfect, but what would we do without Google Classrooms and Khan Academy right now for the school systems? So incredibly important.",0,1,1,1,4,44,0.07288706,0.01310966,0.9140033,Neu,0.0597774,davidschawel
+186,2020-03-30 03:01:03," indeed, a lot of employees will be needed to run Powell’s printing press",1,1,1,1,0,7,0.042015985,0.08893296,0.86905104,Neu,-0.046916977,davidschawel
+187,2020-03-29 17:59:00," what, like AMZN ZM WMT CLX",0,0,0,1,0,0,0.032313142,0.024310308,0.94337654,Neu,0.008002834,davidschawel
+188,2020-03-26 18:07:00, a “friend” told me yesterday S&P puts looked really obvious in December,1,1,0,1,0,6,0.19557793,0.092023954,0.7123981,Neu,0.10355398,davidschawel
+189,2020-03-16 19:49:05,"In a perverse way, this may be the best thing that ever happened to $AMZN and $WMT competitively",1,0,1,2,0,15,0.11550829,0.124705136,0.7597866,Neu,-0.009196848,davidschawel
+190,2020-03-15 03:04:01," it’s true, sadly",0,1,0,1,0,10,0.117795765,0.033942696,0.8482616,Neu,0.083853066,davidschawel
+191,2020-03-14 14:41:01,Also interesting that the big move in treasuries came a week or so before the S&P  ,1,1,0,2,1,9,0.17125899,0.02902882,0.7997122,Neu,0.14223017,davidschawel
+192,2020-03-11 22:28:05,"Which begs the question of how resilient the $AAPL’s of the world can be, and what happens if those crack?",0,1,1,5,0,8,0.03674248,0.16605785,0.7971996,Neu,-0.12931538,davidschawel
+193,2020-03-11 22:26:00,"As you may suspect, the equal weighted S&P 500 index is far worse than the market cap weighted- down just under 20% YTD.",1,1,1,2,0,18,0.010665865,0.9701138,0.01922039,Neg,-0.9594479,davidschawel
+194,2020-03-06 21:02:01,Dow down less than 1% - socks and sandals boomers win for now,0,1,0,2,0,10,0.058640707,0.8792769,0.06208238,Neg,-0.82063615,davidschawel
+195,2020-03-06 20:43:03,$FB trading at October 2017 levels,0,0,0,0,0,4,0.03500265,0.03626876,0.9287286,Neu,-0.0012661107,davidschawel
+196,2020-03-05 19:34:03,Is the government using $FB $GOOGL $AAPL location tracking data to aid in Coronvirus containment?,0,1,0,7,0,8,0.048879344,0.02377105,0.9273496,Neu,0.025108295,davidschawel
+197,2020-03-05 16:34:00,  I’ll go with ,0,1,0,2,0,8,0.053488966,0.030940494,0.9155706,Neu,0.022548473,davidschawel
+198,2020-03-05 15:53:04, forward P/E now even with the S&P 500,0,0,0,0,0,1,0.6410693,0.16250387,0.19642691,Pos,0.47856542,davidschawel
+199,2020-03-01 03:54:01,I’d love to know the uptick in royalties an artist sees when their song is featured on an Apple commercial (Smashing Pumpkins being the most recent beneficiary).,1,1,0,0,0,4,0.16040705,0.02490202,0.81469095,Neu,0.13550504,davidschawel
+200,2020-02-28 18:39:04,What are the odds those quoting Dow points are wearing socks with sandals?,0,1,0,7,1,35,0.030381422,0.15750101,0.8121176,Neu,-0.12711959,davidschawel
+201,2020-02-28 00:50:05,The S&P 500 will be where in 1month and 10 years?,0,0,1,2,1,5,0.038810126,0.053974584,0.9072153,Neu,-0.015164457,davidschawel
+202,2020-02-25 01:27:05, You’re asking whether to buy the S&P 500 or Hussman Strategic Growth?,0,1,0,2,0,23,0.032842774,0.02744091,0.93971634,Neu,0.0054018646,davidschawel
+204,2020-02-22 19:56:05," “I realize the bonds I called a bubble have now matured all these years later, BUT...”",1,1,0,0,0,2,0.39779496,0.029877564,0.57232755,Neu,0.3679174,davidschawel
+205,2020-02-19 17:35:04," Yep, they’re the ones growing. 16% EPS growth vs 0% for the S&P 500 excluding those five stocks.  ",0,1,0,1,0,3,0.2624481,0.046773486,0.6907784,Neu,0.21567461,davidschawel
+207,2020-02-15 18:10:03,  is there a literal share shortage at the margin? 2.2bil less shares of Apple over the last 8y. Net market issuance I assume is massively negative over the trailing 5-10y.,0,1,0,3,0,0,0.008517302,0.96480644,0.026676256,Neg,-0.9562891,davidschawel
+208,2020-02-14 16:26:02,  do the mutual fund that’s lost money over the trailing 20y yet has a widely followed weekly newsletter,1,1,0,1,0,1,0.035967886,0.17857742,0.78545475,Neu,-0.14260954,davidschawel
+209,2020-02-13 19:15:03,   I could care less,0,0,1,1,0,2,0.06499286,0.025593486,0.90941364,Neu,0.039399374,davidschawel
+210,2020-02-12 15:46:02, This argument has always been strange to me. Can Walmart place their own products in an advantageous spot in their stores? Why do people think Google can’t do the same?,1,1,1,1,0,4,0.075325,0.069106095,0.8555689,Neu,0.0062189028,davidschawel
+211,2020-02-10 20:28:04,When’s the Treasury STRIP / MAGA barbell (MSFT/AMZN/GOOGL/AAPL) ETF coming out?,1,1,0,1,0,7,0.03717657,0.026594236,0.93622917,Neu,0.010582335,davidschawel
+212,2020-02-10 14:17:00,Google’s new AI is incredible “Towards a Conversational Agent that Can Chat About…Anything”  ,1,1,1,1,0,5,0.17459872,0.010360289,0.815041,Neu,0.16423844,davidschawel
+213,2020-02-10 03:17:03, they’re buying bitcoin,0,1,0,0,0,1,0.08105551,0.020140491,0.898804,Neu,0.060915016,davidschawel
+214,2020-02-10 01:09:03,  same!,0,0,0,1,0,0,0.069921464,0.04498424,0.88509434,Neu,0.024937224,davidschawel
+215,2020-02-09 19:30:04, see the part about Microsoft,0,0,0,1,0,0,0.034211162,0.040748242,0.92504054,Neu,-0.00653708,davidschawel
+216,2020-02-07 20:41:02,  increasing amount of accrued interest in these jokes though,0,1,0,1,0,5,0.15277773,0.011001934,0.8362203,Neu,0.1417758,davidschawel
+217,2020-02-03 00:55:00,Google trying to make surveillance sentimental,0,1,0,4,4,45,0.025282372,0.19279347,0.7819242,Neu,-0.1675111,davidschawel
+218,2020-02-02 23:20:00,  Time to watch the game!,0,0,0,1,0,1,0.072626635,0.033439633,0.8939337,Neu,0.039187003,davidschawel
+219,2020-02-01 02:22:04,"On that note, here’s GS comparing the top 5 (AAPL, MSFT, AMZN, GOOGL, FB) then and now.  ",0,1,0,1,2,33,0.054951463,0.018022917,0.9270257,Neu,0.036928546,davidschawel
+221,2020-01-31 18:42:00,"Heavily scrutinized at the time, but in hindsight it looks like LinkedIn was an amazing buy for $MSFT",1,1,0,12,6,82,0.83891255,0.009487643,0.1515998,Pos,0.8294249,davidschawel
+222,2020-01-31 01:10:05,"Not only is the sticky recurring revenue stream from Tamarac appealing, but it can prove to be a strategic asset (Yodlee comps ever since the Plaid sale to $V) for a Blackrock or other competitor. Will be interesting to see play out.",0,1,1,0,0,5,0.49345255,0.008890711,0.49765664,Neu,0.48456183,davidschawel
+223,2020-01-30 13:54:00," Their monthly active users grew by 50mil just last quarter. That’s like adding an entire NYC metro, LA metro, and Chicago metro populations. The “there’s only boomers on FB” narrative is kind of silly.",1,1,0,1,0,4,0.04667055,0.14005612,0.8132734,Neu,-0.09338557,davidschawel
+224,2020-01-29 19:02:00,Poll: $V EBITDA margins will remain at or above ~70% for how many more years?,0,0,1,2,0,1,0.18471822,0.03702257,0.7782592,Neu,0.14769566,davidschawel
+225,2020-01-28 22:06:04,My $AAPL $DIS pipe dream looks to be just that...,0,1,0,1,0,3,0.060388085,0.024136038,0.9154759,Neu,0.036252044,davidschawel
+227,2020-01-28 18:49:00,"Fairholme, Sequoia, Hussman, CGM Focus, and Fidelity Contrafund versus the S&P 500 over the last two decades.  ",0,0,0,2,5,14,0.17150481,0.07255114,0.755944,Neu,0.09895367,davidschawel
+228,2020-01-28 16:20:02,FCF yield spread of $AAPL vs the S&P 500... quite the layup a few years back from a relative perspective  ,0,1,0,2,1,9,0.44887418,0.13242117,0.4187047,Pos,0.316453,davidschawel
+229,2020-01-24 18:04:02,"  Saying “all companies need capital to growth, Google or Exxon” is technically true but misleading. Obv certain companies are more capital intensive and it’s not an accounting function. Seems pedantic to argue against the capital light description.",1,1,0,0,0,1,0.039723393,0.26200607,0.6982705,Neu,-0.22228268,davidschawel
+230,2020-01-24 17:53:01, isn’t comparing a commodity business where size doesn’t really help you as much to a Google where there’s a ton of operating leverage on something like cloud servers seem to go against his own argument?,0,1,0,1,0,2,0.052080635,0.14257409,0.8053453,Neu,-0.090493456,davidschawel
+231,2020-01-24 17:48:04," ehhhh, seems like they’re missing the forest for the trees. There’s a clear difference in the type of capex and resulting competitive position between a GOOGL and XOM.",1,1,0,2,0,3,0.2163693,0.04262303,0.7410077,Neu,0.17374627,davidschawel
+232,2020-01-17 19:46:00,"$V ‘s market cap, in one month, is up 9x as much as what they paid for Plaid",1,1,0,1,0,6,0.92924905,0.011166876,0.059584025,Pos,0.9180822,davidschawel
+234,2020-01-13 22:18:05,$V spent just a quarter and a half of EBITDA on Plaid,0,0,0,1,2,8,0.031656872,0.042376526,0.92596656,Neu,-0.010719653,davidschawel
+235,2020-01-13 21:32:01,"Wow, $V buying Plaid",0,0,0,7,1,27,0.20699313,0.015182575,0.7778243,Neu,0.19181056,davidschawel
+236,2020-01-12 18:09:02,"$AAPL ‘s AirPods line is projected to generate $13-15bil in sales for FY20, more than $ADBE entire top line figure. Incredible.",1,1,0,8,14,82,0.5087441,0.0094155185,0.48184034,Pos,0.4993286,davidschawel
+237,2020-01-06 22:19:00,  Something that promises an asymmetric profile vs the S&P will always have a crowd,1,1,1,1,0,1,0.17272438,0.016747117,0.8105285,Neu,0.15597726,davidschawel
+238,2020-01-05 23:24:02,Some argue FCF yield looks artificially cheap historically due to lower capex spending as a % of CFO. Would be even higher if you exclude AMZN/GOOGL who are well above 41% level  ,0,1,1,2,1,25,0.54223,0.08763813,0.37013185,Pos,0.45459187,davidschawel
+239,2020-01-05 01:21:02,Google shows AI can be used to improve breast cancer screening  ,1,1,1,1,0,2,0.573349,0.0103298575,0.41632116,Pos,0.56301916,davidschawel
+240,2019-12-28 00:45:05," Well you did reference the Chase analogy in your video, so nuts and bolts of bank profitability apply here. But I see you’re highlighting consumer finance/CCs specifically. Lending regs prob prevent it being as easy as ordering a product from AMZN.",1,1,0,1,0,0,0.057718556,0.051195543,0.8910859,Neu,0.006523013,davidschawel
+241,2019-12-26 20:07:05,"This is crazy: “According to Amazon, in just one week it had more than 5 million customers start a free trial of Prime or begin a paid membership.”",1,1,0,4,3,30,0.038716696,0.05310233,0.908181,Neu,-0.014385633,davidschawel
+242,2019-12-24 00:46:05,"""No matter what business you’re in, you’re either being disrupted, in which case you feel very depressed, or you’re a disruptor, in which case you feel a little upbeat — but you’re burning through cash like crazy.” — Aswath Damodaran (unless you’re Apple/Google/Amazon)",1,1,0,4,3,28,0.032556184,0.19693415,0.77050966,Neu,-0.16437796,davidschawel
+243,2019-12-18 12:58:00,For as much progress as Google Cloud has made this is quite the ambitious goal to pass AWS or Azure by ‘23  ,1,1,0,0,0,3,0.22267495,0.008712446,0.7686126,Neu,0.21396251,davidschawel
+244,2019-12-18 01:28:02,Microsoft continues to expand in NC...but not without tax breaks  ,0,1,0,0,0,2,0.76535094,0.007526751,0.22712235,Pos,0.7578242,davidschawel
+245,2019-12-13 17:07:04,Earnings multiple premium over the S&P 500 now at a multi year high for $AAPL  ,0,0,0,1,2,3,0.71747303,0.16855212,0.113974854,Pos,0.5489209,davidschawel
+246,2019-12-10 01:57:03,Most underweight stocks in the S&P 500 with the narrowest ownership. Probably beats a portfolio of the inverse.  ,0,1,0,0,0,20,0.15201075,0.038577046,0.8094122,Neu,0.113433704,davidschawel
+247,2019-12-06 17:23:00,"Ten years ago, $AAPL $GOOGL $MSFT $FB $AMZN and $V collectively earned ~$36bil of net income.  Today they’re projected to earn ~$192bil over the next year.",1,1,0,3,10,34,0.15539235,0.013039909,0.83156776,Neu,0.14235243,davidschawel
+248,2019-12-04 21:20:05," as a Google cloud bull, no argument on the latter point",0,0,0,0,0,1,0.036799867,0.0275929,0.93560725,Neu,0.009206967,davidschawel
+249,2019-12-04 21:15:03, going to guess you’re right on NFLX but not on AMZN,0,1,0,1,0,1,0.060495332,0.02024332,0.91926134,Neu,0.04025201,davidschawel
+250,2019-12-03 02:47:05,  yet other areas of government are heavily regulated by ethics committees,1,1,0,0,0,3,0.031519454,0.035564236,0.9329163,Neu,-0.0040447824,davidschawel
+251,2019-11-27 20:57:02, very impressive risk adjusted returns when you add beanie babies and the S&P to it...,1,1,0,0,0,4,0.92051184,0.012710266,0.06677792,Pos,0.90780157,davidschawel
+252,2019-11-27 20:54:01,Trailing 10y returns -Nasdaq: +349% -S&P 500: +247% -Barclays US Agg: +43% -MSCI World: +154% -Hussman Strategic Growth: -54% -Tbill ETF: +5%,0,1,0,16,30,152,0.06098981,0.02487907,0.9141311,Neu,0.036110736,davidschawel
+254,2019-11-10 22:07:03,Apple is messing with the call volume to encourage EarPod adoption,0,1,0,12,1,15,0.029632876,0.5796369,0.39073026,Neg,-0.550004,davidschawel
+255,2019-11-07 18:27:01,Look no further than to $EXPE $TRIP and $BKNG today to see the growing power and importance of $GOOGL,0,1,0,3,0,11,0.38741523,0.009773118,0.6028117,Neu,0.37764212,davidschawel
+256,2019-11-05 01:52:04,"  by the way, the Google acquisition of Fitbit is analogous. The data they are getting is more valuable/strategic than the actual sales...",0,1,0,0,0,0,0.10554854,0.021921277,0.87253016,Neu,0.08362726,davidschawel
+257,2019-11-04 01:20:05,"  Both. Think about it, now Amazon has even more data on what specific Prime members buy at the grocery store. How does that impact what they advertise to these users? What they sell? Can’t merely look at it as first order effects.",0,1,1,1,0,0,0.033374738,0.04398336,0.9226419,Neu,-0.010608621,davidschawel
+258,2019-11-03 16:46:02, I’m sure Amazon would be happy to share their data collection from the HQ2 process.,0,1,1,1,0,2,0.17990899,0.008542244,0.81154877,Neu,0.17136675,davidschawel
+259,2019-11-01 15:51:04,"     I completely agree with that, but it lining up doesn’t automatically mean they picked the right names. I give credit to both the growth and value manager for buying MSFT (or whatever).",1,1,0,1,0,1,0.09835011,0.014171853,0.887478,Neu,0.084178254,davidschawel
+260,2019-10-30 12:47:03,"  I’d prefer to borrow long, buy shares of SPY and distribute them to the bottom 50%!",0,1,0,2,0,3,0.041630995,0.016885526,0.94148344,Neu,0.024745468,davidschawel
+261,2019-10-28 18:45:00,$GOOGL after the bell. No doubt more attention will be paid to “Other” category given cloud traction from Kurian. Could see segment doing $9b+ in Q4 and over $40b in ‘20.,1,1,1,1,1,9,0.84479845,0.010846045,0.1443555,Pos,0.8339524,davidschawel
+262,2019-10-25 20:11:01,Google keeps pushing the envelope: “Understanding searches better than ever before”  ,0,1,0,0,0,1,0.61306787,0.016529694,0.37040234,Pos,0.5965382,davidschawel
+263,2019-10-23 19:11:03,"Apologies if it’s blatantly obvious to everyone else, but what’s the appeal of $MSCI at 31x ‘20 EPS growing top line in the high single digits?",1,1,0,17,0,18,0.055893924,0.029859142,0.914247,Neu,0.026034782,davidschawel
+264,2019-10-23 04:25:04,"McDonald’s wants to be like Amazon, not like Mike.  ",0,1,0,0,2,2,0.04720572,0.019230593,0.93356377,Neu,0.027975127,davidschawel
+265,2019-10-22 00:40:00,"GS: Non-financial S&P 500 cash balances have declined by $185 billion during the past 12 months, representing the largest percentage decline since at least 1980 (-11%)",1,1,0,6,22,58,0.0077486085,0.9759689,0.016282374,Neg,-0.9682203,davidschawel
+266,2019-10-14 22:12:00,CME Group to Offer Real-Time Market Data via Google Cloud Platform $GOOGL   ,0,0,0,0,0,3,0.09138238,0.00815612,0.90046144,Neu,0.083226256,davidschawel
+267,2019-10-14 13:10:04," given that endowment portfolios look nothing like the S&P 500, I find it surprising that the article uses it as a benchmark",1,1,0,1,0,20,0.032924954,0.04828175,0.91879326,Neu,-0.015356798,davidschawel
+268,2019-10-11 15:03:01," UBI, but in SPY shares",0,0,0,0,0,3,0.02228771,0.06784978,0.90986246,Neu,-0.045562066,davidschawel
+269,2019-10-04 15:20:05, Mnuchin prefers squid pro quo,0,1,0,1,0,3,0.077573344,0.0299613,0.8924653,Neu,0.047612045,davidschawel
+270,2019-10-02 18:26:01,  ,0,0,0,1,0,9,0.35916328,0.21665184,0.4241849,Neu,0.14251144,davidschawel
+271,2019-10-01 14:59:03, cheap on the surface but under a never ending capex replacement cycle and likely competing against Amazon’s own delivery fleet.,1,1,0,0,0,0,0.84012836,0.011784716,0.14808694,Pos,0.82834363,davidschawel
+272,2019-09-24 18:42:03,  ,0,0,0,1,0,10,0.35916328,0.21665184,0.4241849,Neu,0.14251144,davidschawel
+273,2019-09-21 21:51:03, I’d buy one...with an agreement to sell it back tomorrow,0,1,0,2,3,72,0.09046526,0.014107986,0.8954268,Neu,0.076357275,davidschawel
+274,2019-09-19 03:21:03, Dam,0,0,0,0,0,3,0.06327973,0.0564946,0.88022566,Neu,0.006785132,davidschawel
+275,2019-09-13 22:22:01,The dreamers hope it’s for $DIS $AAPL merger discussions,0,1,0,2,0,7,0.11961265,0.011345547,0.86904174,Neu,0.1082671,davidschawel
+277,2019-09-09 20:02:00,S&P 500 performance by dividend quintile  ,0,0,0,0,2,8,0.050132632,0.22710216,0.7227652,Neu,-0.17696953,davidschawel
+278,2019-09-03 22:16:04, somewhat misleading to leave out how much more the S&P 500’s earnings have exceeded the FTSE’s,1,1,0,2,0,5,0.5369874,0.14918743,0.3138252,Pos,0.38779998,davidschawel
+279,2019-08-29 00:43:00, Mooch?,0,0,0,0,0,5,0.04762316,0.37900683,0.57337004,Neu,-0.33138368,davidschawel
+280,2019-08-27 02:21:03," Long suburban malls, short Visa",0,0,0,1,0,11,0.028927404,0.05071731,0.9203553,Neu,-0.021789905,davidschawel
+281,2019-08-26 01:38:05," If we just focus on tweets, but if sentiment were as bad as you suggest the S&P wouldn’t be trading at 2800+",1,1,0,2,2,14,0.046497323,0.23013762,0.723365,Neu,-0.1836403,davidschawel
+282,2019-08-23 19:03:05,   those might be fighting words,0,1,1,0,0,0,0.18436304,0.24426173,0.5713752,Neu,-0.05989869,davidschawel
+283,2019-08-23 18:59:05,  A Don Cherry with talent,0,0,0,1,0,0,0.09216609,0.039805386,0.8680286,Neu,0.052360702,davidschawel
+284,2019-08-20 16:58:02, rumors that new tenants are being forced to buy IPO shares,1,1,0,1,0,7,0.010009238,0.9559639,0.034026958,Neg,-0.9459547,davidschawel
+285,2019-08-15 20:33:03, I think  sums it up well  ,0,1,0,0,0,3,0.09820527,0.017516205,0.8842785,Neu,0.080689065,davidschawel
+286,2019-08-15 20:31:04," seems like he has a point, but is using dishonest means to lure people in...so, both?",0,1,0,1,0,1,0.05314951,0.1795249,0.76732564,Neu,-0.12637539,davidschawel
+287,2019-08-14 17:19:04,  that’s a blast from the past,0,1,0,2,0,0,0.14058794,0.15596998,0.7034421,Neu,-0.015382037,davidschawel
+288,2019-08-13 19:12:02,"Excluding dividends, the S&P 500 is only up ~2% from levels in January 2018",0,1,0,7,6,21,0.9475712,0.030720314,0.021708492,Pos,0.9168509,davidschawel
+289,2019-08-13 02:05:01, google is kind of scary they’re so influential,0,1,0,0,0,1,0.019529969,0.6968043,0.28366572,Neg,-0.67727435,davidschawel
+290,2019-08-12 17:30:01," It’s true, and something I said years ago!  ",1,1,0,1,0,0,0.12604623,0.042882707,0.8310711,Neu,0.083163515,davidschawel
+291,2019-08-12 15:45:05, do you think Google listens to what you say all day (and what you type) without an end result??!?,0,1,0,1,0,9,0.023949385,0.30511424,0.67093635,Neu,-0.28116485,davidschawel
+292,2019-07-29 03:27:05, REITs/Utilities/Staples have all lagged vs the S&P 500 given the move down in UST yields,1,1,0,1,0,1,0.01178682,0.9718283,0.016384885,Neg,-0.96004146,davidschawel
+293,2019-07-26 16:15:03," think of a stock like Visa, it’s min vol as it’s gone up steadily over time...but certainly not in the value camp",1,1,0,2,0,2,0.6026122,0.020228174,0.3771596,Pos,0.58238405,davidschawel
+294,2019-07-26 14:20:03,"To put the growth in perspective, Google Cloud is on pace to grow more YoY than twice the combined total revenues of darlings $TEAM $MDB $TWLO and $COUP - with a % growth rate that is almost double as well...",0,1,0,5,5,16,0.9296041,0.009433306,0.06096254,Pos,0.9201708,davidschawel
+295,2019-07-25 21:55:03,Gartner projected Google Cloud to have 9% market share on $95bil in 2020...they’re basically hitting the target a year early,1,1,0,2,2,7,0.5737018,0.014120682,0.41217756,Pos,0.5595811,davidschawel
+298,2019-07-25 16:14:03,And Google cloud is growing even faster than Azure,0,1,0,1,0,9,0.5634781,0.012033037,0.4244888,Pos,0.55144507,davidschawel
+299,2019-07-25 14:17:02,"  so basically if they “try a little harder”, consider me unconvinced",0,1,0,1,0,1,0.09751005,0.065664895,0.8368251,Neu,0.031845152,davidschawel
+300,2019-07-25 12:56:02,"It’s true $FB isn’t growing in the US, but last quarter they grew daily active users by the equivalent of NYC’s population multiplied by three (25mil).  ",1,1,0,0,1,6,0.2803949,0.016688723,0.7029164,Neu,0.26370618,davidschawel
+301,2019-07-23 13:30:05,Realogy in a new pact with Amazon - really interesting  ,0,1,0,0,3,11,0.22582485,0.008377165,0.76579803,Neu,0.21744768,davidschawel
+302,2019-07-22 17:14:04,"  ate an apple this morning, reducing my inventory",0,1,0,1,0,11,0.10626885,0.8718935,0.02183762,Neg,-0.76562464,davidschawel
+303,2019-07-21 18:35:02,"  still is through the park districts and YMCAs, but the for profit ones are popping up everywhere and have the system down to a science. Google aqua-tots.",0,1,0,0,0,1,0.023947133,0.10398587,0.87206703,Neu,-0.080038734,davidschawel
+304,2019-07-19 12:01:05,"Forgive me for thinking the Azure, Office365, and LinkedIn revenue growth numbers look more like a startup and not a trillion dollar market cap company. Amazing. $MSFT  ",0,1,0,2,14,60,0.05617156,0.019562954,0.9242655,Neu,0.036608607,davidschawel
+305,2019-07-10 19:29:01, some people think Amazon’s new fleet will take away non AMZN business from FDX. I do not...,1,1,1,0,0,3,0.17445406,0.11980188,0.7057441,Neu,0.054652184,davidschawel
+306,2019-07-10 19:25:02,"The trendy argument is that $AMZN builds up a fleet and takes business away from $FDX (not their own, but outside business). I’ll take the other side of that bet.",0,1,0,1,2,9,0.08472876,0.09187115,0.8234001,Neu,-0.0071423873,davidschawel
+307,2019-07-08 18:33:02, For $10 at Whole Foods? Maybe a single apple?,0,0,0,2,1,3,0.0482914,0.021721167,0.9299875,Neu,0.026570233,davidschawel
+308,2019-07-03 19:11:04," Invisalign braces, heart pumps, an electronic bond exchange, indices, and Amazon among others... investing is easy, right?!?",0,1,0,2,2,6,0.051424794,0.017746296,0.9308289,Neu,0.033678498,davidschawel
+309,2019-06-28 00:41:04,Sentiment on Facebook’s Libra seems almost universally negative. It’s worth buying a paper trading call option.,1,1,0,3,1,8,0.016417598,0.843624,0.1399584,Neg,-0.8272064,davidschawel
+310,2019-06-22 02:05:01,Gap between the top and bottom S&P 500 P/E quintiles is in rare territory  ,0,1,0,6,8,27,0.03356113,0.8937718,0.072667114,Neg,-0.8602107,davidschawel
+311,2019-06-19 17:58:05,"Poll: Long term, how will Facebook’s Libra fare?",0,0,1,7,8,5,0.069593705,0.013005189,0.9174012,Neu,0.056588516,davidschawel
+313,2019-06-16 18:19:05,"  there’s room for golf, but nobody can defend 196 times",0,0,1,2,0,1,0.04784921,0.032400474,0.9197503,Neu,0.015448738,davidschawel
+314,2019-06-16 18:03:03,"  I was being snarky with his incompetence, but obv nobody with a job that big should be on the golf course even a fraction of that time",1,1,1,2,0,0,0.0432681,0.35033268,0.60639924,Neu,-0.3070646,davidschawel
+315,2019-06-16 18:00:03,  yep I hate when people do that  ,0,1,0,0,0,0,0.017182676,0.8437965,0.13902082,Neg,-0.82661384,davidschawel
+316,2019-06-16 17:57:03," I know, it was tongue in cheek",1,1,0,1,0,0,0.077185005,0.15994257,0.76287246,Neu,-0.08275756,davidschawel
+317,2019-06-16 17:56:00,  what does that mean?,0,1,0,1,0,0,0.03265948,0.07407251,0.893268,Neu,-0.04141303,davidschawel
+318,2019-06-16 17:55:03," No it’s terrible he does that, but in a perverse way it might be better",0,1,1,1,0,0,0.051630173,0.45180854,0.49656126,Neu,-0.40017837,davidschawel
+319,2019-06-16 17:42:05, Is it riskier for our country for him to sit in the Oval Office or in a golf cart?,0,1,0,3,0,6,0.029048236,0.06554039,0.90541136,Neu,-0.036492154,davidschawel
+320,2019-06-14 18:37:02,Great chart- remarkable how fast Azure/Google Cloud are growing now  ,0,1,0,2,2,8,0.5922129,0.011637905,0.3961492,Pos,0.580575,davidschawel
+321,2019-06-14 02:48:03,"Amazingly, public cloud adoption remains under 10% while AWS, Azure, and Google make up more than 80% of incremental sales",0,1,0,3,1,19,0.048642855,0.045545723,0.9058114,Neu,0.0030971318,davidschawel
+322,2019-06-13 03:53:02,"Lost in Google’s recent call transcript was an interesting mention about using Waymo for long-haul trucking. Far off, but interesting.",1,1,0,3,2,9,0.1131235,0.018584186,0.8682923,Neu,0.094539315,davidschawel
+323,2019-06-08 14:10:03,"For perspective, FedEx said Amazon was ~1.3% of total revenue in 2018. Ground service will remain however.  ",1,0,1,0,1,0,0.11344489,0.013261701,0.87329334,Neu,0.10018319,davidschawel
+324,2019-06-01 02:38:00,"Unrelated to broad sentiment, but one could also argue that Google is worth more broken up than put together anyways",1,1,1,4,0,24,0.07020896,0.03872085,0.8910702,Neu,0.03148811,davidschawel
+325,2019-06-01 02:36:04, google anti-trust,0,0,0,1,0,2,0.021539763,0.2333631,0.7450971,Neu,-0.21182334,davidschawel
+326,2019-05-31 01:08:03, it’s like Kramer and “writing it off” except he’s the POTUS,0,1,0,0,0,10,0.027243352,0.124417156,0.84833944,Neu,-0.0971738,davidschawel
+327,2019-05-28 17:39:03,"“As of May 10, the S&P Financials sector accounted for 18.7% of the index’s 2019 profits, but it only represents 12.8% of the index’s market cap”  Investors are betting on other less cyclical but much more expensive earnings streams - right or wrong",1,1,0,1,2,6,0.06832501,0.04564933,0.8860256,Neu,0.022675682,davidschawel
+328,2019-05-26 00:37:02, even better are the people who bash Zuckerberg on a Facebook post!,0,1,0,1,0,2,0.0915983,0.17497203,0.7334297,Neu,-0.083373725,davidschawel
+329,2019-05-20 18:13:02, They’re cursed until Bobby Bonilla is off of their payroll,1,1,0,0,1,3,0.03407998,0.61429584,0.35162416,Neg,-0.5802159,davidschawel
+330,2019-05-20 04:24:05,"Markets trade based on POTUS tweets, not fundamentals, but here’s the potential S&P 500 EPS impact from tariffs. 200 handles in a worst case first order only effect?  ",1,1,0,0,5,15,0.038907286,0.09037295,0.87071973,Neu,-0.051465664,davidschawel
+331,2019-05-20 00:38:04, a millennial’s Otis Redding,0,0,0,0,0,4,0.09861322,0.03906524,0.86232156,Neu,0.059547976,davidschawel
+332,2019-05-15 16:04:04,   are you saying he should open up the Stanus Unconstrained Fund?,1,1,1,1,0,2,0.05082368,0.018947454,0.9302289,Neu,0.03187623,davidschawel
+333,2019-05-13 17:50:01, certain Dows are ok ,0,1,0,0,0,1,0.05765413,0.030495102,0.9118508,Neu,0.02715903,davidschawel
+334,2019-05-13 17:38:00,Nothing ages you like quoting Dow points,0,1,0,2,1,12,0.05434257,0.031342547,0.9143149,Neu,0.023000024,davidschawel
+335,2019-05-08 23:28:04,What’s the $AAPL card revenue going to look like? What does it mean for $INS 🤔,1,1,0,1,1,4,0.033898976,0.032303713,0.93379736,Neu,0.0015952624,davidschawel
+336,2019-05-08 14:11:02, what’s the bid/ask - in GDP/S&P terms?,0,1,0,1,0,0,0.03106672,0.042066645,0.9268666,Neu,-0.010999925,davidschawel
+337,2019-05-01 15:49:00,"  Yodlee, but more generally Tamarac. Turning into a very sticky ecosystem for advisors/RIAs/FOs between Tamarac, Yodlee, Moneyguidepro, etc",0,1,0,1,0,1,0.014324797,0.84993124,0.13574402,Neg,-0.83560646,davidschawel
+338,2019-05-01 01:39:01,$MA (and $V) financials are absurd. $MA projected to generate ~$12bil of EBITDA in FY20 on $19.4bil of revenue. Still estimated to grow EPS in the high teens the next few years.,1,1,0,5,14,97,0.88969266,0.009629895,0.10067746,Pos,0.88006276,davidschawel
+339,2019-04-25 21:17:04,"Five years ago: “so what if $AMZN is growing that fast, they aren’t profitable” Today: “Yeah, profits are up but they’re not growing as fast!”",0,1,0,2,7,54,0.87607825,0.027541218,0.09638056,Pos,0.848537,davidschawel
+340,2019-04-25 20:07:00, shouldn’t it mute it instead of amplifying? Index buyers aren’t consciously buying FB/MMM today,0,1,1,1,0,1,0.05401605,0.04336105,0.9026229,Neu,0.010655001,davidschawel
+341,2019-04-25 16:44:03, wait til people on Facebook find that out next week,0,1,0,0,0,9,0.03393571,0.029049268,0.937015,Neu,0.004886443,davidschawel
+342,2019-04-25 00:15:04,"  Makes sense. I was surprised when I recently ran MSCI EM index, just how poorly earnings have trended the last decade",1,1,0,2,0,5,0.022855558,0.92741585,0.049728516,Neg,-0.90456027,davidschawel
+343,2019-04-24 23:54:00," do you know why looking back on the MSCI EM Index, the earnings growth was so low?",1,1,0,3,0,4,0.011955529,0.93832296,0.049721636,Neg,-0.9263674,davidschawel
+345,2019-04-19 20:37:02,  Google’s ad sales and Salesforce’s new CRM clients! I need this whole thing drawn out.,1,1,0,0,0,1,0.027962908,0.30305356,0.6689835,Neu,-0.27509063,davidschawel
+346,2019-04-16 22:06:03," it’s just a flag, Mark...",0,1,0,0,0,7,0.05384043,0.10307403,0.8430855,Neu,-0.0492336,davidschawel
+347,2019-04-16 15:44:04,"While the S&P 500 is up 320% over the last decade, this bear favorite has been chopped in half. You can’t retire off of intellectual newsletters.  ",1,1,1,18,5,43,0.09709804,0.26919118,0.63371086,Neu,-0.17209314,davidschawel
+348,2019-04-12 01:12:01,"Dear $AAPL, just get it over with and buy $DIS for $250bil",0,0,0,2,2,31,0.030644337,0.040648956,0.92870665,Neu,-0.010004619,davidschawel
+349,2019-04-11 15:54:05, I think Visa is fairly simple,0,1,0,2,0,3,0.12527734,0.009836364,0.8648863,Neu,0.11544098,davidschawel
+350,2019-04-10 15:34:01,  Some people give up on using semicolons; others Google grammar and punctuation to learn the proper usage.,0,1,0,0,0,1,0.023565294,0.30219808,0.6742366,Neu,-0.2786328,davidschawel
+351,2019-04-09 19:25:05,"Your portfolio is not a large cap equity fund, here’s why individuals need to stop comparing their portfolios to the S&P 500  ",0,1,0,9,18,101,0.039045587,0.076421954,0.8845325,Neu,-0.037376367,davidschawel
+352,2019-04-09 19:11:02,   sounds like Ivan’s college years,0,1,0,0,0,0,0.03446828,0.042381834,0.92314994,Neu,-0.007913556,davidschawel
+353,2019-04-09 19:04:00, I don’t think I’ve ever tweeted about mining! cc   ,1,1,0,1,0,4,0.036396816,0.07570565,0.8878975,Neu,-0.03930883,davidschawel
+354,2019-04-09 18:01:02,$AAPL’s forward P/E multiple now the same as the S&P 500’s.  ,0,1,0,0,2,5,0.05512412,0.017284213,0.9275916,Neu,0.037839904,davidschawel
+355,2019-04-07 23:46:01,"Yes buybacks as a % of S&P 500 cash use are higher than previous years, but it’s somewhat of a snooze fest relative to the outrage  ",0,1,0,9,10,32,0.20747647,0.29116717,0.5013564,Neu,-0.0836907,davidschawel
+356,2019-04-07 19:36:00, Why are you watching Fox News?,0,1,0,2,0,1,0.030123457,0.109746434,0.8601301,Neu,-0.07962298,davidschawel
+357,2019-04-05 21:04:00,"Amazingly, this is the only quarter in history where the S&P 500 has gone up each day.",1,1,0,19,46,239,0.62094814,0.10803775,0.27101412,Pos,0.51291037,davidschawel
+359,2019-04-03 04:19:01,Financials make up 19% of the S&P 500’s net income while making up only 13% of the market cap  ,0,1,0,3,3,20,0.02782622,0.034885786,0.93728805,Neu,-0.0070595667,davidschawel
+360,2019-04-01 16:34:00,  FB bought IG when it had 50mil MAU’s. It has 1bil today! The land grab is in a more mature state today than a decade ago.,1,1,0,2,0,1,0.23113085,0.011900584,0.75696856,Neu,0.21923026,davidschawel
+361,2019-04-01 14:50:02, Now all Lyft has to do is find a way to monetize mobile like $FB figured out...,1,1,0,1,0,12,0.101930074,0.011163399,0.88690656,Neu,0.090766676,davidschawel
+362,2019-03-30 01:53:05," Two handed tweeps, Fed is wrong either way.",0,1,0,1,0,1,0.05623297,0.23127384,0.7124932,Neu,-0.17504087,davidschawel
+363,2019-03-29 14:36:05,Amazing how many $AMZN delivery trucks/vans you see on the road now. Have to wonder if it impacts $FDX $UPS at the margin...,0,1,0,5,2,22,0.058511313,0.08320541,0.8582832,Neu,-0.024694096,davidschawel
+364,2019-03-28 19:08:04, perfect!,0,0,0,0,0,1,0.16282019,0.043986958,0.79319286,Neu,0.11883323,davidschawel
+366,2019-03-22 19:53:03," Mark, you’re the Bill Walton of FinTwit. Super chill, looked upon for expert opinion in their field, 70s were a giant haze...",1,1,0,2,0,3,0.050274227,0.027711166,0.92201465,Neu,0.02256306,davidschawel
+367,2019-03-22 17:10:04,Valuations? In December ‘16 the KBW Regional Bank Index traded at the same P/E as the S&P 500. Today it trades 7 turns cheaper  ,1,1,0,0,0,3,0.036497172,0.039890017,0.92361283,Neu,-0.0033928454,davidschawel
+368,2019-03-21 17:17:04,"Rule of 21: Since 12/24, the S&P 500 total return is up over 21% while the 10y UST yield is now 21bps lower!  ",0,1,0,0,0,4,0.84209806,0.11599409,0.041907787,Pos,0.72610396,davidschawel
+369,2019-03-18 01:44:02,"  Of course. If you can find the next AMZN, AAPL, or MO please send me a DM :) I’ll promise to hold it for at least 10y!",0,1,1,1,0,0,0.104194365,0.01355964,0.88224596,Neu,0.090634726,davidschawel
+370,2019-03-17 00:26:01, Mark!,0,0,0,1,0,4,0.052021656,0.05101796,0.8969603,Neu,0.0010036975,davidschawel
+371,2019-03-15 14:45:02, Good pt,0,0,0,1,0,2,0.3945214,0.049379874,0.5560987,Neu,0.3451415,davidschawel
+372,2019-03-14 19:49:04, Quantitative Coining,0,0,0,1,0,2,0.043786947,0.027563535,0.9286495,Neu,0.016223412,davidschawel
+373,2019-03-11 00:04:02,"Since the March 9th 2009 low, the S&P 500’s total return is +401%. Trailing EPS is up 140%, revenue is up 43%, and profit margins are up ~5% (7.3% to 12.2%).",0,1,0,9,29,76,0.95815057,0.016898634,0.024950802,Pos,0.94125193,davidschawel
+374,2019-03-07 21:37:01, So the marginal dollar invested into SPY vs an active LC mutual fund benchmarked to the S&P would have the same impact on individual valuations?,1,0,1,3,0,1,0.0374913,0.1520452,0.8104634,Neu,-0.114553906,davidschawel
+376,2019-03-02 02:45:05,"   meaning the Dems held a filibuster proof supermajority in both the house and Senate in 09-10. Not a blame on them, obv GOP hellbent on blocking anything if possible, just that even Dems weren’t focused on it.",1,1,0,2,1,2,0.07185112,0.06319358,0.8649553,Neu,0.008657537,davidschawel
+377,2019-03-01 16:33:05, Naansense,0,0,0,1,0,7,0.045964494,0.022614196,0.93142134,Neu,0.023350298,davidschawel
+378,2019-03-01 16:16:02," this may have caused a riot 10 years ago, but bread is in a secular decline...that being said you can’t beat a good everything toasted w butter",1,1,1,1,1,5,0.061146535,0.54081887,0.39803457,Neg,-0.47967234,davidschawel
+379,2019-02-27 13:22:04,China makes and sells more smartphones than Apple and Samsung combined  ,1,1,0,1,6,7,0.15685153,0.0127112325,0.8304372,Neu,0.1441403,davidschawel
+381,2019-02-25 23:13:05,Three that come to mind for me are $AMZN $ETSY and $W,0,1,0,5,1,17,0.040068395,0.01827829,0.94165325,Neu,0.021790106,davidschawel
+382,2019-02-21 02:40:04," He’s a generational talent, too bad he doesn’t get to play in this game",0,1,0,0,0,3,0.05690157,0.04265058,0.90044785,Neu,0.01425099,davidschawel
+383,2019-02-20 18:21:03, hang in there buddy,0,0,0,1,0,7,0.060663637,0.022672031,0.91666436,Neu,0.037991606,davidschawel
+384,2019-02-18 14:29:01,     I don’t even want to ask how many frequent flier miles you now have!,0,1,0,1,0,0,0.027709056,0.06679882,0.9054922,Neu,-0.039089765,davidschawel
+385,2019-02-17 20:50:00, NYC shouldn’t have to offer incentives AND they’d still be better off with HQ2...both can be true,0,1,1,3,0,4,0.12839532,0.01701768,0.854587,Neu,0.11137764,davidschawel
+386,2019-02-15 21:52:03,   Mr. Fintanabe,0,0,0,1,0,3,0.048623182,0.01599726,0.9353795,Neu,0.03262592,davidschawel
+388,2019-02-15 01:58:00, Buying the smallest 7 holdings of the Baker Brothers has outperformed the S&P by 5.6%/yr since inception,1,1,0,2,2,18,0.9271985,0.04913902,0.023662452,Pos,0.8780595,davidschawel
+390,2019-02-14 12:49:01,The Amazon Backlash – AVC // I like Fred Wilson but think there’s more than valid reasons for the NYC backlash   ,0,1,0,1,0,1,0.09947211,0.019217793,0.88131005,Neu,0.08025432,davidschawel
+391,2019-02-10 14:22:01,Relative P/E of strong vs weak balance sheets in the S&P 500 is in the 94th percentile. Historically weak balance sheet firms have outperformed after a Fed hiking cycle  ,1,1,0,4,8,33,0.032762095,0.9397591,0.027478762,Neg,-0.90699697,davidschawel
+392,2019-02-05 20:58:02,$GOOGL has doubled revenue in the last 3y,1,1,0,7,1,42,0.9433794,0.01692459,0.039696015,Pos,0.9264548,davidschawel
+393,2019-01-31 14:39:04,HY spreads have stayed relatively flat during the last 75-100 handle S&P rally  ,1,1,0,2,3,3,0.4133088,0.5082914,0.07839983,Neg,-0.094982624,davidschawel
+394,2019-01-31 00:57:03,  ok Kramer!  ,0,0,0,0,0,1,0.06922328,0.047781736,0.882995,Neu,0.021441542,davidschawel
+395,2019-01-23 18:20:05, very low energy! Sad!,0,0,0,0,0,5,0.039388597,0.5930799,0.36753145,Neg,-0.5536913,davidschawel
+396,2019-01-18 00:37:02,  or a Canadian junior gold miner,0,0,0,0,0,0,0.038097892,0.045938674,0.9159634,Neu,-0.007840782,davidschawel
+397,2019-01-18 00:31:01, tbd,0,0,0,1,0,2,0.037203528,0.14229058,0.8205059,Neu,-0.10508705,davidschawel
+398,2019-01-17 03:00:03,"In some ways this is Microsoft voluntarily doling out CRA loans, but it’s unlikely marginally lower loan rates will accrue to the people who need affordable housing.",0,1,1,1,1,5,0.61426485,0.17056592,0.21516927,Pos,0.44369894,davidschawel
+399,2019-01-16 17:32:03,Three solid months for EM vs S&P 500  ,0,0,0,2,12,22,0.9331487,0.02340413,0.043447174,Pos,0.90974456,davidschawel
+400,2019-01-15 23:06:01, I’ll play devil’s advocate- is it systemic if 100 Twilio’s go bust and AAPL made untimely share buybacks from debt issuances?,1,1,0,1,0,0,0.031247461,0.41224074,0.5565118,Neu,-0.38099328,davidschawel
+402,2019-01-10 02:19:03,"  your best argument that the “tech” lines are blurred is to compare Amazon and Sears? Go take a lap, Jim!",1,1,0,0,0,1,0.054362312,0.06708542,0.8785522,Neu,-0.012723111,davidschawel
+403,2019-01-08 02:28:00, Jimmy Eat Coin,0,0,0,1,0,1,0.02990153,0.058499407,0.9115991,Neu,-0.028597876,davidschawel
+405,2019-01-05 01:47:01,Interesting thread on Amazon’s ever increasing role in the government,1,1,0,2,2,13,0.48666385,0.010573729,0.5027625,Neu,0.47609013,davidschawel
+406,2019-01-04 19:36:04," people get wound up over S&P or Dow quotes, just messing w them",1,1,0,1,0,1,0.015177174,0.772112,0.21271083,Neg,-0.7569348,davidschawel
+407,2019-01-03 21:05:00,You can learn a lot about someone by whether they quote Dow or S&P points,0,1,1,27,36,243,0.037453387,0.026165066,0.9363816,Neu,0.011288321,davidschawel
+408,2019-01-03 20:59:04, haha,0,0,0,0,0,0,0.06407504,0.03512164,0.9008034,Neu,0.0289534,davidschawel
+409,2019-01-03 19:27:00," I should’ve been more specific, but names like Visa have been bulletproof for as long as I can remember",1,1,1,1,0,2,0.040079664,0.07834494,0.8815754,Neu,-0.038265277,davidschawel
+410,2019-01-03 19:11:03,"Last year’s “safe” names, in additional to AAPL, are struggling here in ‘19",1,1,0,2,0,6,0.015322149,0.9557891,0.02888875,Neg,-0.94046694,davidschawel
+411,2019-01-03 17:43:02,It’s hard to believe but AAPL was cheaper on an earnings multiple basis in 2013,1,1,0,2,3,12,0.50416553,0.025571987,0.47026247,Pos,0.47859353,davidschawel
+412,2019-01-03 00:44:00,"at after hours prices, $AAPL is trading at &lt; 8x EV/EBITDA and ~12x EPS using TTM financials... would have to guess the buyback/Berkshire impact will intensity",0,1,1,0,4,12,0.047241755,0.024916394,0.92784184,Neu,0.022325361,davidschawel
+413,2019-01-02 20:22:01, I could’ve sworn I saw your back yard in that video!,1,0,1,1,0,0,0.044563863,0.058221426,0.8972148,Neu,-0.013657562,davidschawel
+414,2019-01-02 18:08:03,When does the 4Q $SPY letter come out?,1,1,0,1,1,13,0.027154854,0.07908345,0.8937617,Neu,-0.051928595,davidschawel
+415,2019-01-02 02:16:01, $AAPL buys $DIS (maybe a pipe dream!),0,1,0,1,0,16,0.08128633,0.019817034,0.8988967,Neu,0.0614693,davidschawel
+416,2018-12-31 15:22:03,Mid cap stocks now cheaper than the S&P 500 on a P/E basis. First time since early 2009.  ,0,0,0,3,24,61,0.8335316,0.03325978,0.1332086,Pos,0.80027187,davidschawel
+417,2018-12-29 04:17:00,"Fun but futile, “Strategist forecasts for the S&P 500 have been off by more than 10 percentage points in 13 of the last 20 years”  ",1,1,0,1,3,14,0.015650876,0.94825166,0.03609741,Neg,-0.9326008,davidschawel
+418,2018-12-29 00:30:02, “Even Apple can’t time the market perfectly”,1,0,1,1,0,3,0.105299875,0.113051414,0.7816487,Neu,-0.0077515393,davidschawel
+419,2018-12-27 22:25:04, S&P 506,0,0,0,0,0,2,0.030278044,0.047852032,0.92186993,Neu,-0.017573988,davidschawel
+420,2018-12-23 22:22:05,"   I’m going to show my age, I need to google those older Packer teams",0,1,0,1,0,0,0.044725806,0.05652763,0.89874655,Neu,-0.011801824,davidschawel
+421,2018-12-21 21:22:03," it’s a parody account, I almost fell for it too",1,1,0,4,0,5,0.033829786,0.42697206,0.5391981,Neu,-0.39314228,davidschawel
+422,2018-12-21 18:09:04,"  This is a great point, it’s a closed system where reserves are a hot potato among institutions w a fed account",0,1,0,1,0,1,0.045144614,0.061738394,0.893117,Neu,-0.01659378,davidschawel
+424,2018-12-19 21:16:02,S&P 500 Info Tech sector index now +0.07% YTD after being up 21.6% on October 3rd,0,1,0,2,5,21,0.8315076,0.14077327,0.027719047,Pos,0.6907344,davidschawel
+425,2018-12-19 04:17:03,"Huh, $AMZN Basics is now selling motor oil  ",0,1,0,3,1,23,0.05377552,0.014571877,0.93165255,Neu,0.039203644,davidschawel
+426,2018-12-17 19:56:02, Well  is on track to change his handle to SchiffCapitalLLC,0,1,0,1,0,4,0.038079508,0.026115803,0.9358047,Neu,0.011963705,davidschawel
+427,2018-12-17 17:49:00, what’s the argument that it’s easier to find a manager who can find an edge in Google than in First National Bank of Scranton?,0,1,1,3,0,0,0.0617791,0.039440922,0.8987799,Neu,0.022338178,davidschawel
+428,2018-12-17 16:35:01, is that a two handed economist?,1,1,0,1,0,1,0.05290326,0.18252315,0.76457363,Neu,-0.12961988,davidschawel
+429,2018-12-14 16:21:00,"Five S&P 500 sectors (Industrials, Financials, Energy, Communication Services, and Materials) currently have a YTD total return of -8% or worse",0,1,0,0,2,6,0.25331482,0.5959953,0.15068989,Neg,-0.34268048,davidschawel
+430,2018-12-11 14:57:05," agree for value, but for shock value they don’t seem to",0,1,0,1,0,1,0.0399924,0.04535617,0.91465145,Neu,-0.00536377,davidschawel
+431,2018-12-10 13:55:02,"$AAPL shares outstanding down 30% from the peak, and give the cash position and recent price action you have to think this accelerates (right or wrong)  ",0,1,0,3,0,8,0.008030441,0.97421753,0.017752016,Neg,-0.9661871,davidschawel
+432,2018-12-05 17:29:04,Wait until people figure out that’s also the goal of Amazon!,0,1,0,3,0,6,0.035444986,0.017759902,0.94679517,Neu,0.017685084,davidschawel
+434,2018-11-30 01:00:04, Trump’s rationalization and denial is only just beginning,0,1,0,0,0,3,0.054073926,0.06011455,0.88581157,Neu,-0.0060406253,davidschawel
+435,2018-11-30 00:49:04, there’s an “I didn’t inhale” analogy here somewhere,1,1,0,1,0,2,0.15722443,0.08325833,0.75951725,Neu,0.0739661,davidschawel
+436,2018-11-27 00:11:04, don’t have the full document but based on that FB language it looks like a knockout,1,1,0,1,0,5,0.051399298,0.023739096,0.92486167,Neu,0.027660202,davidschawel
+437,2018-11-24 16:39:04,"Post tech selloff, the top 10 stocks as a share of S&P 500 market cap has moved closer to the LT avg  ",1,1,0,3,14,43,0.33777818,0.025752088,0.6364698,Neu,0.31202608,davidschawel
+438,2018-11-22 00:36:01,Remember these structured notes? They’re now busted with $FB trading below $141. Retail buyers are now SOL.,1,1,0,48,123,407,0.03499244,0.8067017,0.15830588,Neg,-0.77170926,davidschawel
+439,2018-11-20 18:48:05,Here is the chart of $FB vs $PG forward PE multiples  ,0,1,0,5,4,37,0.025940092,0.07409636,0.89996356,Neu,-0.04815627,davidschawel
+440,2018-11-20 18:18:05,"$PG is trading at a higher forward multiple than $FB, so there’s that.",0,1,0,12,39,208,0.18590192,0.036591798,0.77750623,Neu,0.14931013,davidschawel
+441,2018-11-15 21:59:00, I’m going to go ahead and upgrade Ryne Sandberg &gt; Sheryl Sandberg,0,1,0,3,0,6,0.10911863,0.014320923,0.87656045,Neu,0.09479771,davidschawel
+442,2018-11-15 17:56:01, That’s a better way of saying what I tried saying earlier  ,1,1,0,0,0,2,0.089187324,0.03364021,0.87717247,Neu,0.055547114,davidschawel
+443,2018-11-12 18:08:04,The Dow total return now ~50bps from the Nasdaq YTD after a 12.4% gap in mid-June,0,1,0,2,2,1,0.817951,0.13635375,0.045695253,Pos,0.6815973,davidschawel
+444,2018-11-12 17:14:05,  maybe because the same exact people own them!,0,1,0,1,0,5,0.028814066,0.048849545,0.9223364,Neu,-0.02003548,davidschawel
+445,2018-11-11 14:40:03,"Info tech, and in particular FANG, have driven S&P margins higher but is this realistic/sustainable going forward?  ",1,1,0,1,2,26,0.8550735,0.019251168,0.12567526,Pos,0.83582234,davidschawel
+446,2018-11-09 21:49:02, for real,0,0,0,0,0,4,0.04981756,0.04856995,0.90161246,Neu,0.0012476072,davidschawel
+447,2018-11-08 21:25:03, Dow &gt; S&P is the hipster take,0,1,0,0,0,1,0.045313146,0.014970011,0.9397169,Neu,0.030343134,davidschawel
+448,2018-11-07 02:58:01, Coach K is calling for Cruz to run wind sprints  ,0,1,0,0,0,3,0.0971555,0.012397625,0.8904469,Neu,0.08475787,davidschawel
+449,2018-11-05 00:06:00,"The longer this HQ2 drags out, the more Amazon acts like they’re gracing each of these cities with their presence. Biggest winners will be the cities which don’t get the grant.",0,1,1,9,11,71,0.04111905,0.12336448,0.83551645,Neu,-0.082245424,davidschawel
+450,2018-11-02 19:51:01,"EM outperforming the S&P since early October, and today it continues  ",0,1,0,6,38,88,0.8237069,0.14657779,0.029715275,Pos,0.67712915,davidschawel
+451,2018-11-01 22:31:04,  maybe he wants to cling to a semi-decent year vs S&P,0,1,0,1,0,2,0.756341,0.058061834,0.18559723,Pos,0.69827914,davidschawel
+452,2018-11-01 19:48:05,So some trend following strategies sold the S&P today with it finishing the month below the 10mo MA?,1,1,0,2,0,1,0.07608527,0.5695548,0.35435992,Neg,-0.49346954,davidschawel
+453,2018-10-30 17:11:05,"FANG multiples deflating, particularly $FB  ",0,1,0,1,1,7,0.27897352,0.63888013,0.08214637,Neg,-0.3599066,davidschawel
+454,2018-10-29 01:05:05,"S&P 500 Sub-sectors with a forward P/E under 10x: consumer finance, airlines, full-line insurance, iron & steel, automobiles, home construction, and durable household products",0,0,0,8,13,65,0.043177992,0.021179674,0.93564236,Neu,0.021998318,davidschawel
+455,2018-10-29 00:17:04,"And from December 31st 2009 to September 30th 2018, the S&P returned 213% or 13.9% per year.   Two can cherry pick!",1,0,1,8,8,67,0.06449786,0.019212842,0.91628927,Neu,0.045285016,davidschawel
+456,2018-10-26 16:57:00,  fear of Altria?,0,0,0,0,0,0,0.038715843,0.1657077,0.7955765,Neu,-0.12699187,davidschawel
+457,2018-10-20 01:03:01, Getting rid of the Dow in conversation would be like the National League adopting the DH,0,1,1,1,0,1,0.036848333,0.027395945,0.93575567,Neu,0.009452388,davidschawel
+458,2018-10-20 00:58:00, I like that you keep the Dow Jones relevant,0,1,0,1,0,2,0.06552876,0.014251667,0.9202196,Neu,0.05127709,davidschawel
+459,2018-10-19 14:15:04, what about people prematurely panicking about those choices?,0,1,0,0,0,10,0.024730174,0.7434294,0.23184036,Neg,-0.7186993,davidschawel
+460,2018-10-19 02:42:05,The next 12mo P/E ratio for the S&P 500 hasn’t budged from 16.8x since 2016 - all the while ‘18 EPS is projected to come in ~43% higher than ‘16,1,1,0,4,2,19,0.9071337,0.073455475,0.019410787,Pos,0.83367825,davidschawel
+461,2018-10-17 18:02:01, I always defer to  when talking about all time highs,0,1,0,1,0,3,0.028316256,0.06066107,0.9110227,Neu,-0.032344814,davidschawel
+462,2018-10-17 16:27:03, various sectors are pricing it ending whether it’s 9 or 27 months from now,0,1,0,2,0,3,0.05456812,0.022924233,0.9225076,Neu,0.031643886,davidschawel
+463,2018-10-16 20:06:01,Someone will try the Sears concept again. In a few years maybe there will be a massively funded VC deal focused on competing with Amazon in dilapidated old class B malls.,1,1,1,17,6,90,0.43486097,0.007963479,0.5571755,Neu,0.4268975,davidschawel
+464,2018-10-11 02:29:04," to be fair, I don’t see any risk of declining XBT cash flows in the near future",0,1,0,1,0,2,0.024898404,0.94387543,0.031226184,Neg,-0.918977,davidschawel
+465,2018-10-08 18:04:04, short covering?,0,0,0,1,0,2,0.039451726,0.2347832,0.72576505,Neu,-0.19533148,davidschawel
+466,2018-09-22 18:01:04, Just interesting how the peak occurred much later in the S&P Small Cap 600 vs IWM,1,1,0,1,0,1,0.13796203,0.02192496,0.840113,Neu,0.11603707,davidschawel
+467,2018-09-22 17:16:01, S&P SmallCap 600 index,0,0,0,1,0,2,0.041007753,0.07521807,0.8837742,Neu,-0.034210313,davidschawel
+468,2018-09-22 17:14:05, now run IJR:SPY - interesting how much different it’s been than IWM,1,1,0,2,0,0,0.12035988,0.018393397,0.86124676,Neu,0.101966485,davidschawel
+469,2018-09-21 20:34:04,"   that’s not the point, I’m highlighting the failure to acknowledge being very wrong for years in a row. I’m not saying AAPL will go up or down from here.",0,1,1,0,0,3,0.0755964,0.26178008,0.66262347,Neu,-0.18618369,davidschawel
+470,2018-09-21 18:30:01," To be fair, haven’t you been tweeting negative stuff on Apple for multiple years?",1,1,0,2,0,9,0.02023484,0.60700005,0.37276515,Neg,-0.5867652,davidschawel
+471,2018-09-21 18:11:03,  I was using S&P small cap 600 vs S&P 500,1,1,0,0,0,0,0.046111614,0.035967056,0.91792136,Neu,0.010144558,davidschawel
+472,2018-09-21 16:19:04,"Telecom closing to turning green YTD, leaving Consumer Staples as the only S&P Sector negative for the year",0,1,0,0,1,4,0.01034956,0.9684229,0.021227611,Neg,-0.9580733,davidschawel
+473,2018-09-16 16:56:05,"S&P 500 buybacks grew $125bil in 1H18, and these 10 stocks made up $97bil (78% of the growth). Apple alone is 24%.  ",1,1,0,0,9,14,0.07159247,0.016078684,0.91232884,Neu,0.055513788,davidschawel
+474,2018-09-12 14:22:01,"  it’s funny to see “are we in a bubble” while other conversations include, “EM now down 30% from January, will probably get worse”",0,1,1,3,1,4,0.01633248,0.96305645,0.020611078,Neg,-0.94672394,davidschawel
+475,2018-09-10 16:54:01,  There’s data to prove that too,0,0,0,1,0,0,0.09336495,0.03604268,0.8705924,Neu,0.057322267,davidschawel
+477,2018-09-06 19:02:03,"  I’m guessing if he was a good starter he’d be signed, if he’d just be a normal backup then teams wouldn’t want the drama.",1,1,0,3,0,3,0.10146001,0.062557235,0.83598274,Neu,0.038902774,davidschawel
+478,2018-09-06 02:36:03, Facebook,0,0,0,0,0,0,0.051062852,0.05060216,0.898335,Neu,0.00046069175,davidschawel
+479,2018-09-05 21:21:04," The index number looks light. I see $SPY up 9.23% YTD after today, maybe you weren’t including dividends?",0,1,0,0,0,2,0.330801,0.04960724,0.6195918,Neu,0.28119376,davidschawel
+480,2018-09-02 22:39:05, $AMZN and $AAPL,0,0,0,1,0,8,0.05244979,0.016320385,0.9312299,Neu,0.036129404,davidschawel
+481,2018-08-31 19:01:01," Agree. It’s interesting. I’ve always said the end goal of amazon isn’t to give you cheap stuff with free shipping, but to lure you in, drive others out, and then raise prices.",1,1,0,2,1,6,0.17075776,0.015125841,0.81411636,Neu,0.15563191,davidschawel
+482,2018-08-30 22:37:00, that’s for S&P 500 tech sector. I think it says more about how profitable large names like AAPL and GOOGL are versus the large constituents during the tech bubble,0,1,0,0,0,0,0.08512623,0.020116942,0.8947568,Neu,0.06500929,davidschawel
+483,2018-08-30 14:58:05, I could see  on the drums and  as the front man with  on the electric,0,0,1,0,0,2,0.049382996,0.030047012,0.92057,Neu,0.019335983,davidschawel
+484,2018-08-29 16:08:04,"The S&P drop to 2,530 in February feels like a lifetime ago",0,0,0,1,0,3,0.010459601,0.9650615,0.024478951,Neg,-0.9546019,davidschawel
+485,2018-08-24 19:04:02,  what he collects in the privacy of his Laguna Beach gold vault is none of our business,0,1,0,0,0,2,0.022657048,0.11672977,0.86061317,Neu,-0.09407273,davidschawel
+486,2018-08-20 01:03:00,The information technology sector of the S&P 500 is projected to earn $41 in EPS for 2019.   If you bought the low of the S&P in 2009 you paid 16x ‘19 tech earnings and got the rest of the market for free.,1,1,0,5,7,61,0.05869962,0.017961778,0.9233386,Neu,0.04073784,davidschawel
+487,2018-08-19 21:00:01," They are delusional. Hey guy, you know what also fell 90%? Thousands of companies that never recovered and never became Apple!",1,1,0,1,0,2,0.022614729,0.86128366,0.11610158,Neg,-0.83866894,davidschawel
+488,2018-08-19 19:00:00,"How strong were earnings in 2Q? 56% of S&P 500 companies beat consensus earnings, the highest since 2010. Only 9% missed consensus, the lowest since 2010. Margins rose 125bps and are now at a record high of 11.2%.",1,1,0,2,11,31,0.09112504,0.8882355,0.020639496,Neg,-0.79711044,davidschawel
+489,2018-08-17 21:04:03," Funny just had this conversation with  the other day. Max pain might be 2-3y longer of recovery with higher stock prices, benign default cycle, and gradual but modest bear flattener",1,0,1,4,1,8,0.8354074,0.070977546,0.093614966,Pos,0.7644298,davidschawel
+490,2018-08-09 17:30:00, it’s nice to be journalist,0,1,0,0,0,1,0.15790623,0.01665024,0.82544357,Neu,0.14125599,davidschawel
+491,2018-08-07 18:20:03," based on your experience, will you elaborate on the process of securing funding for $420?",1,1,1,2,0,5,0.06676435,0.011479802,0.92175585,Neu,0.055284545,davidschawel
+492,2018-08-06 02:42:04," Not sure, guessing top 5 by net income? So prob AAPL, MSFT, JPM, BRK, and GOOG",0,1,0,2,0,1,0.052446198,0.018631471,0.92892236,Neu,0.03381473,davidschawel
+493,2018-08-06 01:56:01,"“For companies in the S&P 500 today, the correlation between stock price and tangible book value has become quite small, just 14%. This is a very big change from 25 years ago, when that correlation was 71%...” - Oakmark",1,1,0,12,42,130,0.1917904,0.11916497,0.68904465,Neu,0.07262543,davidschawel
+494,2018-08-03 01:45:05, Not while the NFL is on,0,1,0,1,0,2,0.032925777,0.06541868,0.9016555,Neu,-0.032492906,davidschawel
+495,2018-08-01 17:09:05, those Chicago guys!,0,0,0,1,0,1,0.06426843,0.14046298,0.79526865,Neu,-0.07619455,davidschawel
+496,2018-07-28 16:58:01, Hmmm interesting question. The fact that there’s not a similar equivalent to AMZN makes me wonder how much brand loyalty is at play,1,1,0,1,0,1,0.045382023,0.0295694,0.9250486,Neu,0.015812622,davidschawel
+497,2018-07-26 16:04:01,"Lost in the Facebook news, the mouse at new FTW highs $DIS",1,1,0,1,0,7,0.017128527,0.9516461,0.031225419,Neg,-0.93451756,davidschawel
+498,2018-07-26 01:52:04,(Poll) The 20%+ drop in $FB after hours is,0,1,0,9,0,2,0.04128213,0.9418642,0.016853591,Neg,-0.9005821,davidschawel
+499,2018-07-25 03:11:05," Facebook, Amazon, Netflix, and Google. Nobody likes them!",0,1,0,2,0,0,0.024495404,0.25068846,0.72481614,Neu,-0.22619306,davidschawel
+500,2018-07-24 23:14:01,  a 40 stock portfolio of S&P 500 names selected by darts would probably outperform the majority of active large cap mutual funds,1,0,1,1,0,5,0.7866641,0.01295318,0.20038272,Pos,0.77371097,davidschawel
+501,2018-07-24 15:30:03," That’s one narrative. Another is TGT’s net income and revenue are down over 3y, and shares are basically flat in a raging bull market. Meanwhile AMZN’s rev is up from 89bil to 193bil.",1,1,0,1,0,11,0.04060766,0.945444,0.013948385,Neg,-0.9048363,davidschawel
+502,2018-07-23 22:45:04,European Commission fines are now just the cost of doing business for Google  ,0,1,0,2,6,36,0.028871551,0.12089143,0.8502371,Neu,-0.09201988,davidschawel
+503,2018-07-21 14:42:05,$MSFT on 12/31/99: Mkt Cap: $586b T12M Revenue: $21.8b Net Income: $8.7b  $MSFT Today: Mkt Cap: $815b T12M Revenue: $110b Net Income: $29b  Amazing performance. More than 5x revenue and 3x income but a relatively small share price gain over 18y. Starting valuations matters!,0,1,0,24,115,565,0.3385632,0.025910545,0.63552624,Neu,0.31265265,davidschawel
+505,2018-07-07 01:47:01,"Via  , the 50 companies that created the most value from 1926 to 2016. If updated for today, AAPL, AMZN and others would be even more jaw dropping.  ",1,0,1,0,9,22,0.03183236,0.32834262,0.63982505,Neu,-0.29651025,davidschawel
+506,2018-07-06 18:32:00,    Prob not a good point in time explanation. yield differentials aren’t a recent phenomenon. We were hundreds of bps steeper with wide differentials 5-6y ago.,1,1,0,1,0,1,0.12533319,0.27838555,0.59628123,Neu,-0.15305236,davidschawel
+507,2018-07-06 18:24:04,    I agree that a flat curve doesn’t necessarily imply recession or trouble,0,1,0,2,0,1,0.05915222,0.11504827,0.82579947,Neu,-0.055896048,davidschawel
+508,2018-07-06 18:16:05,   I have an issue with tweets like these. “Distorted” “correctly priced” “would be” are all narratives that cannot be proved today cc: ,1,1,1,1,0,1,0.031062039,0.25049245,0.71844554,Neu,-0.21943042,davidschawel
+509,2018-07-05 22:50:05, Agree,0,0,0,1,0,0,0.119124904,0.03745498,0.84342015,Neu,0.08166993,davidschawel
+510,2018-07-05 19:35:01,"  if he lagged bc he was long DWDP, KHC, and PG, ehhh what can you say? But lagging because AMZN, CRM, and NFLX multiples disgust you?",1,1,1,0,0,0,0.053894535,0.2177151,0.72839034,Neu,-0.16382056,davidschawel
+511,2018-07-03 20:09:03, The Portugal Man?,0,0,0,0,0,0,0.034087643,0.06760505,0.8983074,Neu,-0.033517405,davidschawel
+512,2018-06-26 00:54:05,“Walmart preps to take on Amazon Go” interested to see how this goes   ,1,1,0,0,1,0,0.06736087,0.01516891,0.9174702,Neu,0.05219196,davidschawel
+513,2018-06-18 15:27:04,  The Gross article!,0,0,0,1,0,1,0.06478815,0.096562535,0.8386493,Neu,-0.031774387,davidschawel
+514,2018-06-18 03:43:03,  yeah he’s been negative on Apple and others for years,1,1,0,2,0,3,0.027768038,0.80697626,0.16525564,Neg,-0.77920824,davidschawel
+515,2018-06-13 00:09:00,Visa now has a $300b+ market cap,0,1,0,4,1,10,0.22532657,0.008120599,0.7665528,Neu,0.21720597,davidschawel
+516,2018-06-12 03:28:04, Crymea indeed  ,0,0,0,1,0,6,0.04739807,0.036568176,0.9160337,Neu,0.010829896,davidschawel
+517,2018-06-06 12:57:00,"So if you wouldn’t buy twitter after it goes from $15 to $40, you actually are if you own the S&P",0,1,0,5,11,43,0.046665065,0.017867742,0.9354671,Neu,0.028797323,davidschawel
+518,2018-06-06 12:56:01,"$TWTR being added to the S&P 500  is a good reminder that’s there’s no such thing as passive (even the S&P is trend following to an extent, buying winners and selling losers)",1,1,0,16,31,146,0.3291465,0.036469746,0.6343838,Neu,0.29267675,davidschawel
+519,2018-06-05 19:30:05,"The race to $1 Trillion between Apple, Amazon, and Google.  ",0,0,0,2,4,16,0.14841245,0.016584145,0.83500344,Neu,0.13182831,davidschawel
+520,2018-06-04 22:29:03,Goldman’s VIP ETF has outperformed the S&P by 746bps since inception. Vampire squid wins again!,1,1,0,2,0,6,0.59967846,0.07638539,0.3239361,Pos,0.5232931,davidschawel
+521,2018-05-30 15:28:01,"  He owns a lot of IG corps, I just wonder how it’s possible the other stuff overwhelmed the benefit of the duration rally by that much.",1,1,0,2,0,0,0.06485907,0.018743455,0.91639745,Neu,0.046115614,davidschawel
+522,2018-05-29 02:00:03, IXWYDT,0,0,0,0,0,9,0.035872694,0.044729453,0.91939783,Neu,-0.0088567585,davidschawel
+523,2018-05-24 22:47:05,*APPLE WINS $539 MLN FROM SAMSUNG IN PATENT DAMAGES TRIAL // That should buy Apple a few more months of solvency!,1,0,1,4,3,25,0.88926893,0.020811856,0.089919224,Pos,0.8684571,davidschawel
+524,2018-05-22 22:38:03," Ehhhh, robo/machines/smart beta/ETFs/whatever, it’s still Apple, Coca Cola, and Procter & Gamble being bought and sold. Sometimes we over complicate things.",1,1,0,0,0,7,0.031176457,0.13739581,0.83142775,Neu,-0.10621936,davidschawel
+525,2018-05-22 19:52:03,How long until Amazon offers prime members 0bp fee ETFs through partnerships with Vanguard and Blackrock?,0,0,0,16,32,168,0.035776693,0.020275792,0.94394755,Neu,0.015500901,davidschawel
+526,2018-05-21 00:55:01,Since the S&P peaked in January the 2y yield is up 50bps and the S&P is down 5.5%,1,1,0,2,2,10,0.07030921,0.9023448,0.027345983,Neg,-0.8320356,davidschawel
+527,2018-05-20 00:22:01,The Amazon Effect: A Look at What Getting HQ2 Would Mean for Each Market  ,0,1,0,0,1,2,0.08292846,0.013035749,0.9040358,Neu,0.069892704,davidschawel
+528,2018-05-18 15:33:05,"Nine S&P 500 consumer staples names are down more than 20% YTD (COTY, GIS, CPB, TAP, KHC, PM, MO, MNST, and CLX)",0,1,0,3,3,10,0.0071047377,0.9741324,0.018762868,Neg,-0.96702766,davidschawel
+529,2018-05-17 16:47:01,"Apple is close to announcing a deal that would bring as many as 10,000 jobs to Research Triangle Park, NC   ",0,1,1,0,1,6,0.74108034,0.018283037,0.24063656,Pos,0.72279733,davidschawel
+530,2018-05-13 01:27:01,"So even if you “buy and hold” the S&P 500, you end up owning a very different group of companies across time.",0,1,0,5,2,11,0.041921172,0.030158268,0.9279206,Neu,0.011762904,davidschawel
+532,2018-05-12 23:11:05,What % of S&P500 companies from 10 years ago are still in today? From 20 years ago?,0,1,0,3,3,5,0.030384328,0.046125047,0.9234906,Neu,-0.015740719,davidschawel
+533,2018-05-03 14:06:00, Not what I said. I think many investors are overly skeptical of the high valuation that Amazon currently has,1,1,0,1,0,0,0.074575655,0.17812406,0.7473002,Neu,-0.1035484,davidschawel
+534,2018-05-03 02:34:02,Amazon: -Regulators are too lackadaisical on competition  -Consumers are too optimistic on the LT benefits  -Investors are too skeptical of the valuation  -States and cities are too bullish on the net impact of HQ2  ,0,1,0,1,1,10,0.025202177,0.7340697,0.24072805,Neg,-0.70886755,davidschawel
+535,2018-04-30 10:08:03," Oil is great because it’s positive either way. It goes down and people save money at the pump, it goes up and S&P earnings rise!",0,1,0,0,0,3,0.68603754,0.15986006,0.1541024,Pos,0.52617747,davidschawel
+536,2018-04-27 22:34:01, aren’t you analytics at Google?,0,1,0,0,0,6,0.031776883,0.058220323,0.9100028,Neu,-0.02644344,davidschawel
+537,2018-04-26 01:10:04, Guy runs $100bil+ of bonds and the media focuses on his Facebook sound bite. He’s an amazing marketer.,1,1,0,0,0,13,0.096594594,0.013190964,0.89021444,Neu,0.08340363,davidschawel
+538,2018-04-26 01:06:01,Have you personally read the full terms and data policy for either Twitter or Facebook?,0,1,0,7,3,1,0.027085986,0.02556711,0.94734687,Neu,0.0015188754,davidschawel
+539,2018-04-23 01:23:01,"So not super cheap on their own, but against the S&P they’re as cheap as they have been in 10+ years",1,1,0,4,0,13,0.44951835,0.018934758,0.5315469,Neu,0.4305836,davidschawel
+540,2018-04-21 02:22:04, S&P YTD?,0,0,0,1,0,6,0.061120637,0.12199713,0.81688225,Neu,-0.060876496,davidschawel
+541,2018-04-19 02:57:01," but a multi-factor crypto fund (momentum, hype, and hope) on the other hand...",0,0,0,0,0,1,0.08381731,0.017482948,0.89869976,Neu,0.06633437,davidschawel
+542,2018-04-16 04:44:04,"Comscore: “Amazon’s mobile users were up 14% y/y in March 2018, while total mobile and PC minutes were up 18% y/y”",1,1,0,0,0,6,0.9529137,0.014480398,0.032605827,Pos,0.9384333,davidschawel
+543,2018-04-09 17:40:02,An investor who bought the S&P 500 on December 8th last year has roughly a 0% total return over the four month holding period. Boring markets.,1,1,0,1,1,7,0.052836906,0.019299535,0.92786354,Neu,0.033537373,davidschawel

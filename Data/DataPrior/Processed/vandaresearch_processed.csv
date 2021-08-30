@@ -1,0 +1,4 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+0,2018-01-10 07:23:01,To commemorate our 5th anniversary we commissioned a video on how we see risk. We would like to thank our clients for supporting us along our amazing journey.  ,1,1,1,0,0,2,0.5919179,0.010087127,0.39799497,Pos,0.58183074,vandaresearch
+1,2017-02-10 06:49:01,Let's put France in context everybody..     ,0,0,0,0,3,2,0.06665311,0.022062495,0.9112844,Neu,0.044590615,vandaresearch
+2,2017-02-03 08:46:02,"We have found that Investing is about positioning,catalysts and momentum - there are plenty of proxies to play this trade  ",1,1,0,0,1,7,0.08250838,0.013038876,0.9044527,Neu,0.069469504,vandaresearch

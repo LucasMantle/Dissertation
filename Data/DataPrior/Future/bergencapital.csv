@@ -1,0 +1,10 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+1,2018-04-01 16:08:00,Weather forecast calling for snow tomorrow ....  surely must be an April Fool’s joke..,1,1,1,0,0,2,0.01631747,0.7624385,0.22124413,Neg,-0.746121,bergencapital
+2,2018-03-29 14:04:02,Volkswagen could look to acquire the rest of $NAV as part of its bigger Trucks initiative. Truck IPO,0,0,1,0,0,3,0.07235989,0.010066537,0.9175736,Neu,0.06229335,bergencapital
+6,2018-03-16 13:27:04,Citi: Berry Global $BERY acquisition of RPC Group $RPC.LN would be “~25% accretive to FCF and drive further sales synergies and trade at a higher multiple”.,0,0,1,0,0,1,0.89584523,0.007045571,0.09710916,Pos,0.88879967,bergencapital
+17,2018-01-23 23:22:00," the proposed merger of TRONOX & Cristal will save hundreds of jobs in Mississippi, Oklahoma, Nevada & CT. Get the FTC inline to approve this deal! MAGA",1,1,1,0,0,0,0.12261455,0.13458176,0.74280363,Neu,-0.011967212,bergencapital
+29,2018-01-07 20:29:01,Uber can’t pay their bills....  ,0,1,1,0,1,3,0.03573803,0.5539104,0.41035154,Neg,-0.5181723,bergencapital
+93,2017-04-23 18:05:03,The Cartel will pay.  ,0,0,1,0,0,0,0.04968021,0.16638775,0.78393203,Neu,-0.11670754,bergencapital
+94,2017-04-23 18:03:03,This would be ES in total moonshot formation.  ,0,0,1,1,0,4,0.027400846,0.065903276,0.9066959,Neu,-0.038502432,bergencapital
+113,2017-01-08 20:43:01,"Because of  policies Fiat will be investing $1BN in the US and creating ""2,000 jobs"" MAGA",0,1,1,0,5,6,0.25534,0.014167851,0.7304921,Neu,0.24117216,bergencapital
+115,2017-01-06 10:18:05,"Is the PBoC bigger than the market?  Moving o/n deposit rates to 75%+? PBoC should read up on ""Black Wednesday""   ",0,1,1,0,10,9,0.11931746,0.02020706,0.8604754,Neu,0.099110395,bergencapital

@@ -1,0 +1,203 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+11,2021-07-20 21:12:03,"If I could pick two companies that would take me through their internal financial analyses, they would be $NFLX and $AMZN.",0,0,1,0,0,8,0.045404308,0.01526396,0.9393317,Neu,0.030140348,ivanthek
+23,2021-07-13 19:09:00, At least Maria doesn't have kids who could grow up to be ashamed of her in the future.,1,1,1,1,0,9,0.0661905,0.21229988,0.7215096,Neu,-0.14610937,ivanthek
+29,2021-07-04 14:14:03,"“Some might even argue that barbecue, not apple pie, best symbolizes our nation’s pride. What’s more, few foods rival barbecue’s ability to bring people together.” —Costco Connection magazine, 2021  cc: Grilling haters",1,1,1,3,3,32,0.05693868,0.032509316,0.910552,Neu,0.024429366,ivanthek
+32,2021-06-30 15:25:01,"  No, it was never called manipulation, that I can recall.",1,0,1,1,0,0,0.034321304,0.07436952,0.8913092,Neu,-0.040048216,ivanthek
+34,2021-06-29 16:13:03,"CNBC guest (former $FB counsel): ""We have 100 years of antitrust enforcement, and that can't just be simply overturned by an act of Congress.""  Wut?  ",1,1,1,2,1,9,0.055569287,0.11401479,0.83041596,Neu,-0.058445502,ivanthek
+42,2021-06-22 15:29:00,"  Think about what you're ""spending"" it on. Would you say the same if we were talking about ""spending"" it on Apple stock?",1,1,1,1,0,0,0.033821806,0.03233425,0.9338439,Neu,0.0014875568,ivanthek
+45,2021-06-20 21:55:03," Sure, but Amazon could have provided that feature without broadcasting the most popular highlights.",1,1,1,1,0,0,0.03726131,0.07557238,0.8871663,Neu,-0.038311068,ivanthek
+48,2021-06-18 23:57:00,"I wonder what Louis Rukeyser would say about the current stock market.   (Google it, kids.)",0,1,1,13,1,38,0.020852657,0.07600203,0.9031453,Neu,-0.055149376,ivanthek
+49,2021-06-17 21:59:05,Someone should tell Facebook users about this.,0,0,1,0,2,12,0.03494569,0.04195827,0.92309606,Neu,-0.0070125796,ivanthek
+68,2021-05-26 13:56:05,Amazon keeps building up a Prime bundle that would make any moves to break them up on antitrust grounds very unpopular. $AMZN,0,1,1,4,1,19,0.06104465,0.7051668,0.23378861,Neg,-0.6441222,ivanthek
+88,2021-05-05 14:19:05,"Facebook and the ""board"" can do this every six months until he dies.",0,1,1,4,0,18,0.019163605,0.062642045,0.91819435,Neu,-0.04347844,ivanthek
+92,2021-05-03 19:52:04,That's just what a spy would say.,0,1,1,1,3,21,0.034041636,0.15170401,0.81425434,Neu,-0.11766238,ivanthek
+97,2021-04-28 20:13:05,I can see that it would be a lot easier for some of you if Powell just gave a price target for the S&P 500.,1,0,1,0,1,15,0.07281198,0.020505175,0.90668285,Neu,0.05230681,ivanthek
+110,2021-04-06 20:49:00,"  Don't know of a publicly available one. But Since Google started getting the Twitter firehose, I'll bet they have it internally.",1,1,1,0,0,6,0.05094938,0.01937656,0.929674,Neu,0.03157282,ivanthek
+112,2021-04-05 14:51:01,"*FACEBOOK EXTENDS RALLY, HITS FIRST INTRADAY RECORD SINCE AUGUST  This is after disclosure of a data breach covering half a billion accounts. Zuck must be like: ""You want me to breach some more?""  ",0,1,1,4,3,22,0.076260485,0.7622319,0.16150768,Neg,-0.6859714,ivanthek
+120,2021-03-25 19:07:00,Why would Amazon get special access from the federal government?,0,0,1,4,1,6,0.034662962,0.029015502,0.93632156,Neu,0.00564746,ivanthek
+121,2021-03-24 11:00:00,"  It doesn't; that's my point. But some people are screaming that Twitter, FB, et al, have been attacking their 1A rights. They will incorrectly use Sanders' comments to promote that.",1,1,1,1,0,4,0.014386878,0.86830574,0.11730739,Neg,-0.85391885,ivanthek
+132,2021-03-02 22:09:00,"PSA. If you're an Amazon customer, you might want to check out this area once in a while, You might be surprised by what you've signed up for.  ",1,1,1,4,0,10,0.15786475,0.0114915855,0.83064365,Neu,0.14637317,ivanthek
+154,2021-01-28 22:58:00, Gruntled employee and ruly passenger would make for a boring Netflix series.,1,0,1,0,0,2,0.019129962,0.5218208,0.4590492,Neg,-0.5026908,ivanthek
+155,2021-01-28 14:28:02,"Google ""Dram Shop laws"" and see if you can find any parallels to current events.",0,0,1,0,1,2,0.03240346,0.025215337,0.9423812,Neu,0.0071881246,ivanthek
+159,2021-01-22 22:08:05,"When I told Amazon the $15 thermostat wall plate they sent me didn't properly line up with the thermostat base, they said they would refund me, and told me not to send it back. Imma drill some holes in it now. No downside. $AMZN",1,0,1,6,0,24,0.09438763,0.12812537,0.777487,Neu,-0.03373774,ivanthek
+160,2021-01-22 14:33:00,  The question is would controlling breakevens shape actual inflation expectations?,0,1,1,1,0,0,0.032655004,0.080243826,0.8871012,Neu,-0.04758882,ivanthek
+165,2021-01-19 22:27:04,"Just bought a Google Nest thermostat, so that Larry Page can keep my house at the right temperature.",1,0,1,4,0,15,0.08196094,0.013933536,0.9041055,Neu,0.06802741,ivanthek
+180,2021-01-08 17:58:01,  I think the insider accounts on this will be breathtaking.,0,1,1,1,0,2,0.122624286,0.012587994,0.86478776,Neu,0.11003629,ivanthek
+181,2021-01-08 15:02:01, True. I'd LOVE to see the outtakes.,0,0,1,3,0,5,0.0767492,0.01766998,0.9055808,Neu,0.05907922,ivanthek
+192,2020-12-18 01:31:05," If Amazon volumes slow, or they move more shipping in-house, FedEx competitors will need to grab market share.",0,1,1,0,0,0,0.021083081,0.8420214,0.13689555,Neg,-0.82093835,ivanthek
+194,2020-12-16 20:56:05,   Put me in the High-class Problem camp there. I think they can handle the pressure.,0,1,1,1,0,1,0.32702798,0.023202453,0.64976954,Neu,0.30382553,ivanthek
+199,2020-12-11 00:43:00,"  I would tell large issuers who don’t need immediate capital to do a direct listing, and raise capital on seasoned shares. Smaller issuers should do the traditional IPO. (SPACs work as an alternative for some.)",0,1,1,1,0,1,0.05557332,0.015297314,0.92912936,Neu,0.040276006,ivanthek
+202,2020-12-09 20:56:00,Maybe Facebook can settle this litigation by agreeing to remove Instagram from Windows 95.  GIK,0,1,1,1,2,13,0.06480919,0.052453045,0.8827378,Neu,0.012356143,ivanthek
+207,2020-12-08 17:30:05,"Thing I haven’t heard mentioned yet: because $TSLA is going into the $SPX, my guess is a smart banker told them to round up the indexers just ahead of the 12/21 add, to make this equity sale a chip shot. It would also frustrate the longs who are looking to front-run the indexers.",1,1,1,4,0,10,0.034568552,0.6945859,0.27084553,Neg,-0.6600174,ivanthek
+215,2020-12-03 14:15:05, You took the bait. I knew you'd get hooked.,1,0,1,3,0,2,0.265188,0.026144905,0.70866704,Neu,0.2390431,ivanthek
+233,2020-11-19 16:15:03,     I'll take the other side of that.,0,0,1,1,0,3,0.058544677,0.022861507,0.9185938,Neu,0.03568317,ivanthek
+234,2020-11-18 17:57:01,*WILLIAMS: SEEING SOME SLOWING IN CONSUMER SPENDING  He must be getting Retail Sales data from Facebook.,0,1,1,0,0,3,0.026717681,0.9216924,0.05158997,Neg,-0.8949747,ivanthek
+235,2020-11-18 17:56:02,Why would I want Google to have my banking business?,0,0,1,13,1,21,0.031167349,0.038658377,0.93017423,Neu,-0.007491028,ivanthek
+255,2020-10-29 21:35:02,"Haven't heard ""Apple won't give guidance"" since Apple Maps was first launched.",1,1,1,2,1,20,0.0323878,0.18280697,0.78480524,Neu,-0.15041918,ivanthek
+264,2020-10-26 11:04:00,"If you like your stocks you can keep your stocks. Google ""wash sale,"" kids.",0,1,1,0,0,7,0.026247714,0.035259157,0.93849313,Neu,-0.009011444,ivanthek
+269,2020-10-22 13:36:01,The bond market must be getting its jobless claims data from Facebook.,0,1,1,0,1,11,0.048052736,0.18754491,0.76440233,Neu,-0.13949218,ivanthek
+274,2020-10-20 18:02:01,"GOOGLE EXEC SAYS WILL ""POTENTIALLY FILE PRETRIAL MOTIONS"" CHALLENGING THEORIES IN DOJ LAWSUIT  Pre-trial motion:  ",0,0,1,0,0,2,0.033762984,0.82801837,0.13821864,Neg,-0.7942554,ivanthek
+275,2020-10-20 14:19:05,"Since this is the Trump Admin, you can't separate DOJ antitrust actions from politics. What was the political calculus that led to a Google antitrust action this close to the election?",1,1,1,3,3,12,0.027610036,0.13178964,0.8406003,Neu,-0.104179606,ivanthek
+277,2020-10-19 18:55:05,"   Here's a news flash: Twitter and Facebook are private companies, not public utilities. You can always vote with your feet. How was Parler?",1,1,1,1,0,4,0.029522985,0.034587387,0.9358896,Neu,-0.005064402,ivanthek
+280,2020-10-16 14:54:02,"  Actually, Biden could've used it in a debate.",1,1,1,1,0,1,0.07512566,0.03442409,0.8904503,Neu,0.040701568,ivanthek
+281,2020-10-16 14:48:01,"  Yes. My approach on this would be, ""Mr. President, some people are saying you don't know the difference between Medicare and Medicaid. Could you please explain this difference to Americans right now?""",0,1,1,1,0,5,0.049966592,0.0994362,0.85059714,Neu,-0.04946961,ivanthek
+301,2020-10-02 22:17:03, Producers should put $SPY bug on the screen,0,0,1,0,0,1,0.047077455,0.35938284,0.5935397,Neu,-0.3123054,ivanthek
+302,2020-10-02 12:27:03,"If you know a Facebook user, you might want to let them know  what's going on.",0,1,1,5,3,73,0.033791486,0.055690236,0.91051835,Neu,-0.02189875,ivanthek
+307,2020-09-28 21:35:00," I'm glad you told me, because I couldn't find heat warmers on Amazon.",1,1,1,1,0,0,0.058070514,0.07005887,0.8718706,Neu,-0.011988353,ivanthek
+308,2020-09-25 15:11:05,"One could redo the Amazon promotional video soundtrack with an SNL voiceover, and it would fit.",0,0,1,0,0,1,0.10697611,0.010935666,0.88208824,Neu,0.09604044,ivanthek
+315,2020-09-22 14:22:00, Joe will get it.,0,0,1,1,0,3,0.068224415,0.026786184,0.90498936,Neu,0.04143823,ivanthek
+334,2020-09-08 14:22:02,"If your investment thesis is ""It will be added to the S&P 500 index,"" please see me after class.",1,1,1,5,11,101,0.03826143,0.021609658,0.940129,Neu,0.01665177,ivanthek
+335,2020-09-04 12:47:03," Absolutely, but we can still generate a good deal of economic activity working from home (see, AMZN, WMT, ZM, etc.). I think the overall lesson is that we can't fully ""re-open"" unless people feel safe. Federal policy needs to recognize this.",0,1,1,0,0,1,0.14626315,0.026810734,0.8269261,Neu,0.11945242,ivanthek
+336,2020-09-04 12:40:03," Alternatively, they can hedge by buying back that gamma, which pushes implied vols (like VIX for the S&P500) even higher.",0,1,1,0,0,0,0.61416453,0.08986178,0.29597375,Pos,0.5243027,ivanthek
+343,2020-09-01 15:24:05,"If I were advising $AAPL, I'd recommend a special common stock cash dividend in lieu of buyback. timestamp",1,1,1,2,0,11,0.032166887,0.021841526,0.94599164,Neu,0.010325361,ivanthek
+359,2020-08-25 14:18:04,  Dow would outperform SPX,0,0,1,0,0,0,0.91925144,0.04830874,0.03243987,Pos,0.8709427,ivanthek
+361,2020-08-25 14:04:01,Market things that will get discussed too much:  1) Stock splits 2) Dow Jones components 3) Crypto,1,1,1,1,1,6,0.019967869,0.34563598,0.6343962,Neu,-0.3256681,ivanthek
+368,2020-08-22 12:42:01," If we didn’t have section 230, would we even have Facebook? Or any other social media platforms?",0,1,1,0,0,3,0.024575066,0.06351964,0.91190535,Neu,-0.038944576,ivanthek
+374,2020-08-19 20:04:03,I can guarantee the return of at least one former subscriber if they sign a distribution agreement with Amazon on its Fire TV platform.,0,1,1,6,2,3,0.5674123,0.023149626,0.40943813,Pos,0.5442627,ivanthek
+389,2020-08-13 16:18:05, Someone should transcribe this.,0,0,1,2,0,0,0.051177107,0.018458746,0.9303642,Neu,0.03271836,ivanthek
+394,2020-08-11 20:24:03,"Since  is off today, I'll just remind everyone that this is not what a stalemate is.   SPX TURNS NEGATIVE AFTER US SENATE MAJORITY LEADER MCCONNELL SAYS STIMULUS TALKS ARE AT A STALEMATE.",0,1,1,2,5,31,0.013524649,0.9533419,0.0331334,Neg,-0.93981725,ivanthek
+398,2020-08-07 19:25:00," Well, he said two weeks ago he'd deliver a new one by now.",1,0,1,3,0,0,0.11086601,0.013437195,0.87569684,Neu,0.09742881,ivanthek
+407,2020-08-03 20:28:05,"Amazon should make noise that they're interested in TikTok, even if they're not.  ",0,1,1,1,3,23,0.08961725,0.023718312,0.88666445,Neu,0.06589894,ivanthek
+409,2020-08-03 15:36:03,Why would MSFT want to be a direct competitor of FB? Are their own organic growth opportunities limited?,1,1,1,4,0,4,0.034659162,0.057712894,0.90762794,Neu,-0.023053732,ivanthek
+410,2020-08-03 15:03:04,"What are the odds that Microsoft, after a full security review, says it can't vouch for the integrity of TikTok's source code?",0,1,1,4,1,12,0.028629448,0.3928562,0.57851434,Neu,-0.36422676,ivanthek
+411,2020-08-03 14:53:01,"I can't even, with this clown.  NAVARRO: CHINA COMMUNIST PARTY OPERATES ON MICROSOFT SOFTWARE",0,0,1,7,1,20,0.025644362,0.17484067,0.799515,Neu,-0.14919631,ivanthek
+425,2020-07-29 18:50:01,Facebook users will get this live feed tomorrow.,0,0,1,1,0,9,0.03051786,0.02383566,0.9456465,Neu,0.0066821985,ivanthek
+427,2020-07-29 16:18:04,"In anticipation of  streaming apps disappearing from my Amazon Fire TV devices in two days, I have pulled HBO service from my set-top box. I'm pretty sure this will motivate them to sign a deal with Amazon ASAP.  cc:  $T $AMZN",1,1,1,5,0,5,0.11633066,0.115710296,0.76795906,Neu,0.00062036514,ivanthek
+444,2020-07-22 21:34:03," If Sean Spicer didn't do that, nothing will.",1,0,1,1,0,0,0.03230342,0.066237375,0.9014592,Neu,-0.033933956,ivanthek
+456,2020-07-14 14:59:03," My sense is red state infections will take some TARP II risk off the table. Not to say there won't be some drama in the interim, though...",0,1,1,2,0,2,0.17549355,0.08494591,0.7395606,Neu,0.09054764,ivanthek
+457,2020-07-14 11:41:01,"I'd love to see how Spotify and Sirius/XM model the ROI for paying $$$ to produce podcasts. (In the same vein, I'd like to see how Netflix, Amazon, HBO, et al, do the same for producing TV series and movies.)",0,1,1,4,0,3,0.09294173,0.010246392,0.8968119,Neu,0.082695335,ivanthek
+466,2020-07-09 11:16:05,"""A Vitamix is essentially failproof; with a banana or a splash of apple cider, even an old shoe could be made delicious.""--  TBT     ",1,1,1,2,0,3,0.037237383,0.18085708,0.78190553,Neu,-0.14361969,ivanthek
+469,2020-07-06 19:02:04, I'll bite...,0,0,1,1,0,1,0.090858765,0.17633376,0.7328075,Neu,-0.08547499,ivanthek
+477,2020-07-01 19:14:05," ""One participant from St. Louis mused that the Fed should not be in the business of picking winners and losers, but did request an 11th season of 'Curb Your Enthusiasm.'""",1,1,1,3,0,8,0.06518709,0.0730743,0.86173856,Neu,-0.007887214,ivanthek
+479,2020-06-30 15:07:00,Every CEO whose company is jumping on the Facebook advertising PAUSE bandwagon should be asked what the criteria are for reinstatement.,1,1,1,11,18,83,0.022456141,0.0840991,0.8934447,Neu,-0.06164296,ivanthek
+480,2020-06-30 12:20:00, They could use those balloons for the new  Amazon Thanksgiving Day Parade.,0,0,1,1,0,6,0.06561599,0.015935503,0.9184485,Neu,0.049680486,ivanthek
+484,2020-06-26 19:51:05,Some of these advertisers who are boycotting $FB might figure out their ads aren't efficacious.,0,1,1,5,5,47,0.024560181,0.827773,0.14766683,Neg,-0.8032128,ivanthek
+493,2020-06-17 18:26:02, Quart o' blood,0,0,1,2,0,2,0.05613596,0.03846637,0.90539765,Neu,0.017669588,ivanthek
+495,2020-06-16 21:34:03, Ha. Maybe Google should update their quote.,0,0,1,1,0,0,0.05936245,0.025291782,0.9153458,Neu,0.034070667,ivanthek
+502,2020-06-12 13:34:05," I think if you Google first quarter GDP you don't see YoY on the first page of search results. Most MSM quote the BEA headline, too. It doesn't line up with what many corps report, which is the point of my tweet. It will be even more drastic in Q3.",0,1,1,1,0,0,0.0253968,0.4343707,0.5402325,Neu,-0.4089739,ivanthek
+504,2020-06-11 20:00:01,"By my calculations, if SPX breaks below 2966.83 before 3:25pm ET we'll trigger a marketwide circuit breaker for 15 minutes.",0,1,1,3,2,5,0.013446466,0.8525114,0.13404211,Neg,-0.83906496,ivanthek
+513,2020-06-02 21:38:01,Former Google CFO.  I believe this transitions Twitter's Chairman job from an insider to an outsider (like it should be).,0,1,1,1,2,8,0.12289856,0.025883634,0.85121787,Neu,0.09701492,ivanthek
+551,2020-04-14 16:07:04, Can I buy some pot from you?  ,0,0,1,1,0,6,0.07454932,0.022433167,0.90301746,Neu,0.05211615,ivanthek
+552,2020-04-13 18:32:04,I wouldn't be surprised if Kudlow has told Trump that if Fauci is fired then that's 2000 Dow points down.,1,1,1,2,0,25,0.010853808,0.88844764,0.100698575,Neg,-0.8775938,ivanthek
+554,2020-04-11 16:23:04,"Thing I’ve noticed recently: Despite their greater scale, Amazon, Walmart, Target, etc. have become inferior to certain independent online merchants for certain items on both price and delivery time. That’s not a bad thing.",1,1,1,13,6,97,0.1980016,0.6059787,0.19601971,Neg,-0.40797713,ivanthek
+565,2020-03-30 22:12:03,"  Not all of them, but some of them will run out of excuses as the danger approaches them, sadly.",0,1,1,0,0,2,0.015230466,0.82389086,0.16087864,Neg,-0.8086604,ivanthek
+570,2020-03-24 11:31:01, This is exactly right-- especially since he can't actually send people back to work.   ,0,1,1,2,0,10,0.06548169,0.36311632,0.571402,Neu,-0.29763463,ivanthek
+582,2020-03-15 23:15:05, I think he should send Clarida on the ultra vires missions.,0,1,1,1,0,0,0.08662979,0.0133221205,0.900048,Neu,0.07330767,ivanthek
+583,2020-03-15 22:23:01,Reminder: S&P futures are not halted. They just cannot by rule trade below 2555.50 until the stock market opens at 9:30am ET. It can trade higher at any time.,1,1,1,8,18,49,0.034042154,0.06151128,0.90444654,Neu,-0.027469125,ivanthek
+598,2020-03-09 10:41:02,"CNBC and Bloomberg TV should be flashing the real-time $SPY, $QQQ and $DIA ETFs, instead of futures that are frozen at limit down.",1,1,1,6,6,58,0.036217343,0.03866822,0.9251144,Neu,-0.002450876,ivanthek
+600,2020-03-09 02:11:03," That's true. My guess is Wilbur will achieve the permanent deferral, if his estate planning was any good.",1,1,1,0,0,4,0.17506176,0.01839638,0.80654186,Neu,0.15666538,ivanthek
+644,2020-02-13 03:11:04,   They could do the same thing keeping those balances in commercial bank deposits without introducing reserve volatility.,0,1,1,1,0,0,0.08587408,0.024177626,0.8899483,Neu,0.061696455,ivanthek
+652,2020-02-07 16:56:04,  I hope he'll be back.,0,1,1,1,0,0,0.15725209,0.02565262,0.81709534,Neu,0.13159947,ivanthek
+654,2020-02-07 15:04:02, You can spin that any way you'd like!,0,0,1,1,0,1,0.046709232,0.025972556,0.9273182,Neu,0.020736676,ivanthek
+657,2020-02-04 12:30:05,"By my quick & dirty calculations, if Boeing had been replaced by Tesla one year ago in the Dow Jones Industrial Average, the index would be over 33,000 today.",1,0,1,3,6,22,0.048561297,0.118521325,0.83291733,Neu,-0.06996003,ivanthek
+667,2020-01-29 20:13:05,"   Why is TGA a secondary effect? If Treasury held its surplus funding at commercial banks (which they could do) instead of the TGA, how would their spending/taxation activities affect aggregate banking system deposits?",1,1,1,1,0,0,0.023253312,0.14203861,0.83470815,Neu,-0.1187853,ivanthek
+683,2020-01-14 15:54:03,Microsoft should extend support of Win 7 in light of today's disclosure of a major Win 10 flaw*  *F.D.:  &lt;--Long Win 7,0,0,1,0,0,2,0.62862754,0.017402966,0.35396954,Pos,0.6112246,ivanthek
+686,2020-01-11 21:10:01," I'm not an expert, either, but a quick Google search will tell you these are typically not recorded. If there were tapes, we'd know.",1,1,1,1,0,0,0.03627844,0.05419523,0.90952635,Neu,-0.017916787,ivanthek
+690,2020-01-09 18:57:02,  Wait. I that right? I could swear I had the single back in the day.,1,0,1,3,0,0,0.07700458,0.029964687,0.8930307,Neu,0.047039896,ivanthek
+696,2020-01-03 18:21:02,They must be Facebook users.,0,0,1,0,0,8,0.022551997,0.1095469,0.86790115,Neu,-0.0869949,ivanthek
+705,2019-12-25 20:48:03,"I'll be declaring all individuals who are using my Netflix, Amazon Prime, Disney+ and HBO Go passwords as dependents on my 2019 tax return.",0,1,1,3,4,73,0.030432153,0.08336271,0.88620514,Neu,-0.05293056,ivanthek
+707,2019-12-23 02:32:01, “Would you like apple sauce with that?”,0,0,1,1,0,1,0.12465617,0.033828687,0.8415151,Neu,0.09082748,ivanthek
+713,2019-12-15 22:04:05,Bloomberg Business week cut open an Amazon Echo. You won't believe what they found...  ,1,1,1,2,0,6,0.014721347,0.8885881,0.09669059,Neg,-0.87386674,ivanthek
+720,2019-12-11 14:20:03, What do you think the Fed's priorities should be here?,0,1,1,2,0,0,0.03754717,0.033074845,0.9293779,Neu,0.0044723265,ivanthek
+721,2019-12-10 21:41:01, Wow. He ducked your question on Apple's 0% APR economics. I have to believe $GS is NOT subsidizing that. Regulators would want to know how they're hedging that unknown funding cost.,1,1,1,0,0,0,0.06139782,0.047112036,0.8914901,Neu,0.014285784,ivanthek
+725,2019-12-05 17:47:05,Only about a dozen of you will get that. The rest of you can Google it.,0,0,1,8,1,8,0.03366166,0.022788046,0.9435502,Neu,0.010873614,ivanthek
+728,2019-12-04 13:18:00,"I made it into the Amazon Washington Post. Day's over.  Analysis | The Finance 202: Trump could spark a global recession if he imposes more China tariffs, economists predict  ",1,1,1,3,0,18,0.025260182,0.9380796,0.036660213,Neg,-0.9128194,ivanthek
+729,2019-12-03 21:51:02,The first thing  should do as CEO of Alphabet is rename it Google.,0,1,1,4,8,57,0.038511056,0.01950337,0.9419856,Neu,0.019007687,ivanthek
+731,2019-12-03 16:51:04, I will respond to this later.,0,0,1,1,0,3,0.043713145,0.02952938,0.92675745,Neu,0.014183765,ivanthek
+773,2019-10-14 18:02:05,This knucklehead cannot get out of his own way. $FB,0,0,1,2,0,13,0.04569246,0.2516734,0.7026341,Neu,-0.20598094,ivanthek
+793,2019-09-25 18:02:00,"Can’t wait to see the reaction to Trump’s Ukraine phone call memo from Facebook users, when they finally see it.",0,1,1,0,1,15,0.050614685,0.017125625,0.9322597,Neu,0.03348906,ivanthek
+798,2019-09-23 13:43:03, We should do a BOGO sale.  ,0,0,1,0,0,7,0.047212973,0.017231418,0.93555564,Neu,0.029981555,ivanthek
+805,2019-09-10 18:01:01,Will someone please tweet what’s going on at the Apple event?,1,1,1,6,0,7,0.020674203,0.09424471,0.88508105,Neu,-0.073570505,ivanthek
+811,2019-09-05 14:53:03,Cambridge Analytica knows who your next date will be.  $FB,0,1,1,1,1,6,0.027219871,0.02619111,0.94658905,Neu,0.0010287613,ivanthek
+816,2019-09-01 17:47:00,"   says it can miss stuff Google has, so is it really the same engine as Google?",0,1,1,2,0,0,0.027193239,0.12023403,0.85257274,Neu,-0.09304079,ivanthek
+822,2019-08-28 19:59:00,"""It was an eight-page, bullet-pointed, Calibri font testimony to Amazon’s sensitivities.""  Does Bezos have a deep Amazon state problem? I wonder if he'll go to the SDNY with this one.",1,1,1,0,0,0,0.039938293,0.13559504,0.8244667,Neu,-0.095656745,ivanthek
+828,2019-08-22 19:11:00,YOU SHOULD NOT PUT YOUR APPLE CARD NEAR DENIM OR LEATHER. TIM COOK TOLD ME THAT AT DINNER.  ,0,0,1,3,6,29,0.033378556,0.11534406,0.85127735,Neu,-0.081965506,ivanthek
+838,2019-08-15 20:34:01," I would, too. But his approach is bad, IMO.  ",0,1,1,0,0,4,0.016172962,0.90742785,0.076399185,Neg,-0.8912549,ivanthek
+865,2019-08-02 15:53:01,Can you buy additional attention span on Amazon? I need some.,0,1,1,3,0,9,0.05504337,0.020157687,0.92479897,Neu,0.034885682,ivanthek
+867,2019-08-02 03:28:01,"Microsoft should trademark ""Ditch Twitch""",0,0,1,0,0,1,0.03771757,0.03612481,0.92615765,Neu,0.001592759,ivanthek
+888,2019-07-22 20:21:05,Maybe we'll finally get an iPhone battery that lasts all day.  APPLE HIRES TESLA ENGINEERING EXECUTIVE STEVE MACMANUS,0,1,1,9,3,24,0.11199565,0.018325614,0.86967874,Neu,0.09367004,ivanthek
+900,2019-07-17 18:49:01,    FinTech must be so confusing for them.,0,1,1,1,0,0,0.02119488,0.5358684,0.44293675,Neg,-0.51467353,ivanthek
+910,2019-07-04 18:33:05,"One day, Facebook will charge you for keeping your stalking history private.",0,1,1,1,2,8,0.017508462,0.7069276,0.27556396,Neg,-0.68941915,ivanthek
+915,2019-06-27 21:54:03,Maybe Apple will now make a fatter phone with actual battery life.,0,0,1,3,1,2,0.12870124,0.013957516,0.85734123,Neu,0.114743724,ivanthek
+916,2019-06-27 21:39:05, He won't even wait for a violation.,0,0,1,0,0,2,0.06447013,0.038364604,0.89716524,Neu,0.026105523,ivanthek
+917,2019-06-27 11:30:00, A conspiracy theorist would say that the reason the Google search only produces non-authoritative media is because Google is suppressing the full results. 😉,0,1,1,0,1,1,0.021581592,0.2540992,0.7243192,Neu,-0.2325176,ivanthek
+922,2019-06-19 15:18:04,A question I didn't see discussed widely yesterday:  Will the SEC declare that Libras are securities?  $FB,1,1,1,5,1,8,0.03202397,0.03370968,0.9342664,Neu,-0.0016857088,ivanthek
+931,2019-06-12 12:20:00,"    This is because Fair Value is a daily constant, and Dow futures trade in one-point increments. Therefore, the implied open can only change by whole-point increments.",0,1,1,0,0,1,0.023627581,0.09016349,0.8862089,Neu,-0.06653591,ivanthek
+946,2019-05-21 19:03:00,   I can hear you.,0,0,1,1,0,3,0.06475987,0.02202107,0.91321903,Neu,0.042738803,ivanthek
+947,2019-05-21 16:59:00, His maintenance margin might be lower than that.,0,0,1,3,0,1,0.024920298,0.9334168,0.041663002,Neg,-0.9084965,ivanthek
+954,2019-05-14 14:47:00,"Dear Europe,  We won't spy. Promise.  China",0,0,1,4,4,25,0.05053869,0.025419902,0.92404145,Neu,0.025118787,ivanthek
+955,2019-05-14 14:08:03,"Finally, Facebook can get out of the headlines for its lapses. Oh, wait.",0,0,1,0,2,10,0.066161305,0.1981927,0.735646,Neu,-0.1320314,ivanthek
+959,2019-05-09 16:48:00,Would this be good or bad for stockholders? $FB,0,0,1,1,0,1,0.072807014,0.105112605,0.8220803,Neu,-0.03230559,ivanthek
+966,2019-05-03 21:36:05,"Likes should be weighted (1-5), and histograms should be available for each post/tweet, just like Amazon reviews.",1,0,1,1,1,2,0.047062747,0.013585614,0.9393516,Neu,0.033477135,ivanthek
+970,2019-05-03 13:57:00," Yes, but the convertible arbitrage will likely eat up the new float.",0,0,1,1,0,1,0.051790584,0.0754508,0.8727587,Neu,-0.023660216,ivanthek
+991,2019-04-25 15:17:01, Even funnier will be tracking SPX 2019 earnings estimates over the year.,0,1,1,1,0,1,0.051002115,0.042663887,0.90633404,Neu,0.008338228,ivanthek
+1004,2019-04-11 12:55:00,"  Same. I think some GOPers who publicly denounced Cain's nomination probably feel like they used political capital that would have gone against Moore, were he the only one being considered.",1,1,1,1,0,1,0.055821337,0.37329835,0.57088035,Neu,-0.31747702,ivanthek
+1007,2019-04-09 14:33:00,I'd like Boeing to do a 20-1 stock split so it stops triggering Dow Jones Industrial Average caveats.,0,1,1,2,2,17,0.10917969,0.022632344,0.8681879,Neu,0.086547345,ivanthek
+1008,2019-04-08 16:34:05,"  Even if someone is saying something that you're having trouble grasping, interrupting them will not remedy that.",0,1,1,1,0,0,0.02382782,0.6399,0.33627212,Neg,-0.61607224,ivanthek
+1010,2019-04-05 21:25:04,"They waited until after the NYSE close to put this out. Based on after-hours $BA trading, Dow would've closed in the red.",1,1,1,1,3,9,0.08589469,0.4602754,0.45382994,Neg,-0.3743807,ivanthek
+1017,2019-04-01 16:10:03,Mark Zuckerberg says FBI should have an office onsite at Facebook headquarters.,0,1,1,3,0,5,0.03819984,0.035078436,0.9267217,Neu,0.003121402,ivanthek
+1021,2019-03-25 18:20:03,"EXCLUSIVE In an effort to upstage today’s Apple announcement, Amazon will soon launch Amazon OnePipe™. A single pipe to your home will deliver TV, internet, telephone, electricity, natural gas, water and sewer service.",0,0,1,19,3,49,0.074944,0.010051681,0.9150044,Neu,0.064892314,ivanthek
+1044,2019-03-01 15:12:05, I could care less.,0,0,1,2,0,6,0.07092015,0.10227671,0.8268032,Neu,-0.031356566,ivanthek
+1045,2019-03-01 15:10:03, I should of known.,1,0,1,2,0,10,0.06977544,0.1383536,0.791871,Neu,-0.06857816,ivanthek
+1047,2019-03-01 15:07:02, It'll fit right it with much of the current genre.,0,0,1,1,0,0,0.10045226,0.010743193,0.8888046,Neu,0.089709066,ivanthek
+1050,2019-02-27 18:22:01, He should be dancing.,0,1,1,1,0,0,0.050362147,0.07336538,0.87627244,Neu,-0.023003235,ivanthek
+1058,2019-02-15 20:50:00,Prediction: Amazon will ultimately decide to be in NYC.,0,0,1,10,5,30,0.05975409,0.01568043,0.92456555,Neu,0.044073656,ivanthek
+1068,2019-02-11 13:12:03,". misread the pulse of NYC on Amazon. It'll be interesting to see if she realizes she's overplaying her hand and chills out on this, or if she doubles down.",0,1,1,3,0,13,0.047484796,0.04819223,0.9043229,Neu,-0.0007074326,ivanthek
+1069,2019-02-08 11:38:01,"Will Jeff Bezos play himself in the Amazon Prime Original Series, ""Bezos, P.I.""?",0,0,1,0,3,12,0.03818619,0.026208816,0.935605,Neu,0.011977373,ivanthek
+1070,2019-02-07 13:03:05,"If I were CEO of Twitter the first thing I'd do is cancel the deal to send the tweet firehose to Google. If they want the data, they'll have to buy the company. $TWTR",1,1,1,4,6,30,0.021944996,0.16015273,0.8179022,Neu,-0.13820773,ivanthek
+1075,2019-02-05 01:55:03, The issue I had with the digital headline is it can be read that MSCI had succumbed to the pressure by China.,1,1,1,0,1,0,0.20117904,0.28818166,0.5106393,Neu,-0.08700262,ivanthek
+1099,2019-01-17 12:42:04,Amazon Wipe™ will destroy this plan.,0,0,1,0,0,2,0.015346234,0.79897213,0.1856817,Neg,-0.7836259,ivanthek
+1106,2019-01-12 13:51:01,  Hard evidence would imply he’s a voluntary spy. More likely he’s a useful idiot. And he’s the most monitored person in the world.,0,1,1,1,0,1,0.058336303,0.06621535,0.87544835,Neu,-0.007879049,ivanthek
+1129,2018-12-20 10:27:00,"I was seriously considering deleting my Facebook account, but where would I post my medical x-rays?",1,1,1,2,6,32,0.02288311,0.2329538,0.7441631,Neu,-0.2100707,ivanthek
+1134,2018-12-19 12:52:03,"If Facebook violated an FTC consent decree, shouldn't that (at the least) result in a multi-billion dollar fine?",1,0,1,3,2,15,0.01862249,0.89923626,0.08214119,Neg,-0.88061374,ivanthek
+1144,2018-12-10 14:09:05,"I can't tell whether this Apple news is really that significant, but I remain convinced that China can inflict serious pain on US companies. Trump doesn't get this (or DGAF).",0,1,1,8,3,10,0.02349104,0.85888785,0.117621146,Neg,-0.8353968,ivanthek
+1150,2018-12-04 19:25:02,    I'll accept that.,0,0,1,1,0,1,0.16638048,0.022361942,0.8112576,Neu,0.14401853,ivanthek
+1151,2018-11-30 19:49:01,My  lag is bordering on unbearable. This must be how Facebook users feel.,0,1,1,1,2,4,0.024101337,0.67096037,0.30493835,Neg,-0.64685905,ivanthek
+1153,2018-11-28 13:30:03, Someone should've read that to the guy I just heard on the radio.,0,1,1,1,0,4,0.06598483,0.03573888,0.89827627,Neu,0.030245949,ivanthek
+1156,2018-11-26 14:19:02,Starting to think that Amazon might be one of the few dotcom-era companies that survives.,0,1,1,0,0,9,0.16836874,0.017397052,0.8142342,Neu,0.1509717,ivanthek
+1161,2018-11-21 15:30:05,"Bought an Amazon Fire TV for my in-laws for the holidays, because being stuck with network TV is cruel. 25% chance they'll be able to use it after I hook it up and go back home.",1,1,1,5,0,14,0.09371131,0.019858176,0.88643044,Neu,0.073853135,ivanthek
+1162,2018-11-20 19:40:05, PE guys would flip to Amazon in a heartbeat.,0,0,1,1,0,7,0.035393026,0.030440899,0.93416613,Neu,0.004952127,ivanthek
+1164,2018-11-20 13:05:03,We could really use that self-tender offer now... $AAPL  ,0,0,1,0,0,8,0.18922934,0.009211423,0.8015592,Neu,0.18001792,ivanthek
+1165,2018-11-19 19:14:04,"If Apple launches a self-tender now, it could get done before tax-selling season ends. $AAPL   👀",1,1,1,0,0,7,0.06303835,0.014001452,0.9229602,Neu,0.049036898,ivanthek
+1181,2018-11-10 13:34:02,"This seems like a shot in the dark. There is no logical reason why there would be saved recordings on the device or on Amazon's servers. If there are, Amazon would be in deep sh*t.",1,1,1,11,3,25,0.016922249,0.6271959,0.35588184,Neg,-0.61027366,ivanthek
+1200,2018-10-18 02:00:05,"The intel community is so suspicious about Trump’s motives that they preview their findings in the media first. Can’t blame them, but it’s nucking futs.   U.S. Spy Agencies Are Increasingly Convinced of Saudi Prince’s Ties to Journalist’s Death  ",1,1,1,0,2,8,0.060899258,0.42874566,0.51035506,Neu,-0.3678464,ivanthek
+1202,2018-10-16 17:46:05,Facebook users will get spammed with these same codes next week.,1,0,1,1,0,11,0.027444882,0.18681414,0.78574103,Neu,-0.15936926,ivanthek
+1204,2018-10-15 21:19:03, I'd like to send a Letter to the Editor.,0,0,1,0,0,11,0.044545665,0.03010129,0.925353,Neu,0.014444375,ivanthek
+1207,2018-10-08 19:22:03,"Now that Google is giving up on Google+, they can focus on acquiring Twitter.",0,1,1,0,6,20,0.06355194,0.01399172,0.9224564,Neu,0.04956022,ivanthek
+1212,2018-10-03 14:59:03, Why would you want to?,0,0,1,1,0,4,0.035326775,0.079909064,0.88476413,Neu,-0.04458229,ivanthek
+1224,2018-09-22 14:37:04,I call BS.  White House Drafts Order for Trump That Would Hit Google and Facebook   via ,0,1,1,1,1,6,0.04112344,0.16675411,0.7921224,Neu,-0.12563068,ivanthek
+1232,2018-09-12 18:31:00,&lt;--Will be buying the Apple Watch 4.  $AAPL,0,1,1,4,2,20,0.1306518,0.0077296877,0.8616186,Neu,0.122922115,ivanthek
+1254,2018-08-19 16:52:00,"This is exactly why they should be owned by Google, which has the engineering DNA to prosecute these issues.",1,1,1,1,1,13,0.055234615,0.036062524,0.9087029,Neu,0.019172091,ivanthek
+1256,2018-08-16 18:47:04, Google should be running it.,0,1,1,1,0,1,0.03990003,0.018227562,0.9418725,Neu,0.021672469,ivanthek
+1264,2018-08-06 15:30:01,   I can't believe this channel is free.,0,1,1,0,1,2,0.09812608,0.019590221,0.8822837,Neu,0.07853586,ivanthek
+1268,2018-08-02 16:54:00,Facebook users still waiting to find out if Apple will hit $1 Trillion in market cap.,0,1,1,0,2,9,0.071130514,0.12921104,0.7996584,Neu,-0.058080524,ivanthek
+1270,2018-08-01 17:10:05,A $2B $TSLA convertible preferred sale to Berkshire Hathaway would be the ultimate troll move.,0,0,1,5,7,36,0.10218802,0.008697971,0.8891141,Neu,0.09349005,ivanthek
+1271,2018-08-01 12:34:01,When will Facebook remove posts from people detailing their doctor's visits?,0,1,1,2,0,16,0.01699944,0.54540384,0.4375967,Neg,-0.5284044,ivanthek
+1279,2018-07-29 22:27:00,"     I think we might be talking past each other. I'll try to lay this example out better tomorrow, maybe on a slide.",0,1,1,1,0,2,0.09235132,0.040018596,0.8676301,Neu,0.05233272,ivanthek
+1281,2018-07-29 21:22:01,"     (I took private sector out of this to clean up the example by stipulating the assets were govt owned.) I'd argue what we did, economically, was give away half our shale reserves, which I'd say has has a real economic impact.",1,1,1,1,0,1,0.1000923,0.1196387,0.78026897,Neu,-0.019546397,ivanthek
+1282,2018-07-29 21:06:04,"     On this point, if you mean *material* sense, that would depend on size. If our shale reserves (as opposed to dishwashers) were government owned, and we sold half of them for an IOU that we will ultimately write down to zero, I'd call that material.",1,1,1,1,0,1,0.048604794,0.09520666,0.85618854,Neu,-0.04660187,ivanthek
+1285,2018-07-29 20:33:04,"     I don't think I've made claims on economic *activity* effects. I'm merely stating (in the eurosystem case) that there's a de facto credit extension that could result in a real economic claim from surviving members on the departing one. I think your Fed analogy is a good one, BTW.",1,1,1,1,0,0,0.20238678,0.030012013,0.76760113,Neu,0.17237477,ivanthek
+1289,2018-07-29 18:39:03,"     By that logic, the Fed could overpay for tons of garbage foreign assets with no impact to US economy. Is it not, at some point, going to have a debasing impact on the currency, with a real effect on purchasing power? Maybe not first order, but certainly eventually a wealth tfr?",0,1,1,3,0,1,0.05369068,0.068561085,0.8777482,Neu,-0.014870405,ivanthek
+1292,2018-07-29 18:03:00,"     This is based purely on my understanding of Target2/Eurosystem. Most of the writings I've seen dismiss the economic risk as if it were merely a monetary system contrivance. I might be wrong, but I don't view it this way at all. If someone bolts the union & repudiates, it's real.",1,1,1,1,0,2,0.03509045,0.38578647,0.5791231,Neu,-0.35069603,ivanthek
+1294,2018-07-29 17:03:03,    And this example (trade) is merely one contributor to the surplus/deficit. It can also occur via capital flows and LSAPs.,0,1,1,0,0,0,0.028064184,0.067668326,0.90426743,Neu,-0.039604142,ivanthek
+1297,2018-07-26 20:53:02,     Dan will need to join the Target2 offsite beerfest.,0,0,1,0,0,0,0.025544822,0.09140936,0.88304585,Neu,-0.06586454,ivanthek
+1304,2018-07-26 19:08:04,"   Okay, but I'm claiming it isn't an accounting loss if one country can keep the goods and repudiate the T2 debit. The actual cubalances may not be material, but they aren't just air.",0,1,1,5,0,0,0.048305355,0.09586546,0.8558292,Neu,-0.047560103,ivanthek
+1311,2018-07-26 18:55:01,"   Well, in this example, they'd be leaving with a deficit, not a surplus.",0,1,1,1,0,0,0.09868661,0.3595862,0.5417271,Neu,-0.2608996,ivanthek
+1318,2018-07-26 18:32:01,"   And I believe Lorcan's point is that loss would be shared by eurosystem members according to the capital key, but it's still a real loss.",1,1,1,1,0,0,0.0440484,0.63210946,0.32384217,Neg,-0.5880611,ivanthek
+1320,2018-07-26 18:23:05,   If you mean that negative equity for a CB is irrelevant I would agree with that. But that doesn't preclude a real wealth transfer from one EZ member to a departing member.,0,1,1,2,0,0,0.061532076,0.027717069,0.9107508,Neu,0.033815008,ivanthek
+1327,2018-07-26 14:03:02,I'd still rather be in Facebook's shoes than Tesla's.,0,0,1,6,4,32,0.03903887,0.061819237,0.8991419,Neu,-0.022780366,ivanthek
+1330,2018-07-26 12:16:01," By that logic, it would be Facebook Wednesday.",0,0,1,1,0,0,0.023371635,0.11686302,0.8597653,Neu,-0.09349138,ivanthek
+1338,2018-07-20 14:48:02,"I see that  beat me to the marker metaphor, and naturally explained it better than I could. --&gt;  ",1,1,1,1,1,9,0.09461804,0.0162569,0.8891251,Neu,0.07836114,ivanthek
+1339,2018-07-19 03:22:04," You can log out any time you like, but you can never leave.",0,0,1,1,0,9,0.02796053,0.05483312,0.91720635,Neu,-0.026872592,ivanthek
+1353,2018-07-06 21:02:02,"   That's why I specified banks, since they're the only ones who can provide fed funds.",1,1,1,0,0,0,0.050113175,0.054179825,0.895707,Neu,-0.00406665,ivanthek
+1354,2018-07-06 20:50:03,  Why would any bank lend fed funds at below IOER?,1,0,1,1,0,0,0.028430054,0.13075526,0.8408147,Neu,-0.10232521,ivanthek
+1365,2018-06-21 20:35:05, He'll always be Murray Slaughter to me.,0,0,1,1,0,0,0.05648095,0.06451057,0.8790085,Neu,-0.008029617,ivanthek
+1381,2018-06-05 13:26:05,Amazon buying Twitter would be the ultimate Bezos power move. $AMZN $TWTR,0,0,1,5,3,47,0.029504593,0.031905115,0.93859035,Neu,-0.0024005212,ivanthek
+1391,2018-05-07 17:49:02,I'll be walking into an Apple Store as a buyer later today. Adjust your models accordingly.,0,1,1,3,1,19,0.03482016,0.03107515,0.93410474,Neu,0.003745012,ivanthek
+1403,2018-04-27 15:52:04," Wait. That was a joke. I was riffing on Sandberg's answer to a similar question about $FB, which she said would be a paid service that they don't plan to offer.",1,1,1,1,0,0,0.03985537,0.17947286,0.7806717,Neu,-0.1396175,ivanthek
+1406,2018-04-26 22:41:02,Amazon will soon need to open a subPrime™ lending unit to finance Amazon Prime memberships.,0,0,1,1,5,30,0.07879021,0.012373832,0.908836,Neu,0.066416375,ivanthek
+1409,2018-04-25 15:26:02,I think that FB woman might have been a robot. ,1,1,1,0,0,2,0.028547453,0.2538898,0.7175628,Neu,-0.22534235,ivanthek
+1411,2018-04-25 02:36:04,Bezos Says That When Pee Tape Is Released It Will Be Free for All Amazon Prime Members  ,1,1,1,3,13,42,0.08328213,0.008799087,0.9079188,Neu,0.07448304,ivanthek
+1421,2018-04-18 20:57:04,"""The Dow can't get out of its own way.""  ",0,0,1,1,0,7,0.041113306,0.64036596,0.31852075,Neg,-0.59925264,ivanthek
+1434,2018-04-11 15:18:01,"The first question is phrased poorly.   ""Is Facebook a media company.""  It should be:  ""Is the Facebook platform a media platform?""",1,1,1,2,0,3,0.029225668,0.2553314,0.71544296,Neu,-0.22610573,ivanthek
+1438,2018-04-10 19:15:03,This would be a great time to announce Facebook's acquisition of Twitter.,0,0,1,3,1,35,0.13091926,0.011934921,0.8571458,Neu,0.11898434,ivanthek

@@ -1,0 +1,348 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+1,2018-04-08 23:29:00,Chart: China quietly easing monetary policy -  ,0,1,0,1,22,27,0.057619303,0.85241824,0.08996245,Neg,-0.794799,soberlook
+2,2018-04-08 21:45:02," This is incorrect. China can easily roll longer-term debt into bills, steepening the Treasury curve and boosting US mortgage rates.",0,1,1,3,1,6,0.8238941,0.015324339,0.16078152,Pos,0.8085697,soberlook
+7,2018-04-05 03:57:05,  I think your core and ex-wireless CPI labels are inverted.,1,1,0,0,0,0,0.041008875,0.5020111,0.45698008,Neg,-0.46100223,soberlook
+8,2018-04-05 03:31:01,Chart: The UK construction sector is shrinking again (PMI &lt; 50) -  ,0,1,0,0,9,5,0.014243775,0.97357154,0.012184607,Neg,-0.95932776,soberlook
+9,2018-04-05 01:21:01,Chart: So much for rising rates. Portugal's 5yr bond yield below 0.3% -  ,0,1,0,1,20,19,0.022809545,0.9248166,0.052373942,Neg,-0.90200704,soberlook
+10,2018-04-04 07:02:04,"Instead of inflation, Japan’s extremely tight labor markets are translating into reduced-quality services for consumers. The US is starting to experience this trend as well.   Source:   ",0,1,0,1,17,18,0.018134918,0.9328308,0.049034245,Neg,-0.9146959,soberlook
+13,2018-04-02 22:54:04,Chart ( The S&P 500 valuations are back to the early-2016 levels. Are earnings projections way off?  ,0,1,0,4,26,33,0.019629046,0.8998586,0.08051228,Neg,-0.88022953,soberlook
+14,2018-04-02 21:11:01,Chart: Breaking down LIBOR into its components (an estimate) -  ,0,1,0,2,87,112,0.025631323,0.06871592,0.90565276,Neu,-0.0430846,soberlook
+15,2018-04-02 04:05:02,"Chart: Shares of the Swiss National Bank (yes, the central bank is a public company) have gone vertical -  ",1,1,0,9,81,115,0.2040789,0.4285489,0.3673722,Neg,-0.22447,soberlook
+21,2018-03-29 20:46:05,Chart: The MNI Chicago PMI index is often a good proxy for national economic activity in the US -  ,0,1,0,2,18,16,0.07999963,0.024534829,0.8954655,Neu,0.055464804,soberlook
+22,2018-03-28 22:35:03,US federal budget projections vs. reality explained -  ,1,1,0,0,11,11,0.0576162,0.09563092,0.8467529,Neu,-0.03801472,soberlook
+23,2018-03-28 22:32:00,Chart: The Turkish lira selloff continues - now 4 to the dollar.  ,0,1,0,0,17,22,0.067718,0.868649,0.06363289,Neg,-0.800931,soberlook
+25,2018-03-28 03:52:02,Chart: The Treasury curve flattening -  ,0,1,0,2,48,31,0.27354237,0.1384841,0.58797354,Neu,0.13505827,soberlook
+27,2018-03-26 21:05:05,It's remarkable that we have data going this far back ...  ,0,1,0,1,2,14,0.29989618,0.01627811,0.68382573,Neu,0.28361806,soberlook
+28,2018-03-25 21:22:04,Chart ( Job hopping pays -  ,0,1,0,0,16,18,0.05333178,0.14416602,0.80250216,Neu,-0.090834245,soberlook
+30,2018-03-23 01:27:01,Chart: The John Bolton news boosts oil prices on higher geopolitical risks IranDeal -  ,0,1,0,3,17,25,0.9248349,0.024059093,0.05110604,Pos,0.9007758,soberlook
+32,2018-03-22 22:43:00,Chart: The yen climbs past 105 to the dollar amid heightened risk aversion -  ,1,1,0,1,15,9,0.9030656,0.070188634,0.02674571,Pos,0.832877,soberlook
+33,2018-03-22 22:14:04,Chart: The Hong Kong dollar is approaching the boundary on the weak side of its HKMA permitted trading range. Will the central bank intervene?  ,1,1,1,1,15,16,0.01735639,0.91638726,0.06625644,Neg,-0.89903086,soberlook
+38,2018-03-20 21:34:02,"Chart: The Pakistani government said last year that it's done with its currency devaluations. And yet, here is the Pakistani rupee -  ",1,1,0,1,6,5,0.059011932,0.19649374,0.74449426,Neu,-0.13748181,soberlook
+41,2018-03-16 22:06:01,Chart: The NYMEX crude oil wedge is still holding -  ,0,1,0,2,14,15,0.90389884,0.04209731,0.054003842,Pos,0.8618015,soberlook
+43,2018-03-16 21:07:05,Chart: US capacity utilization and the dollar. This is why countries that rely on manufacturing fear a strong currency -  ,0,1,0,0,21,29,0.21127333,0.038184747,0.750542,Neu,0.17308858,soberlook
+44,2018-03-16 00:06:01,Chart: 30yr - 2yr Treasury spread lowest since 2007 as the curve flattens further -  ,0,1,0,2,37,29,0.0073626507,0.9650907,0.027546741,Neg,-0.957728,soberlook
+45,2018-03-15 21:33:00,Chart: Bank deregulation (  getting investors excited about regional bank stocks -  ,1,1,0,0,11,12,0.5146884,0.015295096,0.4700166,Pos,0.49939328,soberlook
+47,2018-03-15 01:28:04,Chart: The US Treasury is flooding the market with T-bills since the debt ceiling has been lifted. The T-Bill - OIS spread is normally negative -  ,1,1,0,2,44,50,0.027660629,0.73088944,0.24145001,Neg,-0.70322883,soberlook
+48,2018-03-13 22:23:02,Chart: The Treasury curve flattening again -  ,0,1,0,0,21,14,0.79559106,0.11270284,0.09170611,Pos,0.6828882,soberlook
+49,2018-03-13 16:45:01,"Chart: On a 3-month basis, US core CPI growth hit the highest level in over a decade -  ",1,1,0,3,20,18,0.94856143,0.021875633,0.029562932,Pos,0.9266858,soberlook
+50,2018-03-13 01:37:02,Chart: Relative performance of the S&P500 Equal-Weighted Index vs. S&P 500; large caps have been driving gains lately -  ,1,1,0,0,20,27,0.94487864,0.035407536,0.019713832,Pos,0.9094711,soberlook
+53,2018-03-11 23:13:00,Chart: US LIBOR-OIS spread widens to the highest level since 2012 as tax-driven capital repatriation leaves a shortage of dollars outside of the US -  ,0,1,0,5,75,78,0.8603428,0.12039174,0.01926549,Pos,0.7399511,soberlook
+54,2018-03-11 19:49:02, Amsterdam gets the biggest circle.,0,1,0,0,0,0,0.083105646,0.01359662,0.9032977,Neu,0.06950903,soberlook
+55,2018-03-09 02:15:00,"Chart: Bitcoin down 10%, dips below $9k again -  ",0,1,0,1,8,7,0.011557112,0.97076124,0.017681709,Neg,-0.95920414,soberlook
+62,2018-03-04 22:38:04,"Chart: On a harmonized basis, US inflation is not too different from Germany's -  ",0,1,0,1,11,13,0.23090973,0.023707833,0.7453825,Neu,0.2072019,soberlook
+63,2018-03-04 22:02:03,Chart: Speculative accounts turn net bearish on silver for the first time in over a decade -  ,0,1,0,7,55,75,0.033712115,0.94457734,0.021710489,Neg,-0.91086525,soberlook
+68,2018-02-28 20:54:03,Chart: Not much concern in the market about the Italian elections. Here is the 1-week EUR/USD risk reversal (cc  -  ,0,1,0,1,13,9,0.030620689,0.10239858,0.86698073,Neu,-0.071777895,soberlook
+69,2018-02-27 20:32:02,Will high lithium prices create a production glut?    ,0,1,1,1,6,8,0.010216806,0.940399,0.04938417,Neg,-0.93018216,soberlook
+70,2018-02-27 20:04:02,Chart: No evidence thus far that companies are taking advantage of the new tax law to make investments -  ,0,1,0,0,15,13,0.24830538,0.12808459,0.6236101,Neu,0.120220795,soberlook
+72,2018-02-27 01:36:02,"Suprised to see all the hype about margin debt hitting records, etc.     The amount of debt is NOT the same thing as leverage. Margin debt as a fraction of market capitalization hasn't moved much in years -  ",1,1,0,2,37,57,0.07008251,0.043553364,0.88636416,Neu,0.026529144,soberlook
+73,2018-02-27 01:03:00,"Chart: The ""premium"" on premium gasoline keeps climbing -  ",0,1,0,0,1,4,0.8402658,0.016327158,0.14340703,Pos,0.82393867,soberlook
+74,2018-02-26 19:06:02,Chart: Mexican retail sales; inflation and weak sentiment taking its toll -  ,0,1,0,2,1,4,0.015639605,0.96222377,0.022136644,Neg,-0.94658417,soberlook
+75,2018-02-25 22:14:04,"Using ""ratio"" to compare U3 and U6 unemployment (an indication of labor slack) is a bit misleading. Here is the spread -     ",0,1,0,2,17,9,0.035178468,0.3135754,0.65124613,Neu,-0.2783969,soberlook
+78,2018-02-20 18:41:00,Chart ( US fiscal deterioration heading into uncharted territory -  ,0,1,0,1,14,17,0.043499798,0.82942873,0.1270715,Neg,-0.78592896,soberlook
+79,2018-02-19 20:46:00,Chart: Speculative accounts running record-size bets on a further selloff in longer-dated Treasuries. A crowded trade?  ,0,1,0,6,74,78,0.032547474,0.67873675,0.2887158,Neg,-0.6461893,soberlook
+81,2018-02-14 19:05:03,Chart: Bitcoin paying attention to the stock market?  ,0,1,0,1,31,34,0.037653614,0.032439575,0.92990685,Neu,0.0052140392,soberlook
+83,2018-02-13 23:04:05,Chart ( Oil dragging down US inflation expectations -  ,0,1,0,0,24,33,0.08280861,0.61101955,0.3061718,Neg,-0.52821094,soberlook
+86,2018-02-12 00:45:02,Chart ( Big spread widening in high-yield bonds on Friday -  ,0,1,0,0,22,24,0.20381103,0.12808388,0.6681051,Neu,0.07572715,soberlook
+89,2018-02-09 01:24:05,Chart ( S&P 500 valuations (based on forward P/E) have improved dramatically this month -  ,1,1,0,3,37,36,0.9579238,0.021662699,0.02041348,Pos,0.9362611,soberlook
+91,2018-02-09 00:29:05,Chart( Government shutdown odds in the betting markets -  ,0,1,0,0,1,2,0.019744014,0.43847042,0.54178554,Neu,-0.4187264,soberlook
+95,2018-02-07 00:28:05,Chart: Investors see more risk in S&P 500 stocks than in small caps. The RVX/VIX ratio at 0.8 -  ,0,1,0,4,7,11,0.08021034,0.17479749,0.74499214,Neu,-0.09458715,soberlook
+100,2018-02-05 23:43:04,And here is what's happening in after-hours trading $SVXY -  ,0,1,0,0,7,21,0.024045834,0.04520975,0.93074447,Neu,-0.021163916,soberlook
+101,2018-02-05 23:32:04,"Chart: Shorting vol has been a blast, but today was time to pay the piper; $SVXY -  ",1,1,0,2,8,23,0.18807939,0.06295959,0.74896103,Neu,0.1251198,soberlook
+105,2018-02-05 06:20:04,Chart: Still looking for those broad wage pressures. Here is the yearly wage growth without the seasonal adjustments -  ,0,1,0,0,11,10,0.02373705,0.1431544,0.8331086,Neu,-0.11941735,soberlook
+107,2018-02-04 22:55:05,"Chart: Wage growth accelerating for management/skilled employees; not so much for the ""rank and file"" -  ",0,1,0,1,13,10,0.9428542,0.021514548,0.035631187,Pos,0.9213397,soberlook
+108,2018-02-04 22:28:04,Chart: Long-oil is an extraordinarily crowded trade -  ,1,1,0,1,35,41,0.043060254,0.23314215,0.72379756,Neu,-0.1900819,soberlook
+110,2018-02-02 02:40:05,Chart: 10yr (rolling) changes in US productivity (real output per hour) -  ,0,1,0,0,21,18,0.5424271,0.12302928,0.33454356,Pos,0.41939783,soberlook
+111,2018-02-01 22:55:05,Chart: Bitcoin below $9k; sometimes technical analysis just works -  ,0,1,0,2,15,23,0.083964884,0.0941043,0.8219308,Neu,-0.010139413,soberlook
+113,2018-02-01 20:52:02,Chart ( The Greek manufacturing sector explodes -  ,0,1,0,0,10,11,0.047719408,0.049543366,0.9027372,Neu,-0.001823958,soberlook
+114,2018-01-31 23:43:05,Chart: German unemployment rate hits a record low; labor shortages worsen -  ,0,1,0,0,12,14,0.031144561,0.9584556,0.010399716,Neg,-0.92731106,soberlook
+122,2018-01-27 01:50:03,"Chart: VIX futures vs $SPY (weekly, 2yrs); vol no longer responding to the rally -  ",0,1,0,0,12,28,0.07868945,0.6882168,0.23309375,Neg,-0.60952735,soberlook
+124,2018-01-26 04:35:03,Chart: Mexican retail sales; the NAFTA uncertainty taking its toll -  ,0,1,0,1,16,15,0.17635915,0.7393236,0.08431721,Neg,-0.56296444,soberlook
+126,2018-01-24 20:38:01,Chart: US existing home sales inventory -  ,0,1,0,3,32,27,0.034509107,0.15850228,0.8069886,Neu,-0.12399317,soberlook
+129,2018-01-23 00:34:04,Chart: Netflix market cap blasts past $100 bn in after-hours trading -  ,0,1,0,1,5,11,0.57931596,0.3806805,0.040003534,Pos,0.19863546,soberlook
+130,2018-01-21 23:26:00,"Chart: Here is why bank margins are climbing; interest rate on ""small"" savings accounts vs. the Fed Funds rate -  ",0,1,0,7,86,142,0.2594284,0.041993566,0.69857794,Neu,0.21743485,soberlook
+131,2018-01-21 22:25:05,Chart: Swap dealers hold a record level of crude futures hedge; producers locking in oil prices in the swap market -  ,0,1,0,1,20,12,0.21833725,0.020968491,0.76069427,Neu,0.19736876,soberlook
+132,2018-01-21 22:21:04,Chart: NYMEX crude oil speculative net hits another record high -  ,0,1,0,4,37,26,0.9278039,0.029492421,0.042703666,Pos,0.89831144,soberlook
+134,2018-01-18 22:16:00,Chart: GBP/USD 25-delta risk reversal turns positive -  ,0,1,0,0,5,4,0.9306197,0.034638904,0.034741435,Pos,0.89598083,soberlook
+136,2018-01-15 23:15:01,Chart ( Gold miners underperforming gold -  ,0,1,0,4,21,22,0.0903009,0.7613659,0.1483332,Neg,-0.671065,soberlook
+137,2018-01-12 22:46:03,Chart ( 3 firms dominate the ETF market -  ,0,1,0,0,8,7,0.12371431,0.009224547,0.8670612,Neu,0.114489764,soberlook
+138,2018-01-10 22:25:02,Chart: The Venezuelan bolívar's epic collapse (looks like the Zimbabwean dollar) -  ,0,1,0,0,18,12,0.04610472,0.08318697,0.87070835,Neu,-0.037082247,soberlook
+141,2018-01-08 23:40:03,Chart: US consumer credit outstanding exceeds 26% of disposable personal income for the first time -  ,0,1,0,5,52,57,0.7158169,0.25502363,0.029159497,Pos,0.4607933,soberlook
+144,2018-01-05 19:42:01,Chart: US nonfarm payrolls 12m moving average -  ,0,1,0,3,30,22,0.039705016,0.40187016,0.5584249,Neu,-0.36216515,soberlook
+146,2018-01-04 21:48:04,Chart: The Treasury curve continues to flatten; the 10yr - 2yr spread now below 50bps -  ,0,1,0,3,50,45,0.6938693,0.24086444,0.06526626,Pos,0.45300484,soberlook
+150,2017-12-22 04:10:01,Chart: Dr. Copper says the US yield curve should be much steeper (longer-term yields higher) -  ,0,1,1,1,43,49,0.8985175,0.04846156,0.053020902,Pos,0.85005593,soberlook
+151,2017-12-22 02:16:01,Chart: US home prices and wages continue to diverge -  ,0,1,0,3,37,30,0.021602063,0.945807,0.032590974,Neg,-0.92420495,soberlook
+153,2017-12-20 00:50:00,Chart: Dollar-denominated emerging markets bond spread at multi-year lows -  ,0,1,0,1,22,12,0.010921387,0.9656141,0.023464562,Neg,-0.9546927,soberlook
+155,2017-12-18 23:13:00,Chart: Bitcoin Cash takes off -  ,0,1,0,0,3,5,0.117128566,0.45140335,0.43146807,Neg,-0.33427477,soberlook
+157,2017-12-18 01:12:01,Chart: Yield curve flattening is not unique to the United States -  ,0,1,0,0,17,14,0.071438275,0.040320285,0.8882414,Neu,0.03111799,soberlook
+160,2017-12-17 18:47:04,Chart: NYMEX crude oil speculative net positions hit another record high -  ,0,1,0,1,22,31,0.94227976,0.024598489,0.033121794,Pos,0.9176813,soberlook
+161,2017-12-17 18:27:03,Someone suggested that this is the reason for the flattening yield curve. Thoughts?  ,1,1,0,5,1,6,0.060607243,0.13164094,0.80775183,Neu,-0.0710337,soberlook
+165,2017-12-15 23:45:05,Chart: Gold has decoupled from real rates -  ,1,1,0,2,38,48,0.3352474,0.48793536,0.1768173,Neg,-0.15268797,soberlook
+166,2017-12-15 23:20:02,Here is a great explanation of cross-currency swaps:  ,0,1,0,0,11,34,0.051490337,0.016980965,0.93152875,Neu,0.034509372,soberlook
+167,2017-12-15 23:16:04,"Chart: Cross-currency basis spreads blow out ahead of the ""tax holiday"" (US firms will be bringing capital to the US) -  ",0,1,1,4,36,45,0.32101747,0.43415967,0.24482292,Neg,-0.11314219,soberlook
+168,2017-12-15 23:14:02,Chart: Gold volatility has collapsed -  ,1,1,0,0,19,16,0.03292429,0.91236186,0.05471377,Neg,-0.87943757,soberlook
+169,2017-12-08 01:58:03,Chart: So it begins ...  ,0,1,0,10,159,241,0.059692264,0.027640881,0.9126669,Neu,0.032051384,soberlook
+178,2017-12-01 04:06:00,Chart: Japan's labor markets keep tightening. Here is the jobs-to-applicants ratio -  ,0,1,0,1,14,16,0.027667215,0.7138804,0.25845236,Neg,-0.6862132,soberlook
+184,2017-11-22 03:10:02,Chart: MLPs (oil & gas pipeline firms) vs. crude oil -  ,0,1,0,3,25,46,0.08819585,0.03660076,0.8752034,Neu,0.05159509,soberlook
+185,2017-11-21 23:53:01,"  Mike - I got the French 10yr at 67bps, German 10yr at 35bp, the difference is 32bps - not near the lows. What am I missing?",1,1,0,2,0,0,0.047984686,0.28724945,0.66476583,Neu,-0.23926476,soberlook
+189,2017-11-21 21:23:03,"Chart ( Despite progress on tax reform, companies paying the highest tax rates are still underperforming -  ",0,1,0,0,0,2,0.048060033,0.9319871,0.019952795,Neg,-0.88392705,soberlook
+190,2017-11-21 21:05:02,Chart: The Treasury curve continues to flatten. The 10yr - 2yr spread dips below 60 bps for the first time in over a decade -  ,0,1,0,2,29,38,0.022056043,0.95430565,0.023638254,Neg,-0.9322496,soberlook
+191,2017-11-21 20:40:04,"Chart: The Turkish lira at record low; bond yields record high; inflation is about to accelerate, but the central bank is helpless as Erdoğan pushes it to cut rates -  ",0,1,0,1,13,11,0.5869086,0.37039602,0.0426954,Pos,0.21651256,soberlook
+192,2017-11-21 20:06:01,Chart: Italian 2yr government bond yield hits record low (deeper in negative territory) -  ,0,1,0,1,28,24,0.020699032,0.96647,0.012831008,Neg,-0.945771,soberlook
+197,2017-11-09 00:36:02,Chart: US oil production hits a record high -  ,0,1,0,0,58,50,0.93665946,0.026317885,0.03702267,Pos,0.91034156,soberlook
+199,2017-11-06 06:20:01,"Chart: Volatility in stocks, gold, interest rates hitting new lows -  ",0,1,0,0,37,27,0.07180578,0.80134296,0.12685132,Neg,-0.7295372,soberlook
+200,2017-11-06 03:20:04,"Chart: 2yr bond yields in Italy, Spain, Portugal hit record lows; deeper in negative territory -  ",1,1,0,2,51,33,0.012400777,0.96838313,0.019216098,Neg,-0.9559823,soberlook
+205,2017-11-01 18:50:00,Chart: The Treasury curve continues to flatten -  ,0,1,0,4,36,33,0.8735158,0.089194715,0.037289497,Pos,0.78432107,soberlook
+208,2017-10-20 02:35:01, Ycharts is wrong  ,0,1,0,0,1,0,0.046996925,0.026647544,0.92635554,Neu,0.020349381,soberlook
+209,2017-10-17 06:14:05,Chart: The copper-to-gold ratio vs. the 10yr Treasury yield; some suggest that yields should be higher -  ,0,1,1,4,16,19,0.8180371,0.032716393,0.14924653,Pos,0.7853207,soberlook
+212,2017-10-15 21:36:05,Chart: Puerto Rico general obligation bond is now worth 33 cents on the dollar -  ,0,1,0,3,26,22,0.09544945,0.013242614,0.89130795,Neu,0.08220683,soberlook
+216,2017-09-29 03:26:01, This looks wrong.,0,1,0,0,0,0,0.019400923,0.85146487,0.12913421,Neg,-0.832064,soberlook
+217,2017-09-29 00:13:00,Chart: Taking a while to bring refinery capacity fully online after the Harvey flooding -  ,0,1,0,0,6,0,0.7782858,0.018949889,0.20276427,Pos,0.75933594,soberlook
+219,2017-09-28 19:49:03,Hearing more rumors of Russia supplying North Korea with weapons technology. A friend in Khasan saw trucks rolling across the border ...,1,1,0,2,23,14,0.16619761,0.2762841,0.55751824,Neu,-0.110086486,soberlook
+223,2017-09-10 19:44:00,Chart: Speculative accounts still running a big net short position in VIX futures -  ,0,1,0,2,22,13,0.1253825,0.76846427,0.10615324,Neg,-0.6430818,soberlook
+225,2017-09-10 19:32:02,Chart:  ECRI US leading index -  ,0,1,0,0,4,7,0.07066543,0.02123377,0.9081008,Neu,0.04943166,soberlook
+230,2017-08-28 23:17:05,Chart: S&P 500 futures responding to North Korea's missile flying over Japan -  ,0,1,0,3,29,22,0.45197335,0.32545185,0.2225748,Pos,0.1265215,soberlook
+231,2017-08-26 03:25:03,Chart: Treasury curve flattening again; 30y - 2y spread -  ,0,1,0,0,29,27,0.9129734,0.05611748,0.030909153,Pos,0.8568559,soberlook
+233,2017-08-25 03:49:03,Chart: Crack spreads blow our as Harvey threatens refinery operations -  ,0,1,0,0,3,4,0.014429245,0.96288955,0.022681216,Neg,-0.9484603,soberlook
+237,2017-08-13 07:03:03,"Chart: Bitcoin blasts past $4,000 -  ",0,1,0,6,30,24,0.61049277,0.22243617,0.16707109,Pos,0.38805658,soberlook
+240,2017-08-11 00:31:03,Chart: US broad money supply growth (M2); this indicates weaker credit expansion -  ,0,1,0,2,21,21,0.055128433,0.9253089,0.019562678,Neg,-0.8701804,soberlook
+247,2017-08-08 01:51:01,Chart ( The White House needs some legislative wins -  ,0,1,0,0,5,3,0.46241128,0.025474839,0.51211387,Neu,0.43693644,soberlook
+248,2017-08-08 01:19:03,Chart: The TD Ameritrade index shows that US retail investors have not been this bullish since at least 2009 -  ,1,1,0,1,32,20,0.15012687,0.5817225,0.2681507,Neg,-0.43159562,soberlook
+251,2017-08-05 01:16:00,Chart: VIX futures speculative net exposure; this is not going to end well ...  ,0,1,0,5,63,73,0.019334517,0.926656,0.05400946,Neg,-0.9073215,soberlook
+252,2017-08-03 21:51:03,Chart: The euro diverges from the US/Germany bond yield differential -  ,0,1,0,0,53,51,0.0332357,0.8877974,0.078966886,Neg,-0.8545617,soberlook
+255,2017-07-27 20:09:02,Chart: US transports index -  ,0,1,0,0,18,22,0.032281052,0.03864859,0.92907035,Neu,-0.006367538,soberlook
+256,2017-07-21 04:04:00,Chart: US yield curve showing the debt ceiling risk anomaly -  ,0,1,0,0,24,24,0.039486237,0.040613938,0.9198998,Neu,-0.0011277013,soberlook
+257,2017-07-20 18:54:01,Chart: Treasury implied volatility index (MOVE) hits record low -  ,1,1,0,1,17,12,0.025492651,0.95774436,0.016762959,Neg,-0.9322517,soberlook
+259,2017-07-20 03:25:03,"Chart: 6m - 3m T-bill spread; market pricing in the risk of technical default, as the Treasury runs out of money before the 3m bill matures.  ",0,1,0,0,33,18,0.04286501,0.82790196,0.12923305,Neg,-0.7850369,soberlook
+260,2017-06-28 20:20:04," Tom - the ""missing"" 5mm are retired. Americans are getting older.",1,1,0,3,0,1,0.046044618,0.054097943,0.89985746,Neu,-0.008053325,soberlook
+262,2017-06-15 07:36:03,Chart: Gun stocks after Wednesday shooting in DC -  ,0,1,0,0,2,5,0.018081754,0.8631837,0.11873464,Neg,-0.84510195,soberlook
+263,2017-06-12 16:13:00,"Chart: US business loan growth continuing to slow, It is now below the rate in the Eurozone -  ",0,1,0,2,44,37,0.011500797,0.9682016,0.020297602,Neg,-0.9567008,soberlook
+267,2017-06-05 21:29:04,From today's Daily Shot: Is the Phillips Curve broken? H/t JP Morgan Asset Management  ,0,1,0,1,14,15,0.044213217,0.22020176,0.73558503,Neu,-0.17598854,soberlook
+268,2017-06-05 18:05:00,Chart: Investors’ cash allocations are near multi-year lows. (via  -  ,0,1,0,0,50,65,0.01693231,0.9206434,0.062424295,Neg,-0.9037111,soberlook
+269,2017-06-05 17:19:05,"Chart: For the first time in over a decade, more Americans think it’s a good time to sell a home than to buy one (via  -  ",0,1,0,2,30,31,0.32289678,0.016745826,0.66035736,Neu,0.30615094,soberlook
+270,2017-06-05 16:43:03,Chart: It seems to be getting harder to attract individuals who are not currently working. (via   ,0,1,0,0,13,13,0.029907404,0.319855,0.65023756,Neu,-0.2899476,soberlook
+271,2017-06-05 16:20:02,Chart: Revisions to the previous jobs figures have been to the downside (via FTN Financial)  ,1,1,0,0,4,9,0.014087598,0.8524587,0.13345365,Neg,-0.8383711,soberlook
+273,2017-05-30 15:19:03,From today's Daily Shot: Women entering the workforce --&gt; recent improvements in prime-age labor participation h/t Capital Economics  ,0,1,0,0,10,8,0.5777501,0.012322072,0.4099278,Pos,0.565428,soberlook
+274,2017-05-25 18:29:04,From today's Daily Shot: S&P 500 hits another record  ,0,1,0,1,2,7,0.84501326,0.03709724,0.11788955,Pos,0.80791605,soberlook
+277,2017-05-25 17:09:05,Chart ( The Bitcoin Investment Trust ( $GBTC) premium to NAV approaching 100% again -  ,0,1,0,2,24,36,0.9431153,0.020756852,0.036127847,Pos,0.92235845,soberlook
+280,2017-05-24 15:12:02,From today's Daily Shot: The latest summary from Markit showing the divergence between manufacturing and services.  ,0,1,0,0,2,4,0.040011138,0.04140965,0.9185792,Neu,-0.0013985112,soberlook
+286,2017-05-16 00:06:00,Chart: The betting markets odds of Angela Merkel winning the 2017 elections  ,0,1,0,0,7,6,0.06373431,0.033430573,0.90283513,Neu,0.030303735,soberlook
+287,2017-05-11 18:25:03,Chart: Hedge funds are piling into bets on Hong Kong dollar devaluation -  ,0,1,0,1,9,16,0.07562668,0.4166891,0.50768423,Neu,-0.34106243,soberlook
+295,2017-05-04 06:38:04,"Chart: Bitcoin blasts past 1,500 -  ",0,1,0,2,21,16,0.2106217,0.0917957,0.6975826,Neu,0.118826,soberlook
+301,2017-05-01 17:55:03,Chart: The single-currency bloc’s bank deleveraging has ended (via  -  ,1,1,0,0,3,4,0.042485405,0.58118385,0.37633067,Neg,-0.53869843,soberlook
+303,2017-05-01 15:40:02,Chart: Soft US GDP growth is resulting in the weakest velocity of money on record -  ,0,1,0,1,26,17,0.009629737,0.97433656,0.01603365,Neg,-0.96470684,soberlook
+304,2017-04-28 06:35:05,"Chart: Live cattle futures; the ""NAFTA lives on"" rally -  ",0,1,0,0,5,7,0.13429348,0.012171873,0.8535347,Neu,0.12212161,soberlook
+306,2017-04-27 17:03:02,Chart: The polls suggest a great deal of support for the 5-Star Movement party (via  -  ,0,1,0,1,5,5,0.83413607,0.011437492,0.15442635,Pos,0.8226986,soberlook
+308,2017-04-27 16:35:03,Chart: The presidential victory odds for Le Pen remain low in the betting markets -  ,0,1,0,1,2,6,0.02047231,0.9178296,0.06169812,Neg,-0.8973573,soberlook
+309,2017-04-27 01:56:02,  I see $73 trillion; I guess that number doesn't make headlines?  ,0,1,0,0,0,3,0.038858432,0.056020323,0.90512127,Neu,-0.01716189,soberlook
+310,2017-04-26 16:03:05,Chart: Rice prices are tumbling -  ,0,1,0,0,9,5,0.014313019,0.9498102,0.03587679,Neg,-0.93549716,soberlook
+311,2017-04-26 15:41:01,Chart: Is Canada the right target for a trade dispute at this juncture? The US goods trade deficit with Canada is relatively small -  ,0,1,0,2,9,12,0.19389363,0.24336308,0.56274325,Neu,-0.049469456,soberlook
+313,2017-04-25 21:48:05,"Chart: The Venezuelan bolivar black market exchange rate; it now takes almost VEF5,000 to buy one dollar -  ",0,1,0,0,15,13,0.029557178,0.077904396,0.8925384,Neu,-0.04834722,soberlook
+315,2017-04-24 05:36:04,Once-flush startups struggle to stay alive as investors get pickier    via   ,0,1,0,0,8,15,0.0108284475,0.9617185,0.02745308,Neg,-0.95089006,soberlook
+316,2017-04-24 04:42:00,Chart: China's stock market selloff continues  -  ,0,1,0,0,25,22,0.031001419,0.8945967,0.07440194,Neg,-0.86359525,soberlook
+319,2017-04-23 19:07:00,"Chart ( This far, the betting markets are proving to be consistent with French election polls -  ",0,1,0,0,2,5,0.8856481,0.011934882,0.10241704,Pos,0.8737132,soberlook
+323,2017-04-21 22:50:04,Chart: Speculative accounts lick their wounds and cover Treasury note futures shorts -  ,0,1,0,0,14,14,0.03513769,0.7522375,0.21262482,Neg,-0.7170998,soberlook
+325,2017-04-21 22:34:03,Chart: US Citi economic surprise index approaching zero for the first time since November -  ,0,1,0,2,30,28,0.043502312,0.9131035,0.043394197,Neg,-0.8696012,soberlook
+326,2017-04-20 19:12:03,Chart: 90-day historical vol on S&P500 ( $SPY) lowest in over a decade; diverging from implied vol -  ,1,1,0,3,26,29,0.009671089,0.9694212,0.0209077,Neg,-0.9597501,soberlook
+327,2017-04-20 15:10:02,"Chart: Given the situation in commodities (above), does this chart suggest that we will see pressure on EM currencies? (via  -  ",1,1,1,0,3,6,0.06394759,0.3015729,0.6344795,Neu,-0.2376253,soberlook
+328,2017-04-20 14:44:04,"Chart: Overall, financials’ reporting has been a “mixed bag.” (via  -  ",1,1,0,0,1,5,0.04897771,0.26712245,0.6838999,Neu,-0.21814474,soberlook
+332,2017-04-19 15:46:04,"Chart: The US economic surprise index from Citi continues to deteriorate, reversing a great deal of its post-election gains -  ",0,1,0,3,27,16,0.018465644,0.9709853,0.010549086,Neg,-0.95251966,soberlook
+333,2017-04-19 14:58:03,Chart: The spread between the French and the German government bond yields is on the rise again -  ,0,1,0,1,11,5,0.9234259,0.028262962,0.04831109,Pos,0.89516294,soberlook
+334,2017-04-13 16:52:03,Chart: Are emerging market currencies overvalued relative to global commodities? (via  -  ,1,1,0,2,9,13,0.08150355,0.044305496,0.874191,Neu,0.03719805,soberlook
+335,2017-04-13 16:10:00,Chart: Lumber prices have risen by over 20% this year -  ,1,1,0,1,6,10,0.9525757,0.02070098,0.026723377,Pos,0.9318747,soberlook
+338,2017-04-12 16:03:01,Chart: US manufacturing exports are recovering. Can this trend be sustained if the dollar resumes its rally as many economists expect? -  ,1,1,1,1,6,5,0.86175877,0.094329216,0.04391199,Pos,0.76742953,soberlook
+339,2017-04-12 15:50:01,Chart: NFIB’s small business survey: Margins remain a problem as higher wages are not accompanied by price increases -  ,1,1,0,0,4,7,0.024188453,0.95655626,0.019255262,Neg,-0.9323678,soberlook
+340,2017-04-11 15:28:05,"Chart: While the longer-term US and German Gov bond yields are highly correlated, the correlation has broken down on the short end -  ",1,1,0,0,2,6,0.29220518,0.6441563,0.063638516,Neg,-0.3519511,soberlook
+341,2017-04-11 15:02:03,Chart: Put options on the euro are becoming much more expensive than call options -  ,0,1,0,0,14,9,0.048864134,0.19865622,0.7524796,Neu,-0.14979208,soberlook
+342,2017-04-11 14:55:00,Chart: Sharp divergence between the Bloomberg economic surprise index and the Atlanta Fed GDP forecast. Something has to give here -  ,0,1,0,0,21,17,0.0485492,0.58017594,0.3712749,Neg,-0.53162676,soberlook
+343,2017-04-10 23:27:03,Chart ( US retail investors still massively net long the stock market -  ,0,1,0,1,7,9,0.20998932,0.67874444,0.11126621,Neg,-0.46875513,soberlook
+344,2017-04-10 19:52:02,Chart: Canadian housing starts -  ,0,1,0,0,6,4,0.03595431,0.052963167,0.9110825,Neu,-0.017008856,soberlook
+346,2017-04-10 15:04:00,Chart: The Italian and Spanish central banks owe massive amounts of money to the Bundesbank (via  -  ,0,1,0,0,22,9,0.0451841,0.021823123,0.93299276,Neu,0.023360975,soberlook
+347,2017-04-10 14:53:04,Chart: The dollar may be pointing to a correction in economic surprises (via  -  ,0,1,1,1,7,7,0.1122096,0.7548558,0.13293453,Neg,-0.6426462,soberlook
+348,2017-04-10 14:30:05,Chart: Nominal earnings growth for nonsupervisory workers has stalled below 2.5% – barely above inflation  ,1,1,0,0,1,5,0.089380145,0.89019525,0.020424636,Neg,-0.8008151,soberlook
+349,2017-04-05 15:17:02,Chart: Sentiment indicators seem to be peaking. Here is the IBD survey index -  ,0,1,0,0,3,11,0.035262153,0.6881251,0.27661276,Neg,-0.6528629,soberlook
+350,2017-04-05 14:59:05,"Chart: While many economists have not given up on reflation, market expectations have become more subdued -  ",1,1,0,1,9,11,0.16391395,0.40877536,0.4273107,Neu,-0.24486141,soberlook
+351,2017-04-04 16:04:00,Chart: Auto industry is struggling with elevated inventory levels (via  -  ,0,1,0,0,19,9,0.010665514,0.9641574,0.025177028,Neg,-0.95349187,soberlook
+353,2017-04-03 22:28:00,Chart: The probability of ECB hiking rates before year-end -  ,0,1,0,0,31,22,0.11981215,0.25788042,0.6223074,Neu,-0.13806826,soberlook
+355,2017-04-03 15:32:04,Chart: Here is an updated  chart on EM political risk by country -  ,0,1,0,0,4,2,0.021628963,0.039728053,0.938643,Neu,-0.01809909,soberlook
+356,2017-04-03 14:31:03,Chart: Credit growth in the US has slowed meaningfully over the past few weeks: C&I and Auto Loans -  ,1,1,0,0,21,16,0.0076161106,0.96352535,0.028858487,Neg,-0.95590925,soberlook
+360,2017-03-31 23:15:05,Chart: Equity vol curve flattening -  ,0,1,0,2,25,22,0.3350452,0.27582034,0.3891344,Neu,0.059224844,soberlook
+361,2017-03-30 20:02:02,   Try removing the energy sector ...,0,1,0,1,0,2,0.04930073,0.15303911,0.79766023,Neu,-0.10373838,soberlook
+362,2017-03-30 05:50:00,Have a donkey to trade? China has an exchange - and an app - for that   via ,0,1,0,1,4,3,0.063785225,0.015910495,0.9203043,Neu,0.04787473,soberlook
+363,2017-03-30 00:59:03,Chart ( The White House needs a quick win here -  ,0,1,0,2,5,6,0.5602477,0.01838272,0.4213696,Pos,0.541865,soberlook
+364,2017-03-29 23:14:02,Chart: Treasury curve flattening -  ,0,1,0,0,10,11,0.20538075,0.16211691,0.6325024,Neu,0.043263838,soberlook
+365,2017-03-29 15:32:00,Chart: Economic output can be broken into growth in the labor force and in productivity – neither of which is likely to improve materially -  ,1,1,1,0,7,6,0.71576947,0.03251085,0.25171962,Pos,0.6832586,soberlook
+370,2017-03-27 15:50:03,Chart: Risks to the downside in US small caps (Russell 2000) remain highly elevated – no matter what metric one uses (via  -  ,1,1,0,2,3,9,0.1286932,0.039515752,0.8317911,Neu,0.089177445,soberlook
+371,2017-03-27 14:38:01,"Chart: Higher inflation is eating into workers’ earnings growth, resulting in no real pay gains over the past year (via  -  ",0,1,0,1,14,10,0.08936925,0.78577584,0.12485491,Neg,-0.6964066,soberlook
+372,2017-03-27 14:22:05,"Chart: NY Fed’s Nowcast model, which includes survey data, is predicting 3% growth -  ",1,1,0,1,3,6,0.69268674,0.013757615,0.29355565,Pos,0.67892915,soberlook
+373,2017-03-24 14:04:05,Chart: We are now looking at even odds that the ECB will hike rates by the end of the year -  ,0,1,1,0,17,12,0.68519473,0.17808138,0.13672395,Pos,0.50711334,soberlook
+374,2017-03-24 13:54:05,Chart: The supply of new homes (in terms of months needed to clear the inventory) remains below the long-run average -  ,1,1,0,2,11,6,0.017252386,0.9584563,0.024291359,Neg,-0.9412039,soberlook
+376,2017-03-23 14:00:04,Chart: It seems that real rates (based on TIPS) are highly correlated to market Fed hike expectations (via  -  ,1,1,0,1,0,7,0.106089965,0.02603832,0.86787164,Neu,0.080051646,soberlook
+377,2017-03-23 13:30:03,Chart: Motor vehicles insurance CPI is running at over 7.5% per year (via  -  ,0,1,0,1,14,9,0.18760458,0.03252226,0.77987313,Neu,0.15508232,soberlook
+378,2017-03-23 05:52:03,Chart: US live cattle futures spike on tainted meat scandal in Brazil -  ,0,1,0,0,6,4,0.027921593,0.9579435,0.014134869,Neg,-0.9300219,soberlook
+379,2017-03-22 14:11:03,Chart: The debt ceiling has exacerbated the shortage of Treasury bills (via  -  ,1,1,0,0,10,7,0.03445198,0.9157318,0.049816206,Neg,-0.8812798,soberlook
+380,2017-03-22 13:52:05,Chart: Long-dollar has been a crowded trade (via  -  ,1,1,0,0,12,11,0.036625654,0.6274333,0.33594105,Neg,-0.5908077,soberlook
+382,2017-03-21 14:17:00,Chart: Inflows into EM debt and equity funds have picked up after the last FOMC meeting (via  -  ,1,1,0,0,6,7,0.63095754,0.048437357,0.32060504,Pos,0.5825202,soberlook
+383,2017-03-21 14:01:03,Chart:  China outflow tracker suggests that Beijing has been able to plug the capital “leaks.”-  ,1,1,0,1,10,8,0.60913014,0.09601414,0.2948557,Pos,0.513116,soberlook
+384,2017-03-21 06:15:04,Chart: China's interbank liquidity extremely tight as repo rates spike -  ,0,1,0,1,59,41,0.0141098695,0.96375287,0.022137225,Neg,-0.949643,soberlook
+385,2017-03-20 14:51:05,Chart: India’s loan growth keeps hitting new lows -  ,0,1,0,0,13,15,0.046718597,0.9265924,0.026688939,Neg,-0.8798738,soberlook
+386,2017-03-20 14:39:03,"Chart: Compared to historical declines, the current GBP correction has room to run (via  -  ",1,1,0,0,9,7,0.56930286,0.2809205,0.14977662,Pos,0.28838235,soberlook
+387,2017-03-20 14:03:02,Chart: The upper and the lower 20% components of the CPI. These two groups have been diverging -  ,1,1,0,0,2,5,0.03294787,0.68768895,0.27936316,Neg,-0.65474105,soberlook
+389,2017-03-20 04:53:02,Chart: China interbank 7-day repo rare; PBoC tightening continues -  ,1,1,0,0,12,18,0.673096,0.2859241,0.040979914,Pos,0.3871719,soberlook
+396,2017-03-16 19:22:04,Chart: Number of US apartment buildings under construction hits another record -  ,0,1,0,1,26,29,0.8685493,0.059386417,0.07206427,Pos,0.80916286,soberlook
+397,2017-03-16 18:14:03,Chart: CBOE euro volatility index -  ,0,1,0,0,4,7,0.027994169,0.033072073,0.9389338,Neu,-0.005077904,soberlook
+401,2017-03-15 21:44:01,Chart: US real wages not growing -  ,0,1,0,2,24,17,0.13036212,0.5058308,0.36380714,Neg,-0.3754687,soberlook
+403,2017-03-15 21:05:01,Chart: UK Phillips curve is broken; both the unemployment rate and wages moving lower -  ,1,1,0,0,4,8,0.014789741,0.96505904,0.020151265,Neg,-0.9502693,soberlook
+406,2017-03-15 13:50:05,Chart: The amount of T-Bills outstanding could decline quite a bit if the debt ceiling is not raised before the August Congressional recess-  ,1,1,1,2,12,12,0.013256108,0.9650465,0.021697417,Neg,-0.9517904,soberlook
+407,2017-03-15 13:29:05,Chart: US effective real yields are moving higher as inflation expectations soften -  ,0,1,0,0,4,9,0.948243,0.028697759,0.023059199,Pos,0.9195453,soberlook
+408,2017-03-13 14:04:02,Chart: Economists keep debating the implications of the gap between “soft” and “hard” economic data (via  -  ,0,1,0,0,3,5,0.061624806,0.29498094,0.64339423,Neu,-0.23335613,soberlook
+409,2017-03-13 13:27:00,Chart: the futures-implied probability of three or more 2017 rate increases is now at 60% -  ,0,1,0,2,21,19,0.10452455,0.041922852,0.8535526,Neu,0.0626017,soberlook
+410,2017-03-09 17:11:05,Chart: The ECB’s wage growth forecast seems to be above what we see on the Philips curve (via  -  ,0,1,0,0,4,6,0.19429056,0.022005161,0.78370434,Neu,0.17228541,soberlook
+411,2017-03-09 15:37:05,Chart: REITs retreated in response to rising bond yields in the US -  ,1,1,0,0,8,8,0.016258705,0.9743123,0.009428964,Neg,-0.9580536,soberlook
+413,2017-03-08 01:18:02,Chart: WTI curve; US (and other) oil producers have been locking in higher prices by selling crude several years out -  ,1,1,0,3,13,15,0.8402152,0.082406685,0.07737808,Pos,0.7578085,soberlook
+414,2017-03-07 16:26:02,Chart: The Saudis are compensating for all the cheating among other OPEC members (via  -  ,0,1,0,1,9,5,0.24285705,0.0136020025,0.74354094,Neu,0.22925505,soberlook
+415,2017-03-07 15:52:02,Chart: The “Trump trades” outperformance continues to fade (via  -  ,0,1,0,0,1,3,0.059811465,0.13539211,0.8047964,Neu,-0.07558065,soberlook
+416,2017-03-07 15:18:00,Chart: The French elections risk premium embedded in the Stoxx 50 volatility curve has eased (via  -  ,1,1,0,0,2,7,0.7804457,0.15213053,0.06742375,Pos,0.62831515,soberlook
+417,2017-03-06 17:47:02,Chart: VIX futures heading lower as the stock market sells off -  ,0,1,0,0,10,15,0.009399647,0.9663616,0.024238762,Neg,-0.9569619,soberlook
+418,2017-03-06 15:28:02,Chart: Longer-term inflation expectations in the UK have came off sharply -  ,1,1,0,0,5,5,0.11892447,0.86501753,0.016057966,Neg,-0.74609303,soberlook
+419,2017-03-06 14:44:01,Chart: EM equities look undervalued on a relative basis (via  -  ,1,1,0,0,3,4,0.113337025,0.7657967,0.120866224,Neg,-0.6524597,soberlook
+420,2017-03-05 03:54:02,Chart: US corporate loan growth stalls -  ,0,1,0,0,48,49,0.40420052,0.030629337,0.5651701,Neu,0.3735712,soberlook
+421,2017-03-05 03:38:02,This search frequency profile looks like the electoral map -  ,0,1,0,0,12,10,0.03419196,0.019452594,0.9463554,Neu,0.014739364,soberlook
+424,2017-03-04 21:38:00,"Chart: US breakeven curve becoming more inverted; ""reflation"" is expected to be short-lived -  ",1,1,0,1,32,42,0.15212107,0.77247626,0.07540258,Neg,-0.6203552,soberlook
+427,2017-03-03 15:43:04,Chart: Capital continues to flow into US equity ETFs (via  -  ,0,1,0,1,8,9,0.2200103,0.010923558,0.7690662,Neu,0.20908673,soberlook
+428,2017-03-03 15:14:00,Chart: The euro area output gap is narrowing (via  -  ,0,1,0,0,4,2,0.17710958,0.76737213,0.055518318,Neg,-0.59026253,soberlook
+429,2017-03-03 14:29:02,"Chart: Some economists, however, are projecting a more aggressive rate hike trajectory than the futures market (via  -  ",0,1,0,0,5,8,0.23390348,0.025184624,0.7409119,Neu,0.20871887,soberlook
+432,2017-03-02 19:19:05,Remarkable: Equity market down and so is VIX -  ,0,1,0,0,6,9,0.0142270215,0.94918025,0.036592744,Neg,-0.9349532,soberlook
+433,2017-03-02 14:36:00,Chart: EM fund flows remain robust (via  -  ,0,1,0,0,4,2,0.9083039,0.018433552,0.07326258,Pos,0.88987035,soberlook
+434,2017-03-02 14:23:00,Chart:  European fund flows lagging the economic surprise index due to political risks. (via  -  ,0,1,0,0,4,8,0.03421955,0.83431596,0.1314645,Neg,-0.8000964,soberlook
+435,2017-03-02 14:08:05,Chart: The drag on inflation continues to come from the goods sector. Durable goods have been in deflation since the mid-1990s -  ,1,1,0,1,5,6,0.016268117,0.9488757,0.03485606,Neg,-0.9326076,soberlook
+438,2017-03-01 19:34:05,Chart: The US breakeven curve inverts; inflation is expected to pick up initially but moderate over the long-term -  ,1,1,0,0,7,9,0.9328363,0.04634126,0.020822411,Pos,0.88649505,soberlook
+439,2017-03-01 15:43:05,Chart: The Saudis continue to have credit issues as loan growth stalls (the lowest since 2009) -  ,0,1,0,0,1,2,0.009656474,0.9732857,0.017057797,Neg,-0.9636292,soberlook
+440,2017-03-01 15:29:01,"Chart: Just like in the US, a good portion of the euro area economic upswing is concentrated in the “soft” (survey-based) data (via GS) -  ",1,1,0,0,4,8,0.1987947,0.0154998,0.78570557,Neu,0.18329489,soberlook
+441,2017-03-01 14:13:00,Chart: The Canadian dollar has been under pressure lately -  ,1,1,0,0,1,4,0.029561602,0.9438318,0.02660668,Neg,-0.9142702,soberlook
+442,2017-03-01 06:27:01,Chart: March - April Fed Funds futures spread; cc   ,0,1,0,0,4,5,0.029008402,0.028334754,0.9426568,Neu,0.00067364797,soberlook
+443,2017-03-01 06:05:01,Chart: 3m US OIS rate; March is on?  ,0,1,0,1,5,6,0.048541524,0.08134437,0.8701141,Neu,-0.03280285,soberlook
+444,2017-03-01 05:44:00,All of you Bloomberg users out there - is this correct? Are we really looking at an 80% probability of a Fed rate hike in March?  ,0,1,0,10,27,25,0.119871914,0.037254155,0.842874,Neu,0.08261776,soberlook
+445,2017-02-28 22:27:02,Chart: Further evidence that US home prices are growing at over twice the rate of wages -  ,0,1,0,1,14,10,0.8983441,0.021978853,0.07967704,Pos,0.87636524,soberlook
+447,2017-02-28 21:39:00,Chart: US goods trade deficit worsens -  ,0,1,0,2,8,7,0.015914561,0.96454465,0.019540897,Neg,-0.9486301,soberlook
+448,2017-02-28 19:38:05,Chart: US 10y - 2y Treasury spread; reflation trade fading -  ,0,1,0,0,9,8,0.059549857,0.032663483,0.90778667,Neu,0.026886374,soberlook
+449,2017-02-28 19:15:04,Chart: The Fed Funds futures market now pricing 54% probability of a March hike -  ,0,1,0,2,8,8,0.3514584,0.3524473,0.29609427,Neg,-0.0009889007,soberlook
+451,2017-02-28 15:45:01,Chart: China’s secondary stock offerings have dwarfed the IPO market (via  -  ,1,1,0,0,4,2,0.54352987,0.19709137,0.25937873,Pos,0.3464385,soberlook
+452,2017-02-28 15:27:04,Chart: Equity markets are also pricing in the French elections risks (via  -  ,0,1,0,0,7,7,0.23818582,0.016715182,0.745099,Neu,0.22147064,soberlook
+453,2017-02-28 14:54:02,Chart: Analysts now see a material slowdown in US home sales over the next few months (via   ,0,1,0,0,12,11,0.0083570955,0.95971876,0.031924076,Neg,-0.95136166,soberlook
+454,2017-02-28 14:34:05,Chart: The ISM survey has been telling us that CapEx is improving (via  -  ,1,1,0,0,4,3,0.9533818,0.016065167,0.030553019,Pos,0.9373166,soberlook
+457,2017-02-27 21:34:01,Chart: US financials vs. 10y Treasury yield; something's got to give -  ,1,1,0,1,29,27,0.21007732,0.06328606,0.7266366,Neu,0.14679125,soberlook
+458,2017-02-27 20:53:02,Chart: Fed March rate hike probability rises to 50% -  ,0,1,0,2,42,37,0.93170625,0.027234795,0.04105901,Pos,0.90447146,soberlook
+459,2017-02-27 15:19:02,"By some measures, the stock market volatility is at a record low. Here is the number of consecutive days without a 1% intraday move  ",0,1,0,0,2,6,0.020371197,0.5966358,0.382993,Neg,-0.5762646,soberlook
+460,2017-02-27 15:03:04,Chart: Chile’s declining copper revenue keeps putting pressure on the labor markets (via @  -  ,1,1,0,0,1,3,0.011687291,0.94713074,0.04118195,Neg,-0.93544346,soberlook
+461,2017-02-27 14:50:01,Chart: One of the reasons for more optimism among Italian businesses is the improvement in industrial sales -  ,0,1,0,0,3,5,0.955815,0.021282975,0.022901995,Pos,0.93453205,soberlook
+464,2017-02-24 18:18:02,Chart: Mexican collapsing consumer confidence and higher inflation showing up in retail sales -  ,0,1,0,0,4,6,0.01814013,0.9669161,0.014943816,Neg,-0.94877595,soberlook
+466,2017-02-24 16:01:02,Chart: Portugal's 2yr government bond yield goes negative -  ,0,1,0,0,10,13,0.0076224166,0.9684885,0.02388906,Neg,-0.9608661,soberlook
+467,2017-02-24 14:45:02,Chart: US home prices are rising too quickly -  ,0,1,0,5,23,18,0.030569704,0.8468771,0.122553244,Neg,-0.81630737,soberlook
+468,2017-02-24 14:34:01,Chart: Companies that pay the highest taxes are no longer outperforming (as techs push higher) (via  -  ,0,1,0,0,2,2,0.24863622,0.08124332,0.6701205,Neu,0.1673929,soberlook
+469,2017-02-24 14:20:02,"Chart: With investors losing faith in the reflation trade, infrastructure stocks are tanking (via  -  ",0,1,0,0,3,8,0.010322002,0.9518705,0.037807576,Neg,-0.9415485,soberlook
+470,2017-02-24 01:43:04,Chart: Brazil's credit crunch worsens -  ,0,1,0,0,18,11,0.014814227,0.9498984,0.035287336,Neg,-0.9350842,soberlook
+471,2017-02-24 01:11:04,Chart: This has to make the OPEC members nervous -  ,0,1,0,0,42,39,0.0314526,0.6780464,0.290501,Neg,-0.6465938,soberlook
+472,2017-02-24 00:18:03,Chart: 1-week SHIBOR; PBoC tightens liquidity -  ,0,1,0,0,5,5,0.88844323,0.0804243,0.031132404,Pos,0.8080189,soberlook
+473,2017-02-23 21:01:05,Updated chart comparing wages and home prices in the US over the past couple of decades -  ,1,1,0,3,18,21,0.038940113,0.06939537,0.89166456,Neu,-0.030455258,soberlook
+474,2017-02-23 14:07:02," Chart: Turkish markets seem to be recovering, with the lira trending higher as the nation’s bond yields decline -  ",0,1,0,0,1,2,0.8626056,0.120356835,0.017037604,Pos,0.7422487,soberlook
+475,2017-02-22 22:41:03,Chart: German 2yr government bond yield hits another record low; in part driven by French elections jitters -  ,1,1,0,5,48,47,0.01944702,0.96552694,0.015026088,Neg,-0.9460799,soberlook
+476,2017-02-22 16:00:05,Analysts suggest that US oil and gas investment is picking up momentum on firmer crude prices  ,0,1,0,0,3,1,0.95005774,0.0228746,0.027067682,Pos,0.92718315,soberlook
+477,2017-02-22 14:40:00,Chart: Euro 3-month risk reversals keep moving lower as traders bid up EUR/USD puts (these options mature after the French elections) -  ,1,1,0,0,5,4,0.07413095,0.89443415,0.03143491,Neg,-0.8203032,soberlook
+478,2017-02-22 14:08:02,"Chart: Mortgage credit remains tight, with the borrowers’ median credit score still above 760 (via  -  ",0,1,0,2,8,12,0.02870334,0.8885328,0.08276391,Neg,-0.8598295,soberlook
+482,2017-02-17 23:26:05,Chart: Speculative positions in NYMEX crude. This is going to be an epic unwind -  ,0,1,0,2,19,21,0.015532245,0.87439233,0.11007538,Neg,-0.8588601,soberlook
+484,2017-02-17 21:36:01,Chart: Complacency entering the oil market as well -  ,0,1,0,3,18,29,0.32771945,0.045345437,0.6269351,Neu,0.28237402,soberlook
+486,2017-02-17 15:46:00,"Chart: As Australia recovers from the severe commodity slump, jobs are shifting back from part-time to full-time (via  -  ",0,1,0,0,2,4,0.122658946,0.56853896,0.30880207,Neg,-0.44588003,soberlook
+487,2017-02-17 15:07:04,Chart: The decline in real wages seems inconsistent with the rising consumer sentiment and strong retail sales. (via  -  ,0,1,0,3,44,43,0.016675845,0.9248504,0.05847367,Neg,-0.9081746,soberlook
+489,2017-02-16 16:45:02,It’s clear that the core CPI increases have been broader than just medical and housing inflation  ,1,1,0,0,0,4,0.7777378,0.04829368,0.17396854,Pos,0.72944415,soberlook
+491,2017-02-16 16:10:01,Chart: UK wage growth remains stable as the unemployment rate stays at the lowest level in over a decade (via  -  ,0,1,0,0,6,7,0.021843404,0.8917001,0.08645654,Neg,-0.8698567,soberlook
+492,2017-02-16 15:51:00,"Chart: With nominal wage growth in the US remaining tepid, inflation is starting to take a bite out of earnings -  ",0,1,0,0,6,6,0.012800821,0.96546733,0.021731785,Neg,-0.9526665,soberlook
+494,2017-02-16 02:24:03,"Chart: One of the inflation measures that the Fed tracks closely is the ""Trimmed-Mean CPI""  -  ",0,1,0,0,10,13,0.03467989,0.041005217,0.9243149,Neu,-0.006325327,soberlook
+495,2017-02-15 16:59:00,"Chart: Outside of energy, however, Canada continues to struggle with export growth (via  -  ",0,1,0,1,3,1,0.51581204,0.38122445,0.10296345,Pos,0.13458759,soberlook
+496,2017-02-15 16:31:01,It’s worth noting that business optimism is not limited to small firms. Below is the data from public companies  ,1,1,0,0,4,3,0.025951805,0.038091045,0.9359572,Neu,-0.01213924,soberlook
+499,2017-02-15 05:54:04,Chart: China 1-week interbank repo rate spikes as PBoC tightens liquidity -  ,0,1,0,0,6,6,0.024408523,0.96463734,0.010954086,Neg,-0.9402288,soberlook
+500,2017-02-15 03:42:00,Chart: Short-VIX ETF ( $XIV) ripping higher; this is not going to end well -  ,0,1,0,0,21,20,0.035586964,0.94366425,0.020748742,Neg,-0.9080773,soberlook
+502,2017-02-13 15:55:03,Chart: We continue to see more evidence of “green shoots” in Brazil -  ,0,1,0,0,6,0,0.9245626,0.016030239,0.059407175,Pos,0.9085323,soberlook
+503,2017-02-13 13:56:04,Chart: Currency traders are bidding up 3-month euro puts in preparation for the French elections -  ,0,1,0,0,14,13,0.5292833,0.05725624,0.4134605,Pos,0.47202703,soberlook
+504,2017-02-13 13:22:04,Chart: what percentage of total US domestic demand by sector is imported (via  -  ,1,1,0,0,7,12,0.036555346,0.019493638,0.9439511,Neu,0.017061708,soberlook
+507,2017-02-13 05:04:01,Chart: China's iron ore futures ripping higher -  ,0,1,0,0,28,25,0.94650215,0.02652051,0.026977353,Pos,0.91998166,soberlook
+509,2017-02-12 22:15:04,Chart ( 50-day rolling historical vol for the S&P500 -  ,0,1,0,1,20,12,0.055434898,0.026501866,0.9180632,Neu,0.028933031,soberlook
+511,2017-02-10 15:59:04,"Chart: After a massive multi-year correction, Spanish property markets seem to be recovering. (via  -  ",0,1,0,1,13,16,0.47796202,0.36970755,0.15233038,Pos,0.10825446,soberlook
+512,2017-02-10 14:41:04,Chart: US inflation curve has flattened dramatically. (via  -  ,1,1,0,0,9,8,0.03394517,0.7866254,0.17942935,Neg,-0.75268024,soberlook
+513,2017-02-10 14:17:05,Chart: Indian banks are flush with liquidity from the demonetization. Lending rates have therefore declined. (via  -  ,1,1,0,0,3,6,0.017757831,0.92374474,0.058497522,Neg,-0.9059869,soberlook
+515,2017-02-08 15:16:05,"Chart: Utilities created tons of volatility in the US industrial production measure last year, skewing headline figures (via   ",1,1,0,0,5,2,0.014885643,0.95464337,0.030470906,Neg,-0.9397577,soberlook
+517,2017-02-08 14:44:02,"Chart: Brazil and Russia should be cutting rates, Turkey should hike (via  -  ",0,1,1,0,18,25,0.1395015,0.50074965,0.35974887,Neg,-0.36124814,soberlook
+518,2017-02-08 14:13:04,Chart:  Consumer credit (excluding mortgages) is approaching 20% of the GDP – a record -  ,0,1,0,1,48,32,0.9067758,0.030641368,0.06258283,Pos,0.8761344,soberlook
+519,2017-02-07 23:37:00,Chart: Looks like the record net-long spec trade in crude oil is being unwound -  ,0,1,0,1,28,24,0.13482115,0.078281805,0.786897,Neu,0.05653934,soberlook
+520,2017-02-07 15:49:03,Chart: The market is pricing in a rather low probability of inflation overshoot (via  -  ,0,1,0,0,4,4,0.2576235,0.08414398,0.65823245,Neu,0.17347951,soberlook
+521,2017-02-07 15:38:05,Chart: Bond yields in China are on the rise again as the central bank shift into a tightening bias -  ,0,1,0,0,22,13,0.89710337,0.07721664,0.02568006,Pos,0.81988674,soberlook
+522,2017-02-07 14:59:01,German politics is heating up  ,0,1,0,0,1,2,0.08445226,0.08296948,0.83257824,Neu,0.0014827773,soberlook
+523,2017-02-07 14:35:00,Chart: The euro area as a whole has been struggling with wage growth (via  -  ,1,1,0,0,7,3,0.016066642,0.9601743,0.023759069,Neg,-0.94410765,soberlook
+525,2017-02-06 15:29:00,Chart: Local emerging market debt has outperformed Treasuries in terms of yield movements (via  -  ,1,1,0,1,5,2,0.7569124,0.20699269,0.036094896,Pos,0.5499197,soberlook
+529,2017-02-03 16:58:03,"Chart: As months go by, OPEC production cheating takes hold (via  -  ",1,1,0,0,4,5,0.03491138,0.18603429,0.77905434,Neu,-0.15112291,soberlook
+531,2017-02-03 15:26:01,Chart:  points out that Donald Trump’s favorability rating may be impacting various markets -  ,0,1,1,0,3,4,0.016836906,0.9431602,0.04000296,Neg,-0.9263233,soberlook
+532,2017-02-03 14:17:02,Chart: Average weekly hours of US workers fell by the largest percentage last quarter since the recession. Is this weather-related? -  ,1,1,0,0,18,16,0.0075026033,0.96331483,0.029182596,Neg,-0.9558122,soberlook
+534,2017-02-02 15:09:01,Chart: ADP sector breakdown shows a relatively broad increase in payrolls  ,0,1,0,0,6,3,0.9310052,0.035855897,0.033138998,Pos,0.8951493,soberlook
+535,2017-02-02 14:13:05,"Chart: While the market expects inflation to move higher in the near-term, longer term inflation is expected to moderate -  ",1,1,0,1,2,3,0.95208555,0.025251608,0.022662811,Pos,0.9268339,soberlook
+536,2017-02-01 15:53:04,"Chart: While economists continue to talk about higher wage growth and tight labor markets in the US, there is little evidence of that -  ",0,1,0,0,11,5,0.10067924,0.69139004,0.20793074,Neg,-0.5907108,soberlook
+537,2017-02-01 15:26:00,Chart: Here is some rotation out of corporate HY and into muni bond HY over the past couple of days -  ,0,1,0,0,5,1,0.050987802,0.020692341,0.9283198,Neu,0.030295461,soberlook
+541,2017-01-31 15:33:03,Chart: Leveraged loan price recovery has been as rapid as the decline -  ,1,1,0,0,12,8,0.93268424,0.047572426,0.01974323,Pos,0.8851118,soberlook
+542,2017-01-31 14:58:04,Chart: many investors have been buying calls on the VIX in preparation for a spike in vol (via  -  ,1,1,0,2,4,6,0.28930768,0.042936813,0.66775554,Neu,0.24637087,soberlook
+543,2017-01-31 14:39:03,Chart: American savings rate has turned negative on a year-over-year basis -  ,1,1,0,0,5,11,0.011480424,0.9671157,0.021403914,Neg,-0.95563525,soberlook
+544,2017-01-31 14:16:00,Chart: Austria’s manufacturing activity is now the highest since 2011 (via  -  ,1,1,0,0,7,1,0.697243,0.029671537,0.2730855,Pos,0.6675714,soberlook
+545,2017-01-30 14:58:04,Chart: China's government bond yields are on the rise again -  ,0,1,0,1,8,10,0.9318732,0.03483647,0.033290245,Pos,0.89703673,soberlook
+546,2017-01-30 14:42:05,Chart: It was strange to see VIX move lower in tandem with the S&P 500. These indices are supposed to be inversely correlated -  ,1,1,0,0,6,1,0.027809817,0.87928283,0.09290734,Neg,-0.85147303,soberlook
+547,2017-01-30 14:30:05,Chart: Russia’s recovery continues as non-oil revenues jump (via  -  ,0,1,0,0,5,3,0.9131693,0.027391858,0.059438743,Pos,0.8857775,soberlook
+548,2017-01-30 14:18:04,Chart: Here is a detailed chart of US – Mexico trade by sector. The auto industry looks especially vulnerable (via  -  ,0,1,0,0,12,5,0.026285525,0.567308,0.4064065,Neg,-0.5410225,soberlook
+549,2017-01-28 05:12:04,Chart: Speculative WTI crude oil net exposure; this is not going to end well -  ,0,1,0,2,30,42,0.028614676,0.86919016,0.10219517,Neg,-0.84057546,soberlook
+550,2017-01-27 15:57:03,"Chart: For those who still don’t think that Riksbank is behind the curve, here is Sweden’s PPI -  ",1,1,0,0,5,8,0.030921098,0.05309307,0.9159858,Neu,-0.02217197,soberlook
+551,2017-01-27 15:10:03,Chart: US import price elasticity by sector. It shows how much imports decline in response to a 1% change in price (via  -  ,0,1,0,0,2,5,0.04509353,0.49311575,0.46179074,Neg,-0.44802222,soberlook
+552,2017-01-27 14:32:00,Chart: Foreign official accounts (mostly central banks) have been selling Treasuries consistently (via  -  ,1,1,0,1,15,11,0.7496001,0.107661255,0.14273858,Pos,0.64193887,soberlook
+553,2017-01-27 14:20:04,"Chart: US new home sales missed expectations by a considerable margin. Some are blaming it on the weather, others on mortgage rates -  ",1,1,0,3,12,8,0.016330454,0.9634675,0.02020205,Neg,-0.947137,soberlook
+554,2017-01-26 14:38:04,"Chart: UK’s industrial orders are trending higher, beating expectations -  ",0,1,0,0,4,7,0.9536363,0.025862005,0.0205017,Pos,0.9277743,soberlook
+555,2017-01-26 14:19:02,"Chart: Capital outflows from China have been driven by the nation’s residents, not foreign investors (via  -  ",1,1,0,0,16,13,0.05412272,0.020972896,0.9249044,Neu,0.033149824,soberlook
+557,2017-01-26 13:45:05,Chart: regional banks are outperforming the overall banking index -  ,0,1,0,0,2,4,0.025859667,0.9634548,0.010685525,Neg,-0.9375951,soberlook
+559,2017-01-25 15:38:01,Chart: Brazil’s foreign direct investment jumps to the highest level since 2011 as investors see opportunities in the recovery -  ,1,1,0,0,6,8,0.9446516,0.028840842,0.026507597,Pos,0.91581076,soberlook
+560,2017-01-25 15:11:02,"Chart: The demand for industrial metals has risen somewhat, But is it enough to justify this massive rally? (via  -  ",1,1,0,2,3,6,0.28690913,0.013979218,0.6991116,Neu,0.2729299,soberlook
+561,2017-01-25 14:34:01,"Chart: Japanese exports beat economists’ forecasts, with the first year-on-year increase in 14 months -  ",0,1,0,0,3,5,0.95239794,0.027579764,0.020022312,Pos,0.92481816,soberlook
+562,2017-01-25 14:13:04,Chart: According to  We Just Hit Peak Auto -  ,0,1,0,2,18,15,0.56515294,0.04112121,0.3937259,Pos,0.52403176,soberlook
+564,2017-01-24 14:47:03,Chart: Analysts see the peso as massively undervalued at this point – with the NAFTA “renegotiations” looming (via  -  ,1,1,0,0,6,14,0.06371021,0.8770492,0.05924058,Neg,-0.813339,soberlook
+565,2017-01-24 14:11:01,Chart: According to this analysis from  the full ACA repeal will end up costing more than it saves -  ,0,1,1,3,3,6,0.057503328,0.11129987,0.83119684,Neu,-0.053796545,soberlook
+566,2017-01-24 13:52:01,Chart: small manufacturers end up paying much more than large ones for full-time regulatory compliance personnel (via  -  ,0,1,0,0,6,1,0.05890915,0.0769544,0.86413646,Neu,-0.01804525,soberlook
+567,2017-01-23 15:20:01,Chart: The Tankan Index shows Japanese industrial activity improving -  ,0,1,0,0,5,2,0.9450282,0.031401828,0.023569997,Pos,0.9136264,soberlook
+568,2017-01-23 15:18:01,Chart: China's outbound container ships are now full (via  -  ,0,1,0,0,4,7,0.14428633,0.018413747,0.8372999,Neu,0.12587258,soberlook
+570,2017-01-23 14:38:03,Chart: Soybeans Still Swing US GDP (via  -  ,0,1,0,0,2,2,0.61798674,0.25581208,0.12620118,Pos,0.36217466,soberlook
+571,2017-01-23 14:15:04,Chart: The dollar and interest rates are expected to be the biggest drivers of stock prices over the next six months (via  -  ,1,1,0,0,6,13,0.0768683,0.040302124,0.8828296,Neu,0.03656618,soberlook
+572,2017-01-20 13:23:03,Chart: The US retail sector continues to struggle -  ,0,1,0,0,1,6,0.02310249,0.95781785,0.019079642,Neg,-0.9347154,soberlook
+573,2017-01-20 12:52:01,"Chart: Rising PPI in the UK is putting pressure on margins. Nonetheless, the stock market remains near record levels (via Jefferies) -  ",0,1,0,0,3,5,0.766406,0.2072198,0.026374202,Pos,0.5591862,soberlook
+574,2017-01-20 12:40:02,Chart: Why Manufacturers Are Dead Set on Mexico (via  -  ,0,1,0,1,8,5,0.037219368,0.15502195,0.8077587,Neu,-0.11780258,soberlook
+576,2017-01-20 01:35:02,"Chart: Philly Fed ""prices received""; manufacturers are passing higher costs to their clients -  ",1,1,0,0,5,4,0.9053523,0.024392568,0.07025517,Pos,0.88095975,soberlook
+577,2017-01-19 14:56:00,Chart: It seems that OPEC’s own projections of average oil demand for 2017 fall below its output target after the cuts -  ,1,1,0,1,22,23,0.012875614,0.9660741,0.021050287,Neg,-0.9531985,soberlook
+578,2017-01-19 14:16:03,"Chart: Considering that SS payments have not risen much over the past few years, this rise in experimental CPI can become a real problem -  ",1,1,1,0,1,2,0.017728701,0.95024186,0.032029424,Neg,-0.9325132,soberlook
+579,2017-01-19 14:04:00,"Chart: The dollar now trades as a “risk-on” asset, correlated with the stock market (via  -  ",1,1,0,0,16,12,0.17900494,0.016535224,0.80445987,Neu,0.16246971,soberlook
+580,2017-01-18 21:25:02,"Chart: Mexican peso, Canadian dollar hammered as Wilbur Ross promises to quickly renegotiate NAFTA -  ",1,1,0,0,29,16,0.01666312,0.9579385,0.025398394,Neg,-0.94127536,soberlook
+581,2017-01-18 14:51:03,Recession probability in the UK is now near the levels we saw prior to the EU Referendum vote  ,1,1,0,1,6,4,0.06378668,0.89569515,0.04051823,Neg,-0.83190846,soberlook
+583,2017-01-18 14:14:02,Chart: UK higher than expected inflation figures. Here is the CPI and the Retail Price Index – both above economists’ consensus -  ,1,1,0,0,4,4,0.040804204,0.094160624,0.86503524,Neu,-0.05335642,soberlook
+584,2017-01-18 12:48:03,"Chart:  the “trade war” with China has already started, with the number of protectionist measures by the US rising rapidly via   ",1,1,0,0,21,19,0.58124566,0.30212885,0.11662554,Pos,0.2791168,soberlook
+585,2017-01-18 12:23:05,"Chart: The long-dollar trade has become quite crowded lately, which is contributing to the sell-off (via  -  ",1,1,0,0,6,4,0.013371866,0.9263124,0.060315683,Neg,-0.9129405,soberlook
+586,2017-01-18 05:45:05,Rustbelt China Province Admits It Faked Fiscal Data From 2011-14           via ,1,1,0,1,4,6,0.012450144,0.9352835,0.052266423,Neg,-0.9228333,soberlook
+587,2017-01-17 15:23:04,Chart: China is getting deeper into the oil refinery business (via  -  ,0,1,0,0,1,3,0.22612336,0.010359793,0.7635169,Neu,0.21576357,soberlook
+588,2017-01-17 14:30:04,Chart: Eurozone shares remain significantly undervalued relative to those in the US (via  -  ,1,1,0,0,14,9,0.09474935,0.87517726,0.030073434,Neg,-0.78042793,soberlook
+590,2017-01-17 12:54:05,Chart: A Lower Peso Means More American Heroin Addiction (via   ,0,1,0,0,4,2,0.020804588,0.88721216,0.09198319,Neg,-0.8664076,soberlook
+591,2017-01-17 12:22:01,Chart: Sterling implied volatility rose to the highest level since the EU Referendum vote before declining on the news from Northern Ireland  ,1,1,0,0,1,3,0.6936704,0.28416672,0.022162855,Pos,0.40950367,soberlook
+592,2017-01-15 19:13:04,"Chart: The British pound drops below $1.2 as Theresa May is expected to push for ""Hard Brexit"" -  ",1,1,0,1,24,15,0.01017883,0.96754867,0.022272557,Neg,-0.95736986,soberlook
+593,2017-01-13 14:12:02,Chart: The divergence between equity implied volatility and global policy uncertainty is remarkable (via  -  ,1,1,0,3,48,33,0.2901433,0.021735482,0.68812126,Neu,0.26840782,soberlook
+595,2017-01-13 13:00:00,Chart: Euro Area Labor demand is improving and inflation has returned (via  -  ,1,1,0,0,11,15,0.93608034,0.019414375,0.044505365,Pos,0.916666,soberlook
+596,2017-01-13 12:39:05,Chart: The IMF is calling for higher inflation for the first time in years (via  -  ,0,1,0,0,6,9,0.5816427,0.03158769,0.38676965,Pos,0.550055,soberlook
+597,2017-01-13 12:24:02,"Chart:  US farmers planted the lowest amount of winter wheat in over a century, according to USDA -  ",1,1,0,0,3,5,0.0065896506,0.9612849,0.032125544,Neg,-0.9546952,soberlook
+599,2017-01-12 14:03:03,Chart:  sees the yen strengthening against the dollar this year. Here is the forecast for other currencies -  ,0,1,0,0,3,3,0.10717157,0.028140375,0.8646881,Neu,0.0790312,soberlook
+601,2017-01-12 12:36:03,EM economies were quite active in issuing dollar-denominated bonds in 2016.  ,1,1,0,0,6,1,0.63020396,0.008753133,0.36104292,Pos,0.62145084,soberlook
+602,2017-01-12 12:34:04,Chart: German real rates tells us why the ECB is behind the curve. Monetary conditions in GER are now most accommodative in recent history.  ,0,1,0,0,40,22,0.19732909,0.09927709,0.70339376,Neu,0.098052,soberlook
+606,2017-01-11 14:06:05,"Chart: despite the severe headwinds some emerging economies are facing, the Citi EM Economic Surprise Index hit a multi-year high -  ",1,1,0,0,10,9,0.9384403,0.030899068,0.03066066,Pos,0.9075413,soberlook
+607,2017-01-11 14:03:05,Long-term earnings expectations are off the highs. Investor sentiment is not.  ,0,1,0,0,2,6,0.029961858,0.9023919,0.06764622,Neg,-0.87243,soberlook
+610,2017-01-11 12:15:02,Chart: US small business sentiment a sudden “expectation” of higher sales. Actual sales have not improved much in years. Wishful thinking? -  ,1,1,0,0,9,13,0.6615476,0.25659683,0.08185559,Pos,0.40495077,soberlook
+611,2017-01-10 12:46:02,"Some analysts are forecasting a further strengthening in the yuan, ahead of the April “currency manipulator” decision in the US  ",0,1,0,0,4,2,0.9419524,0.025861174,0.032186456,Pos,0.9160912,soberlook
+612,2017-01-10 12:45:00,Chart: Last year was not great for hedge fund flows. Will 2017 be better? -  ,1,1,0,0,6,4,0.11979641,0.15546484,0.7247388,Neu,-0.035668433,soberlook
+613,2017-01-10 12:43:00,"Chart: Chile’s copper exports are finally recovering, sending the overall exports sharply higher  ",0,1,0,1,9,5,0.9195866,0.063125364,0.017288063,Pos,0.8564612,soberlook
+614,2017-01-10 12:42:00,Chart: Compared to other Eurozone nations the euro’s buying power in Germany continues to decline  ,1,1,0,1,6,2,0.94268197,0.033130072,0.024187999,Pos,0.9095519,soberlook
+615,2017-01-10 12:37:01,Chart: Americans Are Loading Up on Credit  ,0,1,0,1,10,12,0.69418365,0.10926915,0.19654725,Pos,0.5849145,soberlook
+616,2017-01-01 20:34:05,"Chart: Bitcoin breaks through $1,000.  Happy New Year!  ",0,1,0,4,38,39,0.4537027,0.063650966,0.48264635,Neu,0.39005172,soberlook

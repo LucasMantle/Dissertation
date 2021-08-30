@@ -1,0 +1,67 @@
+,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
+1,2020-02-21 01:34:04,Buffett's Berkshire Hathaway buys Kroger stock for first time  ,0,1,0,0,0,0,0.07724977,0.014129534,0.9086207,Neu,0.06312024,activiststocks
+2,2019-11-06 14:35:05,$128 billion and growing: Warren Buffett's Berkshire Hathaway cash puzzle  ,0,1,0,0,0,0,0.064580955,0.013933777,0.92148525,Neu,0.050647177,activiststocks
+3,2019-03-12 14:19:02,"Zero Hedge, the bearish, anti-establishment financial site, says Facebook banned its content - Business Insider  ",1,1,0,0,0,1,0.012997699,0.87696624,0.11003613,Neg,-0.86396855,activiststocks
+4,2019-03-01 20:12:01,Grocery store stocks take a beating on report that Amazon will launch its own chain of supermarkets - CNBC  ,0,1,1,0,0,0,0.06081859,0.7952257,0.14395571,Neg,-0.73440707,activiststocks
+5,2019-02-26 12:39:03,"Warren Buffett says if you invested $10,000 in the S&P 500 in 1942, you’d have $51 million today - CNBC  ",1,1,0,0,0,0,0.056589514,0.015825685,0.9275848,Neu,0.04076383,activiststocks
+6,2019-02-21 16:45:01,"WSJ: Joint Apple and Goldman Sachs credit card launching later this year, enables special features with Wallet app - 9to5Mac  ",0,1,0,0,0,0,0.62250966,0.008233326,0.36925697,Pos,0.61427635,activiststocks
+8,2019-02-12 01:15:01,Amazon is buying mesh router company Eero - The Verge  ,0,1,0,0,0,0,0.102252856,0.008989273,0.8887579,Neu,0.09326358,activiststocks
+13,2019-01-23 12:15:01,"Facebook is the most ’vulnerable’ big tech firm facing disruption, top VC says - CNBC  ",0,1,0,0,0,0,0.021664051,0.9011739,0.07716199,Neg,-0.87950987,activiststocks
+14,2019-01-23 00:40:04,"Elliott thinks Walmart, Google and private equity could be interested in buying eBay’s core marketplace business for about $15 billion, source says - CNBC  ",0,1,1,0,1,2,0.09398973,0.011003511,0.8950067,Neu,0.08298622,activiststocks
+16,2019-01-22 00:27:03,Amazon Knows What You Buy. And It’s Building a Big Ad Business From It. - New York Times  ,1,1,0,0,0,0,0.14007261,0.011386085,0.8485413,Neu,0.12868653,activiststocks
+18,2019-01-11 14:05:00,Amazon Looking At Empty Sears Stores For Whole Foods Expansion - ZeroHedge  ,0,1,0,0,0,0,0.026839262,0.044721846,0.9284389,Neu,-0.017882584,activiststocks
+19,2019-01-10 18:25:02,Apple CEO Tim Cook speaks with CNBC’s Jim Cramer: Full transcript - CNBC  ,1,1,0,0,1,1,0.029236114,0.027976736,0.9427872,Neu,0.0012593772,activiststocks
+20,2019-01-08 18:56:01,Amazon’s new ad strategy: Free samples based on what it knows about you - Axios  ,1,1,0,0,1,2,0.060066804,0.010593536,0.92933965,Neu,0.049473267,activiststocks
+23,2019-01-07 11:13:01,The Phone That’s Failing Apple: iPhone XR - Wall Street Journal  ,0,1,0,0,0,0,0.055500317,0.3009611,0.6435386,Neu,-0.2454608,activiststocks
+24,2019-01-01 19:00:01,Amazon Plans to Add Whole Foods Stores - Wall Street Journal  ,0,1,0,0,0,0,0.103750445,0.016227623,0.88002187,Neu,0.08752282,activiststocks
+25,2018-12-17 21:46:04,Jeffrey Gundlach says the S&P 500 is headed to new lows: ’I’m pretty sure this is a bear market’ - CNBC  ,1,1,0,1,0,1,0.013353142,0.93795586,0.048690993,Neg,-0.9246027,activiststocks
+28,2018-12-14 20:16:05,Alleged Russian spy Maria Butina admits to engaging in conspiracy against US - CNN  ,0,1,0,0,0,0,0.042752575,0.31356576,0.64368165,Neu,-0.2708132,activiststocks
+32,2018-12-03 02:47:02,"""Amazon’s cloud business is competing with its customers - CNBC""   ",0,1,0,0,1,1,0.8386911,0.013783362,0.14752546,Pos,0.8249078,activiststocks
+35,2018-12-01 03:47:02,Microsoft’s market value overtakes Apple’s to close out week - Reuters  ,0,1,0,0,0,0,0.72910523,0.03906076,0.23183396,Pos,0.69004446,activiststocks
+37,2018-11-28 14:23:03,Microsoft Closes In on Apple as World’s Most Valuable Company - Wall Street Journal  ,0,1,0,0,0,1,0.79239637,0.018542988,0.18906067,Pos,0.77385336,activiststocks
+41,2018-11-20 16:14:05,"Amazon bids for Disney’s 22 regional sports networks, including YES Network, sources say - CNBC  ",1,1,0,0,0,0,0.13253094,0.011808747,0.8556603,Neu,0.1207222,activiststocks
+42,2018-11-16 19:59:05,"""Google Cloud CEO Diane Greene is out, to be replaced by former Oracle exec Thomas Kurian - CNBC""   ",1,1,0,0,0,0,0.020702448,0.4136266,0.565671,Neu,-0.39292416,activiststocks
+43,2018-11-15 11:36:01,New York Is a Genuine Tech Hub (and That Was Before Amazon) - New York Times  ,0,1,0,0,0,0,0.07434803,0.02042177,0.9052302,Neu,0.053926263,activiststocks
+44,2018-11-15 11:35:04,New York’s Amazon Deal Is a Bad Bargain - New York Times  ,0,1,0,0,0,1,0.01388747,0.89662325,0.08948934,Neg,-0.8827358,activiststocks
+47,2018-11-13 21:54:00,Queens officials come out against Amazon’s HQ2 in Long Island City - Curbed  ,1,1,0,0,0,2,0.10383506,0.7611102,0.13505477,Neg,-0.65727514,activiststocks
+49,2018-11-06 15:22:05,Amazon employees hope to confront Jeff Bezos about law enforcement deals at an all-staff meeting - Recode  ,0,1,0,0,0,0,0.036662817,0.068925425,0.89441174,Neu,-0.03226261,activiststocks
+50,2018-11-06 13:17:02,"""Warren Buffett sends ’strong signal’ to market with Berkshire Hathaway’s $1 billion buyback - CNBC""   ",1,1,0,0,0,1,0.7729765,0.010305208,0.21671823,Pos,0.7626713,activiststocks
+52,2018-11-05 23:05:02,"""Amazon Plans to Split HQ2 Evenly Between Two Cities - Wall Street Journal""   ",0,1,0,0,0,0,0.08772891,0.012552934,0.89971817,Neu,0.07517598,activiststocks
+54,2018-11-04 17:15:03,"""Peter Thiel thinks the next Google won’t come from Silicon Valley - Quartz""   ",1,1,0,0,1,1,0.05499081,0.020918583,0.9240906,Neu,0.034072228,activiststocks
+58,2018-11-01 16:17:02,"""Google wants to improve your smart home with iRobot’s room maps - The Verge""   ",0,1,0,0,0,0,0.6652581,0.008386391,0.32635546,Pos,0.65687174,activiststocks
+60,2018-10-27 12:52:00,Qualcomm says Apple $7 billion behind in royalty payments - Reuters  ,0,1,0,0,0,2,0.09601338,0.05691205,0.84707457,Neu,0.039101332,activiststocks
+61,2018-10-25 03:14:04,"""Dow plunges more than 600 points in another day of losses, officially wiping out its 2018 gains - Washington Post""   ",0,1,0,0,1,0,0.017960262,0.91971314,0.062326584,Neg,-0.9017529,activiststocks
+64,2018-10-06 18:12:03,The First Rule of Microsoft Excel—Don’t Tell Anyone You’re Good at It - Wall Street Journal  ,0,1,0,0,1,3,0.03833405,0.03367129,0.92799467,Neu,0.0046627596,activiststocks
+65,2018-10-03 21:26:04,Some Amazon employees say they will make less after the raise - Yahoo  ,0,1,1,0,0,0,0.025992893,0.6932552,0.280752,Neg,-0.6672623,activiststocks
+66,2018-10-03 21:06:03,Apple’s Tim Cook: ’Don’t believe’ tech companies that say they need your data - CNBC  ,1,1,0,0,0,0,0.041556012,0.047228232,0.9112158,Neu,-0.00567222,activiststocks
+67,2018-10-03 18:29:05,"""Sen. Sanders wants to break up JP Morgan, Berkshire Hathaway and other large financials - CNBC""   ",0,1,0,0,0,0,0.043570127,0.017866038,0.9385639,Neu,0.02570409,activiststocks
+68,2018-10-03 18:27:00,"""Paper Towels On Amazon Surge To $2,000 A Roll After Crippling Cost Increase Of Paying Workers A Living Wage - The Onion""   ",0,1,0,0,0,0,0.88354725,0.064594336,0.05185839,Pos,0.8189529,activiststocks
+70,2018-09-27 02:39:00,"""Introducing Amazon 4-star -     ",0,1,0,0,0,0,0.10177263,0.010638914,0.88758844,Neu,0.09113371,activiststocks
+72,2018-09-21 09:31:00,Former Google CEO predicts the internet will split in two by 2028 - CNBC  ,0,1,1,0,0,0,0.03546143,0.049806613,0.914732,Neu,-0.014345184,activiststocks
+73,2018-09-13 17:34:03,"""Google’s introverted cofounder has mysteriously disappeared from public life and is reportedly spending more time on his private Caribbean island - Business Insider""   ",1,1,0,0,2,1,0.021148102,0.44560438,0.53324753,Neu,-0.42445627,activiststocks
+74,2018-09-12 20:45:04,"""Inbox, Google’s playground for email innovation, is going bye-bye - Fast Company""   ",0,1,0,0,1,1,0.4474281,0.012585944,0.539986,Neu,0.43484217,activiststocks
+75,2018-09-10 13:58:04,"""Why It’s So Hard to Be a Working Mom. Even at Facebook. - Wired""   ",1,1,0,0,0,0,0.036475178,0.10010008,0.8634247,Neu,-0.0636249,activiststocks
+78,2018-09-05 04:11:04,Bezos Unbound: Exclusive Interview With The Amazon Founder On What He Plans To Conquer Next - Forbes  ,0,1,0,0,1,1,0.065194406,0.014871604,0.91993403,Neu,0.0503228,activiststocks
+80,2018-08-30 10:32:04,"Amazon, in a rare political response, calls Bernie Sanders’ claims of poor worker conditions ’inaccurate and misleading’ - CNBC  ",0,1,0,0,0,1,0.017942734,0.9002874,0.08176984,Neg,-0.88234466,activiststocks
+81,2018-08-28 17:20:02,Top Facebook communications exec Rachel Whetstone is departing for Netflix - Recode  ,0,1,0,0,0,0,0.019133497,0.30073476,0.6801318,Neu,-0.28160125,activiststocks
+82,2018-08-28 17:17:04,Trump Accuses Google of Rigging Search Results Against Him - Bloomberg  ,0,1,0,0,0,2,0.02634566,0.71378434,0.25986993,Neg,-0.68743867,activiststocks
+83,2018-08-18 00:58:04,"""Google Executives Misled Staff in Meeting on China Censorship. Here Are 13 Questions They Must Answer. - The Intercept""   ",0,1,0,0,0,0,0.019010022,0.4292002,0.55178976,Neu,-0.41019017,activiststocks
+86,2018-08-06 03:34:04,Cities’ Offers for Amazon Base Are Secrets Even to Many City Leaders - New York Times  ,0,1,0,0,0,1,0.056367684,0.030401757,0.91323054,Neu,0.025965927,activiststocks
+91,2018-06-19 17:54:04,"""Google Is Training Machines to Predict When a Patient Will Die - Bloomberg""   ",0,1,0,0,0,0,0.059757918,0.026006266,0.9142358,Neu,0.03375165,activiststocks
+94,2018-06-15 12:41:04,Apple Is Close to a Deal for an Animated Movie - Bloomberg  ,0,1,0,0,0,0,0.27120256,0.011319744,0.7174776,Neu,0.2598828,activiststocks
+95,2018-06-14 18:47:04,"""Microsoft takes aim at Amazon with push for... - Reuters""   ",0,1,0,0,0,1,0.12322739,0.01335671,0.8634159,Neu,0.10987068,activiststocks
+97,2018-06-12 19:41:05,"""Seattle to repeal homeless-aid tax after Amazon objects - Associated Press""   ",0,1,0,0,0,0,0.18353209,0.024778249,0.7916897,Neu,0.15875384,activiststocks
+98,2018-06-11 00:50:01,Inventor says Google is patenting work he put in the public domain - Ars Technica  ,1,1,0,0,0,0,0.049921546,0.014772858,0.9353056,Neu,0.035148688,activiststocks
+101,2018-05-20 17:30:04,"""Trump personally ordered the postmaster general to double Amazon’s shipping rates: report - Raw Story""   ",1,1,0,0,0,0,0.23457009,0.01803067,0.74739933,Neu,0.21653941,activiststocks
+102,2018-05-20 17:25:00,"""Germany Acts to Tame Facebook, Learning From Its Own History of Hate - New York Times""   ",0,1,0,0,0,0,0.12146713,0.025047882,0.853485,Neu,0.096419245,activiststocks
+104,2018-05-13 17:56:04,"""Apple made more profit in three months than Amazon has generated during its lifetime - CNBC""   ",1,1,0,0,0,0,0.47157025,0.024912743,0.503517,Neu,0.4466575,activiststocks
+105,2018-05-11 16:56:01,Apple Plans to Sell Video Subscriptions Through TV App - Bloomberg  ,0,1,0,0,0,0,0.111189336,0.007662508,0.88114816,Neu,0.10352683,activiststocks
+106,2018-05-08 16:37:04,The 13 Best Warren Buffett Quotes from the Berkshire Hathaway Meeting - Fortune  ,0,1,0,0,1,1,0.037337188,0.03212473,0.93053806,Neu,0.005212456,activiststocks
+108,2018-05-03 05:37:03,"Amazon Launches Own Pet Product Brand, Wag; Starts With Food - Bloomberg  ",0,1,0,0,1,1,0.1723302,0.009761358,0.81790847,Neu,0.16256884,activiststocks
+110,2018-05-02 00:33:00,"""Facebook Plans a Dating Feature, Sending Match, IAC Plunging - Bloomberg""   ",0,1,0,0,0,0,0.07232732,0.013222713,0.91445,Neu,0.05910461,activiststocks
+111,2018-05-01 02:22:01,Jeff Gundlach Says It’s Time to Go Short on Facebook - Bloomberg  ,1,1,0,0,0,0,0.034662038,0.1094768,0.8558611,Neu,-0.07481476,activiststocks
+113,2018-04-23 16:50:01,Amazon Has a Top-Secret Plan to Build Home Robots - Bloomberg  ,0,1,0,0,0,0,0.056851927,0.015326425,0.92782164,Neu,0.0415255,activiststocks
+114,2018-04-23 14:00:04,"""Amazon’s Typical Worker Is in a Warehouse Making $28,446 a Year - Wall Street Journal""   ",1,1,0,0,0,0,0.050089717,0.09350317,0.8564071,Neu,-0.043413453,activiststocks
+118,2018-04-17 15:10:03,"Amazon has shelved a plan to sell drugs to hospitals, and insiders say there are two reasons why - CNBC  ",1,1,0,0,0,0,0.04039998,0.37795728,0.5816427,Neu,-0.33755732,activiststocks
+119,2018-04-11 11:50:05,Facebook’s boy billionaire leaves the tough stuff to the grown-ups - Washington Post  ,1,1,0,0,0,0,0.03406022,0.04172964,0.92421013,Neu,-0.007669419,activiststocks
+122,2018-04-10 12:20:05,YouTube and Facebook Are Losing Creators to Blockchain-Powered Rivals - Bloomberg  ,0,1,0,0,0,0,0.015996933,0.9330177,0.05098537,Neg,-0.91702074,activiststocks
