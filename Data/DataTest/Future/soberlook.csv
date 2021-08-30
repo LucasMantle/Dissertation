@@ -1,3 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-16,2020-12-04 10:13:00,"Given the current S&P 500 valuations, what returns should we expect over the next decade?     Source:    ",1,1,1,4,22,69,0.051895536,0.022517806,0.9255867,Neu,0.02937773,soberlook
-42,2018-06-23 20:42:00,"Chart(   Either US financial conditions will ease (dollar to weaken, etc.) or the S&P 500 needs a downward adjustment -  ",0,1,1,8,64,78,0.10011249,0.7808172,0.11907023,Neg,-0.6807047,soberlook

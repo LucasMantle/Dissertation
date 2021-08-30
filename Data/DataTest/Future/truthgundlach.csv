@@ -1,4 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-0,2021-03-04 04:47:05,The price of gold is down 11% over the past twelve months.  The S&P 500 is up 27% over the past twelve months.  Bitcoin is up 467% over the past twelve months. Great dispersions often precede great reversions. We shall see.,0,1,1,270,786,5245,0.0878217,0.8476959,0.06448233,Neg,-0.75987417,truthgundlach
-2,2020-03-25 01:58:04,I can see the S&P 500 making it to around 2700 on this snap back.,0,1,1,271,287,1831,0.67399675,0.037495237,0.288508,Pos,0.6365015,truthgundlach
-12,2018-04-23 22:57:04,Guy on stage after me at Sohn 2day told me he’s short FB since Jan. Then on TV he said he disagrees with the short call. Both can’t be true.,1,1,1,76,94,576,0.024074614,0.63362145,0.342304,Neg,-0.60954684,truthgundlach

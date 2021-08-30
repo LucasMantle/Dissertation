@@ -1,3 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-0,2017-05-23 14:27:01,Today's news events  ,0,0,0,0,0,0,0.029356427,0.05011505,0.92052853,Neu,-0.020758621,breakingmkts
-1,2017-05-20 16:17:04,Hello World!,0,0,0,0,0,0,0.06290386,0.06906834,0.86802775,Neu,-0.0061644837,breakingmkts

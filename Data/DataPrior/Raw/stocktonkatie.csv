@@ -1,2 +1,0 @@
-id,username,created_at,timezone,user_id,tweet,mentions,urls,replies_count,retweets_count,likes_count,hashtags,retweet,source
-852331632849817601,stocktonkatie,2017-04-13 02:24:31 BST,+0100,558291075,"Save The Date –BTIG Charity Day– Tuesday, May 2 #makeacall #makeatrade #makeadifference Follow us @BTIGCharityDay  https://t.co/x0TJILzu8n","[{'screen_name': 'btigcharityday', 'name': 'btig charity day', 'id': '555595199'}]",[],1,0,6,"['makeacall', 'makeatrade', 'makeadifference']",False,

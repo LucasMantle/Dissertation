@@ -1,4 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-4,2020-10-05 03:14:00,That would be yuge for the DOW!,1,0,1,1,0,0,0.10911477,0.07703908,0.8138462,Neu,0.032075696,bergencapital
-8,2019-02-23 01:45:02,Fed will cap treasury yields and target annual returns for the S&P 500.,0,0,1,0,1,2,0.091304824,0.4096883,0.49900687,Neu,-0.31838346,bergencapital
-9,2018-12-17 09:15:02,"Hearing Morgan Stanley’s Mike Wilson saying, last week's lows at 2583 in the S&P 500 should hold. If it doesn’t, look for a fall to 2450.",0,1,1,1,1,5,0.0094771935,0.9510408,0.03948198,Neg,-0.9415636,bergencapital

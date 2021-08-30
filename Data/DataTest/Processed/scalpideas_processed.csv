@@ -1,6 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-0,2020-09-16 14:08:01,"bought $SPOT here at 231, dumb overreaction to Amazon Music podcast news., will see 236-237 at open if market holds.",1,1,1,0,0,0,0.10168471,0.037853513,0.8604618,Neu,0.063831195,scalpideas
-1,2020-08-18 14:05:04,"$SPOT Apple news absolute non-event, expecting stock to open 261 and move higher from there. Remember what $PTON did on supposedly neg Apple news? Rally mode.",1,1,0,1,0,3,0.15227859,0.020450264,0.82727116,Neu,0.13182832,scalpideas
-2,2020-06-30 11:23:05,$AAPL story sounds really bad: 355 in the cards before open?   ,0,1,0,0,0,1,0.026148586,0.49914828,0.47470313,Neg,-0.4729997,scalpideas
-3,2020-06-30 11:21:01,$AAPL digitimes saying iphone12 sales estimates are really bad. expecting stock to fall on this.,0,1,0,0,0,0,0.009070111,0.96450615,0.026423704,Neg,-0.95543605,scalpideas
-4,2019-05-31 13:29:01,"$T $VZ Opco negative on stocks. ""We believe AMZN acquiring Boost would definetly enable the TMUS/Sprint  merger approval. The key will be the wholesale discount that TMUS gives to  AMZN, could bundle this with Prime in disruptive way. We see T and VZ trading down today and S up.",0,1,1,0,0,0,0.032059386,0.9348799,0.03306081,Neg,-0.9028205,scalpideas

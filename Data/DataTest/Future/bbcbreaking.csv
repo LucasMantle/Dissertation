@@ -1,4 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-5,2021-02-23 04:26:00,Australia says Facebook will reverse a decision to block access to news content  ,0,1,1,131,269,976,0.025521914,0.787144,0.18733397,Neg,-0.7616221,bbcbreaking
-20,2018-09-28 18:08:05,"50 million Facebook accounts compromised, the social network says - in all, 90m accounts will have to take action  ",1,1,1,283,2408,1663,0.012875928,0.82755375,0.15957023,Neg,-0.81467783,bbcbreaking
-27,2018-06-01 22:10:00,"Visa says cardholders should now be able to use their cards, with systems operating at ""close to normal"" levels, blaming earlier disruption on ""hardware failure""  ",0,1,1,110,285,447,0.05806496,0.91225904,0.029675972,Neg,-0.8541941,bbcbreaking

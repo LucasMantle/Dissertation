@@ -1,5 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-2,2018-02-02 22:47:05,"I’ll be co-hosting Bloomberg Surveillance at 6:00am on Monday morning with one of the truly great financial journalists in the business, Tom Keene.",0,1,0,1,0,6,0.097517535,0.010800329,0.8916822,Neu,0.0867172,verrone_chris
-3,2018-01-31 16:12:01,"Perspective... sometimes we forget that markets can pause, consolidate, or correct all within the context of a healthy advance.  ",0,1,1,2,0,6,0.07859744,0.18872346,0.7326791,Neu,-0.11012602,verrone_chris
-4,2018-01-29 19:25:02,Important chart ... German yields breaking out. Notable change to the macro backdrop underway.  ,0,1,0,0,0,1,0.6758916,0.030018745,0.29408967,Pos,0.64587283,verrone_chris
-6,2018-01-24 12:45:00,More than 40% of Consumer Discretionary names trading above their average analyst price target.  The sell-side is behind the curve and needs to upgrade the stocks - bullish backdrop.  ,0,1,0,0,0,3,0.33542117,0.39240074,0.27217808,Neg,-0.056979567,verrone_chris

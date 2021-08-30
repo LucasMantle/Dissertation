@@ -1,4 +1,0 @@
-,date,tweet,past_tense,present_tense,future_tense,replies_count,retweets_count,likes_count,pos_score,neg_score,neutral_score,sentiment,Sentiment_Score,user
-0,2021-02-03 20:02:03,"CEO of Amazon Web Services business Andrew Jassy will take over as Amazon CEO from founder Jeff Bezos, dimming the prospects of a spinoff.    ",0,1,1,0,1,0,0.016043196,0.85973096,0.1242259,Neg,-0.8436878,gfmag
-6,2019-07-24 19:00:01,"Facing regulatory hurdles in the U.S. and China, the best bet for Facebook's Libra may be in Latin America.    ",0,1,1,1,0,0,0.49567798,0.009448057,0.49487394,Pos,0.48622993,gfmag
-7,2019-01-04 18:42:03," Hi Flavio, you can message us directly via our Facebook page and we can start a non-public dialogue there.",0,0,1,0,0,0,0.07152042,0.013388953,0.9150906,Neu,0.058131464,gfmag
