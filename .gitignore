@@ -11,3 +11,7 @@ __pycache__
 Results
 Plots_Prior_Sentiment
 Plots_ModelOverfitting
+PlotsForDiss
+DissFiles
+*.ipynb
+*.csv

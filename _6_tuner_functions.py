@@ -37,7 +37,7 @@ def build_model(hp):
         model.add(Dense(units=hp.Choice('layer_' + str(j) + '_width', [4, 8, 16, 32, 64, 128, 256]),
                         kernel_initializer=hp.Choice('kernel_' + str(j), ['glorot_uniform', 'glorot_normal']),
                         activation=hp.Choice('activation_' + str(j), ['relu', 'tanh']),
-                        kernel_regularizer=tf.keras.regularizers.l1(hp.Choice('learning_rate' + str(j), [1.0,0.1, 0.01, 0.001]))))
+                        kernel_regularizer=tf.keras.regularizers.l1(hp.Choice('xlearning_rate' + str(j), [1.0,0.1, 0.01, 0.001]))))
         model.add(BatchNormalization())
         model.add(Dropout(rate=hp.Choice('dropout_' + str(j), [0.0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9])))
 
