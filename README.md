@@ -33,6 +33,24 @@ Breaking down all relevant files:
         wrangling of the data. Parts 5 and 6 do the tuning of ANNs and LSTMs, 
         respectively. Part 7 just outputs the obtained results.
         
+        Part 8_runner.py provides a python file to run multiple .py files at once. 
+        
+        The order of the .py are as follows:
+        
+        0_clear_dir.py
+        1_collection.py
+        1_collection_test.py
+        1A_tweet_data_collection_process.py
+        1B_user_checker.py
+        1C_follower_graph_process.py
+        2_distributions.py
+        3A_with_fg.py
+        3A_without_fg.py
+        4_cleaning.py
+        5_tuning.py
+        6_tuning.py
+        7_results.py
+        
     requirements.txt: 
         
         This provides the librarires used. 'pip install -r requirements.txt' will
@@ -51,8 +69,8 @@ To solve this issue, from parts 0-5, uninstall pandas and numpy and install them
 this should get the latest versions.
 However, when running part 6, run 'pip install numpy==1.19.5'. 
 
-The best way to run this code is to uncomment files 0-4 in 8_runner.py, ensuring
+The best way to run this code is run files 0-4, ensuring
 all libraries dependencies have been modified (mentioned above). This will
-ensure all the data has been collected, processed and wrangled. 
-Then running (uncommenting) parts 5 and 6 separately will tune the models for each type 
+ensure all the data is collected, processed and wrangled. 
+Then running parts 5 and 6 separately will tune the models for each type 
 of data input. Running part 7 will output the results obtained. 
