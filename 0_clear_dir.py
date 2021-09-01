@@ -3,15 +3,21 @@ import shutil
 import numpy as np
 
 try:
-    shutil.rmtree('Data/Test')
+    shutil.rmtree('Data')
+    shutil.rmtree('Results')
+    shutil.rmtree('Models')
+    shutil.rmtree('Plots_Prior_Sentiment')
 except:
     pass
 
-# os.mkdir('Data')
+os.mkdir('Data')
+os.mkdir('Results')
+os.mkdir('Models')
+os.mkdir('Plots_Prior_Sentiment')
 
-# os.mkdir('Data/DataPrior')
+os.mkdir('Data/DataPrior')
 os.mkdir('Data/DataTest')
-# os.mkdir('Data/Cleaned')
+os.mkdir('Data/Cleaned')
 
 for dir in ['Data/DataTest']:
     #'Data/DataPrior'

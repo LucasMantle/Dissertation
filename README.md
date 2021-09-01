@@ -36,7 +36,8 @@ Breaking down all relevant files:
     requirements.txt: 
         
         This provides the librarires used. 'pip install -r requirements.txt' will
-        install all required libraries. 
+        install all required libraries. You may need to install twint separately.
+        This can be done by cloning their github.
 
 In-order to run the code end-to-end, 8_runner.py can be run. You need to 
 edit (uncomment) the specific files you want to run. 
@@ -50,5 +51,8 @@ To solve this issue, from parts 0-5, uninstall pandas and numpy and install them
 this should get the latest versions.
 However, when running part 6, run 'pip install numpy==1.19.5'. 
 
-The best way to run this code is to uncomment files 0-4 in 8_runner.py. 
-This will get all the data ready for tuning. 
+The best way to run this code is to uncomment files 0-4 in 8_runner.py, ensuring
+all libraries dependencies have been modified (mentioned above). This will
+ensure all the data has been collected, processed and wrangled. 
+Then running (uncommenting) parts 5 and 6 separately will tune the models for each type 
+of data input. Running part 7 will output the results obtained. 
