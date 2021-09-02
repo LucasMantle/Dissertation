@@ -58,13 +58,14 @@ Breaking down all relevant files:
         This can be done by cloning their github.
 
 In-order to run the code end-to-end, 8_runner.py can be run. You need to 
-edit (uncomment) the specific files you want to run. 
+edit (uncomment) the specific files. OR run the files run files individually
+through the terminal.
 
 If you would like to adjust the dates of tweet scraping, these can be found
 in both 1_collection.py and 1_collection_test.py
 
-There may be some issues when running some files as they require different 
-versions of pandas and numpy. 
+There may be some issues with imports due to files requiring different versions
+of numpy and pandas.
 To solve this issue, from parts 0-5, uninstall pandas and numpy and install them - 
 this should get the latest versions.
 However, when running part 6, run 'pip install numpy==1.19.5'. 
