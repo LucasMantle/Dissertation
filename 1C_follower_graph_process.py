@@ -28,7 +28,7 @@ print(combinations)
 for source, target in combinations:
     print(source, target, '----')
     friendship = api.show_friendship(source_screen_name=source, target_screen_name=target)
-    ## Source follows target
+    # Source follows target
     if friendship[0].following:
         follower_graph[source][target] = 1
     # Target follows source
